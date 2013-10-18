@@ -1,0 +1,82 @@
+a:link,
+a:active,
+a:visited {
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+em {
+  font-style: italic;
+}
+
+h1 {
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h2 {
+  border-bottom: 1px solid @purpleLight;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding-top: 10px;
+}
+
+h3 {
+  border-bottom: 1px dotted @purpleLight;
+  color: @graydark;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding-top: 10px;
+}
+
+h4 {
+  font-size: 15px;
+  line-height: 15px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding-top: 5px;
+  color: @graydark;
+}
+
+
+ol>li {
+  list-style-image: none !important;
+  list-style-type: decimal;
+}
+li {
+  list-style-image: url('@{image-path}bullet.gif');
+  list-style-position: outside;
+}
+ul.dropdown-menu li{
+  list-style: none;
+}
+
+p,
+table {
+  margin-bottom: 20px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+sub {
+  vertical-align: sub;
+  font-size: 80%;
+}
+sup {
+  vertical-align: super;
+  font-size: 80%
+}
+small {
+  font-size: 10px;
+}

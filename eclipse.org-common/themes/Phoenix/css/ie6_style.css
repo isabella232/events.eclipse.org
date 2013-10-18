@@ -1,0 +1,12 @@
+#midcolumnwide {
+	float:none;
+	padding-bottom:100px;
+}
+
+#rightcolumnwide {
+	float:left;
+	position:absolute;
+	right:0px;
+	top:125px;
+	margin-right: 3px;
+}

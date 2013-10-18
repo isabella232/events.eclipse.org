@@ -1,0 +1,206 @@
+/* General Rules */
+body {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+img { border-width: 0; }
+ul, li { margin: 0; padding: 0; }
+
+.clearer {
+	visibility: hidden;
+	clear: both;
+}
+
+h1 {
+	padding-left: 20px;
+	position: relative;
+}
+
+/* Header Rules */
+#header {
+	height: 71px;
+	position: relative;
+	width: 100%;
+}
+#header img {
+	display: block;
+}
+#searchbar {
+	height: 71px;
+	left: 128px;
+	position: absolute;
+	top: 0;
+}
+#searchbar form {
+	float: right;
+	margin: 15px 30px 0 0;
+	padding: 0;
+}
+#searchbar input {
+	border-width: 1px;
+	height: 15px;
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+}
+#searchbar input.button {
+	height: auto;
+	margin: 0;
+	padding: 0 4px;
+}
+#headernav {
+	top: 15px;
+	left: 220px;
+	position: absolute;
+}
+#headernav li {
+	border-width: 0 0 0 1px;
+	float: left;
+	padding: 0 6px;
+}
+#headernav li.first {
+	border-width: 0;
+}
+
+/* Top Navigation Rules */
+#topnav {
+	bottom: 4px;
+	height: 22px;
+	left: 206px;
+	padding-left: 1px;
+	position: absolute;
+}
+#topnav li {
+	float: left;
+	height: 22px;
+	padding: 0 1px 0 0;
+}
+
+#topnav a {
+	display: block;
+	padding: 0 7px;
+}
+
+/* Left Column Rules */
+#leftcol {
+	float: left;
+	margin-top: 20px;
+	width: 15%;
+}
+#leftcol .sideitem {
+	margin-bottom: 15px;
+}
+#leftcol .sideitem h3 {
+	padding: 0 15px;
+	margin: 0;
+}
+#leftcol .sideitem ul {
+	margin: 0;
+	padding: 0;
+}
+#leftcol .sideitem li {
+	margin: 0;
+	padding: 3px 5px 3px 20px;
+}
+#leftcol #leftnav li {
+	padding: 5px 5px 5px 20px;
+}
+
+/* Main Content Rules */
+#midcolumn {
+	float: left;
+	margin-left: 2%;
+	margin-top: 20px;
+	width: 60%;
+}
+.midlist {
+	margin: 10px 0 10px 25px;
+}
+/*  #maincontent .colset {
+	border-top: 1px dotted #000;
+}
+#maincontent .colset .col1, #maincontent .colset .col2 {
+	display: inline;
+	float: left;
+	margin: 0 1%;
+	width: 47%;
+}  */
+
+.homeitem {
+	border-bottom: 1px dotted #000;
+	margin: 10px 0 10px 1%;
+	padding-bottom: 10px;
+	width: 47%;
+	float: left;
+}
+.homeitem li {
+	list-style: none;
+	margin: 7px 0;
+}
+
+.homeitem3col {
+	border-bottom: 1px dotted #000;
+	margin: 10px 0;
+	padding-bottom: 10px;
+	clear: both;
+	width: 100%;
+}
+.homeitem3col li {
+	list-style: none;
+	margin: 7px 0;
+}
+
+
+
+
+/* Right Column Rules */
+#rightcolumn {
+	float: right;
+	width: 17%;
+	margin-top: 20px;
+}
+#rightcolumn .sideitem {
+	margin: 5px 1% 20px 0;
+}
+#rightcolumn .sideitem h6 {
+	margin: 0 0 8px 0;
+	padding: 0 0 0 10px;
+}
+#rightcolumn .sideitem li {
+	list-style: none;
+}
+body.threecol #rightcolumn {
+	display: block;
+}
+
+/* Footer Rules */
+#footer {
+	border-width: 1px 0 0 0;
+	clear: both;
+	height: 18px;
+	position: relative;
+}
+#footer p {
+	margin: 0 20px 0 0;
+	padding: 0;
+}
+#footernav {
+	float: left;
+	margin: 4px 0 4px 6px;
+	padding: 0;
+}
+#footernav li {
+	border-width: 0 0 0 1px;
+	float: left;
+	padding: 0 10px;
+}
+#footernav li.first {
+	border-width: 0;
+}
+
+.bold {
+	font-weight: bold;
+}
+

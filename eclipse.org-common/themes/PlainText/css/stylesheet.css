@@ -1,0 +1,236 @@
+<STYLE TYPE="text/css">
+
+	body {
+		background-color: 	#ffffff;
+		
+	}
+
+	A	{ 
+		text-decoration: 	underline; 
+		color: 				#333399; 
+	}
+	A:Hover	{ 
+		text-decoration: 	underline; 
+		color: 				#660000; 
+	}
+	
+	#NSFix	{ 
+		background-color: 	#000000; 
+	}
+
+
+  	.menu	 {
+		background-color: 	#ffffff;
+	}
+  	.menu_separator	 {
+	}
+  	.menu_border	 {
+		background-color: 	#ffffff;
+	}
+  	.row_separator	 {
+	}
+
+
+  	.menu_item	 {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			8pt;
+		color: 				#666666;
+		text-decoration:	none;
+		font-weight:		normal;
+	}
+  	.menu_item:Hover	 {
+		font-family: 		verdana, arial, tahoma;
+		text-decoration: 	underline;
+		font-size: 			8pt;
+		color: 				#000000;
+		font-weight:		normal;
+	}
+
+  	.nav	 {
+		background-color: 	#ffffff;
+	}
+  	.nav_item	 {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			8pt;
+		color: 				#666666;
+		text-decoration:	none;
+	}
+  	.nav_item:Hover	 {
+		font-family: 		verdana, arial, tahoma;
+		text-decoration: 	none;
+		font-size: 			8pt;
+		color: 				#000000;
+		background-color:	#fafafa;
+	}
+  	.nav_separator	 {
+	}
+
+
+  	.box_background	 {
+		background-color:	#f0f0f0;
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			8pt;
+		color: 				#000000;
+
+	}
+
+	
+  	.normal {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			8pt;
+		color: 				#000000;
+	}
+  	.small {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			7pt;
+		color: 				#000000;
+	}
+  	.small-white {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			7pt;
+		color: 				#ffffff;
+	}
+
+  	.error {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			10pt;
+		color: 				#990000;
+		font-weight:		bold;
+	}
+  	.confirmation {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			10pt;
+		color: 				#000066;
+		font-weight:		bold;
+	}
+  	.app_title {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			11pt;
+		font-weight: 		bold;
+		color: 				#003366;
+	}
+  	.large_title {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			11pt;
+		font-weight: 		bold;
+		color: 				#003366;
+	}
+  	.title {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			11pt;
+		font-weight: 		bold;
+		color: 				#999966;
+	}
+  	.red {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			10pt;
+		color: 				#ff0000;
+	}
+	.yellow {
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			10pt;
+		color: 				#f0f0a0;
+	}
+	
+
+	
+	.filter_form {
+		background-color:	#eeeecc;
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			8pt;
+		font-weight:		normal;
+		color: 				#000000;
+	}
+
+	
+	.rect_border {
+		background-color:	#6699CC;
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			10pt;
+		font-weight:		bold;
+		color: 				#000000;		
+	}
+
+	.rect_header {
+		background-color:	#006699;
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			10pt;
+		font-weight:		bold;
+		color: 				#f0f0a0;
+		background-image:	url('../images/gradient.jpg');
+		background-repeat:	repeat-y;
+	}
+
+	.white_back {
+		background-color:	#ffffff;
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			8pt;
+		color: 				#000000;
+	}
+
+	.blue_header {
+		background-color:	#90C8FF;
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			10pt;
+		color: 				#FFFFFF;
+		font-weight:		bold;
+	}
+	.yellow_header {
+		background-color:	#eeeecc;
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			10pt;
+		color: 				#FFFFFF;
+		font-weight:		bold;
+	}
+
+	.black {
+		background-color:	#000000;
+		font-family: 		verdana, arial, tahoma;
+		font-size: 			10pt;
+		color: 				#ffffff;
+		font-weight:		bold;
+	}
+
+
+	.inputInvalid
+	{
+		BORDER-TOP:		#990000 2px solid;
+		BORDER-LEFT:	#990000 2px solid;
+		BORDER-RIGHT:	#990000 2px solid;
+		BORDER-BOTTOM:	#990000 2px solid;
+	}
+	
+	.inputInvisible
+	{
+		BORDER-TOP:		#990000 0px solid;
+		BORDER-LEFT:	#990000 0px solid;
+		BORDER-RIGHT:	#990000 0px solid;
+		BORDER-BOTTOM:	#990000 0px solid;
+	}
+	
+	
+	.selectInvalid
+	{
+		BACKGROUND-COLOR:	#990000;
+		COLOR:				#FFFFFF;
+	}
+	
+	.list_header {
+		font-weight: 		bold;
+		font-size:			10pt;
+		background-color: 	#99ccff;
+	}
+	.list_column_header {
+		font-weight: 		bold;
+		font-size:			8pt;
+		background-color: 	#c0c0c0;
+	}
+	.data0 {
+		background-color: 	#ffffff;
+	}
+	.data1 {
+		background-color: 	#f0f0f0;
+	}
+
+</style>
+

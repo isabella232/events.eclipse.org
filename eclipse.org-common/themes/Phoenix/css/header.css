@@ -1,0 +1,223 @@
+#header {
+background:#FFFFFF url(/eclipse.org-common/themes/Phoenix/images/header_bg.jpg) repeat-x scroll 0%;
+height:70px;
+margin:0px;
+padding:0px;
+}
+
+#header .eclipse-main {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/eclipse_home_header.jpg) no-repeat scroll 0%;
+width:131px;
+}
+#header .bugs {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/bugs_header.jpg) no-repeat scroll 0%;
+width:240px;
+}
+#header .eclipsecon {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/eclipsecon_header.jpg) no-repeat scroll 0%;
+width:236px;
+}
+#header .ipzilla {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/ipzilla_header.jpg) no-repeat scroll 0%;
+width:356px;
+}
+#header .babel {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/babel_header.jpg) no-repeat scroll 0%;
+width:356px;
+}
+#header .planet {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/planet_header.jpg) no-repeat scroll 0%;
+width:336px;
+}
+#header .plugin-central {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/plugin_central_header.jpg) no-repeat scroll 0%;
+width:400px;
+}
+#header .wiki {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/wiki_header.jpg) no-repeat scroll 0%;
+width:240px;
+}
+#header-graphic {
+height:68px;
+left:0pt;
+position:absolute;
+top:0pt;
+}
+#header .eclipse-main {
+width:131px;
+}
+#header-graphic h1 {
+text-indent:-9999px;
+display:none;
+}
+#header-global-holder {
+height:68px;
+position:absolute;
+right:0pt;
+top:0pt;
+}
+#header .eclipse-main-global {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/eclipse_home_bg.jpg) no-repeat scroll 0%;
+width:395px;
+}
+#header .bugs-global {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/bugs_bg.jpg) no-repeat scroll 0%;
+width:442px;
+}
+#header .eclipsecon-global {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/eclipsecon_bg.jpg) no-repeat scroll 0%;
+width:313px;
+}
+#header .ipzilla-global {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/ipzilla_bg.jpg) no-repeat scroll 0%;
+width:518px;
+}
+#header .babel-global {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/babel_bg.jpg) no-repeat scroll 0%;
+width:518px;
+}
+#header .planet-global {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/planet_bg.jpg) no-repeat scroll 0%;
+width:462px;
+}
+#header .plugin-central-global {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/plugin_central_bg.jpg) no-repeat scroll 0%;
+width:417px;
+}
+#header .wiki-global {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/wiki_bg.jpg) no-repeat scroll 0%;
+width:466px;
+}
+#header-global-links {
+height:26px;
+position:absolute;
+right:0pt;
+top:0pt;
+width:335px;
+}
+#header-global-links ul {
+margin:0pt;
+padding:4px 15px 0pt 0pt;
+text-align:right;
+}
+#header-global-links ul li {
+display:inline;
+}
+#header-global-links ul li a {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/global_links_divider.gif) no-repeat scroll 0%;
+border-color:#FFFFFF;
+border-width:0px;
+color:#333366;
+padding:0pt 5px 0pt 10px;
+text-decoration:none;
+text-transform:uppercase;
+}
+#header-global-links ul li a:link, #header-global-links ul li a:visited {
+}
+#header-global-links ul li a:hover {
+text-decoration:underline;
+}
+#header-icons {
+padding:0pt 20px 0pt 0pt;
+position:absolute;
+right:0pt;
+top:33px;
+}
+#header-icons img {
+display:inline;
+margin:0pt 0pt 0pt 2px;
+}
+#header-eclipsecon-info {
+}
+#header-eclipsecon-info h2 {
+text-indent:-9999px;
+}
+#header-eclipsecon-info h3 {
+text-indent:-9999px;
+}
+#header-nav {
+float:left;
+white-space:nowrap;
+}
+#header-nav ul {
+margin:0pt;
+padding:7px 0pt 0pt;
+}
+#header-nav ul li {
+color:#2E2C51;
+display:inline;
+}
+#header-nav ul li a {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/nav_divider.gif) no-repeat scroll left center;
+border-color:#FFFFFF;
+border-width:0px;
+color:#2E2C51;
+padding:0pt 5px 0pt 10px;
+text-decoration:none;
+text-transform:uppercase;
+}
+#header-nav ul li a:link, #header-nav ul li a:visited {
+}
+#header-nav ul li a:hover {
+text-decoration:underline;
+}
+#header a.first_one {
+background:transparent none repeat scroll 0%;
+}
+#header-menu {
+background:#FFFFFF url(/eclipse.org-common/themes/Phoenix/images/menu_bg.jpg) repeat-x scroll 0%;
+height:33px;
+margin:0px;
+padding:0px;	
+clear:both;
+}
+#header-utils {
+margin:0pt;
+margin-top:5px;
+float:right;
+white-space:nowrap;
+position:relative;
+z-index:20;
+}
+#header-utils form {
+float:left;
+padding:0pt 15px 0pt 0pt;
+}
+#header-utils form input.input, #header-utils form input.button {
+vertical-align:middle;
+}
+#header-utils form input.input {
+width:120px;
+}
+#header-utils ul {
+float:left;
+margin-top:4px;
+}
+#header-utils ul li {
+background:transparent url(/eclipse.org-common/themes/Phoenix/images/util_links_divider.gif) no-repeat scroll left center;
+float:left;
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+padding:0pt 15px 0pt 20px;
+}
+#header-utils ul li.rss_feed {
+padding-bottom:0px;
+
+}
+#header-global-links ul li a {
+font-size:0.8em;
+}
+#header-nav ul li a {
+font-size:0.8em;
+}
+
+#header-utils ul li.text_size a {
+	color:#2E2C51;
+}
+#header-utils ul li.text_size a.smallText {
+font-size:80% !important;
+}
+#header-utils ul li.text_size a.largeText {
+font-size:120% !important;
+}
