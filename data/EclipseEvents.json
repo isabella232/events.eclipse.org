@@ -1,0 +1,432 @@
+
+{
+	"events":[
+	
+		{
+			"type":"dc",
+			"title":"DemoCamp Vancouver",
+			"date":"Nov 6, 2013",
+			"time":"5:30pm",
+			"locationName":"Tasktop Offices",
+			"registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Vancouver",
+			"infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Vancouver",
+			"description":"After the success Eclipse Hackathons over the past 2 years, we will be hosting another hackathon. Yes. Another hackathon. We hope that all attendees will become Eclipse contributors by the end of the evening. Our goal is to provide enough small-ish bugs and feature requests such that all attendees can hack away and come up with a reasonable patch by the end of the evening. Attendees will break out into groups of 2 or 3 and get hands on support from a veteran of the project to help ensure that a patch can be completed.",
+			"address":{
+				"street":"1100-1500 West Georgia Street",
+				"zip":" V6G 2Z6",
+				"city":"Vancouver",
+				"country": "Canada",
+				"geoLoc":{
+					"lat":"49.2899399",
+					"lon":"-123.1303482"
+				}
+			}
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Prague",
+		    "date":"Nov  14, 2013",
+		    "time":"5:45pm - 9:00pm",
+		    "locationName":"Faculty of Mechanical Engineering bulding in ČVUT campus",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Prague",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Prague",
+		    "description":"description",
+		    "address":{
+		        "street":"Technická 4",
+		        "zip":"",
+		        "city":"Praha",
+		        "country": "Czechia",
+		        "geoLoc":{
+		            "lat":"50.1029213",
+		            "lon":"14.3916903"
+		        }
+		    }
+		},
+		{
+			"type":"dc",
+			"title":"DemoCamp Beijing",
+			"date":"Nov 14, 2013",
+			"time":"7:00pm",
+			"locationName":"Funshion Beijing Office, 12th floor, B, Horizon Tower",
+			"registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing_Thursday",
+			"infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing_Thursday",
+			"description":"",
+			"address":{
+				"street":"ZhiChun Road 6",
+				"zip":" ",
+				"city":"Beijing",
+				"country": "China",
+				"geoLoc":{
+					"lat":"39.9764791",
+					"lon":"116.3502529"
+				}
+			}
+		},
+		{
+	        "type":"dc",
+		    "title":"DemoCamp Bonn",
+	        "date":"Nov 18, 2013",
+	        "time":"6:15pm",
+	        "locationName":"Collegium Leoninum Bonn",
+	        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Bonn",
+	        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Bonn",
+	        "description":"DemoCamp Bonn, sponsored by itemis AG. For more information, see infolink.",
+	        "address":{
+	            "street":"Noeggerathstrasse 34",
+	            "zip":"53111",
+	            "city":"Bonn",
+	            "country": "Germany",
+	            "geoLoc":{
+	                "lat":"50.7351958",
+	                "lon":"7.0921992"
+	            }
+	        }
+	    },
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Darmstadt",
+		    "date":"Nov 19, 2013",
+		    "time":"TBD",
+		    "locationName":"Deutsche Telekom AG",
+		    "registration":"http://democamp-darmstadt-2013.eventbrite.com",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Darmstadt",
+		    "description":"Winter DemoCamp Hessen South",
+		    "address":{
+		        "street":"T-Online-Allee 1",
+		        "zip":"64295",
+		        "city":"Darmstadt",
+		        "country": "Germany",
+		        "geoLoc":{
+		            "lat":"49.86471",
+		            "lon":"8.62546"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Karlsruhe",
+		    "date":"Nov 20, 2013",
+		    "time":"17:30",
+		    "locationName":"FZI Forschungszentrum Informatik, House of Living Labs",
+		    "registration":"https://democamp-karlsruhe-2013.eventbrite.com",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Karlsruhe",
+		    "description":"DemoCamp sponsored by Forschungszentrum Karlsruhe",
+		    "address":{
+		        "street":"Haid-und-Neu-Str. 5a",
+		        "zip":"",
+		        "city":"Karlsruhe",
+		        "country": "Germany",
+		        "geoLoc":{
+		            "lat":"49.0120458",
+		            "lon":"8.4246818"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"Eclipse DemoCamp Nieuwegein",
+		    "date":"Nov 20, 2013",
+		    "time":"17:30 - 21:00",
+		    "locationName":"Remain Software Office",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Nieuwegein",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Nieuwegein",
+		    "description":"Once again we will give you the chance to learn more about all interesting technology built by Eclipse community and to share knowledge and experience with other Eclipse enthusiasts from The Benelux",
+		    "address":{
+		        "street":"Dukatenburg 82b",
+		        "zip":"3437",
+		        "city":"Nieuwegein",
+		        "country": "Netherlands",
+		        "geoLoc":{
+		            "lat":"52.0406139",
+		            "lon":"5.0786749"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Vienna",
+		    "date":"Nov 22, 2013",
+		    "time":"15:30 - 22:00",
+		    "locationName":"Conference Center NINETEEN",
+		    "registration":"http://edcvienna.eventbrite.com",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Vienna",
+		    "description":"See wiki page",
+		    "address":{
+		        "street":"Mooslackengasse 17",
+		        "zip":"1190",
+		        "city":"Vienna",
+		        "country": "Austria",
+		        "geoLoc":{
+		            "lat":"48.2499373",
+		            "lon":"16.3653745"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Grenoble",
+		    "date":"Nov 25, 2013",
+		    "time":"all day",
+		    "locationName":"Xerox Research Centre Europe",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Grenoble",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Grenoble",
+		    "description":"Full day Eclipse at Xerox",
+		    "address":{
+		        "street":"6 chemin de Maupertuis",
+		        "zip":"38240",
+		        "city":"Meylan",
+		        "country": "France",
+		        "geoLoc":{
+		            "lat":"45.2173989",
+		            "lon":"5.7921349"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Toronto",
+		    "date":"Nov 26, 2013",
+		    "time":"",
+		    "locationName":"RedHat Toronto",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013",
+		    "description":"description",
+		    "address":{
+		        "street":"90 Eglinton Ave. East",
+		        "zip":"zip",
+		        "city":"Toronto",
+		        "country": "Canada",
+		        "geoLoc":{
+		            "lat":"43.7074836",
+		            "lon":"-79.3955853"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Hamburg",
+		    "date":"Nov 26,2013",
+		    "time":"18:00",
+		    "locationName":"NORDAKADEMIE Graduate School",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Hamburg",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Hamburg",
+		    "description":"This time the DemoCamp will take place at the Dockland Hamburg. We'll be hosted by the NORDAKADEMIE Graduate School again with a stunning view of the river Elbe.",
+		    "address":{
+		        "street":"Van-der-Smissen-Strasse 9",
+		        "zip":"22676",
+		        "city":"Hamburg",
+		        "country": "Germany",
+		        "geoLoc":{
+		            "lat":"53.54331",
+		            "lon":"9.9373"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Toulouse",
+		    "date":"Nov 28, 2013",
+		    "time":"17:30 - 20:30",
+		    "locationName":"TBD",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Toulouse",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Toulouse",
+		    "description":"The first Eclipse Demo Camp after many years!",
+		    "address":{
+		        "street":"",
+		        "zip":"",
+		        "city":"Toulouse",
+		        "country": "France",
+		        "geoLoc":{
+		            "lat":"43.604652",
+		            "lon":"1.444209"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Changsa",
+		    "date":"Nov 30, 2013",
+		    "time":"2:00",
+		    "locationName":"TBD",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Changsha",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Changsha",
+		    "description":"",
+		    "address":{
+		        "street":"street",
+		        "zip":"zip",
+		        "city":"Changsa",
+		        "country": "China",
+		        "geoLoc":{
+		            "lat":"28.228209",
+		            "lon":"112.938814"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Guanzhou",
+		    "date":"Nov 30, 2013",
+		    "time":"2:00",
+		    "locationName":"TBD",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Guangzhou",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Guangzhou",
+		    "description":"",
+		    "address":{
+		        "street":"street",
+		        "zip":"zip",
+		        "city":"Guangzhou",
+		        "country": "China",
+		        "geoLoc":{
+		            "lat":"23.129163",
+		            "lon":"113.264435"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Wuhan",
+		    "date":"Nov 30, 2013",
+		    "time":"2:00",
+		    "locationName":"TBD",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Wuhan",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Wuhan",
+		    "description":"",
+		    "address":{
+		        "street":"street",
+		        "zip":"zip",
+		        "city":"Wuhan",
+		        "country": "China",
+		        "geoLoc":{
+		            "lat":"30.593099",
+		            "lon":"114.305393"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Berlin",
+		    "date":"Dec 2, 2013",
+		    "time":"17:00",
+		    "locationName":"Fraunhofer FOKUS ",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Berlin",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Berlin",
+		    "description":"Following the EclkipseDay Berlin earlier this year, Fraunhofer and SMB are now presenting the Eclipse Demo Camp Berlin",
+		    "address":{
+		        "street":"Kaiserin-Augusta-Allee 31",
+		        "zip":"10589",
+		        "city":"Berlin",
+		        "country": "Germany",
+		        "geoLoc":{
+		            "lat":"52.5259087",
+		            "lon":"13.3142924"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Munich",
+		    "date":"Dec 5, 2013",
+		    "time":"17:00 - 22:00",
+		    "locationName":"EclipseSource Munich ",
+		    "registration":"https://www.eventbrite.de/event/8530463847?utm_source=eb_email&utm_medium=email&utm_campaign=order_confirm&utm_term=eventname&ref=eemailordconf",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Munich",
+		    "description":"Winter Demo Camp Munich produced by EclipseSource, alternating with Siemens AG",
+		    "address":{
+		        "street":"1 Agnes-Pockels-Bogen",
+		        "zip":"80992",
+		        "city":"Munich",
+		        "country": "Germany",
+		        "geoLoc":{
+		            "lat":"48.1731652",
+		            "lon":"11.5327755"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Stuttgart",
+		    "date":"Dec 6",
+		    "time":"16:00",
+		    "locationName":"NovaTec GmbH",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Stuttgart",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Stuttgart",
+		    "description":"Organized by the Java User Group Stuttgart",
+		    "address":{
+		        "street":"Dieselstraße 18/1",
+		        "zip":"70771",
+		        "city":"Leinfelden-Echterdingen",
+		        "country": "Germany",
+		        "geoLoc":{
+		            "lat":"48.6976161",
+		            "lon":"9.1653644"
+		        }
+		    }
+		},
+		{
+			"type":"ed",
+			"title":"Eclipse Finance Day Zurich",
+			"date":"05.12.2013",
+			"time":"08:30 - 17:30",
+			"locationName":"Credit Suisse Tower",
+			"registration":"http//eventbride.com/xxxevent",
+			"infoLink":"http://wiki.eclipse.org",
+			"description":"The Eclipse Finance Day is a great opportunity to learn how financial institutions are using and benefiting from Eclipse and open source software. This 1-day event will be held November 5th, 2013 at the Credit Suisse offices.",
+			"address":{
+				"street":"Hagenholzstrasse 20/22",
+				"zip":"8050",
+				"city":"Zurich",
+				"country": "Switzerland",				
+				"geoLoc":{
+					"lat":"47.4137236",
+					"lon":"8.5526015"
+				}
+				
+			}
+		},	
+		{
+			"type":"ht",
+			"title":"Hackathon ABC",
+			"date":"05.12.2013",
+			"time":"17:00",
+			"locationName":"Office EclipseSoure",
+			"registration":"http//eventbride.com/xxxevent",
+			"infoLink":"http://wiki.eclipse.org",
+			"description":"Wieder mal (fast) ein Nikolaus Democamp :-)",
+			"address":{
+				"street":"Helmholzallee 13",
+				"zip":"8080",
+				"city":"Munich",
+				"country": "Germany",				
+				"geoLoc":{
+					"lat":"48.144690",
+					"lon":"9.541029"
+				}
+				
+			}
+		},	
+
+		{ 
+			"type":"ec",
+			"title":"EclipseCon Europe 2013",
+			"date":"29 - 31 October 2013",
+			"time":"",
+			"locationName":"Forum am Schloßpark",
+			"registration":"http://www.eclipsecon.org/europe2013/registration",
+			"infoLink":"http://www.eclipsecon-europe.org",
+			"description":"EclipseCon Europe is the Eclipse Foundation's primary European event designed to create opportunities for the European Eclipse community to learn, explore, share and collaborate on the latest ideas and information about Eclipse and its member companies.",
+			"address":{
+				"street":"Stuttgarter Strasse 33",
+				"zip":"71638",
+				"city":"Ludwigsburg",
+				"country": "Germany",
+				"geoLoc":{
+					"lat":"48.89228",
+					"lon":"9.1948577"
+				}
+			}
+		}
+
+	]
+	
+
+}
