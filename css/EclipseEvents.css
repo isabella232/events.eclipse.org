@@ -4,7 +4,8 @@
 	/*background: #FFF url('images/memberBG.jpg') top left no-repeat;*/
 	/*background: -moz-linear-gradient(top center , rgb(28, 2, 73) 0%, rgb(175, 159, 206) 100%) repeat scroll 0% 0% transparent;*/
 	/*background: -moz-linear-gradient(top center , rgb(175, 159, 206) 0%, rgb(224, 216, 240) 100%) repeat scroll 0% 0% transparent;*/
-	background: -moz-linear-gradient(top center , rgb(175, 159, 206) 0%, rgb(238, 233, 247) 100%) repeat scroll 0% 0% transparent;
+	/*background: linear-gradient(top center , rgb(175, 159, 206) 0%, rgb(238, 233, 247) 100%) repeat scroll 0% 0% transparent;*/
+	background:rgb(175, 159, 206);
 }
 
 .pageTitle {
@@ -39,7 +40,8 @@
     font-size: 18px;
     font-weight: bold;
     color:rgb(112, 54, 190);
-    background: -moz-linear-gradient(left center , rgb(28, 2, 73) 0%, rgb(175, 159, 206) 100%) repeat scroll 0% 0% transparent;
+    /*background: linear-gradient(left center , rgb(28, 2, 73) 0%, rgb(175, 159, 206) 100%) repeat scroll 0% 0% transparent;*/
+    background:rgb(28, 2, 73);
     color: rgb(255, 255, 255);
     padding-left:20px;
      padding-bottom:15px;
