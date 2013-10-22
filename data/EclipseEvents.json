@@ -1,7 +1,26 @@
 
 {
 	"events":[
-	
+	{ 
+			"type":"ec",
+			"title":"EclipseCon Europe 2013",
+			"date":"29 - 31 October 2013",
+			"time":"",
+			"locationName":"Forum am Schloßpark",
+			"registration":"http://www.eclipsecon.org/europe2013/registration",
+			"infoLink":"http://www.eclipsecon-europe.org",
+			"description":"EclipseCon Europe is the Eclipse Foundation's primary European event designed to create opportunities for the European Eclipse community to learn, explore, share and collaborate on the latest ideas and information about Eclipse and its member companies.",
+			"address":{
+				"street":"Stuttgarter Strasse 33",
+				"zip":"71638",
+				"city":"Ludwigsburg",
+				"country": "Germany",
+				"geoLoc":{
+					"lat":"48.89228",
+					"lon":"9.1948577"
+				}
+			}
+		},
 		{
 			"type":"dc",
 			"title":"DemoCamp Vancouver",
@@ -382,49 +401,8 @@
 				}
 				
 			}
-		},	
-		{
-			"type":"ht",
-			"title":"Hackathon ABC",
-			"date":"05.12.2013",
-			"time":"17:00",
-			"locationName":"Office EclipseSoure",
-			"registration":"http//eventbride.com/xxxevent",
-			"infoLink":"http://wiki.eclipse.org",
-			"description":"Wieder mal (fast) ein Nikolaus Democamp :-)",
-			"address":{
-				"street":"Helmholzallee 13",
-				"zip":"8080",
-				"city":"Munich",
-				"country": "Germany",				
-				"geoLoc":{
-					"lat":"48.144690",
-					"lon":"9.541029"
-				}
-				
-			}
-		},	
-
-		{ 
-			"type":"ec",
-			"title":"EclipseCon Europe 2013",
-			"date":"29 - 31 October 2013",
-			"time":"",
-			"locationName":"Forum am Schloßpark",
-			"registration":"http://www.eclipsecon.org/europe2013/registration",
-			"infoLink":"http://www.eclipsecon-europe.org",
-			"description":"EclipseCon Europe is the Eclipse Foundation's primary European event designed to create opportunities for the European Eclipse community to learn, explore, share and collaborate on the latest ideas and information about Eclipse and its member companies.",
-			"address":{
-				"street":"Stuttgarter Strasse 33",
-				"zip":"71638",
-				"city":"Ludwigsburg",
-				"country": "Germany",
-				"geoLoc":{
-					"lat":"48.89228",
-					"lon":"9.1948577"
-				}
-			}
-		}
+		}	
+		
 
 	]
 	

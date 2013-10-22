@@ -7,7 +7,7 @@ const pageTitle = "See you at the <br>&nbsp;&nbsp;Eclipse Events 2013 ...";
 const jsonDatafile = 'data/EclipseEvents.json';
 const eventTypeInfo = {
 	dc : {
-		name : "DemoCamps",
+		name : "Demo Camps Fall 2013",
 		image : "images/marker-icon-green.png",
 		image_small : "images/small-marker-icon-green.png",
 		icon_size:{
