@@ -3,7 +3,7 @@
  */
 
 const browserTitle = "Eclipse Events";
-const pageTitle = "See you at the <br>&nbsp;&nbsp;Eclipse Events 2013 ...";
+const pageTitle = "See you at the <br>&nbsp;&nbsp;Eclipse Events 2013...";
 const jsonDatafile = 'data/EclipseEvents.json';
 const eventTypeInfo = {
 	dc : {
