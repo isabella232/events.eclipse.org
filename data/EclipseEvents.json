@@ -103,6 +103,26 @@
 	    },
 		{
 		    "type":"dc",
+		    "title":"DemoCamp Nantes",
+		    "date":"Nov 19, 2013",
+		    "time":"17:00 - 20:30",
+		    "locationName":"<a href=http://www.epitech.eu/ecole-informatique-nantes-pays-de-la-loire/>Epitech Nantes</a>",
+		    "registration":"http://www.epitech.eu/ecole-informatique-nantes-pays-de-la-loire/",
+		    "infoLink":"http://www.epitech.eu/ecole-informatique-nantes-pays-de-la-loire/",
+		    "description":"Nantes DemoCamp hosted by Obeo and the Eclipse Foundation",
+		    "address":{
+		        "street":"16-18 rue Flandres-Dunkerque 1940",
+		        "zip":"44100",
+		        "city":"Nantes",
+		        "country": "France",
+		        "geoLoc":{
+		            "lat":"47.2114985",
+		            "lon":"-1.5662696"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
 		    "title":"DemoCamp Darmstadt",
 		    "date":"Nov 19, 2013",
 		    "time":"TBD",
@@ -118,6 +138,26 @@
 		        "geoLoc":{
 		            "lat":"49.86471",
 		            "lon":"8.62546"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Paris",
+		    "date":"Nov 20, 2013",
+		    "time":"17:00 - 20:30",
+		    "locationName":"EpiTech Paris",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Paris",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Paris",
+		    "description":"Demo Camp Paris organized by Obeo and Eclipse Foundation",
+		    "address":{
+		        "street":"24, rue Pasteur",
+		        "zip":"94270",
+		        "city":"Le Kremlin Bicetre",
+		        "country": "France",
+		        "geoLoc":{
+		            "lat":"48.8352318",
+		            "lon":"2.3270199"
 		        }
 		    }
 		},
@@ -364,7 +404,7 @@
 		{
 		    "type":"dc",
 		    "title":"DemoCamp Stuttgart",
-		    "date":"Dec 6",
+		    "date":"Dec 6, 2013",
 		    "time":"16:00",
 		    "locationName":"NovaTec GmbH",
 		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Stuttgart",
