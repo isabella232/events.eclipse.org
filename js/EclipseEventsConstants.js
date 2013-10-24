@@ -2,10 +2,10 @@
  * Angelika Wittek, 21.10.2013
  */
 
-const browserTitle = "Eclipse Events";
-const pageTitle = "See you at the <br>&nbsp;&nbsp;Eclipse Events 2013...";
-const jsonDatafile = 'data/EclipseEvents.json';
-const eventTypeInfo = {
+var browserTitle = "Eclipse Events";
+var pageTitle = "See you at the <br>&nbsp;&nbsp;Eclipse Events 2013...";
+var jsonDatafile = 'data/EclipseEvents.json';
+var eventTypeInfo = {
 	dc : {
 		name : "Demo Camps Fall 2013",
 		image : "images/marker-icon-green.png",
@@ -53,7 +53,7 @@ const eventTypeInfo = {
 	}
 };
 // Infos for the zoomRegion Buttons, howto display the map:	
-const regionInfos = {
+var regionInfos = {
 	world : {
 		name : "World",
 		lat : "37.71859",

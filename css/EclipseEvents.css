@@ -26,6 +26,12 @@
 	padding-bottom:5px; 
 }
 
+.regionButton {
+	padding-left:3px;
+	padding-right:5px;
+	margin-right:5px;
+}
+
 #descriptons {
 	padding-left:25px; 
 	padding-right:25px;

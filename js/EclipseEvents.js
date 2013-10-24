@@ -93,7 +93,7 @@
         
         // ----------- create regionButtons in the div #regionButtons, for each dataset in regionInfos one button is created:
         for (var regionId in regionInfos) {
-        	$("#regionButtons").append("<button id=" +regionId + " onClick=\"regionButtonClicked(this.id)\">" + regionInfos[regionId].name + "</button>");
+        	$("#regionButtons").append("<button id=" +regionId + " onClick=\"regionButtonClicked(this.id)\" class=\"regionButton\">" + regionInfos[regionId].name + "</button>");
         }
 	}
 
