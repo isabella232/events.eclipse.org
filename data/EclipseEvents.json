@@ -427,8 +427,8 @@
 			"date":"05.12.2013",
 			"time":"08:30 - 17:30",
 			"locationName":"Credit Suisse Tower",
-			"registration":"http//eventbride.com/xxxevent",
-			"infoLink":"http://wiki.eclipse.org",
+			"registration":"https://eclipsefinanceday.eventbrite.com/",
+			"infoLink":"http://wiki.eclipse.org/Eclipse_Finance_Day_2013",
 			"description":"The Eclipse Finance Day is a great opportunity to learn how financial institutions are using and benefiting from Eclipse and open source software. This 1-day event will be held November 5th, 2013 at the Credit Suisse offices.",
 			"address":{
 				"street":"Hagenholzstrasse 20/22",
@@ -438,6 +438,27 @@
 				"geoLoc":{
 					"lat":"47.4137236",
 					"lon":"8.5526015"
+				}
+				
+			}
+		},
+		{
+			"type":"ed",
+			"title":"Eclipse Day at GooglePlex",
+			"date":"Dec 12, 2013",
+			"time":"09:00 - 18:00",
+			"locationName":"GooglePlex, Lobby Building CL2",
+			"registration":"http://wiki.eclipse.org/Eclipse_Day_At_Googleplex_2013",
+			"infoLink":"http://wiki.eclipse.org/Eclipse_Day_At_Googleplex_2013",
+			"description":"Eclipse Day at the Googleplex is a 1-day event for developers to learn about different Eclipse projects and related technologies. You are invited to attend and listen as experts from the Eclipse projects and Google share their experiences of using Eclipse. It's also a great opportunity for you to meet and network with other Eclipse enthusiasts.",
+			"address":{
+				"street":"1200 Crittenden Lane",
+				"zip":"CA 94043",
+				"city":"Mountain View",
+				"country": "USA",				
+				"geoLoc":{
+					"lat":"37.4254704",
+					"lon":"-122.0719798"
 				}
 				
 			}
