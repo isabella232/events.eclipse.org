@@ -153,7 +153,8 @@
 		d += "&nbsp;&nbsp;&nbsp;&nbsp;"
 		d += "<a href=" + eclipseEvent.infoLink + ">" + "more information"
 				+ "</a>";
-		
+		d += "&nbsp;&nbsp;&nbsp;&nbsp;"
+		d += "<a href=\"#\" onclick=\"showEventOnMap("+ eclipseEvent.address.geoLoc.lat +"," + eclipseEvent.address.geoLoc.lon+ ");\">show on map</a>";
 		d += "</span>";
 		return d;
 	}
@@ -177,6 +178,14 @@
 	function regionButtonClicked(buttonId) {
 	    var latLon = new L.LatLng(regionInfos[buttonId].lat, regionInfos[buttonId].lon);
 	    var zoom = regionInfos[buttonId].zoom;
+	    
+	    map.setView(latLon, zoom);
+	}
+	
+	// zooms in the location of the event with the given lat, lon on the map:
+	function showEventOnMap(lat, lon) {
+		var latLon = new L.LatLng(lat, lon);
+	    var zoom = 15;
 	    
 	    map.setView(latLon, zoom);
 	}
