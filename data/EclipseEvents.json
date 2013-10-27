@@ -106,9 +106,9 @@
 		    "title":"DemoCamp Nantes",
 		    "date":"Nov 19, 2013",
 		    "time":"17:00 - 20:30",
-		    "locationName":"<a href=http://www.epitech.eu/ecole-informatique-nantes-pays-de-la-loire/>Epitech Nantes</a>",
-		    "registration":"http://www.epitech.eu/ecole-informatique-nantes-pays-de-la-loire/",
-		    "infoLink":"http://www.epitech.eu/ecole-informatique-nantes-pays-de-la-loire/",
+		    "locationName":"Epitech Nantes",
+		    "registration":"http://www.epitech.eu/ecole-informatique-nantes-pays-de-la-loire",
+		    "infoLink":"http://www.epitech.eu/ecole-informatique-nantes-pays-de-la-loire",
 		    "description":"Nantes DemoCamp hosted by Obeo and the Eclipse Foundation",
 		    "address":{
 		        "street":"16-18 rue Flandres-Dunkerque 1940",
