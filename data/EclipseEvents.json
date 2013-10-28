@@ -303,6 +303,26 @@
 		},
 		{
 		    "type":"dc",
+		    "title":"DemoCamp Kassel",
+		    "date":"Nov 28, 2013",
+		    "time":"17:00",
+		    "locationName":"<a href=http://rambazotti.de>Circus Rambazotti</a>",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Kassel",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Kassel",
+		    "description":"The story continues: Another DemoCamp in the fabulous Circus Rambazotti, organized by Yatta!",
+		    "address":{
+		        "street":"Ludwig-Erhard-Str. 21",
+		        "zip":"34131",
+		        "city":"Kassel",
+		        "country": "Germany",
+		        "geoLoc":{
+		            "lat":"51.30542",
+		            "lon":"9.44223"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
 		    "title":"DemoCamp Changsa",
 		    "date":"Nov 30, 2013",
 		    "time":"2:00",
@@ -418,6 +438,26 @@
 		        "geoLoc":{
 		            "lat":"48.6976161",
 		            "lon":"9.1653644"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Frankfurt",
+		    "date":"Dec 12, 2013",
+		    "time":"17:00",
+		    "locationName":"Yatta Office Frankfurt",
+		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Frankfurt",
+		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Frankfurt",
+		    "description":"Organized by the Yatta and Software&Support Verlag",
+		    "address":{
+		        "street":"Mainzer Landstr. 50",
+		        "zip":"60325",
+		        "city":"Frankfurt",
+		        "country": "Germany",
+		        "geoLoc":{
+		            "lat":"50.1109392",
+		            "lon":"8.6639151"
 		        }
 		    }
 		},
