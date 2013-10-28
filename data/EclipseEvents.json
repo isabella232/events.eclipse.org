@@ -387,7 +387,7 @@
 		    "date":"Dec 5, 2013",
 		    "time":"17:00 - 22:00",
 		    "locationName":"EclipseSource Munich ",
-		    "registration":"https://www.eventbrite.de/event/8530463847?utm_source=eb_email&utm_medium=email&utm_campaign=order_confirm&utm_term=eventname&ref=eemailordconf",
+		    		 "registration":"https://www.eventbrite.de/event/8530463847?utm_source=eb_email&utm_medium=email&utm_campaign=order_confirm&utm_term=eventname&ref=eemailordconf",
 		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Munich",
 		    "description":"Winter Demo Camp Munich produced by EclipseSource, alternating with Siemens AG",
 		    "address":{
@@ -424,10 +424,10 @@
 		{
 			"type":"ed",
 			"title":"Eclipse Finance Day Zurich",
-			"date":"05.12.2013",
+			"date":"Dec 05, 2013",
 			"time":"08:30 - 17:30",
 			"locationName":"Credit Suisse Tower",
-			"registration":"https://eclipsefinanceday.eventbrite.com/",
+			"registration":"https://eclipsefinanceday.eventbrite.com",
 			"infoLink":"http://wiki.eclipse.org/Eclipse_Finance_Day_2013",
 			"description":"The Eclipse Finance Day is a great opportunity to learn how financial institutions are using and benefiting from Eclipse and open source software. This 1-day event will be held November 5th, 2013 at the Credit Suisse offices.",
 			"address":{
