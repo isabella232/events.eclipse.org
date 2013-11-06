@@ -84,5 +84,17 @@ var regionInfos = {
 		lat : "40.71396",
 		lon : "-94.08691",
 		zoom : "4"
+	},
+	de : {
+		name : "Germany",
+		lat : "50.4514008",
+		lon : "9.91421991",
+		zoom : "6"
+	},
+	fr : {
+		name : "France",
+		lat : "46.9892006",
+		lon : "3.1593499",
+		zoom : "6"
 	}
 };
