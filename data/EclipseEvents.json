@@ -5,7 +5,7 @@
 			"type":"dc",
 			"title":"DemoCamp Vancouver",
 			"date":"Nov 6, 2013",
-			"time":"5:30pm",
+			"time":"17:30",
 			"locationName":"Tasktop Offices",
 			"registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Vancouver",
 			"infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Vancouver",
@@ -24,8 +24,8 @@
 		{
 		    "type":"dc",
 		    "title":"DemoCamp Prague",
-		    "date":"Nov  14, 2013",
-		    "time":"5:45pm - 9:00pm",
+		    "date":"Nov 14, 2013",
+		    "time":"17:45",
 		    "locationName":"Faculty of Mechanical Engineering bulding in ČVUT campus",
 		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Prague",
 		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Prague",
@@ -45,7 +45,7 @@
 			"type":"dc",
 			"title":"DemoCamp Beijing",
 			"date":"Nov 14, 2013",
-			"time":"7:00pm",
+			"time":"19:00",
 			"locationName":"Funshion Beijing Office, 12th floor, B, Horizon Tower",
 			"registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing_Thursday",
 			"infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing_Thursday",
@@ -65,7 +65,7 @@
 	        "type":"dc",
 		    "title":"DemoCamp Bonn",
 	        "date":"Nov 18, 2013",
-	        "time":"6:15pm",
+	        "time":"18:15",
 	        "locationName":"Collegium Leoninum Bonn",
 	        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Bonn",
 	        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Bonn",
@@ -105,7 +105,7 @@
 		    "type":"dc",
 		    "title":"DemoCamp Darmstadt",
 		    "date":"Nov 19, 2013",
-		    "time":"TBD",
+		    "time":"17:30",
 		    "locationName":"Deutsche Telekom AG",
 		    "registration":"http://democamp-darmstadt-2013.eventbrite.com",
 		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Darmstadt",
@@ -163,7 +163,7 @@
 		},
 		{
 		    "type":"dc",
-		    "title":"Eclipse DemoCamp Nieuwegein",
+		    "title":"DemoCamp Nieuwegein",
 		    "date":"Nov 20, 2013",
 		    "time":"17:30 - 21:00",
 		    "locationName":"Remain Software Office",
@@ -200,7 +200,27 @@
 		            "lon":"16.3653745"
 		        }
 		    }
-		},
+		},	
+		{
+			    "type":"ht",
+			    "title":"Hackathon Hamburg",
+			    "date":"Nov 22, 2013",
+			    "time":"18:00",
+			    "locationName":"<a href=http://www.hamburg.ccc.de/>Chaos Computer Club Hamburg</a>",
+			    "registration":"http://wiki.eclipse.org/Hackathon_Hamburg_2013",
+			    "infoLink":"http://wiki.eclipse.org/Hackathon_Hamburg_2013",
+			    "description":"After the successful Hackathon at EclipseCon Europe 2013, Hamburg will be hosting another hackathon. We hope that all attendees will become Eclipse contributors by the end of the evening. Our goal is to provide enough small-ish bugs and feature requests such that all attendees can hack away and come up with a reasonable patch by the end of the evening.",
+			    "address":{
+			        "street":"Humboldtstraße 53",
+			        "zip":"22083",
+			        "city":"Hamburg",
+			        "country": "Germany",
+			        "geoLoc":{
+			            "lat":"53.574278",
+			            "lon":"10.024542"
+			        }
+			    }
+			},
 		{
 		    "type":"dc",
 		    "title":"DemoCamp Grenoble",
@@ -218,26 +238,6 @@
 		        "geoLoc":{
 		            "lat":"45.2173989",
 		            "lon":"5.7921349"
-		        }
-		    }
-		},
-		{
-		    "type":"dc",
-		    "title":"DemoCamp Toronto",
-		    "date":"Nov 26, 2013",
-		    "time":"",
-		    "locationName":"RedHat Toronto",
-		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013",
-		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013",
-		    "description":"description",
-		    "address":{
-		        "street":"90 Eglinton Ave. East",
-		        "zip":"zip",
-		        "city":"Toronto",
-		        "country": "Canada",
-		        "geoLoc":{
-		            "lat":"43.7074836",
-		            "lon":"-79.3955853"
 		        }
 		    }
 		},
@@ -261,6 +261,27 @@
 		        }
 		    }
 		},
+		{
+		    "type":"dc",
+		    "title":"DemoCamp Hannover",
+		    "date":"Nov 27, 2013",
+		    "time":"18:00 - 22:00",
+		    "locationName":"Zühlke Engineering GmbH",
+		    "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Hanover#Location",
+		    "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Hanover#Location",
+		    "description":"Zühlke proudly presents the Fall 2013 Hannover Demo Camp",
+		    "address":{
+		        "street":"Pelikanplatz 35",
+		        "zip":"30177",
+		        "city":"Hannover",
+		        "country": "Germany",
+		        "geoLoc":{
+		            "lat":"52.398453",
+		            "lon":"9.77093"
+		        }
+		    }
+		},
+		
 		{
 		    "type":"dc",
 		    "title":"DemoCamp Toulouse",
@@ -383,6 +404,26 @@
 		},
 		{
 		    "type":"dc",
+		    "title":"DemoCamp Dresden",
+		    "date":"Dec 3, 2013",
+		    "time":"18:30",
+		    "locationName":"CoFab c/o ObjectFab GmbH",
+		    "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Dresden#Location",
+		    "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Dresden#Location",
+		    "description":"Welcome to Dresden for the Fall 2013 Demo Camp",
+		    "address":{
+		        "street":"Pohlandstrasse 19",
+		        "zip":"01309",
+		        "city":"Dresden",
+		        "country": "Germany",
+		        "geoLoc":{
+		            "lat":"51.047938",
+		            "lon":"13.798559"
+		        }
+		    }
+		},
+		{
+		    "type":"dc",
 		    "title":"DemoCamp Munich",
 		    "date":"Dec 5, 2013",
 		    "time":"17:00 - 22:00",
@@ -443,27 +484,6 @@
 		},
 		{
 			"type":"ed",
-			"title":"Eclipse Finance Day Zurich",
-			"date":"Dec 05, 2013",
-			"time":"08:30 - 17:30",
-			"locationName":"Credit Suisse Tower",
-			"registration":"https://eclipsefinanceday.eventbrite.com",
-			"infoLink":"http://wiki.eclipse.org/Eclipse_Finance_Day_2013",
-			"description":"The Eclipse Finance Day is a great opportunity to learn how financial institutions are using and benefiting from Eclipse and open source software. This 1-day event will be held November 5th, 2013 at the Credit Suisse offices.",
-			"address":{
-				"street":"Hagenholzstrasse 20/22",
-				"zip":"8050",
-				"city":"Zurich",
-				"country": "Switzerland",				
-				"geoLoc":{
-					"lat":"47.4137236",
-					"lon":"8.5526015"
-				}
-				
-			}
-		},
-		{
-			"type":"ed",
 			"title":"Eclipse Day at GooglePlex",
 			"date":"Dec 12, 2013",
 			"time":"09:00 - 18:00",
@@ -483,9 +503,6 @@
 				
 			}
 		}	
-		
-
 	]
-	
 
 }
