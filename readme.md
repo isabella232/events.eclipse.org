@@ -1,6 +1,6 @@
 # Eclipse Events Page
 
-The code implements the [Eclipse Foundation events](http//events.eclipse.org)
+The code implements the [Eclipse Foundation events](http://events.eclipse.org)
 
 Author: Angelika Wittek, Konteno <br>
 inspired by work from Christoper Guindon, Eclipse Foundation
@@ -9,11 +9,13 @@ Published under the EPL
 
 Requirements: Ralph Mueller, Eclipse Foundation
 
-Prereqs:<br>
+Prereqs:
+
 * eclipse.org-commons
 * Eclipse page boilerplate
 
-Uses external libraries: <br>
+Uses external libraries:
+
 * leafletjs
 * jQuery
 
@@ -27,9 +29,9 @@ Uses external libraries: <br>
 
 make your changes and commit <br>
 
-    $ vi data/EclipseEvents.json
+    $ vi data/EclipseEvents.json // or use any other editor
     $ git add .
-    $ git commit -m"commit comments"
+    $ git commit -m "commit comments"
 
 ### Push changes to Eclipse Foundation git/Gerrit
 You will be asked for a password, you can retrieve it with https://git.eclipse.org/r/#/settings/http-password. Please use your Bugzilla login credentials and copy the passowrd. Replace (yourname) with your git / Gerrit user name.
@@ -42,7 +44,7 @@ Once you have pushed your changes to Gerrit, they will get reviewed and eventual
 
 Open https://git.eclipse.org/r/#/q/project:websites/events.eclipse.org,n,z in your web-browser. 
 
-
+Review changes (this is a more complex task that needs to be discussed)
 
 ## Copy and edit template for new event entries in the Jason File
 
@@ -57,11 +59,11 @@ Look up the geo data (longitude and latitude) based on the address. You can use 
 
 The order of appearance in the listing is currently based on the position in the file. In the near future, we will add functionality to automatically sort events and ommit past events. <br>
 To help us, please use the "MMM DD, YYYY" format for the "date" fields. Example: "Nov 3, 2013" will work just fine! <br>
-We hope to find a more general solution in the future.We are not using the time for anything (yet), so feel free to add the time in any fomrat that is appropriate.
+We hope to find a more general solution in the future.We are not using the time for anything (yet), so feel free to add the time in any format that is appropriate.
 
 
     {
-        "type":"dc",
+        "type":"xx",
 	    "title":"title",
         "date":"date",
         "time":"time",
@@ -80,3 +82,13 @@ We hope to find a more general solution in the future.We are not using the time 
             }
         }
     },
+
+xx can be any of the following:
+
+* dc - Demo Camp
+* ht - hackathon
+* ec - EclipseCon
+* ed - Eclipse Day
+
+Additional events can be added, please let us know if you miss a type
+
