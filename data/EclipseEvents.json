@@ -2,26 +2,6 @@
 {
 	"events":[
 		{
-			"type":"dc",
-			"title":"DemoCamp Vancouver",
-			"date":"Nov 6, 2013",
-			"time":"17:30",
-			"locationName":"Tasktop Offices",
-			"registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Vancouver",
-			"infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Vancouver",
-			"description":"After the success Eclipse Hackathons over the past 2 years, we will be hosting another hackathon. Yes. Another hackathon. We hope that all attendees will become Eclipse contributors by the end of the evening. Our goal is to provide enough small-ish bugs and feature requests such that all attendees can hack away and come up with a reasonable patch by the end of the evening. Attendees will break out into groups of 2 or 3 and get hands on support from a veteran of the project to help ensure that a patch can be completed.",
-			"address":{
-				"street":"1100-1500 West Georgia Street",
-				"zip":" V6G 2Z6",
-				"city":"Vancouver",
-				"country": "Canada",
-				"geoLoc":{
-					"lat":"49.2899399",
-					"lon":"-123.1303482"
-				}
-			}
-		},
-		{
 		    "type":"dc",
 		    "title":"DemoCamp Prague",
 		    "date":"Nov 14, 2013",

@@ -36,7 +36,7 @@ make your changes and commit <br>
 ### Push changes to Eclipse Foundation git/Gerrit
 You will be asked for a password, you can retrieve it with https://git.eclipse.org/r/#/settings/http-password. Please use your Bugzilla login credentials and copy the passowrd. Replace (yourname) with your git / Gerrit user name.
 
-    $git push https://(yourname)@git.eclipse.org/r/websites/events.eclipse.org HEAD:refs/for/master
+    $ git push https://(yourname)@git.eclipse.org/r/websites/events.eclipse.org HEAD:refs/for/master
 
 Once you have pushed your changes to Gerrit, they will get reviewed and eventually pushed to the site. 
 
