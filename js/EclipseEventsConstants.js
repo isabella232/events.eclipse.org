@@ -87,14 +87,14 @@ var regionInfos = {
 	},
 	de : {
 		name : "Germany",
-		lat : "50.4514008",
-		lon : "9.91421991",
-		zoom : "6"
+		lat : "51.1599007",
+		lon : "10.4429998",
+		zoom : "5"
 	},
 	fr : {
 		name : "France",
-		lat : "46.9892006",
-		lon : "3.1593499",
-		zoom : "6"
+		lat : "46.768196",
+		lon : "2.432664",
+		zoom : "5"
 	}
 };
