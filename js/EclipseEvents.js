@@ -46,8 +46,15 @@
 				continue;
 			}
 			
+			eclipseEvents[i].dateTime = new Date (eclipseEvents[i].date);
+			
+			if (! isFutureEvent(eclipseEvents[i].dateTime)) {
+				// skip over past events
+				continue;
+			}
+			
 			titleMarker = eclipseEvents[i].title;
-			texttitle =  eclipseEvents[i].title + ", " + eclipseEvents[i].date + " "+ eclipseEvents[i].time;
+			texttitle =  eclipseEvents[i].title + ", " + eclipseEvents[i].date;
 			description = createHtmlDescription(eclipseEvents[i]);
 
 			// create markers for map:
@@ -188,6 +195,21 @@
 	    var zoom = 15;
 	    
 	    map.setView(latLon, zoom);
+	}
+
+// returns true if the event is in the future (after today, 0:00AM)
+	function isFutureEvent (d) {
+		var localMorning = new Date();
+		localMorning.setHours(0);
+		localMorning.setMinutes(0);
+		localMorning.setSeconds(0);
+		localMorning.setMilliseconds(0);				
+		if (localMorning <= d ) {
+			return (true);
+		} else
+		{
+			return (false);		
+		}
 	}
 	
 	
