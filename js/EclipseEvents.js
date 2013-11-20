@@ -38,6 +38,13 @@
 		
 		// process event data from jsonfile:
 		var eclipseEvents = data.events;
+		
+		// first, convert event's date field to real date, then sort events by date
+		for ( var i in eclipseEvents) {		
+			eclipseEvents[i].dateTime = new Date (eclipseEvents[i].date);
+		}	
+		eclipseEvents.sort(compareEventsByDate);
+		
 		for ( var i in eclipseEvents) {
 			eventtype = eclipseEvents[i].type;
 			
@@ -45,8 +52,6 @@
 				alert("EventType [" + eventtype + "] from Jsonfile: [" +jsonDatafile+ "] is not declared in the eventTypeInfo-Array!");
 				continue;
 			}
-			
-			eclipseEvents[i].dateTime = new Date (eclipseEvents[i].date);
 			
 			if (! isFutureEvent(eclipseEvents[i].dateTime)) {
 				// skip over past events
@@ -211,6 +216,19 @@
 			return (false);		
 		}
 	}
-	
-	
+
+// compares the "date" fields of 2 events, returns
+	function compareEventsByDate (e1, e2) {
+		// -1 if e1 before e2
+		// 0  if e1 and e2 are equal
+		// +1 if e1 is after e2	
+		return compareDates (e1.dateTime, e2.dateTime);
+	}
+// compare tow dates, returns
+	function compareDates (d1, d2) {
+		// -1 if d1 before d2
+		// 0  if d1 and d2 are equal
+		// +1 if d1 is after d2	
+		return (d1 - d2);
+	}	
 	
