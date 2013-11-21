@@ -59,7 +59,7 @@
 			}
 			
 			titleMarker = eclipseEvents[i].title;
-			texttitle =  eclipseEvents[i].title + ", " + eclipseEvents[i].date;
+			texttitle =  eclipseEvents[i].title + ", " + eclipseEvents[i].dateTime.toDateString();
 			description = createHtmlDescription(eclipseEvents[i]);
 
 			// create markers for map:
@@ -155,6 +155,10 @@
 		d = "<span>";
 		d += "<p style=\"margin-bottom:8px; \">" + eclipseEvent.description + "</p>";
 		d += "<p style=\"margin-bottom:8px; \">";
+		if (eclipseEvent.company != undefined) {
+			d += "Company Name: ";
+			d += eclipseEvent.company+ "<br>";
+		}
 		d += "Address:"+ "<br>";
 		d += eclipseEvent.locationName+ "<br>";
 		d += eclipseEvent.address.street + ", ";
