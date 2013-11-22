@@ -67,26 +67,6 @@
 		    }
 		},	
 		{
-			    "type":"ht",
-			    "title":"Hackathon Hamburg",
-			    "date":"Nov 22, 2013 18:00 GMT+0100",
-				"end-date" : "",
-			    "locationName":"<a href=http://www.hamburg.ccc.de/>Chaos Computer Club Hamburg</a>",
-			    "registration":"http://wiki.eclipse.org/Hackathon_Hamburg_2013",
-			    "infoLink":"http://wiki.eclipse.org/Hackathon_Hamburg_2013",
-			    "description":"After the successful Hackathon at EclipseCon Europe 2013, Hamburg will be hosting another hackathon. We hope that all attendees will become Eclipse contributors by the end of the evening. Our goal is to provide enough small-ish bugs and feature requests such that all attendees can hack away and come up with a reasonable patch by the end of the evening.",
-			    "address":{
-			        "street":"Humboldtstraße 53",
-			        "zip":"22083",
-			        "city":"Hamburg",
-			        "country": "Germany",
-			        "geoLoc":{
-			            "lat":"53.574278",
-			            "lon":"10.024542"
-			        }
-			    }
-			},
-		{
 		    "type":"dc",
 		    "title":"DemoCamp Grenoble",
 		    "date":"Nov 25, 2013",
@@ -363,7 +343,7 @@
 		{
 			"type":"ed",
 			"title":"Eclipse Day at GooglePlex",
-			"date":"Dec 12, 2013",
+			"date":"Dec 18, 2013",
 			"time":"09:00 - 18:00",
 			"end-date" : "",
 			"locationName":"GooglePlex, Lobby Building CL2",
