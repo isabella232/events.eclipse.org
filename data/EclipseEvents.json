@@ -110,28 +110,6 @@
 		},
 		{
 		    "type":"dc",
-		    "title":"DemoCamp Hannover",
-		    "date":"Nov 27, 2013",
-		    "time":"18:00 - 22:00",
-			"end-date" : "",
-		    "locationName":"Zühlke Engineering GmbH",
-		    "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Hanover#Location",
-		    "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Hanover#Location",
-		    "description":"Zühlke proudly presents the Fall 2013 Hannover Demo Camp",
-		    "address":{
-		        "street":"Pelikanplatz 35",
-		        "zip":"30177",
-		        "city":"Hannover",
-		        "country": "Germany",
-		        "geoLoc":{
-		            "lat":"52.398453",
-		            "lon":"9.77093"
-		        }
-		    }
-		},
-		
-		{
-		    "type":"dc",
 		    "title":"DemoCamp Toulouse",
 		    "date":"Nov 28, 2013",
 		    "time":"17:30 - 20:30",
@@ -363,5 +341,6 @@
 			}
 		}	
 	]
-
 }
+;wq
+
