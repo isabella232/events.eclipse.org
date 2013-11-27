@@ -10,7 +10,7 @@
  */
 
 var browserTitle = "Eclipse Events";
-var pageTitle = "See you at the <br>&nbsp;&nbsp;Eclipse Events 2013...";
+var pageTitle = "Upcoming Eclipse Events";
 var jsonDatafile = 'data/EclipseEvents.json';
 var eventTypeInfo = {
 	dc : {
@@ -23,7 +23,7 @@ var eventTypeInfo = {
         }
 	},
 	ed : {
-		name : "EclipseDays",
+		name : "Eclipse Days",
 		image : "images/marker-icon-blue.png",
 		image_small : "images/small-marker-icon-blue.png",
 		icon_size:{
@@ -51,8 +51,8 @@ var eventTypeInfo = {
 	},
 	ts : {
 		name : "Training Series",
-		image : "images/marker-icon-red.png",
-		image_small : "images/small-marker-icon-red.png",
+		image : "images/marker-icon-cyan.png",
+		image_small : "images/small-marker-icon-cyan.png",
 		icon_size:{
             x:"25",
             y:"41"

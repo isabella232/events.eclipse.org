@@ -2,6 +2,26 @@
 {
 	"events":[
 	{ 
+	    "type":"ec", 
+	    "title":"EclipseCon NA 2014", 
+	    "date":"Mar 17 2014 09:00 GMT-0900", 
+	    "end-date":"Mar 20 2014 09:00 GMT-0900", 
+	    "locationName":"Hyatt-Regency, San Francisco", 
+	    "registration":"http://www.eclipsecon.org/na2014/registration", 
+	    "infoLink":"http://www.eclipsecon.org/na2014", 
+	    "description":"EclipseCon North America 2014 is designed to create opportunities for the Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse and its member companies. This year's event is at the Hyatt Regency San Francisco Airport, March 17-20, 2014.", 
+	    "address":{ 
+	        "street":"1333 Bayshore Highway", 
+	        "zip":"CA 94010", 
+	        "city":"Burlingame", 
+	        "country": "USA", 
+	        "geoLoc":{ 
+	            "lat": "37.5943102", 
+	            "lon": "-122.364614" 
+	        } 
+	    } 
+	},
+	{ 
 	    "type":"ts", 
 	    "title":" Developing OSGi Equinox - The Netherlands ", 
 	    "date":"Tue Dec 3 2013 09:00 GMT+0100 (CET)", 
@@ -18,8 +38,8 @@
 	        "city":"Nieuwegein", 
 	        "country": "The Netherlands", 
 	        "geoLoc":{ 
-	            "lat":" 52.040614", 
-	            "lon":" 5.078675" 
+	            "lat":"52.040614", 
+	            "lon":"5.078675" 
 	        } 
 	    } 
 	},
