@@ -1,6 +1,28 @@
 
 {
 	"events":[
+	{
+	    "type": "ts",
+	    "title": "Eclipse RCP 4",
+	    "date": "Tue Dec 09 2013 09:00 GMT+0100 (CET)",
+	    "end-date": "Tue Dec 12 2013 17:00 GMT+0100 (CET)",
+	    "company": "OPCoach",
+	    "locationName": "Toulouse",
+	    "registration": "http://www.opcoach.com/?p=4543",
+	    "infoLink": "http://www.opcoach.com/?p=4543",
+	    "description": "Formation Eclipse RCP 4",
+	    "keywords": "formation Eclipse 4,Eclipse 4 training, RCP",
+	    "address": {
+	        "street": "36 Rue Jacques Babinet",
+	        "zip": "31100",
+	        "city": "Toulouse",
+	        "country": "France",
+	        "geoLoc": {
+	            "lat": "43.6057281",
+	            "lon": "1.4486901"
+	        }
+	    }
+	},
 	{ 
 	    "type":"ec", 
 	    "title":"EclipseCon NA 2014", 
@@ -242,7 +264,7 @@
 		    "locationName":"Fraunhofer FOKUS ",
 		    "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Berlin",
 		    "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Berlin",
-		    "description":"Following the EclkipseDay Berlin earlier this year, Fraunhofer and SMB are now presenting the Eclipse Demo Camp Berlin",
+		    "description":"Following the Eclipse Day Berlin earlier this year, Fraunhofer and SMB are now presenting the Eclipse Demo Camp Berlin",
 		    "address":{
 		        "street":"Kaiserin-Augusta-Allee 31",
 		        "zip":"10589",

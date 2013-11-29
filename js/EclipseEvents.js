@@ -153,17 +153,18 @@
 	function createHtmlDescription(eclipseEvent) {
 		var d;
 		d = "<span>";
-		d += "<p style=\"margin-bottom:8px; \">" + eclipseEvent.description + "</p>";
-		d += "<p style=\"margin-bottom:8px; \">";
+		d += "<p>" + eclipseEvent.description + "</p>";
+		d += "<p>";
 		if (eclipseEvent.company != undefined) {
-			d += "Company Name: ";
-			d += eclipseEvent.company+ "<br>";
+			d += "<p>Company Name: ";
+			d += eclipseEvent.company+ "</p>";
 		}
 		d += "Address:"+ "<br>";
 		d += eclipseEvent.locationName+ "<br>";
 		d += eclipseEvent.address.street + ", ";
 		d += eclipseEvent.address.zip + " " + eclipseEvent.address.city + ", " + eclipseEvent.address.country;
 		d += "</p>";
+		d += "<p>";
 		d += "<a href=" + eclipseEvent.registration + ">" + "register here"
 				+ "</a>";
 		d += "&nbsp;&nbsp;&nbsp;&nbsp;"

@@ -1,88 +1,75 @@
-@CHARSET "UTF-8";
-
+/* @CHARSET "UTF-8"; */
 .eecontent {
-	/*background: #FFF url('images/memberBG.jpg') top left no-repeat;*/
-	/*background: -moz-linear-gradient(top center , rgb(28, 2, 73) 0%, rgb(175, 159, 206) 100%) repeat scroll 0% 0% transparent;*/
-	/*background: -moz-linear-gradient(top center , rgb(175, 159, 206) 0%, rgb(224, 216, 240) 100%) repeat scroll 0% 0% transparent;*/
-	/*background: linear-gradient(top center , rgb(175, 159, 206) 0%, rgb(238, 233, 247) 100%) repeat scroll 0% 0% transparent;*/
-	background:rgb(175, 159, 206);
+  background: #af9fce;
+  padding-left: 25px;
+  padding-right: 25px;
 }
-
-
-.pageTitle {
-	/*text-align:center;*/
-	margin-left:70px; 
-	margin-bottom:5px;
-	padding-top:25px; 
-	padding-bottom:10px; 
-	color:#FFFFFF;
-	font-size:26px;
-	line-height: 28px;
-	text-shadow:grey 4px 3px; 
+.eecontent #pageTitle {
+  margin-bottom: 5px;
+  padding-top: 25px;
+  padding-bottom: 10px;
 }
-
-#regionButtons {
-	padding-left:25px; 
-	padding-bottom:5px; 
+.eecontent #pageTitle h1 {
+  color: #FFFFFF;
+  font-size: 26px;
+  line-height: 28px;
+  text-shadow: grey 4px 3px;
 }
-
-.regionButton {
-	padding-left:3px;
-	padding-right:5px;
-	margin-right:5px;
+.eecontent #mapSection p {
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
-
-#descriptons {
-	padding-left:25px; 
-	padding-right:25px;
+.eecontent #mapSection #map {
+  margin-bottom: 30px;
+  height: 65%;
+  width: 100%;
 }
-
-.eventType {
-	background-color: rgb(232, 231, 221);
-    border-bottom: 2px solid rgb(255, 255, 255);
-    
-    padding-bottom:10px;
+.eecontent #mapSection #regionButtons {
+  padding-bottom: 5px;
 }
-.eventTypeTitle {
-    font-size: 18px;
-    font-weight: bold;
-    color:rgb(112, 54, 190);
-    /*background: linear-gradient(left center , rgb(28, 2, 73) 0%, rgb(175, 159, 206) 100%) repeat scroll 0% 0% transparent;*/
-    background:rgb(28, 2, 73);
-    color: rgb(255, 255, 255);
-    padding-left:20px;
-     padding-bottom:15px;
-      padding-top:15px;
+.eecontent #mapSection #regionButtons .regionButton {
+  padding-left: 3px;
+  padding-right: 5px;
+  margin-right: 5px;
 }
-
-
-.map {
-	padding-left:50px; 
-	margin-left: 25px;
-	margin-bottom:30px;
-	height: 65%;
-	width: 90%;
+.eecontent #descriptons .eventType {
+  background-color: #e8e7dd;
+  border-bottom: 2px solid #ffffff;
+  padding-bottom: 10px;
 }
-
-.revealCollapse {
-    cursor: pointer;
-    margin: 5px 0;
-    cursor:hand;
-    padding-left:43px;
-	font-weight: bold;
+.eecontent #descriptons p {
+  margin-bottom: 2px;
+  margin-top: 2px;
 }
-.revealCollapse:hover {
-    color:rgb(112, 54, 190);
-    text-decoration: underline;
-}
+.eecontent #descriptons .eventTypeTitle {
+  font-size: 18px;
+  font-weight: bold;
+  color: #7036be;
+  /*background: linear-gradient(left center , rgb(28, 2, 73) 0%, rgb(175, 159, 206) 100%) repeat scroll 0% 0% transparent;*/
 
-.collapseText {
-	display:none;
-	padding-left:40px;
-	padding-bottom:5px;
-	padding-top:5px;
-	margin-left:43px;
-	/* background: #F4EAEA;  */
-	background: rgb(224, 216, 240);
-	width:60%;
+  background: #1c0249;
+  color: #ffffff;
+  padding-left: 20px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+.eecontent #descriptons .revealCollapse {
+  cursor: pointer;
+  margin: 5px 0;
+  cursor: hand;
+  padding-left: 43px;
+  font-weight: bold;
+}
+.eecontent #descriptons .revealCollapse:hover {
+  color: #7036be;
+  text-decoration: underline;
+}
+.eecontent #descriptons .collapseText {
+  display: none;
+  padding-left: 40px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-left: 43px;
+  background: #e0d8f0;
+  width: 60%;
 }
