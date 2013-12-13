@@ -49,7 +49,7 @@ var eventTypeInfo = {
             y:"41"
         }
 	},
-	ts : {
+	et : {
 		name : "Training Series",
 		image : "images/marker-icon-cyan.png",
 		image_small : "images/small-marker-icon-cyan.png",
