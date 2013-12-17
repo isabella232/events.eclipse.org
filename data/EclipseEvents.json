@@ -1,7 +1,27 @@
 
 {
 	"events":[
-
+	{
+	     "type":"ht",
+	     "title":"Hackathon Hamburg (2013/2014)",
+	     "date":"Jan 17 2014 18:00 GMT+0100 (CET)",
+	     "end-date":"Jan 17 2014 22:00 GMT+0100 (CET)",
+	     "locationName":"Hapag-Lloyd AG",
+	     "registration":"https://wiki.eclipse.org/Hackathon_Hamburg_2013",
+	     "infoLink":"https://wiki.eclipse.org/Hackathon_Hamburg_2013",
+	     "description":"In this event we will hack the Eclipse source code. If you are an Eclipse user, contributor or committer, we hope this event will be a lot of fun for you. Attendees can hack away with the help of experiences Eclipse developers and can help to improve the Eclipse platform and its projects.",
+	     "keywords":"Hackathon",
+	     "address":{
+	         "street":"Ballindamm 25",
+	         "zip":"20095",
+	         "city":"Madrid",
+	         "country": "Germany",
+	         "geoLoc":{
+	             "lat":"53.55343",
+	             "lon":"9.99789"
+	         }
+	     }
+	},
 	{ 
 	    "type":"ec", 
 	    "title":"EclipseCon NA 2014", 

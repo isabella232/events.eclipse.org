@@ -36,8 +36,8 @@ var eventTypeInfo = {
 		image : "images/marker-icon-red.png",
 		image_small : "images/small-marker-icon-red.png",
 		icon_size:{
-            x:"40",
-            y:"60"
+            x:"25",
+            y:"41"
         }
 	},
 	ht : {
