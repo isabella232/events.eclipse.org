@@ -725,6 +725,735 @@
 	         }
 	     }
 	}
+	,
+	{
+		"type":"et",
+		"title":"Panorama Eclipse Modeling",
+		"date":"Mon Jan 27 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Wed Jan 29 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Discover the EMF framework and the useful projects built on it.",
+		"keywords":"emf,ecore,dsl,modeling",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Acceleo 3",
+		"date":"Mon Feb 10 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Wed Feb 12 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Toulouse",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Acceleo to build generation modules. Training created by the Acceleo commiters team.",
+		"keywords":"acceleo,mtl,modeling,emf,ecore,dsl",
+		"address":{
+			"street":"",
+			"zip":"31000",
+			"city":"Toulouse",
+			"country": "France",
+			"geoLoc":{
+				"lat":"43.604652",
+				"lon":"1.444209"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Sirius",
+		"date":"Mon Feb 10 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Thu Feb 13 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Sirius to build your own modeling tool. Training created by the Sirius commiters team.",
+		"keywords":"sirius,viewpoint,emf,ecore,dsl,dsm",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Xtext",
+		"date":"Mon Feb 24 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Tue Feb 25 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Xtext to build your own textual modeling tools. Training created by EMF experts.",
+		"keywords":"xtext,emf,ecore,dsl,dsm",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"EMF",
+		"date":"Mon Mar 10 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Tue Mar 11 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how are designed and how to use Eclipse EMF and the major components based on this framework.",
+		"keywords":"emf,ecore,dsl",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"GMF",
+		"date":"Wed Mar 12 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Fri Mar 14 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to use Eclipse GMF to build graphical modelers.",
+		"keywords":"emf,ecore,dsl,gmf,dsm",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"ATL",
+		"date":"Mon Mar 17 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Tue Mar 18 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Toulouse",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to use the ATL language to build model transformations. Training created by the ATL commiters team.",
+		"keywords":"atl,model transformation,emf,ecore,dsl",
+		"address":{
+			"street":"",
+			"zip":"31000",
+			"city":"Toulouse",
+			"country": "France",
+			"geoLoc":{
+				"lat":"43.604652",
+				"lon":"1.444209"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Sirius",
+		"date":"Mon Mar 24 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Thu Mar 27 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Sirius to build your own modeling tool. Training created by the Sirius commiters team.",
+		"keywords":"sirius,viewpoint,emf,ecore,dsl,dsm",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Acceleo 3",
+		"date":"Mon Apr 07 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Wed Apr 09 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Acceleo to build generation modules. Training created by the Acceleo commiters team.",
+		"keywords":"acceleo,mtl,modeling,emf,ecore,dsl",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Développement de plug-ins Eclipse et Eclipse RCP",
+		"date":"Mon Apr 28 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Wed Apr 30 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Discover the EMF framework and the useful projects built on it.",
+		"keywords":"eclipse,rcp",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Panorama Eclipse Modeling",
+		"date":"Mon May 12 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Wed May 14 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Discover the EMF framework and the useful projects built on it.",
+		"keywords":"emf,ecore,dsl,modeling",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Acceleo 3",
+		"date":"Mon May 19 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Wed May 21 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Acceleo to build generation modules. Training created by the Acceleo commiters team.",
+		"keywords":"acceleo,mtl,modeling,emf,ecore,dsl",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Sirius",
+		"date":"Mon May 19 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Thu May 22 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Sirius to build your own modeling tool. Training created by the Sirius commiters team.",
+		"keywords":"sirius,viewpoint,emf,ecore,dsl,dsm",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"EMF",
+		"date":"Mon Jun 02 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Tue Jun 03 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how are designed and how to use Eclipse EMF and the major components based on this framework.",
+		"keywords":"emf,ecore,dsl",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"GMF",
+		"date":"Wed Jun 04 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Fri Jun 06 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to use Eclipse GMF to build graphical modelers.",
+		"keywords":"emf,ecore,dsl,gmf,dsm",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"ATL",
+		"date":"Mon Jun 23 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Tue Jun 24 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to use the ATL language to build model transformations. Training created by the ATL commiters team.",
+		"keywords":"atl,model transformation,emf,ecore,dsl",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Sirius",
+		"date":"Mon Jun 23 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Thu Jun 26 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Sirius to build your own modeling tool. Training created by the Sirius commiters team.",
+		"keywords":"sirius,viewpoint,emf,ecore,dsl,dsm",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Développement de plug-ins Eclipse et Eclipse RCP",
+		"date":"Mon Jun 30 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Wed Jul 02 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Discover the EMF framework and the useful projects built on it.",
+		"keywords":"eclipse,rcp",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Xtext",
+		"date":"Mon Aug 25 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Tue Aug 26 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Xtext to build your own textual modeling tools. Training created by EMF experts.",
+		"keywords":"xtext,emf,ecore,dsl,dsm",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"EMF",
+		"date":"Mon Aug 25 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Tue Aug 26 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Toulouse",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how are designed and how to use Eclipse EMF and the major components based on this framework.",
+		"keywords":"emf,ecore,dsl",
+		"address":{
+			"street":"",
+			"zip":"31000",
+			"city":"Toulouse",
+			"country": "France",
+			"geoLoc":{
+				"lat":"43.604652",
+				"lon":"1.444209"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"GMF",
+		"date":"Wed Aug 27 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Fri Aug 29 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Toulouse",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to use Eclipse GMF to build graphical modelers.",
+		"keywords":"emf,ecore,dsl,gmf,dsm",
+		"address":{
+			"street":"",
+			"zip":"31000",
+			"city":"Toulouse",
+			"country": "France",
+			"geoLoc":{
+				"lat":"43.604652",
+				"lon":"1.444209"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Acceleo 3",
+		"date":"Mon Sep 08 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Wed Sep 10 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Acceleo to build generation modules. Training created by the Acceleo commiters team.",
+		"keywords":"acceleo,mtl,modeling,emf,ecore,dsl",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Sirius",
+		"date":"Mon Sep 15 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Thu Sep 18 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Sirius to build your own modeling tool. Training created by the Sirius commiters team.",
+		"keywords":"sirius,viewpoint,emf,ecore,dsl,dsm",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Développement de plug-ins Eclipse et Eclipse RCP",
+		"date":"Mon Sep 22 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Wed Sep 24 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Discover the EMF framework and the useful projects built on it.",
+		"keywords":"eclipse,rcp",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"EMF",
+		"date":"Mon Oct 06 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Tue Oct 07 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how are designed and how to use Eclipse EMF and the major components based on this framework.",
+		"keywords":"emf,ecore,dsl",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"GMF",
+		"date":"Wed Oct 08 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Fri Oct 10 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to use Eclipse GMF to build graphical modelers.",
+		"keywords":"emf,ecore,dsl,gmf,dsm",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"ATL",
+		"date":"Mon Oct 13 2014 00:00 GMT+0200 (CEST)",
+		"end-date":"Tue Oct 14 2014 00:00 GMT+0200 (CEST)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to use the ATL language to build model transformations. Training created by the ATL commiters team.",
+		"keywords":"atl,model transformation,emf,ecore,dsl",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Acceleo 3",
+		"date":"Mon Nov 03 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Wed Nov 05 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Acceleo to build generation modules. Training created by the Acceleo commiters team.",
+		"keywords":"acceleo,mtl,modeling,emf,ecore,dsl",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Panorama Eclipse Modeling",
+		"date":"Mon Nov 17 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Wed Nov 19 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Discover the EMF framework and the useful projects built on it.",
+		"keywords":"emf,ecore,dsl,modeling",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Xtext",
+		"date":"Mon Nov 24 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Tue Nov 25 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Xtext to build your own textual modeling tools. Training created by EMF experts.",
+		"keywords":"xtext,emf,ecore,dsl,dsm",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"Sirius",
+		"date":"Mon Dec 01 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Thu Dec 04 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Nantes",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to efficiently use Sirius to build your own modeling tool. Training created by the Sirius commiters team.",
+		"keywords":"sirius,viewpoint,emf,ecore,dsl,dsm",
+		"address":{
+			"street":"7, boulevard Ampère",
+			"zip":"44470",
+			"city":"Carquefou",
+			"country": "France",
+			"geoLoc":{
+				"lat":"47.3034962",
+				"lon":"-1.5046973"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"EMF",
+		"date":"Mon Dec 08 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Tue Dec 09 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how are designed and how to use Eclipse EMF and the major components based on this framework.",
+		"keywords":"emf,ecore,dsl",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	},
+	{
+		"type":"et",
+		"title":"GMF",
+		"date":"Wed Dec 10 2014 00:00 GMT+0100 (CET)",
+		"end-date":"Fri Dec 12 2014 00:00 GMT+0100 (CET)",
+		"company":"Obeo",
+		"locationName":"Obeo Paris",
+		"registration":"http://www.obeo.fr/pages/formations/fr",
+		"infoLink":"http://www.obeo.fr/pages/formations/fr",
+		"description":"Learn how to use Eclipse GMF to build graphical modelers.",
+		"keywords":"emf,ecore,dsl,gmf,dsm",
+		"address":{
+			"street":"2 route de la Noue",
+			"zip":"91193",
+			"city":"Gif sur Yvette",
+			"country": "France",
+			"geoLoc":{
+				"lat":"48.7015105",
+				"lon":"2.101799"
+			}
+		}
+	}
+
+	
 	]
 }
 
