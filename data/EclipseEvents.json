@@ -2,6 +2,50 @@
 {
 	"events":[
 	{
+		"type":"ed",
+		"title":"Eclipse Day Florence",
+		"date":"May 28, 2014",
+		"time":"09:00 - 18:00",
+		"end-date" : "",
+		"locationName":"Palazzo dei Congressi",
+		"registration":"",
+		"infoLink":"http://www.eclipsedayflorence.com/",
+		"description":"A one day conference, with a great international scope, dedicated to the diffusion of the Open Source with special focus on Eclipse technologies. Lots of very interesting talks on the most important projects of the Eclipse community and concrete examples of successful adoption of these technologies",
+		"address":{
+			"street":"Piazza Adua, 1",
+			"zip":"38400",
+			"city":"Firenze",
+			"country": "Italy",				
+			"geoLoc":{
+				"lat":"43.777532",
+				"lon":"11.2492058"
+			}
+			
+		}
+	},
+	{
+		"type":"ed",
+		"title":"Eclipse IoT Day Grenoble",
+		"date":"Feb 19, 2014",
+		"time":"09:00 - 18:00",
+		"end-date" : "",
+		"locationName":"Maison Jean Kuntzmann",
+		"registration":"https://www.eventbrite.ca/e/billets-eclipse-iot-day-9890783600",
+		"infoLink":"http://wiki.eclipse.org/Eclipse_IoT_Day_Grenoble_2014",
+		"description":"Meet us in Grenoble for a full day of diverse presentations and fruitful networking on the topic of M2M and IoT",
+		"address":{
+			"street":"110, rue de la chimie",
+			"zip":"38400",
+			"city":"Saint Martin d'Hères",
+			"country": "France",				
+			"geoLoc":{
+				"lat":"45.194033",
+				"lon":"5.7678186"
+			}
+			
+		}
+	},
+	{
 	     "type":"ht",
 	     "title":"Hackathon Hamburg (2013/2014)",
 	     "date":"Jan 17 2014 18:00 GMT+0100 (CET)",
@@ -61,29 +105,6 @@
 	            "lon": "1.444209" 
 	        } 
 	    } 
-	},
-
-	{
-		"type":"ed",
-		"title":"Eclipse Day at GooglePlex",
-		"date":"Dec 18, 2013",
-		"time":"09:00 - 18:00",
-		"end-date" : "",
-		"locationName":"GooglePlex, Lobby Building CL2",
-		"registration":"http://wiki.eclipse.org/Eclipse_Day_At_Googleplex_2013",
-		"infoLink":"http://wiki.eclipse.org/Eclipse_Day_At_Googleplex_2013",
-		"description":"Eclipse Day at the Googleplex is a 1-day event for developers to learn about different Eclipse projects and related technologies. You are invited to attend and listen as experts from the Eclipse projects and Google share their experiences of using Eclipse. It's also a great opportunity for you to meet and network with other Eclipse enthusiasts.",
-		"address":{
-			"street":"1200 Crittenden Lane",
-			"zip":"CA 94043",
-			"city":"Mountain View",
-			"country": "USA",				
-			"geoLoc":{
-				"lat":"37.4254704",
-				"lon":"-122.0719798"
-			}
-			
-		}
 	},
 	{
 	     "type":"et",
