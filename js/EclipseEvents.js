@@ -43,7 +43,7 @@
 		for ( var i in eclipseEvents) {		
 			eclipseEvents[i].dateTime = new Date (eclipseEvents[i].date);
 		}	
-		eclipseEvents.sort(compareEventsByDate);
+		eclipseEvents.sort(	compareEventsByDate);
 		
 		for ( var i in eclipseEvents) {
 			eventtype = eclipseEvents[i].type;

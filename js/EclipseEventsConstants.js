@@ -7,6 +7,7 @@
  *
  * Contributors:
  *    Angelika Wittek
+ * 	  Ralph Mueller
  */
 
 var browserTitle = "Eclipse Events";
@@ -14,6 +15,7 @@ var pageTitle = "Upcoming Eclipse Events";
 var jsonDatafile = 'data/EclipseEvents.json';
 var eventTypeInfo = {
 	dc : {
+		rank : 2,
 		name : "Demo Camps Fall 2013",
 		image : "images/marker-icon-green.png",
 		image_small : "images/small-marker-icon-green.png",
@@ -23,6 +25,7 @@ var eventTypeInfo = {
         }
 	},
 	ed : {
+		rank : 3,		
 		name : "Eclipse Days",
 		image : "images/marker-icon-blue.png",
 		image_small : "images/small-marker-icon-blue.png",
@@ -32,6 +35,7 @@ var eventTypeInfo = {
         }
 	},
 	ec : {
+		rank : 1,
 		name : "EclipseCons",
 		image : "images/marker-icon-red.png",
 		image_small : "images/small-marker-icon-red.png",
@@ -41,6 +45,7 @@ var eventTypeInfo = {
         }
 	},
 	ht : {
+		rank : 4,		
 		name : "Hackathons",
 		image : "images/marker-icon-yellow.png",
 		image_small : "images/small-marker-icon-yellow.png",
@@ -50,6 +55,7 @@ var eventTypeInfo = {
         }
 	},
 	et : {
+		rank : 5,
 		name : "Training Series",
 		image : "images/marker-icon-cyan.png",
 		image_small : "images/small-marker-icon-cyan.png",
@@ -58,6 +64,16 @@ var eventTypeInfo = {
             y:"41"
         }
 	},
+	ee : {
+		rank : 5,
+		name : "Other interesting Events",
+		image : "images/marker-icon-purple.png",
+		image_small : "images/small-marker-icon-purple.png",
+		icon_size:{
+            x:"25",
+            y:"41"
+        }
+	},	
 	unknown : {
 		name : "unknown",
 		image : "images/marker-icon-gray.png",

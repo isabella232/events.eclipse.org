@@ -1,6 +1,94 @@
 
 {
 	"events":[
+	{ 
+	    "type":"ed", 
+	    "title":"Building OSGi / Maven Applications with Tycho / Maven - The Netherlands", 
+	    "date":"Mon Apr 7 2014 09:00 GMT+0100 (CET)", 
+	          "end-date":"Mon Apr 7 2014 17:00 GMT+0100 (CET)", 
+	          "company":"Industrial TSI", 
+	    "locationName":"Nieuwegein, The Netherlands", 
+	    "registration":"http://industrial-tsi.com/training-agenda/2013-11-29/training-building-osgi-maven-applications-tycho-maven-netherlands", 
+	    "infoLink":"http://industrial-tsi.com/training-agenda/2013-11-29/training-building-osgi-maven-applications-tycho-maven-netherlands", 
+	    "description":" The “Building OSGi and RCP applications with Maven / Tycho” training will teach you how to build bundles, features, products, p2 repositories, ... in a fully automated way using Tycho, a Maven-based build system from the Eclipse ecosystem.", 
+	          "keywords":"OSGi, Maven, Tycho", 
+	    "address":{ 
+	        "street":"Dukatenburg 82b", 
+	        "zip":"3437 AE", 
+	        "city":"Nieuwegein", 
+	        "country": "The Netherlands", 
+	        "geoLoc":{ 
+	            "lat":" 52.040614", 
+	            "lon":" 5.078675" 
+	        } 
+	    } 
+	},	
+	{ 
+	    "type":"et", 
+	    "title":" Developing OSGi Equinox - The Netherlands ", 
+	    "date":"Tue Apr 15 2014 09:00 GMT+0100 (CET)", 
+	          "end-date":"Wed Apr 16 2014 17:00 GMT+0100 (CET)", 
+	          "company":"Industrial TSI", 
+	    "locationName":"Nieuwegein, The Netherlands", 
+	    "registration":"http://industrial-tsi.com/training-agenda/2014-04-15/eclipse-training-series-developing-osgi-equinox-netherlands-2-days", 
+	    "infoLink":"http://industrial-tsi.com/training-agenda/2014-04-15/eclipse-training-series-developing-osgi-equinox-netherlands-2-days", 
+	    "description":" This intensive course covers fundamentals of OSGi as well as intermediate topics and specific features of Eclipse Equinox. You will apply the theoretical knowledge in several labs which will give you the practical experience necessary for your projects.", 
+	          "keywords":"OSGi, Eclipse Equinox", 
+	    "address":{ 
+	        "street":"Dukatenburg 82b", 
+	        "zip":"3437 AE", 
+	        "city":"Nieuwegein", 
+	        "country": "The Netherlands", 
+	        "geoLoc":{ 
+	            "lat":" 52.040614", 
+	            "lon":" 5.078675" 
+	        } 
+	    } 
+	},
+	{ 
+	    "type":"et", 
+	    "title":" Eclipse 4 RCP Development - Belgium", 
+	    "date":"Mon Mar 10 2014 09:00 GMT+0100 (CET)", 
+	          "end-date":"Fri Mar 10 2014 17:00 GMT+0100 (CET)", 
+	          "company":"Industrial TSI", 
+	    "locationName":"Belgium", 
+	    "registration":"http://industrial-tsi.com/training-agenda/2014-03-10/training-eclipse-4-rcp-development-belgium-5-days", 
+	    "infoLink":" http://industrial-tsi.com/training-agenda/2014-03-10/training-eclipse-4-rcp-development-belgium-5-days ", 
+	    "description":" The course will help you understand how to implement your own application based on the Eclipse 4 platform. The Eclipse 4 release significantly changes the programming model for Eclipse RCP development. The course explains the existing core frameworks in Eclipse, e.g. SWT, databinding, plug-in architecture, extension point, etc. as well as the new Eclipse 4 platform concepts, e.g. dependency injection, declarative styling, service consumption, the application model, the rendering framework, etc. ", 
+	          "keywords":"RCP Development, Eclipse 4, SWT", 
+	    "address":{ 
+	        "street":"", 
+	        "zip":"", 
+	        "city":"", 
+	        "country": "Belgium", 
+	        "geoLoc":{ 
+	            "lat":" 52.040614", 
+	            "lon":" 5.078675" 
+	        } 
+	    } 
+	},
+	{ 
+	    "type":"et", 
+	    "title":" Eclipse 4 RCP Development - The Netherlands", 
+	    "date":"Mon Mar 24 2014 09:00 GMT+0100 (CET)", 
+	          "end-date":"Fri Mar 28 2014 17:00 GMT+0100 (CET)", 
+	          "company":"Industrial TSI", 
+	    "locationName":"Nieuwegein, The Netherlands", 
+	    "registration":" http://industrial-tsi.com/training-agenda/2014-03-24/training-eclipse-4-rcp-development-netherlands-5-days ", 
+	    "infoLink":" http://industrial-tsi.com/training-agenda/2014-03-24/training-eclipse-4-rcp-development-netherlands-5-days ", 
+	    "description":" The course will help you understand how to implement your own application based on the Eclipse 4 platform. The Eclipse 4 release significantly changes the programming model for Eclipse RCP development. The course explains the existing core frameworks in Eclipse, e.g. SWT, databinding, plug-in architecture, extension point, etc. as well as the new Eclipse 4 platform concepts, e.g. dependency injection, declarative styling, service consumption, the application model, the rendering framework, etc. ", 
+	          "keywords":"RCP Development, Eclipse 4, SWT", 
+	    "address":{ 
+	        "street":"Dukatenburg 82b", 
+	        "zip":"3437 AE", 
+	        "city":"Nieuwegein", 
+	        "country": "The Netherlands", 
+	        "geoLoc":{ 
+	            "lat":" 52.040614", 
+	            "lon":" 5.078675" 
+	        } 
+	    } 
+	},
 	{
 		"type":"ed",
 		"title":"Eclipse Day Florence",
@@ -44,27 +132,6 @@
 			}
 			
 		}
-	},
-	{
-	     "type":"ht",
-	     "title":"Hackathon Hamburg (2013/2014)",
-	     "date":"Jan 17 2014 18:00 GMT+0100 (CET)",
-	     "end-date":"Jan 17 2014 22:00 GMT+0100 (CET)",
-	     "locationName":"Hapag-Lloyd AG",
-	     "registration":"https://wiki.eclipse.org/Hackathon_Hamburg_2013",
-	     "infoLink":"https://wiki.eclipse.org/Hackathon_Hamburg_2013",
-	     "description":"In this event we will hack the Eclipse source code. If you are an Eclipse user, contributor or committer, we hope this event will be a lot of fun for you. Attendees can hack away with the help of experiences Eclipse developers and can help to improve the Eclipse platform and its projects.",
-	     "keywords":"Hackathon",
-	     "address":{
-	         "street":"Ballindamm 25",
-	         "zip":"20095",
-	         "city":"Madrid",
-	         "country": "Germany",
-	         "geoLoc":{
-	             "lat":"53.55343",
-	             "lon":"9.99789"
-	         }
-	     }
 	},
 	{ 
 	    "type":"ec", 
@@ -263,28 +330,6 @@
 	},
 	{
 	    "type":"et",
-	    "title":"Eclipse RCP 4 (French)",
-	    "date":"Tue Jan 14 2014 09:00 GMT+0100 (CET)",
-	        "end-date":"Fri Jan 17 2014 17:00 GMT+0100 (CET)",
-	        "company":"OPCoach",
-	    "locationName":"Toulouse",
-	    "registration":"http://www.opcoach.com/?p=4819",
-	    "infoLink":"http://www.opcoach.com/?p=4819",
-	    "description":"Formation Eclipse RCP 4 français",
-	        "keywords":"formation Eclipse 4,Eclipse 4 training",
-	    "address":{
-	        "street":"36 Rue Jacques Babinet",
-	        "zip":"31100",
-	        "city":"Toulouse",
-	        "country": "France",
-	        "geoLoc":{
-	            "lat":"43.6057281",
-	            "lon":"1.4486901"
-	        }
-	    }
-	},
-	{
-	    "type":"et",
 	    "title":"Migration Eclipse 3->4 (French)",
 	    "date":"Thu Jan 30 2014 09:00 GMT+0100 (CET)",
 	        "end-date":"Fri Jan 31 2014 17:00 GMT+0100 (CET)",
@@ -438,50 +483,7 @@
 	        }
 	    }
 	},
-	{
-	     "type":"et",
-	     "title":"Eclipse RCP 4 (Spanish)",
-	     "date":"Tue Jan 07 2014 09:00 GMT+0100 (CET)",
-	     "end-date":"Fri Jan 10 2014 17:00 GMT+0100 (CET)",
-	     "company":"OPCoach",
-	     "locationName":"Barcelona",
-	     "registration":"http://www.opcoach.com/?p=4784",
-	     "infoLink":"http://www.opcoach.com/?p=4784",
-	     "description":"Formación Eclipse RCP4",
-	     "keywords":"formación Eclipse 4,Eclipse 4 training",
-	     "address":{
-	         "street":"",
-	         "zip":"",
-	         "city":"Barcelona",
-	         "country": "Spain",
-	         "geoLoc":{
-	             "lat":"41.383",
-	             "lon":"2.1833"
-	         }
-	     }
-	},
-	{
-	     "type":"et",
-	     "title":"Eclipse RCP 4 (Spanish)",
-	     "date":"Mon Jan 20 2014 09:00 GMT+0100 (CET)",
-	     "end-date":"Thu Jan 23 2014 17:00 GMT+0100 (CET)",
-	     "company":"OPCoach",
-	     "locationName":"Madrid",
-	     "registration":"http://www.opcoach.com/?p=4789",
-	     "infoLink":"http://www.opcoach.com/?p=4789",
-	     "description":"Formación Eclipse RCP4",
-	     "keywords":"formación Eclipse 4,Eclipse 4 training",
-	     "address":{
-	         "street":"",
-	         "zip":"",
-	         "city":"Madrid",
-	         "country": "Spain",
-	         "geoLoc":{
-	             "lat":"40.4",
-	             "lon":"-3.6833"
-	         }
-	     }
-	},	
+
 	{
 	     "type":"et",
 	     "title":"Eclipse RCP 4 (Spanish)",
