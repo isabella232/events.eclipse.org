@@ -229,7 +229,7 @@
 		// +1 if e1 is after e2	
 		return compareDates (e1.dateTime, e2.dateTime);
 	}
-// compare tow dates, returns
+// compare two dates, returns
 	function compareDates (d1, d2) {
 		// -1 if d1 before d2
 		// 0  if d1 and d2 are equal
