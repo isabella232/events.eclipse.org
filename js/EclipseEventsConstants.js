@@ -65,7 +65,7 @@ var eventTypeInfo = {
         }
 	},
 	ee : {
-		rank : 5,
+		rank : 6,
 		name : "Other interesting Events",
 		image : "images/marker-icon-purple.png",
 		image_small : "images/small-marker-icon-purple.png",
