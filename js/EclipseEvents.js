@@ -7,6 +7,9 @@
  *
  * Contributors:
  *    Angelika Wittek
+ *    Ralph Müller (rm)
+ * 
+ * 24.01.2014 rm: changed sort routine, sort by rank of event first, then by date
  */
 		
 	var map;
@@ -43,7 +46,7 @@
 		for ( var i in eclipseEvents) {		
 			eclipseEvents[i].dateTime = new Date (eclipseEvents[i].date);
 		}	
-		eclipseEvents.sort(	compareEventsByDate);
+		eclipseEvents.sort(	compareEventsByRankAndDate );
 		
 		for ( var i in eclipseEvents) {
 			eventtype = eclipseEvents[i].type;
@@ -222,11 +225,17 @@
 		}
 	}
 
-// compares the "date" fields of 2 events, returns
-	function compareEventsByDate (e1, e2) {
-		// -1 if e1 before e2
-		// 0  if e1 and e2 are equal
-		// +1 if e1 is after e2	
+// compares the rank of event types first, for same ranks compare "date" fields of 2 events, returns
+	function compareEventsByRankAndDate (e1, e2) {
+		// -1 if e1 rank < e2 rank
+		// result of compareDates if e1 and e2 ranks are equal
+		// +1 e1 rank > e2 rank
+		if ( eventTypeInfo[e1.type].rank < eventTypeInfo[e2.type].rank ) {
+			return (-1);
+		}
+		if ( eventTypeInfo[e1.type].rank > eventTypeInfo[e2.type].rank ) {
+			return (1);
+		}
 		return compareDates (e1.dateTime, e2.dateTime);
 	}
 // compare two dates, returns
