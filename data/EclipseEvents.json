@@ -236,6 +236,26 @@
 	        } 
 	    } 
 	},
+	{ 
+	    "type":"ec", 
+	    "title":"EclipseCon Europe 2014", 
+	    "date":"Oct 21 2014 09:00 GMT-0900", 
+	    "end-date":"Oct 23 2014 17:00 GMT-0900", 
+	    "locationName":"Forum Am Schlosspark Ludwigsburg", 
+	    "registration":"", 
+	    "infoLink":"http://www.eclipsecon-europe.org", 
+	    "description":"EclipseCon France is designed to create opportunities for the Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse and its member companies. ", 
+	    "address":{ 
+	        "street":"Stuttgarter Straße 33", 
+	        "zip":"71638", 
+	        "city":"Ludwigsburg", 
+	        "country": "Germany", 
+	        "geoLoc":{ 
+	            "lat": "48.89228", 
+	            "lon": "9.1948577"
+	        } 
+	    } 
+	},	
 	{
 	     "type":"et",
 	     "title":"Eclipse RCP 4 (Spanish)",

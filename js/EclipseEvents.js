@@ -9,7 +9,8 @@
  *    Angelika Wittek
  *    Ralph Müller (rm)
  * 
- * 24.01.2014 rm: changed sort routine, sort by rank of event first, then by date
+ * 	24.01.2014 rm: changed sort routine, sort by rank of event first, then by date
+ *
  */
 		
 	var map;
