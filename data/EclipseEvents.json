@@ -3,6 +3,27 @@
 	"events":[
 	{ 
 	    "type":"ee", 
+	    "title":"JavaLand 2014", 
+	    "date":"Mar 25 2014 09:00 GMT+0100 (CET)", 
+	    "end-date":"Mar 26 2014 18:00 GMT+0100 (CET)", 
+	    "locationName":"<a href=http://www.phantasialand.de/en/home>Phantasialand</a>", 
+	    "registration":"http://www.javaland.eu/en/registration.html", 
+	    "infoLink":"http://www.javaland.eu/", 
+	    "description":"The Java Community Conference. For more information refer to <a href=http://www.javaland.eu/>the website</a>", 
+	          "keywords":"Java, iJUG, developer conference", 
+	    "address":{ 
+	        "street":"Berggeiststraße 31-41", 
+	        "zip":"50321", 
+	        "city":"Bruehl", 
+	        "country": "Germany", 
+	        "geoLoc":{ 
+	            "lat": "50.79902", 
+	            "lon": "6.88425" 
+	        } 
+	    }
+	},
+	{ 
+	    "type":"ee", 
 	    "title":"OpenUp Camp Nuremberg", 
 	    "date":"Feb 14 2014 09:00 GMT+0100 (CET)", 
 	    "end-date":"Feb 16 2014 16:00 GMT+0100 (CET)", 
