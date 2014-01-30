@@ -8,7 +8,7 @@
 	    "end-date":"Mar 26 2014 18:00 GMT+0100 (CET)", 
 	    "locationName":"<a href=http://www.phantasialand.de/en/home>Phantasialand</a>", 
 	    "registration":"http://www.javaland.eu/en/registration.html", 
-	    "infoLink":"http://www.javaland.eu/", 
+	    "infoLink":"http://www.javaland.eu", 
 	    "description":"The Java Community Conference. For more information refer to <a href=http://www.javaland.eu/>the website</a>", 
 	          "keywords":"Java, iJUG, developer conference", 
 	    "address":{ 
@@ -49,8 +49,8 @@
 	    "date":"Feb 5 2014 09:00 GMT+0100 (CET)", 
         "end-date":"Feb 7 2014 17:00 GMT+0100 (CET)", 
 	    "locationName":"<a href=http://www.centre-congres-toulouse.fr/2-38591-Home.php>Centre de Congrès Pierre Baudis</a>", 
-	    "registration":"http://www.erts2014.org/", 
-	    "infoLink":"http://www.erts2014.org/", 
+	    "registration":"http://www.erts2014.org", 
+	    "infoLink":"http://www.erts2014.org", 
 	    "description":"The ERTS-2 Congress is a unique European cross sector event on Embedded Software and Systems, a platform for top-level scientific with representatives from universities, research centers and industries. The previous editions gathered more than 100 talks, 500 participants and 60 exhibitors. <br>This year, Eclipse's Mike Milinkovich will give one of the keynotes, and the <a href='http://polarsys.org/'>PolarSys team</a> will have a booth at ERTS.", 
 	          "keywords":"System Engineering, Conference, Toulouse", 
 	    "address":{ 
@@ -70,8 +70,8 @@
 	    "date":"Feb 3 2014 09:00 GMT+0100 (CET)", 
 	    "end-date":"Feb 7 2014 17:00 GMT+0100 (CET)", 
 	    "locationName":"ICM - International Congress Center Munich", 
-	    "registration":"http://www.oop-konferenz.de/", 
-	    "infoLink":"http://www.oop-konferenz.de/", 
+	    "registration":"http://www.oop-konferenz.de", 
+	    "infoLink":"http://www.oop-konferenz.de", 
 	    "description":"Well-known SW development confernce in Munich, Germany.<br>the Eclipse Foundation and its members will organize with its members a booth and <a href='http://www.oop-konferenz.de/nc/oop2014/fachmesse/firmenvortraege/company-detail/special-day-eclipse.html'>a free Eclipse day</a>.", 
 	          "keywords":"Software Developement, Software Architecture, Agile Methods, Eclispe", 
 	    "address":{ 
