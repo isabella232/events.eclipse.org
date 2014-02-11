@@ -2,6 +2,28 @@
 {
 	"events":[
 	{ 
+		    "type":"dc", 
+		    "title":"Stammtisch Braunschweig", 
+		    "date":"Mar 6 2014 19:00 GMT+0100 (CET)", 
+		    "end-date":"Mar 6 2014 22:00 GMT+0100 (CET)", 
+		    "locationName":"Bredex Office Braunschweig</a>", 
+		    "registration":"mailto:eclipsestammtisch@bredex.de", 
+		    "infoLink":"http://www.bredex.de/index.php/event_de/events/eclipse-stammtisch-138.html", 
+		    "description":"The first BREDEX Eclipse event of the year is a Stammtisch on 6th March at 7pm.<br>The topic for the evening is <strong>JavaFX</strong>. JavaFX is a modern alternative to Swing, and can be used in desktop and in mobile applications due to its support of touch and gestures. <br>The first part of the evening will consist of a talk about JavaFX: the technology, examples, first experiences from current projects and thoughts on design and automated testing. <br>After the talk, we'll go to a local restaurant to get some food and drink and chat about the talk and other Eclipse topics.<br>Registration is free : please send a short email to eclipsestammtisch@bredex.de if you would like to come.", 
+		    "keywords":"Java, iJUG, developer conference", 
+		    "address":{ 
+		        "street":"Mauernstr. 33", 
+		        "zip":"38100", 
+		        "city":"Braunschweig", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "52.266621", 
+		            "lon": "10.5305028" 
+		        } 
+		    }
+		},
+	
+	{ 
 	    "type":"ee", 
 	    "title":"JavaLand 2014", 
 	    "date":"Mar 25 2014 09:00 GMT+0100 (CET)", 

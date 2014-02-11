@@ -16,7 +16,7 @@ var jsonDatafile = 'data/EclipseEvents.json';
 var eventTypeInfo = {
 	dc : {
 		rank : 2,
-		name : "Demo Camps Fall 2013",
+		name : "Demo Camps & Stammtisch",
 		image : "images/marker-icon-green.png",
 		image_small : "images/small-marker-icon-green.png",
 		icon_size:{
