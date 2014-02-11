@@ -1,6 +1,26 @@
 
 {
 	"events":[
+	{
+        "type":"ed",
+	    "title":"Eclipse Day Sydney",
+        "date":"Apr 2 2014 08:30 GMT+0800 (UCT)",
+        "end-date":"Apr 2 2014 17:30 GMT+0800 (UCT)",
+        "locationName":"Actuate Australia",
+        "registration":"https://www.eventbrite.com.au/e/eclipse-developer-day-sydney-2014-tickets-5926796207",
+        "infoLink":"https://wiki.eclipse.org/Eclipse_Day_Sydney_2014#Eclipse_developer_day_in_Sydney%2E2C_Australia_on_2nd_April_2014",
+        "description":"Eclipse Developer Day Sydney 2014",
+        "address":{
+            "street":"100, Walker Street",
+            "zip":"2060",
+            "city":"North Sydney",
+            "country": "Australia",
+            "geoLoc":{
+                "lat":"-33.838315",
+                "lon":"151.208503"
+            }
+        }
+    },
 	{ 
 		    "type":"dc", 
 		    "title":"Stammtisch Braunschweig", 
