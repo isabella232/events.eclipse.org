@@ -1,6 +1,27 @@
 
 {
 	"events":[
+	{ 
+	    "type":"ee", 
+	    "title":"Eclipse Special Day at Jax 2014", 
+	    "date":"May 15 2014 09:00 GMT+0100 (CET)", 
+	    "end-date":"May 15 2014 18:00 GMT+0100 (CET)", 
+	    "locationName":"Rheingoldhalle Mainz", 
+	    "registration":"http://jax.de/2014/special-days/eclipse-day", 
+	    "infoLink":"http://www.javaland.eu", 
+	    "description":"Als Java-Entwicklungsumgebung startete Eclipse einst seine phänomenale Karriere, als Werkbank und Integrationsplattform zahlreicher weiterer Tools für den globalen und teambasierten Entwicklungsprozess hat sich Eclipse längst etabliert. Jenseits der Toolorientierung hat sich Eclipse als Plattform für eine Fülle an Anwendungen einen Namen gemacht. Eclipse ist auch ein wichtiger Innovationstreiber, das zeigen nicht zuletzt Projekte wie Orion oder die enge Verknüpfung mit JavaFX. Der Eclipse Day der JAX 2014 gibt einen Ein- und Überblick in die vielfältigen Aspekte von Eclipse als Anwendungs- und Technologie-Plattform.", 
+	          "keywords":"Java, JAX 2014, developer conference, Eclipse Special day", 
+	    "address":{ 
+	        "street":"Rheinstraße 66", 
+	        "zip":"55116", 
+	        "city":"Mainz", 
+	        "country": "Germany", 
+	        "geoLoc":{ 
+	            "lat": "50.0019", 
+	            "lon": "8.27561" 
+	        } 
+	    }
+	},
 	{
         "type":"ed",
 	    "title":"Eclipse Day Sydney",
@@ -41,8 +62,7 @@
 		            "lon": "10.5305028" 
 		        } 
 		    }
-		},
-	
+		},	
 	{ 
 	    "type":"ee", 
 	    "title":"JavaLand 2014", 
