@@ -102,17 +102,27 @@
 		// ------------- build the map with the layers:
 		var overlayMaps = {};
 		var ml;
-		for (var t in markers4Layer) {
-			ml =  L.layerGroup(markers4Layer[t]);
-			map.addLayer(ml);
-			overlayMaps[eventTypeInfo[t].name + " <img src='" +eventTypeInfo[t].image_small + "' />" ]  = ml;
+		
+		// we want to add the Layers in reverse order to the map -> most important last (foreground)
+		var eventTypeKeysReverse = new Array();
+		for (var k in eventTypeInfo) {
+			eventTypeKeysReverse.unshift(k);
+		}
+
+		for (var c = eventTypeKeysReverse.length, n = 0; n < c; n++) {
+		   var eventtype = eventTypeKeysReverse[n];
+		   if (markers4Layer[eventtype] != undefined) {
+				ml =  L.layerGroup(markers4Layer[eventtype]);
+				map.addLayer(ml);
+				overlayMaps[eventTypeInfo[eventtype].name + " <img src='" +eventTypeInfo[eventtype].image_small + "' />" ]  = ml;
+			}
 		}
 		
 		var baseMaps = {
 			"Map" : baseLayer
 		};
 
-        L.control.layers(baseMaps, overlayMaps, {collapsed:false}).addTo(map);
+		 L.control.layers(baseMaps, overlayMaps, {collapsed:false}).addTo(map);
         
         // ----------- create regionButtons in the div #regionButtons, for each dataset in regionInfos one button is created:
         for (var regionId in regionInfos) {
@@ -246,4 +256,3 @@
 		// +1 if d1 is after d2	
 		return (d1 - d2);
 	}	
-	
