@@ -14,6 +14,16 @@ var browserTitle = "Eclipse Events";
 var pageTitle = "Upcoming Eclipse Events";
 var jsonDatafile = 'data/EclipseEvents.json';
 var eventTypeInfo = {
+	ec : {
+		rank : 1,
+		name : "EclipseCons",
+		image : "images/marker-icon-red.png",
+		image_small : "images/small-marker-icon-red.png",
+		icon_size:{
+	    x:"25",
+	    y:"41"
+	    }
+	},		
 	dc : {
 		rank : 2,
 		name : "Demo Camps & Stammtisch",
@@ -29,16 +39,6 @@ var eventTypeInfo = {
 		name : "Eclipse Days",
 		image : "images/marker-icon-blue.png",
 		image_small : "images/small-marker-icon-blue.png",
-		icon_size:{
-            x:"25",
-            y:"41"
-        }
-	},
-	ec : {
-		rank : 1,
-		name : "EclipseCons",
-		image : "images/marker-icon-red.png",
-		image_small : "images/small-marker-icon-red.png",
 		icon_size:{
             x:"25",
             y:"41"
@@ -88,8 +88,8 @@ var eventTypeInfo = {
 var regionInfos = {
 	world : {
 		name : "World",
-		lat : "37.71859",
-		lon : "-5.44922",
+		lat : "20.71859",
+		lon : "20.44922",
 		zoom : "2"
 	},
 	ap : {
@@ -98,10 +98,16 @@ var regionInfos = {
 		lon : "101.68945",
 		zoom : "3"
 	},
+	au : {
+		name : "Australia",
+        lat  : "-23.838315",
+        lon  : "151.208503",
+        zoom : "3"
+	},	
 	emea : {
 		name : "Europe",
-		lat : "49.83798",
-		lon : "15.16113",
+		lat : "47.83798",
+		lon : "10.16113",
 		zoom : "4"
 	},
 	na : {
@@ -122,4 +128,5 @@ var regionInfos = {
 		lon : "2.432664",
 		zoom : "5"
 	}
+
 };
