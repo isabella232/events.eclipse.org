@@ -2,6 +2,27 @@
 {
 	"events":[
 	{ 
+	    "type":"dc", 
+	    "title":"IoT Stammtisch München", 
+	    "date":"Mar 28 2014 18:30 GMT+0100 (CET)", 
+	    "end-date":"Mar 6 2014 22:00 GMT+0100 (CET)", 
+	    "locationName":"<a href=http://wirtshaus-am-bavariapark.com>Wirtshaus am Bavariapark</a>", 
+	    "registration":"http://doodle.com/5ir5fs8avkueeriy", 
+	    "infoLink":"", 
+	    "description":"The <a href=iot.eclipse.org>Eclipse IoT</a> enthusiasts will get together, discuss, enjoy and have a good time! If you are not an enthisiast yet, you are invited as well! Please register - we need to keep track.", 
+	    "keywords":"IoT, Java, Eclipse", 
+	    "address":{ 
+	        "street":"Theresienhöhe 15", 
+	        "zip":"80339", 
+	        "city":"München", 
+	        "country": "Germany", 
+	        "geoLoc":{ 
+	            "lat": "48.13184", 
+	            "lon": "11.54454" 
+	        } 
+	    }
+	},	
+	{ 
 	    "type":"ee", 
 	    "title":"Eclipse Special Day at Jax 2014", 
 	    "date":"May 15 2014 09:00 GMT+0100 (CET)", 
@@ -21,7 +42,7 @@
 	            "lon": "8.27561" 
 	        } 
 	    }
-	},
+	},	
 	{
         "type":"ed",
 	    "title":"Eclipse Day Sydney",
@@ -47,7 +68,7 @@
 		    "title":"Stammtisch Braunschweig", 
 		    "date":"Mar 6 2014 19:00 GMT+0100 (CET)", 
 		    "end-date":"Mar 6 2014 22:00 GMT+0100 (CET)", 
-		    "locationName":"Bredex Office Braunschweig</a>", 
+		    "locationName":"Bredex Office Braunschweig", 
 		    "registration":"mailto:eclipsestammtisch@bredex.de", 
 		    "infoLink":"http://www.bredex.de/index.php/event_de/events/eclipse-stammtisch-138.html", 
 		    "description":"The first BREDEX Eclipse event of the year is a Stammtisch on 6th March at 7pm.<br>The topic for the evening is <strong>JavaFX</strong>. JavaFX is a modern alternative to Swing, and can be used in desktop and in mobile applications due to its support of touch and gestures. <br>The first part of the evening will consist of a talk about JavaFX: the technology, examples, first experiences from current projects and thoughts on design and automated testing. <br>After the talk, we'll go to a local restaurant to get some food and drink and chat about the talk and other Eclipse topics.<br>Registration is free : please send a short email to eclipsestammtisch@bredex.de if you would like to come.", 
