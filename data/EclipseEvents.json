@@ -1,6 +1,86 @@
 
 {
 	"events":[
+	{
+        "type":"ed",
+	    "title":"Eclipse Day Vorarlberg 2014",
+        "date":"Apr 29 2014 08:30 GMT+0100 (CET)",
+        "end-date":"Apr 29 2014 18:15 GMT+0100 (CET)",
+        "locationName":"University of Applied Sciences Vorarlberg",
+        "registration":"https://wiki.eclipse.org/Eclipse_Day_Vorarlberg_2014",
+        "infoLink":"https://wiki.eclipse.org/Eclipse_Day_Vorarlberg_2014",
+        "description":"All attendees must register for this event. Tutorial and presentation have a limited number of seats. Participation fee for the tutorial is € 10,-- the presentations are free. Students of the FHV are admission free.",
+        "address":{
+            "street":"Hochschulstrasse 1",
+            "zip":"6850",
+            "city":"Dornbirn",
+            "country": "Austria",
+            "geoLoc":{
+                "lat":"47.4067001",
+                "lon":"9.7443104"
+            }
+        }
+    },
+	{
+        "type":"ht",
+	    "title":"Eclipse Hackathon Hamburg, the 2nd",
+        "date":"Mar 28 2014 18:00 GMT+0100 (CET)",
+        "end-date":"Mar 28 2014 22:00 GMT+0100 (CET)",
+        "locationName":"Attraktor e.V.",
+        "registration":"https://wiki.eclipse.org/Hackathon_Hamburg_2014",
+        "infoLink":"https://wiki.eclipse.org/Hackathon_Hamburg_2014",
+        "description":"Attendees can hack away with the help of experiences Eclipse developers and can help to improve the Eclipse platform and its projects.",
+        "address":{
+            "street":"Mexikoring 21",
+            "zip":"22297",
+            "city":"Hamburg",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"53.60270",
+                "lon":"10.02320"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Berlin",
+        "date":"Jun 24 2014 17:30 GMT+0100 (CET)",
+        "end-date":"Jun 24 2014 22:00 GMT+0100 (CET)",
+        "locationName":"Fraunhofer FOKUS",
+        "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Berlin",
+        "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Berlin",
+        "description":"Eclipse DemoCamp Berlin the Luna edition.",
+        "address":{
+            "street":"Kaiserin- Augusta- Allee 31",
+            "zip":"10589",
+            "city":"Berlin",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"52.52599",
+                "lon":"13.31424"
+            }
+        }
+    },
+	{
+        "type":"ed",
+	    "title":"Eclipse IDD 2014",
+        "date":"Jun 3 2014 08:30 GMT+0100 (CET)",
+        "end-date":"Jun 3 2014 17:30 GMT+0100 (CET)",
+        "locationName":"Fraunhofer FOKUS",
+        "registration":"https://wiki.eclipse.org/Eclipse_IDD_2014",
+        "infoLink":"https://wiki.eclipse.org/Eclipse_IDD_2014",
+        "description":"The Eclipse Integrated Development Day 2014 focuses on topics concerned with the collaboration of engineers, the integration of tools, of data (i.e. models) and processes and with the coordination of different lifecycle activities. In summary this Eclipse Day focuses on Application Lifecycle Management (ALM). Attendees will have a chance to hear leading experts in the ALM domain as well as practitioners using Eclipse technology creating solutions which address this problem domain.",
+        "address":{
+            "street":"Kaiserin- Augusta- Allee 31",
+            "zip":"10589",
+            "city":"Berlin",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"52.52599",
+                "lon":"13.31424"
+            }
+        }
+    },
 	{ 
 	    "type":"dc", 
 	    "title":"IoT Stammtisch München", 
