@@ -1,6 +1,45 @@
 
 {
 	"events":[  
+	{
+        "type":"ed",
+	    "title":"Eclipse Day Montreal 2014",
+        "date":"June 10 2014 09:00 GMT+0500 (EST)",
+        "locationName":"Ericsson, (Subway station: De la savanne)",
+        "registration":"https://wiki.eclipse.org/Eclipse_Day_Montreal_2014",
+        "infoLink":"https://wiki.eclipse.org/Eclipse_Day_Montreal_2014",
+        "description":"Please see info link for more information",
+        "address":{
+            "street":"8400 Decarie Boulevard",
+            "zip":"",
+            "city":"Montreal",
+            "country": "Canada",
+            "geoLoc":{
+                "lat":"45.5009322",
+                "lon":"-73.6628046"
+            }
+        }
+    },	
+	{ 
+	    "type":"ee", 
+	    "title":"Automotive Software Development and Open Source", 
+	    "date":"June 25 2014 09:00 GMT+0100 (CET)", 
+	    "end-date":"June 26 2014 18:00 GMT+0100 (CET)", 
+	    "locationName":"angelo Hotel Munich Westpark", 
+	    "registration":"http://www.euroforum.de/software-eng/registration", 
+	    "infoLink":"http://www.euroforum.de/software-eng", 
+	    "description":"The first and only conference in Germany focusing on open source in automotive! Listen to presentations from Daimler, BMW, Mentor Graphics, IBM, Bosch Software Innovations, Hella, AUTOSAR, FEV, Validas, fortiss, Bearingpoint, Eclipse Foundation and ETAS. Use registration code 7701B1R23-20/D1400746 to get 20% discount.", 
+	    "address":{ 
+	        "street":"Albert-Rosshaupter-Str. 45", 
+	        "zip":"81369", 
+	        "city":"München", 
+	        "country": "Germany", 
+	        "geoLoc":{ 
+	            "lat": "48.1167809", 
+	            "lon": "11.5339212" 
+	        } 
+	    }
+	},
 	{ 
 	    "type":"ee", 
 	    "title":"IoTBE Meetup", 
