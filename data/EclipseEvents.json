@@ -1,6 +1,27 @@
 
 {
 	"events":[  
+	{ 
+	    "type":"ee", 
+	    "title":"IoTBE Meetup", 
+	    "date":"Apr 22 2014 19:00 GMT+0100 (CET)", 
+	    "end-date":"Apr 22 2014 22:00 GMT+0100 (CET)", 
+	    "locationName":"<a href=http://maps.google.com/maps?f=q&hl=en&q=Botenkopersstraat+2%2C+8500+Kortrijk%2C+be>Howest - The Level</a>", 
+	    "registration":"http://www.meetup.com/intom2m/events/168897132/", 
+	    "infoLink":"http://www.meetup.com/intom2m/events/168897132/", 
+	    "description":"Developing IoT solutions with Eclipse IoT open source services & frameworks", 
+	          "keywords":"IoT, Belgium, meetup", 
+	    "address":{ 
+	        "street":"Botenkopersstraat 2", 
+	        "zip":"8500", 
+	        "city":"Kortrijk", 
+	        "country": "Belgium", 
+	        "geoLoc":{ 
+	            "lat": "50.827507", 
+	            "lon": "3.254208" 
+	        } 
+	    }
+	},
 	{
         "type":"ed",
 	    "title":"Eclipse Day Vorarlberg 2014",
