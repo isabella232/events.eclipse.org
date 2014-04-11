@@ -1,6 +1,234 @@
 
 {
-	"events":[  
+	"events":[ 
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Trondheim",
+        "date":"Aug 19 2014 17:00 GMT+0500 (CET)",
+        "locationName":"Itema Offices",
+        "registration":"http://www.meetup.com/Trondheim-Eclipse-User-Group/events/170849682/",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Trondheim",
+        "description":"",
+        "address":{
+            "street":"Granåsveien 3",
+            "zip":"",
+            "city":"Trondheim",
+            "country": "Norway",
+            "geoLoc":{
+                "lat":"63.417024193315015",
+                "lon":"10.450008027255535"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp College Station",
+        "date":"June 2014",
+        "locationName":"",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/CollegeStation",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/CollegeStation",
+        "description":"",
+        "address":{
+            "street":"",
+            "zip":"",
+            "city":"College Station, Texas",
+            "country": "US",
+            "geoLoc":{
+                "lat":"30.62797699950627",
+                "lon":"-96.33440680161584"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Stuttgart",
+        "date":"July 02 2014 17:00 GMT+0500 (CET)",
+        "locationName":"University Stuttgart- Vaihingen",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Stuttgart",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Stuttgart",
+        "description":"",
+        "address":{
+            "street":"",
+            "zip":"",
+            "city":"Stuttgart",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"48.74491445020129",
+                "lon":"9.106210749596357"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Munich",
+        "date":"June 24 2014 17:00 GMT+0500 (CET)",
+        "locationName":"Capgemini",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Munich",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Munich",
+        "description":"Engage in the Eclipse community this Summer at the Luna DemoCamp in Munich.",
+        "address":{
+            "street":"Olof-Palme-Strasse 14",
+            "zip":"81829",
+            "city":"Munich",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"48.13557057817644",
+                "lon":"11.690351429278962"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Zurich",
+        "date":"June 23 2014 17:00 GMT+0500 (CET)",
+        "locationName":"Swiss Federal Institute of Technology",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Zurich",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Zurich",
+        "description":"Engage in the Eclipse community this Summer at the Luna DemoCamp in Zurich. If you are interested in Eclipse Topics, this is the event to attend in Switzerland!",
+        "address":{
+            "street":"Rämistrasse 101",
+            "zip":"8092",
+            "city":"Zurich",
+            "country": "Switzerland",
+            "geoLoc":{
+                "lat":"47.376463893079894",
+                "lon":"8.548048444208689"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Beijing",
+        "date":"June 28 2014 17:00 GMT+0500 (CET)",
+        "locationName":"",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Beijing",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Beijing",
+        "description":"Eclipse DemoDay in Beijing on June 28th 2014 is a free event supported by the Eclipse Foundation. This event will target on the IT developers and Eclipse members, and the experts and senior consultants from leading IT companies will share the experiences of Eclipse open source projects, Eclipse demo, and discussing the technical issues with the participants. This event will also provide a good opportunity and platform for the Eclipse members and developers to discuss and communicate.",
+        "address":{
+            "street":"",
+            "zip":"",
+            "city":"",
+            "country": "",
+            "geoLoc":{
+                "lat":"39.90403",
+                "lon":"116.407526"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Leipzig",
+        "date":"June 25 2014 17:00 GMT+0500 (CET)",
+        "locationName":"Uni Leipzig Institut für Wirtschaftsinformatik",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Leipzig",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Leipzig",
+        "description":"Please see info link for more information",
+        "address":{
+            "street":"Grimmaische Straße 12",
+            "zip":"04109",
+            "city":"Leipzig",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"51.33976790795799",
+                "lon":"12.377965429332107"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Chemnitz",
+        "date":"June 18 2014 17:00 GMT+0500 (CET)",
+        "locationName":"Fraunhofer Institut für Werkzeugmaschinen und Umformtechnik IWU",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Chemnitz",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Chemnitz",
+        "description":"Please see info link for more information",
+        "address":{
+            "street":"Reichenhainer Straße 88",
+            "zip":"09126",
+            "city":"Chemnitz",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"52.24927000081783",
+                "lon":"10.517020002007484"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Braunschweig",
+        "date":"June 17 2014 17:00 GMT+0500 (CET)",
+        "locationName":"Öffentliche Versicherung",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Braunschweig",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Braunschweig",
+        "description":"Please see info link for more information",
+        "address":{
+            "street":"Theodor-Heuss-Strasse 10",
+            "zip":"38122",
+            "city":"Braunschweig",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"52.24927000081783",
+                "lon":"10.517020002007484"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Kassel",
+        "date":"June 10 2014 17:00 GMT+0500 (CET)",
+        "locationName":"Circus Rambazotti",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Kassel",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Kassel",
+        "description":"Please see info link for more information",
+        "address":{
+            "street":"Ludwig- Erhard- Str. 12",
+            "zip":"34131",
+            "city":"Kassel",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"50.73519580149831",
+                "lon":"7.092199197504669"
+            }
+        }
+    },
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Hamburg",
+        "date":"June 04 2014 18:00 GMT+0500 (CET)",
+        "locationName":"Hapag- Lloyd AG",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Hamburg",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Hamburg",
+        "description":"Please see info link for more information",
+        "address":{
+            "street":"Ballindamm 25",
+            "zip":"20095",
+            "city":"Hamburg",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"50.73519580149831",
+                "lon":"7.092199197504669"
+            }
+        }
+    }, 
+	{
+        "type":"dc",
+	    "title":"Eclipse DemoCamp Bonn",
+        "date":"June 02 2014 18:15 GMT+0500 (CET)",
+        "locationName":"Collegium Leoninum Bonn",
+        "registration":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Bonn",
+        "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Bonn",
+        "description":"Please see info link for more information",
+        "address":{
+            "street":"Noeggerathstrasse 34",
+            "zip":"53111",
+            "city":"Bonn",
+            "country": "Germany",
+            "geoLoc":{
+                "lat":"50.73519580149831",
+                "lon":"7.092199197504669"
+            }
+        }
+    },
 	{
         "type":"ed",
 	    "title":"Eclipse Day Montreal 2014",
