@@ -2,6 +2,94 @@
 {
 	"events":[ 
 	{
+	    "type":"et",
+	    "title":"Eclipse 4 RCP Training (German)",
+	    "date":"Mai 05 2014 09:00 GMT+0100",
+	    "end-date":"Mai 09 2014 16:00 GMT+0100",
+	    "company":"vogella GmbH",
+	    "locationName":"HBC Hamburg",
+	    "registration":"http://www.vogella.com/training/eclipse/eclipsercp.html",
+	    "infoLink":"http://www.vogella.com/training/eclipse/eclipsercp.html",
+	    "description":"Learn all about Eclipse 4 RCP in 5 days",
+		"keywords":"RCP, Eclipse 4, German, Hamburg",
+	    "address":{ 
+	        "street":"Beim Strohhause 31",
+	        "zip":"20097",
+	        "city":"Hamburg",
+	        "country": "Germany",
+	        "geoLoc":{
+	            "lat":"53.553523",
+	            "lon":"10.022475"
+	        }
+	    }
+	},
+	{
+	    "type":"et",
+	    "title":"Eclipse 4 RCP Training (German)",
+	    "date":"Jul 07 2014 09:00 GMT+0100",
+	    "end-date":"Jul 11 2014 16:00 GMT+0100",
+	    "company":"vogella GmbH",
+	    "locationName":"HBC Hamburg",
+	    "registration":"http://www.vogella.com/training/eclipse/eclipsercp.html",
+	    "infoLink":"http://www.vogella.com/training/eclipse/eclipsercp.html",
+	    "description":"Learn all about Eclipse 4 RCP in 5 days",
+		"keywords":"RCP, Eclipse 4, German, Hamburg",
+	    "address":{ 
+	        "street":"Beim Strohhause 31",
+	        "zip":"20097",
+	        "city":"Hamburg",
+	        "country": "Germany",
+	        "geoLoc":{
+	            "lat":"53.553523",
+	            "lon":"10.022475"
+	        }
+	    }
+	},
+	{
+	    "type":"et",
+	    "title":"Eclipse 4 RCP Training (German)",
+	    "date":"Sep 08 2014 09:00 GMT+0100",
+	    "end-date":"Sep 12 2014 16:00 GMT+0100",
+	    "company":"vogella GmbH",
+	    "locationName":"HBC Hamburg",
+	    "registration":"http://www.vogella.com/training/eclipse/eclipsercp.html",
+	    "infoLink":"http://www.vogella.com/training/eclipse/eclipsercp.html",
+	    "description":"Learn all about Eclipse 4 RCP in 5 days",
+		"keywords":"RCP, Eclipse 4, German, Hamburg",
+	    "address":{ 
+	        "street":"Beim Strohhause 31",
+	        "zip":"20097",
+	        "city":"Hamburg",
+	        "country": "Germany",
+	        "geoLoc":{
+	            "lat":"53.553523",
+	            "lon":"10.022475"
+	        }
+	    }
+	},
+	{
+	    "type":"et",
+	    "title":"Eclipse 4 RCP Training (German)",
+	    "date":"Nov 10 2014 09:00 GMT+0100",
+	    "end-date":"Nov 14 2014 16:00 GMT+0100",
+	    "company":"vogella GmbH",
+	    "locationName":"HBC Hamburg",
+	    "registration":"http://www.vogella.com/training/eclipse/eclipsercp.html",
+	    "infoLink":"http://www.vogella.com/training/eclipse/eclipsercp.html",
+	    "description":"Learn all about Eclipse 4 RCP in 5 days",
+		"keywords":"RCP, Eclipse 4, German, Hamburg",
+	    "address":{ 
+	        "street":"Beim Strohhause 31",
+	        "zip":"20097",
+	        "city":"Hamburg",
+	        "country": "Germany",
+	        "geoLoc":{
+	            "lat":"53.553523",
+	            "lon":"10.022475"
+	        }
+	    }
+	},	
+	{
         "type":"dc",
 	    "title":"Eclipse DemoCamp Trondheim",
         "date":"Aug 19 2014 17:00 GMT+0500 (CET)",
