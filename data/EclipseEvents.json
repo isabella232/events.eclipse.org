@@ -1,6 +1,46 @@
 
 {
 	"events":[ 
+	{ 
+	    "type":"ee", 
+	    "title":"JavaOne", 
+	    "date":"Sep 28 2014 09:00 GMT+0100 (CET)", 
+	    "end-date":"Oct 2 2014 18:00 GMT+0100 (CET)", 
+	    "locationName":"Hilton San Francisco Union Square", 
+	    "registration":"http://www.oracle.com/javaone/register/index.html", 
+	    "infoLink":"http://www.oracle.com/javaone/location/index.html", 
+	    "description":"", 
+	    "address":{ 
+	        "street":"333 O'Farrell Street", 
+	        "zip":"94102", 
+	        "city":"San Francisco, CA", 
+	        "country": "US", 
+	        "geoLoc":{ 
+	            "lat": "37.78595964291665", 
+	            "lon": " -122.41089505841956" 
+	        } 
+	    }
+	},
+	{ 
+	    "type":"ee", 
+	    "title":"IoT Devcon", 
+	    "date":"May 7 2014 09:00 GMT+0100 (CET)", 
+	    "end-date":"May 8 2014 18:00 GMT+0100 (CET)", 
+	    "locationName":"Hyatt Regency Hotel", 
+	    "registration":"http://www.iot-devcon.com/register.php", 
+	    "infoLink":"http://www.iot-devcon.com/index.php", 
+	    "description":"To help rein in the vast world of IoT, the IoT DevCon will focus on technologies ranging from the ultra-low power microcontrollers to the multicore-enabled aggregation hubs to the software and security infrastructure required for monitoring and management of the enormous bundles of data.", 
+	    "address":{ 
+	        "street":"5101 Great America Parkway", 
+	        "zip":"", 
+	        "city":"Santa Clara, CA", 
+	        "country": "US", 
+	        "geoLoc":{ 
+	            "lat": "37.40516099824267", 
+	            "lon": "-121.9765917013865" 
+	        } 
+	    }
+	},
 	{
 	    "type":"et",
 	    "title":"Eclipse 4 RCP Training (German)",
