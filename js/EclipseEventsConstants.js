@@ -93,7 +93,7 @@ var regionInfos = {
 		zoom : "2"
 	},
 	ap : {
-		name : "Asia",
+		name : "Asia", 
 		lat : "40.17887",
 		lon : "101.68945",
 		zoom : "3"

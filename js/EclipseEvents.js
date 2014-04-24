@@ -151,7 +151,6 @@
 		}
 		return eventIcons[type];
 	}
-
 	function initBaseLayer() {
 		// Layer für die Copyright-Infos:
 		var baseLayer = L
