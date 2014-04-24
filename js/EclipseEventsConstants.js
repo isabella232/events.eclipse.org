@@ -106,8 +106,8 @@ var regionInfos = {
 	},	
 	emea : {
 		name : "Europe",
-		lat : "47.83798",
-		lon : "10.16113",
+		lat : "52.3758916",
+		lon : "9.7320104",
 		zoom : "4"
 	},
 	na : {
