@@ -108,7 +108,7 @@ var regionInfos = {
 		name : "Europe",
 		lat : "52.3758916",
 		lon : "9.7320104",
-		zoom : "4"
+		zoom : "3"
 	},
 	na : {
 		name : "North America",
