@@ -3,6 +3,26 @@
 	"events":[ 
 	{ 
 	    "type":"ee", 
+	    "title":"Internet des Objets- du concept á la pratique", 
+	    "date":"May 15 2014 09:00 GMT+0100 (CET)", 
+	    "end-date":"May 15 2014 18:00 GMT+0100 (CET)", 
+	    "locationName":"INSA de Toulouse", 
+	    "registration":"http://registration.laas.fr/IOT", 
+	    "infoLink":"http://www.laas.fr/1-28318-Agenda-complet.php?id=167", 
+	    "description":"", 
+	    "address":{ 
+	        "street":"135 Avenue de Rangueil", 
+	        "zip":"31400", 
+	        "city":"Toulouse", 
+	        "country": "France", 
+	        "geoLoc":{ 
+	            "lat": "43.57020580048036", 
+	            "lon": "1.4679419598542154" 
+	        } 
+	    }
+	},
+	{ 
+	    "type":"ee", 
 	    "title":"JavaOne", 
 	    "date":"Sep 28 2014 09:00 GMT+0100 (CET)", 
 	    "end-date":"Oct 2 2014 18:00 GMT+0100 (CET)", 
