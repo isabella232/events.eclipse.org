@@ -2,6 +2,46 @@
 {
 	"events":[ 
 	{ 
+	    "type":"dc", 
+	    "title":"Eclipse DemoCamp Frankfurt", 
+	    "date":"Jul 10 2014 17:00 GMT+0100 (CET)", 
+	    "end-date":"Jun 10 2014 21:00 GMT+0100 (CET)", 
+	    "locationName":"Yatta Office Frankfurt", 
+	    "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Frankfurt", 
+	    "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Frankfurt", 
+	    "description":"", 
+	    "address":{ 
+	        "street":"Mainzer Landstr. 50", 
+	        "zip":"60325", 
+	        "city":"Frankfurt a. M. ", 
+	        "country": "Germany", 
+	        "geoLoc":{ 
+	            "lat": "50.1109392", 
+	            "lon": "8.6639151" 
+	        } 
+	    }
+	},
+	{ 
+	    "type":"dc", 
+	    "title":"Eclipse DemoCamp Chennai", 
+	    "date":"Jun  2014 18:00 GMT+0100 (CET)", 
+	    "end-date":"Jun  2014 20:00 GMT+0100 (CET)", 
+	    "locationName":"Software AG Chennai", 
+	    "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Chennai", 
+	    "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Chennai", 
+	    "description":"", 
+	    "address":{ 
+	        "street":"New No 47 & 49 Bazullah Road", 
+	        "zip":"600017", 
+	        "city":"Chennai", 
+	        "country": "India", 
+	        "geoLoc":{ 
+	            "lat": "13.04691349754438", 
+	            "lon": "80.23621579748578" 
+	        } 
+	    }
+	},
+	{ 
 	    "type":"ee", 
 	    "title":"Internet des Objets- du concept á la pratique", 
 	    "date":"May 15 2014 09:00 GMT+0100 (CET)", 
