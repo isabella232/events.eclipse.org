@@ -93,7 +93,7 @@ var regionInfos = {
 		zoom : "2"
 	},
 	ap : {
-		name : "Asia",
+		name : "Asia", 
 		lat : "40.17887",
 		lon : "101.68945",
 		zoom : "3"
@@ -106,9 +106,9 @@ var regionInfos = {
 	},	
 	emea : {
 		name : "Europe",
-		lat : "47.83798",
-		lon : "10.16113",
-		zoom : "4"
+		lat : "52.3758916",
+		lon : "9.7320104",
+		zoom : "3"
 	},
 	na : {
 		name : "North America",
