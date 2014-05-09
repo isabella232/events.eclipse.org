@@ -2,6 +2,26 @@
 {
 	"events":[ 
 	{ 
+	    "type":"ee", 
+	    "title":"Telematik Kongress 2014", 
+	    "date":"May 27 2014 09:00 GMT+0100 (CET)", 
+	    "end-date":"May 28 2014 18:00 GMT+0100 (CET)", 
+	    "locationName":"IHK Akademie Mittelfranken", 
+	    "registration":"http://www.c-na.de/t2014/deutsch/index.php?nav0=809&page=722", 
+	    "infoLink":"http://www.c-na.de/t2014/deutsch/index.php", 
+	    "description":"Der Kongress hat die Zielsetzung, die Bedeutung der Telematik für das intelligente Miteinander der verschiedenen Verkehrsträger herauszuarbeiten. Die Schirmherrschaft und den Leitvortrag hat der Bayerische Staatsminister des Innern, für Bau und Verkehr Joachim Herrmann übernommen. Hochrangige Vertreter der EU, des Bayerischen Innenministeriums und der Obersten Baubehörde im Bayerischen Innenministerium geben zusätzlich einen Ausblick zur Telematik auf Schiene und Straße in Bayern.", 
+	    "address":{ 
+	        "street":"Walter-Braun-Straße 14", 
+	        "zip":"90425", 
+	        "city":"Nürnberg", 
+	        "country": "Germany", 
+	        "geoLoc":{ 
+	            "lat": "49.483684099066124", 
+	            "lon": "11.053612899268046" 
+	        } 
+	    }
+	},
+	{ 
 	    "type":"dc", 
 	    "title":"Eclipse DemoCamp Frankfurt", 
 	    "date":"Jul 10 2014 17:00 GMT+0100 (CET)", 
