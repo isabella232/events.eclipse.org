@@ -122,7 +122,7 @@
 			"Map" : baseLayer
 		};
 
-		 L.control.layers(baseMaps, overlayMaps, {collapsed:false}).addTo(map);
+		 L.control.layers(baseMaps, overlayMaps, {collapsed:true}).addTo(map);
         
         // ----------- create regionButtons in the div #regionButtons, for each dataset in regionInfos one button is created:
         for (var regionId in regionInfos) {
