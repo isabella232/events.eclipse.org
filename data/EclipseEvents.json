@@ -212,7 +212,7 @@
 	{
         "type":"dc",
 	    "title":"Eclipse DemoCamp Trondheim",
-        "date":"Aug 19 2014 17:00 GMT+0500 (CET)",
+        "date":"Aug 28 2014 17:00 GMT+0500 (CET)",
         "locationName":"Itema Offices",
         "registration":"http://www.meetup.com/Trondheim-Eclipse-User-Group/events/170849682/",
         "infoLink":"http://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Trondheim",
@@ -356,8 +356,8 @@
             "city":"Chemnitz",
             "country": "Germany",
             "geoLoc":{
-                "lat":"52.24927000081783",
-                "lon":"10.517020002007484"
+                "lat":"50.81373000018807",
+                "lon":"12.927430001436733"
             }
         }
     },
@@ -442,7 +442,7 @@
 	    "title":"Eclipse Day Montreal 2014",
         "date":"June 10 2014 09:00 GMT+0500 (EST)",
         "locationName":"Ericsson, (Subway station: De la savanne)",
-        "registration":"https://wiki.eclipse.org/Eclipse_Day_Montreal_2014",
+        "registration":"http://www.eventbrite.ca/e/eclipse-day-montreal-tickets-11695021123",
         "infoLink":"https://wiki.eclipse.org/Eclipse_Day_Montreal_2014",
         "description":"Please see info link for more information",
         "address":{
