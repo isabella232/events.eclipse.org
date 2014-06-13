@@ -2,6 +2,46 @@
 {
 	"events":[ 
 	{ 
+	    "type":"dc", 
+	    "title":"Eclipse DemoCamp Barcelona", 
+	    "date":"Jun 27 2014 18:00 GMT+0100 (CET)", 
+	    "end-date":"Jun 27 2014 21:00 GMT+0100 (CET)", 
+	    "locationName":"Espai Jove La Fontana", 
+	    "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Barcelona", 
+	    "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Barcelona", 
+	    "description":"", 
+	    "address":{ 
+	        "street":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Barcelona", 
+	        "zip":"08012", 
+	        "city":"Barcelona", 
+	        "country": "Spain", 
+	        "geoLoc":{ 
+	            "lat": "41.403303200032134", 
+	            "lon": "2.1523325995076448" 
+	        } 
+	    }
+	},
+	{ 
+	    "type":"dc", 
+	    "title":"Eclipse DemoCamp Chennai", 
+	    "date":"Jul 11 2014 18:00 GMT+0100 (CET)", 
+	    "end-date":"Jul 11 2014 21:00 GMT+0100 (CET)", 
+	    "locationName":"Software AG Chennai Development Center India", 
+	    "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Chennai", 
+	    "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Chennai", 
+	    "description":"", 
+	    "address":{ 
+	        "street":"New No 47 & 49 Bazullah Road", 
+	        "zip":"600017", 
+	        "city":"Chennai", 
+	        "country": "India", 
+	        "geoLoc":{ 
+	            "lat": "13.047210401102054", 
+	            "lon": "80.23315159894992" 
+	        } 
+	    }
+	},
+	{ 
 	    "type":"ee", 
 	    "title":"Telematik Kongress 2014", 
 	    "date":"May 27 2014 09:00 GMT+0100 (CET)", 
@@ -25,7 +65,7 @@
 	    "type":"dc", 
 	    "title":"Eclipse DemoCamp Frankfurt", 
 	    "date":"Jul 10 2014 17:00 GMT+0100 (CET)", 
-	    "end-date":"Jun 10 2014 21:00 GMT+0100 (CET)", 
+	    "end-date":"Jul 10 2014 21:00 GMT+0100 (CET)", 
 	    "locationName":"Yatta Office Frankfurt", 
 	    "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Frankfurt", 
 	    "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Frankfurt", 
@@ -38,26 +78,6 @@
 	        "geoLoc":{ 
 	            "lat": "50.1109392", 
 	            "lon": "8.6639151" 
-	        } 
-	    }
-	},
-	{ 
-	    "type":"dc", 
-	    "title":"Eclipse DemoCamp Chennai", 
-	    "date":"Jun  2014 18:00 GMT+0100 (CET)", 
-	    "end-date":"Jun  2014 20:00 GMT+0100 (CET)", 
-	    "locationName":"Software AG Chennai", 
-	    "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Chennai", 
-	    "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Chennai", 
-	    "description":"", 
-	    "address":{ 
-	        "street":"New No 47 & 49 Bazullah Road", 
-	        "zip":"600017", 
-	        "city":"Chennai", 
-	        "country": "India", 
-	        "geoLoc":{ 
-	            "lat": "13.04691349754438", 
-	            "lon": "80.23621579748578" 
 	        } 
 	    }
 	},
