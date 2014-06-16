@@ -1,6 +1,6 @@
-<?
+<?php
 /*******************************************************************************
- * Copyright (c) 2008 Eclipse Foundation and others.
+ * Copyright (c) 2008-2013 Eclipse Foundation and others.
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
@@ -15,9 +15,9 @@ global $App;
 if(isset($App)) {
 	$www_prefix = $App->getWWWPrefix();
 }
-?>
-<?php print $this->getDoctype();?>
 
+print $this->getDoctype();
+?>
 <head>
 	<title><?= $pageTitle ?></title><meta name="author" content="<?= $pageAuthor ?>" />
 	<?php
@@ -42,16 +42,15 @@ if(isset($App)) {
 	<!-- Dependencies -->
 	<!-- Source File -->
 <?php if($App->getjQuery()) echo $App->getjQuery(); ?>
-
-	<?php if( isset($extraHtmlHeaders) ) echo $extraHtmlHeaders; ?>
+<?php if( isset($extraHtmlHeaders) ) echo $extraHtmlHeaders; ?>
 </head>
 <body>
 	<div id="novaWrapper"<?php if ($App->OutDated == TRUE) print ' class="deprecated"';?>><?//This Div is closed in footer.php?>
 		<div id="clearHeader">
 			<div id="logo">
-				<? if ($App->Promotion == FALSE) { ?>
-					 <img src="/eclipse.org-common/themes/Nova/images/eclipse.png" alt="Eclipse.org"/>
-				<? } else {
+				<?php if ($App->Promotion == FALSE) { ?>
+					 <img src="/eclipse.org-common/themes/Nova/images/eclipse-800x426.png" alt="Eclipse.org" width="171" height="91"/>
+				<?php } else {
 						if ($App->CustomPromotionPath != "") {
 							include($App->CustomPromotionPath);
 						}

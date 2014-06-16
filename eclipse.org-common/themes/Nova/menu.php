@@ -1,4 +1,4 @@
-<?
+<?php
 /*******************************************************************************
  * Copyright (c) 2008-2012 Eclipse Foundation and others.
  * All rights reserved. This program and the accompanying materials
@@ -29,7 +29,7 @@
 
 		?>
 		<li><a href="<?= $MenuItem->getURL(); ?>" target="<?= $MenuItem->getTarget(); ?>"><?= $MenuItem->getText(); ?></a></li>
-	<? }
+	<?php }
 	$menuHTML = ob_get_clean();
 	?>
 <div id="header">
@@ -43,12 +43,12 @@
 		<script type="text/javascript" src="//www.google.com/coop/cse/brand?form=searchbox_017941334893793413703%3Asqfrdtd112s&amp;lang=en"></script>
 	</div>
 </div>
-	<? if ($Nav == NULL) { ?>
+	<?php if ($Nav == NULL) { ?>
 	<div id="novaContent">
-	<? }
+	<?php }
 	else { ?>
 	<div id="novaContent" class="faux"><br id="faux-br" style="clear:both;height:1em;"/>
-	<? } ?>
+	<?php } ?>
 	<?php if ($App->OutDated == TRUE) {?>
 		<div class="message-box-container">
 			<div class="message-box error">This page is deprecated and may contain some information that is no longer relevant or accurate.</div>

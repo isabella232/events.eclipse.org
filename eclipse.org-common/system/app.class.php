@@ -1,6 +1,6 @@
 <?php
 /*******************************************************************************
- * Copyright (c) 2006 Eclipse Foundation and others.
+ * Copyright (c) 2006-2014 Eclipse Foundation and others.
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
@@ -9,6 +9,7 @@
  * Contributors:
  *    Denis Roy (Eclipse Foundation)- initial API and implementation
  *    Karl Matthias (Eclipse Foundation) - Database access management
+ *    Christopher Guindon (Eclipse Foundation)
  *******************************************************************************/
 class App {
 
@@ -43,12 +44,13 @@ class App {
 	private $HTTP_PREFIX    = "http"; #default is http
 
 	# Additional page-related variables
-	public $ExtraHtmlHeaders   = "";
+	public  $ExtraHtmlHeaders   = "";
+	public  $ExtraJSFooter   = "";
 	public	$PageRSS			= "";
 	public  $PageRSSTitle		= "";
 	public  $Promotion			= FALSE;
 	public  $CustomPromotionPath = "";
-	private $THEME_LIST 		=  array("", "Phoenix", "Miasma", "Lazarus", "Nova");
+	private $THEME_LIST 		=  array("", "Phoenix", "Miasma", "Lazarus", "Nova", "solstice");
 
 	#Open Graph Protocol Variables
 	private $OGTitle            = "";
@@ -67,7 +69,10 @@ class App {
 
 	# Twitter Follow Widget Variables
 	private $twitterScriptInserted = FALSE;
-	
+
+	# Variables for theme customization (Solstice and up).
+	private $theme_variables = array();
+
 	# Set to TRUE to disable all database operations
 	private $DB_READ_ONLY		= false;
 
@@ -92,7 +97,20 @@ class App {
 	# Default constructor
 	function App() {
 		# Set value for WWW_PREFIX
-		if($_SERVER['SERVER_NAME'] != "www.eclipse.org") {
+		$valid_domains = array(
+			'www.eclipse.org',
+			'eclipse.org',
+			'staging.eclipse.org',
+			'eclipse.local',
+			'www.eclipse.local'
+		);
+
+		// Force http://www.eclipse.org if the serve_name is not whitelisted.
+		if (in_array($_SERVER['SERVER_NAME'], $valid_domains)) {
+			$this->WWW_PREFIX = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') ? 'https://' : 'http://';
+			$this->WWW_PREFIX .= isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : getenv('HTTP_HOST') . '/';
+		}
+		else {
 			$this->WWW_PREFIX = "http://www.eclipse.org";
 		}
 
@@ -124,6 +142,9 @@ class App {
 
 		# Initialize backtrace storage
 		$this->query_btrace = array();
+
+		# Set server timezone
+		date_default_timezone_set("America/Montreal");
 	}
 
 
@@ -419,13 +440,17 @@ class App {
 		return str_replace("\n", "<br />", $_String);
 	}
 
-	function generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html) {
+	function generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html, $Breadcrumb = NULL) {
 
-		# OPT1: ob_start();
+		# Breadcrumbs for the new solstice theme.
+		if ($Breadcrumb == NULL || !is_object($Breadcrumb)) {
+			require_once('breadcrumbs.class.php');
+			$Breadcrumb = new Breadcrumb();
+		}
 
-		# All web page parameters passed for variable scope
-		if($theme == "") {
-			$theme = "Phoenix";
+		# Only Nova and solstice is accepted.
+		if($theme != "Nova") {
+			$theme = "solstice";
 		}
 
 		if($pageTitle == "") {
@@ -491,7 +516,10 @@ EOHTML;
 EOHTML;
 		}
 
-		echo $this->googleJavaScript;
+		if ($theme != "solstice")  {
+			echo $this->googleJavaScript;
+		}
+		$google_javascript = $this->googleJavaScript;
 		include($this->getFooterPath($theme));
 
 		# OPT1:$starttime = microtime();
@@ -515,9 +543,13 @@ EOHTML;
 		$this->ExtraHtmlHeaders .= $string;
 	}
 
+	function AddExtraJSFooter( $string ) {
+		$this->ExtraJSFooter.= $string;
+	}
+
 	function getThemeURL($_theme) {
 		if($_theme == "") {
-			$theme = "Phoenix";
+			$theme = "solstice";
 		}
 
 		return "/eclipse.org-common/themes/" . $_theme;
@@ -979,7 +1011,42 @@ EOHTML;
 		}
 		return $doc;
 	}
-    /**
+
+	/**
+	 * Get theme Variables
+	 *
+	 * Fetch solstice custom variables
+	 *
+	 * @return array
+	 */
+	public function getThemeVariables() {
+		$v = $this->theme_variables;
+		// Set default variables for all themes.
+		if (empty($v)) {
+			$v['hide_breadcrumbs'] = FALSE;
+			$v['breadcrumbs_html'] = "";
+			$v['body_classes'] = '';
+			$v['main_container_classes'] = 'container';
+			$this->theme_variables = $v;
+		}
+
+		return $this->theme_variables;
+	}
+
+	/**
+	 * Set theme Variables
+	 *
+	 * This function allow pages to pass extra
+	 * parameters to the solstice theme.
+	 */
+	public function setThemeVariables($variables) {
+		$current_variables = $this->getThemeVariables();
+		if (is_array($variables)) {
+			$this->theme_variables = array_merge($current_variables, $variables);
+		}
+	}
+
+  /**
 	 * Function to validate a date
 	 * @param string $date
 	 * @return boolean
@@ -1007,6 +1074,13 @@ EOHTML;
 			return TRUE;
 		}
 		return FALSE;
+	}
+
+	/**
+	 * Return value of the private property OutDated.
+	 */
+	function getOutDated() {
+		return $this->OutDated;
 	}
 
 	/**
@@ -1070,9 +1144,9 @@ EOHTML;
 			$output .= "<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>";
 		}
 		return $output;
-	
+
 	}
-	
+
 	function getGoogleSearchHTML() {
 		$strn = <<<EOHTML
 		<form action="//www.google.com/cse" id="searchbox_017941334893793413703:sqfrdtd112s">

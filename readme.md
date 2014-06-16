@@ -89,6 +89,8 @@ xx can be any of the following:
 * ht - hackathon
 * ec - EclipseCon
 * ed - Eclipse Day
+* et - Training Series
+* ee - Other interesting Events
 
 Additional events can be added, please let us know if you miss a type
 

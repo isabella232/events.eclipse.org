@@ -29,13 +29,5 @@
     </div>
 	</footer>
 </div>
-
-	<!--jQuery -->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="<?php print $theme_url;?>components/jquery/jquery.js"><\/script>')</script>
-
-	<!--Bootstrap -->
-	<script src="<?php print $theme_url;?>components/bootstrap/js/bootstrap.min.js"></script>
-
 </body>
 </html>

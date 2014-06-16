@@ -1,75 +1,55 @@
 /* @CHARSET "UTF-8"; */
-.eecontent {
-  background: #af9fce;
-  padding-left: 25px;
-  padding-right: 25px;
+#mapSection #map {
+  border: 10px solid #f5f5f5;
+  height: 500px;
 }
-.eecontent #pageTitle {
-  margin-bottom: 5px;
-  padding-top: 25px;
-  padding-bottom: 10px;
-}
-.eecontent #pageTitle h1 {
-  color: #FFFFFF;
-  font-size: 26px;
-  line-height: 28px;
-  text-shadow: grey 4px 3px;
-}
-.eecontent #mapSection p {
-  margin-bottom: 0px;
-  margin-top: 0px;
-}
-.eecontent #mapSection #map {
-  margin-bottom: 30px;
-  height: 50%;
-  width: 100%;
-}
-.eecontent #mapSection #regionButtons {
+#mapSection #regionButtons {
   padding-bottom: 5px;
 }
-.eecontent #mapSection #regionButtons .regionButton {
-  padding-left: 3px;
-  padding-right: 5px;
-  margin-right: 5px;
+#mapSection #regionButtons .regionButton {
+  margin-right: 9px;
 }
-.eecontent #descriptons .eventType {
-  background-color: #e8e7dd;
-  border-bottom: 2px solid #ffffff;
+#eventsmail1,
+#eventsmail2 {
+  margin-top: 8px;
+  color: #cc7105;
+}
+#descriptons .eventType {
+  background-color: #f5f5f5;
   padding-bottom: 10px;
 }
-.eecontent #descriptons p {
+#descriptons p {
   margin-bottom: 2px;
   margin-top: 2px;
 }
-.eecontent #descriptons .eventTypeTitle {
-  font-size: 18px;
-  font-weight: bold;
-  color: #7036be;
-  /*background: linear-gradient(left center , rgb(28, 2, 73) 0%, rgb(175, 159, 206) 100%) repeat scroll 0% 0% transparent;*/
-
-  background: #1c0249;
-  color: #ffffff;
+#descriptons .eventTypeTitle {
+  font-size: 18.2px;
+  font-weight: 600;
+  background: #f7941e;
   padding-left: 20px;
-  padding-bottom: 15px;
-  padding-top: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
-.eecontent #descriptons .revealCollapse {
+#descriptons .revealCollapse {
   cursor: pointer;
-  margin: 5px 0;
-  cursor: hand;
+  margin: 2px 0;
   padding-left: 43px;
-  font-weight: bold;
+  font-size: 16px;
+  font-weight: 500;
+  color: #787878;
 }
-.eecontent #descriptons .revealCollapse:hover {
-  color: #7036be;
-  text-decoration: underline;
+#descriptons .revealCollapse:hover {
+  color: #cc7105;
 }
-.eecontent #descriptons .collapseText {
+#descriptons .collapseText {
+  font-weight: 400;
   display: none;
   padding-left: 40px;
   padding-bottom: 5px;
   padding-top: 5px;
   margin-left: 43px;
-  background: #e0d8f0;
-  width: 60%;
+  background: #FBC37E;
+}
+#descriptons .collapseText a:hover {
+  color: black;
 }

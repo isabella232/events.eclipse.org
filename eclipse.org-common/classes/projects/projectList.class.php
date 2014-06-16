@@ -147,5 +147,53 @@ class ProjectList {
 	    $result = null;
 	    $myrow	= null;
 	}
+	
+	
+	/**
+	 * @param string $_uid UID (committer ID) of the committer
+	 * @since 2013-11-07
+	 * @author droy
+	 * 
+	 */
+	function selectCommitterProjectList($_uid) {
+		if($_uid != "") {
+			$App = new App();
+			$sql = "SELECT DISTINCT /* projectList.class.php */
+						PRJ.ProjectID,
+						PRJ.Name,
+						PRJ.Level,
+						PRJ.ParentProjectID,
+						PRJ.Description,
+						PRJ.UrlDownload,
+						PRJ.UrlIndex,
+						PRJ.IsActive
+		        	FROM
+						Projects AS PRJ 
+					INNER JOIN PeopleProjects AS PPL ON PRJ.ProjectID = PPL.ProjectID
+					WHERE
+						PRJ.IsActive
+						AND PPL.PersonID = " . $App->returnQuotedString($App->sqlSanitize($_uid)) . "
+						AND PPL.Relation IN ('CM', 'PL', 'PD', 'PM')
+						AND (PPL.InactiveDate IS NULL OR PPL.InactiveDate > NOW())";
+			$result = $App->foundation_sql($sql);
+		
+			while($myrow = mysql_fetch_array($result))
+			{
+				$Project 	= new Project();
+				$Project->setProjectID		($myrow["ProjectID"]);
+				$Project->setName			($myrow["Name"]);
+				$Project->setLevel			($myrow["Level"]);
+				$Project->setParentProjectID($myrow["ParentProjectID"]);
+				$Project->setDescription	($myrow["Description"]);
+				$Project->setUrlDownload	($myrow["UrlDownload"]);
+				$Project->setUrlIndex		($myrow["UrlIndex"]);
+				$Project->setIsActive		($myrow["IsActive"]);
+				$this->add($Project);
+			}
+			 
+			$result = null;
+			$myrow	= null;
+		}
+	}
 }
 ?>

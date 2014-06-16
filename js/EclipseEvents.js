@@ -32,7 +32,7 @@
 		
 		// set the titles from the constant file:
 		document.title = browserTitle;
-		$("#pageTitle").append("<h1 class=\"pageTitle\">"+pageTitle +"</h1>"); 
+		$("#pageTitle").append(pageTitle); 
 		
 		var baseLayer = initBaseLayer();
 		map.addLayer(baseLayer, true);
@@ -93,10 +93,13 @@
 			// for every event create 2 divs: one for the title and the second for the collapsible text:
 			// create div for eventtitle in the eventtype div; divid = (eventtype + i), e.g. dc1, ec2
 			var divId = eventtype + i;
-			$("#"+eventtype).append("<div id=" +divId+" onClick=\"revealCollapse(this.id)\" class=\"revealCollapse\" >" + texttitle + "</div>");
+			$("#"+eventtype).append("<div id=" +divId+" onClick=\"revealCollapse(this.id)\" class=\"revealCollapse\" >" + "+ " + texttitle + "</div>");
 			// create div for the eventdescription, divid = (eventtype + i + "_text"), e.g. dc1_descr, ec2_descr
 			var divIdDescr =  getDescrId(divId);
-			$("#"+eventtype).append("<div id=" +divIdDescr+" class=\"collapseText\">" + description + "</div>");
+			$("#"+eventtype).append("<div id=" +divIdDescr+" class=\"collapseText\">"  + description + "</div>");
+			
+			
+			
 		}
 		
 		// ------------- build the map with the layers:
@@ -126,8 +129,14 @@
         
         // ----------- create regionButtons in the div #regionButtons, for each dataset in regionInfos one button is created:
         for (var regionId in regionInfos) {
-        	$("#regionButtons").append("<button id=" +regionId + " onClick=\"regionButtonClicked(this.id)\" class=\"regionButton\">" + regionInfos[regionId].name + "</button>");
+        	$("#regionButtons").append("<button id=" +regionId + " onClick=\"regionButtonClicked(this.id)\" class=\"btn btn-default regionButton\">" + regionInfos[regionId].name + "</button>");
         }
+        
+        // ------------------- Mail missing Events-Text:
+        $("#eventsmail1").append(
+        "<p class=\"text-right\">Missing your event on this site? Please mail us: <a href=\"mailto:events@eclipse.org\">events@eclipse.org</a></p>");
+        $("#eventsmail2").append(
+        "<p class=\"text-right\">Missing your event on this site? Please mail us: <a href=\"mailto:events@eclipse.org\">events@eclipse.org</a></p>");
 	}
 
 	// Icon für Art des Events auswählen:
@@ -179,13 +188,13 @@
 		d += eclipseEvent.address.zip + " " + eclipseEvent.address.city + ", " + eclipseEvent.address.country;
 		d += "</p>";
 		d += "<p>";
-		d += "<a href=" + eclipseEvent.registration + ">" + "register here"
+		d += "<a href=" + eclipseEvent.registration + ">" + "> register here"
 				+ "</a>";
 		d += "&nbsp;&nbsp;&nbsp;&nbsp;"
-		d += "<a href=" + eclipseEvent.infoLink + ">" + "more information"
+		d += "<a href=" + eclipseEvent.infoLink + ">" + "> more information"
 				+ "</a>";
 		d += "&nbsp;&nbsp;&nbsp;&nbsp;"
-		d += "<a href=\"#\" onclick=\"showEventOnMap("+ eclipseEvent.address.geoLoc.lat +"," + eclipseEvent.address.geoLoc.lon+ ");\">show on map</a>";
+		d += "<a href=\"#\" onclick=\"showEventOnMap("+ eclipseEvent.address.geoLoc.lat +"," + eclipseEvent.address.geoLoc.lon+ ");\"> > show on map</a>";
 		d += "</span>";
 		return d;
 	}

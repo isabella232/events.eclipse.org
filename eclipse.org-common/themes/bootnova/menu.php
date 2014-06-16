@@ -20,7 +20,7 @@
 			$image_protocol = "https";
 		}
 	}
-	$logo = '<img src="' . $theme_url . 'assets/images/eclipse.png" alt="Eclipse.org"/>';
+	$logo = '<img src="' . $theme_url . 'assets/images/eclipse-800x426.png" alt="Eclipse.org" width="171" height="91"/>';
 	ob_start();
 	for($i = 0; $i < $Menu->getMenuItemCount(); $i++) {
 		$MenuItem = $Menu->getMenuItemAt($i);?>

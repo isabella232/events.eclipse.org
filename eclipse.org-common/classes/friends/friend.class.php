@@ -76,8 +76,7 @@ class Friend {
 	}
 	function getDn() {
 		return $this->dn;
-	}
-	
+	}	
 
 
 	function setFriendID($_friend_id) {
@@ -113,7 +112,13 @@ class Friend {
 	function setDn($_dn) {
 		$this->dn = $_dn;
 	}
-	
+	function getUID() {
+		if($this->dn != "") {
+			if(preg_match('/uid=(.*),ou=/', $this->dn, $matches)) {
+				return $matches[1];
+			}
+		}
+	}
 	
 	/**
 	 * getIsCommitter() - return committer status

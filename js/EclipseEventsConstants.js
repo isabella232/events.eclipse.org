@@ -11,7 +11,7 @@
  */
 
 var browserTitle = "Eclipse Events";
-var pageTitle = "Upcoming Eclipse Events";
+var pageTitle = "Upcoming Eclipse Events ...";
 var jsonDatafile = 'data/EclipseEvents.json';
 var eventTypeInfo = {
 	ec : {
@@ -106,9 +106,9 @@ var regionInfos = {
 	},	
 	emea : {
 		name : "Europe",
-		lat : "52.3758916",
+		lat : "51.3758916",
 		lon : "9.7320104",
-		zoom : "3"
+		zoom : "4"
 	},
 	na : {
 		name : "North America",
@@ -120,13 +120,13 @@ var regionInfos = {
 		name : "Germany",
 		lat : "51.1599007",
 		lon : "10.4429998",
-		zoom : "5"
+		zoom : "6"
 	},
 	fr : {
 		name : "France",
 		lat : "46.768196",
 		lon : "2.432664",
-		zoom : "5"
+		zoom : "6"
 	}
 
 };

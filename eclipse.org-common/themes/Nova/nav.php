@@ -1,4 +1,4 @@
-<? 
+<?php
 /*******************************************************************************
  * Copyright (c) 2006 Eclipse Foundation and others.
  * All rights reserved. This program and the accompanying materials
@@ -19,32 +19,25 @@
 		$Link = $Nav->getLinkAt($i);
 		if( $Link->getURL() == "" ) {
 			if($Link->getTarget() == "__SEPARATOR") {
-			   
-			   ?><li class="separator"><a class="separator"><?php
-			   ?><?= $Link->getText() ?><img src="/eclipse.org-common/themes/Nova/images/separator.png" alt="navigation image"/></a></li>
-<?php
+			   echo '<li class="separator"><a class="separator">';
+			   echo $Link->getText() . '<img src="/eclipse.org-common/themes/Nova/images/separator.png" alt="navigation image"/></a></li>';
 			} else {
-				?><li><a class="nolink" href="#"><?= $Link->getText() ?></a></li>
-<?php
+				echo '<li><a class="nolink" href="#">' . $Link->getText() . '</a></li>';
 			}
 		} elseif (stripos($Link->getURL(), 'project_summary.php') !== FALSE) { 
-				?><li class="about"><a href="<?= $Link->getURL() ?>"><?=$Link->getText();?></a></li> <?
+				echo '<li class="about"><a href="' . $Link->getURL() . '">' . $Link->getText() . '</a></li>';
 		} else {
 			if($Link->getTarget() == "__SEPARATOR") {
-				?><li class="separator"><a class="separator" href="<?= $Link->getURL() ?>">
-				<?= $Link->getText() ?><img src="/eclipse.org-common/themes/Nova/images/separator.png" alt="navigation image"/></a></li>
-<?php
+				echo '<li class="separator"><a class="separator" href="' . $Link->getURL() . '">';
+				echo $Link->getText() . '<img src="/eclipse.org-common/themes/Nova/images/separator.png" alt="navigation image"/></a></li>';
 			} else {
-				?><li><a href="<?= $Link->getURL() ?>" target="<?= ($Link->getTarget() == "_blank") ? "_blank" : "_self" ?>"><?= $Link->getText() ?></a></li>
-<?php
+				echo '<li><a href="' . $Link->getURL() . '" target="' . ($Link->getTarget() == "_blank" ? "_blank" : "_self") . '">' . $Link->getText() . '</a></li>';
 			}
-		}
-		
+		}		
 	}
-	?>
-</ul>
-<? echo $Nav->getHTMLBlock(); ?>
-<? /*
+echo "</ul>";
+echo $Nav->getHTMLBlock();
+/*
 	
 	<br />
 	<div class="sideitem">
@@ -60,6 +53,6 @@
 		</p>
 		<br />
 	</div>
-*/  ?>
-
+*/
+?>
 </div>

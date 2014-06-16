@@ -90,6 +90,18 @@ class Project {
 	function getIsProject() {
 		return $this->is_project;	
 	}	
+	function getProjectShortName() {
+		$rValue = "";
+	
+		$intPos = strrpos($this->getProjectID(), ".");
+	
+		if($intPos) {
+			return substr($this->getProjectID(), $intPos + 1);
+		}
+		else {
+			return $this->getProjectID();
+		}
+	}
 	
 	
 	function getDrop() {

@@ -1,4 +1,4 @@
-<? 
+<?php
 /*******************************************************************************
  * Copyright (c) 2008 Eclipse Foundation and others.
  * All rights reserved. This program and the accompanying materials
@@ -12,7 +12,7 @@
 	
 ?>
 		<br style="clear:both;height:1em;"/>&nbsp;
-		</div> <?//This Div tag is used to close #novaContent?>
+		</div> <?php //This Div tag is used to close #novaContent?>
 		<div id="clearFooter"></div>
 		<div id="footer">
 			<ul id="footernav">
@@ -22,7 +22,7 @@
 <li><a href="<?= $App->getWWWPrefix() ?>/legal/copyright.php">Copyright Agent</a></li>
 <li><a href="<?= $App->getWWWPrefix() ?>/legal/">Legal</a></li>
 <li><a href="<?= $App->getWWWPrefix() ?>/org/foundation/contact.php">Contact Us</a></li></ul>
-			<span id="copyright">Copyright &copy; <?=date("Y");?> The Eclipse Foundation. All Rights Reserved.</span>
+			<span id="copyright">Copyright &copy; <?=date("Y", time());?> The Eclipse Foundation. All Rights Reserved.</span>
 		</div>
-	</div> <?//This Div tag is used to close #novaWrapper?>
+	</div> <?php //This Div tag is used to close #novaWrapper?>
 </body></html>
