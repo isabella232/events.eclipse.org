@@ -2,6 +2,124 @@
 {
 	"events":[ 
 	{ 
+		    "type":"ee", 
+		    "title":"BIRT Evolution", 
+		    "date":"Jul 10 2014 17:30 GMT+0100 (CET)", 
+		    "end-date":"Jul 10 2014 22:00 GMT+0100 (CET)", 
+		    "locationName":"Club Auto Sport at San Jose", 
+		    "registration":"http://www.actuate.com/info/socialflaunch/", 
+		    "infoLink":"http://www.actuate.com/info/socialflaunch/", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"521 Charcot Avenue", 
+		        "zip":"95131", 
+		        "city":"San Jose, CA", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "48.123335599011156", 
+		            "lon": "11.595509299077094" 
+		        } 
+		    }
+		},
+		{ 
+		    "type":"dc", 
+		    "title":"IoT Biergarten", 
+		    "date":"Jul 29 2014 16:00 GMT+0100 (CET)", 
+		    "end-date":"Jul 29 2014 19:00 GMT+0100 (CET)", 
+		    "locationName":"Tassilogarten", 
+		    "registration":"https://plus.google.com/events/carvir4k2v398vts2kekjfio124", 
+		    "infoLink":"https://plus.google.com/events/carvir4k2v398vts2kekjfio124", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"Auerfeldstraße 18", 
+		        "zip":"81541", 
+		        "city":"München", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "48.123335599011156", 
+		            "lon": "11.595509299077094" 
+		        } 
+		    }
+		},
+		{
+	       "type":"ht",
+		    "title":"PTP Workshop and Hackathon",
+	       "date":"Aug 12 2014 09:00 GMT+0100 (CET)",
+	       "end-date":"Aug 13 2014 17:00 GMT+0100 (CET)",
+	       "locationName":"LSU´s Digital Media Center",
+	       "registration":"https://wiki.eclipse.org/PTP/workshops/PTP_Workshop_2014",
+	       "infoLink":"https://wiki.eclipse.org/PTP/workshops/PTP_Workshop_2014",
+	       "description":"Please see info link for more information",
+	       "address":{
+	           "street":"Building 340, East Parker Boulevard",
+	           "zip":"70803",
+	           "city":"Baton Rouge, LA",
+	           "country": "USA",
+	           "geoLoc":{
+	               "lat":"30.409999998451976",
+	               "lon":"-91.18000000133179"
+	           }
+	       }
+	   },
+		{
+	       "type":"ed",
+		    "title":"Eclipse Day Italy",
+	       "date":"Oct 09 2014 08:30 GMT+0500 (EST)",
+	       "locationName":"DIBRIS- Department of Informatics, Bioengineering, Robotics and System Engineering- University of Genoa",
+	       "registration":"http://2014.eclipse-it.org/",
+	       "infoLink":"http://2014.eclipse-it.org/",
+	       "description":"Please see info link for more information",
+	       "address":{
+	           "street":"",
+	           "zip":"",
+	           "city":"Genoa",
+	           "country": "Italy",
+	           "geoLoc":{
+	               "lat":"44.4025002",
+	               "lon":"8.9312897"
+	           }
+	       }
+	   },
+		{
+	       "type":"ed",
+		    "title":"Eclipse Day Beijing",
+	       "date":"Oct 30 2014 08:30 GMT+0500 (EST)",
+	       "locationName":"",
+	       "registration":"https://wiki.eclipse.org/Eclipse_Day_China_2014",
+	       "infoLink":"https://wiki.eclipse.org/Eclipse_Day_China_2014",
+	       "description":"Please see info link for more information",
+	       "address":{
+	           "street":"",
+	           "zip":"",
+	           "city":"Beijing",
+	           "country": "China",
+	            "geoLoc":{
+	                "lat":"39.90403",
+	                "lon":"116.407526"
+	            }
+	       }
+	   },
+		{
+	       "type":"ed",
+		    "title":"Eclipse Day Bangalore 2014",
+	       "date":"Sep 20 2014 08:30 GMT+0500 (EST)",
+	       "locationName":"",
+	       "registration":"https://wiki.eclipse.org/Eclipse_Day_Bangalore_2014",
+	       "infoLink":"https://wiki.eclipse.org/Eclipse_Day_Bangalore_2014",
+	       "description":"Please see info link for more information",
+	       "address":{
+	           "street":"",
+	           "zip":"",
+	           "city":"Bangalore",
+	           "country": "India",
+	           "geoLoc":{
+	               "lat":"12.9669704",
+	               "lon":"77.5872803"
+	           }
+	       }
+	   },
+	
+	{ 
 	    "type":"dc", 
 	    "title":"Eclipse DemoCamp Barcelona", 
 	    "date":"Jun 27 2014 18:00 GMT+0100 (CET)", 
