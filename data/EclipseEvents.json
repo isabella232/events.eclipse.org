@@ -1,6 +1,25 @@
 
 {
 	"events":[ 
+	{
+       "type":"ed",
+	    "title":"Eclipse Finance Day 2014",
+       "date":"Oct 31 2014 08:30 GMT+0500 (EST)",
+       "locationName":"UBS AG",
+       "registration":"https://wiki.eclipse.org/Eclipse_Finance_Day_2014",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_Finance_Day_2014",
+       "description":"The Eclipse Finance Day is dedicated to anyone who wants to share with the community their success in adoption of Eclipse and open source technologies for financial institutions.",
+       "address":{
+           "street":"Badenerstrasse 574",
+           "zip":"8048",
+           "city":"Zürich",
+           "country": "Switzerland",
+           "geoLoc":{
+               "lat":"47.3851617006261",
+               "lon":"8.496404201723635"
+           }
+       }
+   },
 	{ 
 		    "type":"ee", 
 		    "title":"BIRT Evolution", 
