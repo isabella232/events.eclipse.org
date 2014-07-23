@@ -36,19 +36,19 @@ var eventTypeInfo = {
 	},
 	ed : {
 		rank : 3,		
-		name : "Eclipse Days",
-		image : "images/marker-icon-blue.png",
-		image_small : "images/small-marker-icon-blue.png",
+		name : "Eclipse Days & Hackathons",
+		image : "images/marker-icon-yellow.png",
+		image_small : "images/small-marker-icon-yellow.png",
 		icon_size:{
             x:"25",
             y:"41"
         }
 	},
-	ht : {
+	wg : {
 		rank : 4,		
-		name : "Hackathons",
-		image : "images/marker-icon-yellow.png",
-		image_small : "images/small-marker-icon-yellow.png",
+		name : "Working Group Events",
+		image : "images/marker-icon-blue.png",
+		image_small : "images/small-marker-icon-blue.png",
 		icon_size:{
             x:"25",
             y:"41"

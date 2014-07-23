@@ -61,7 +61,7 @@
 		    }
 		},
 		{
-	       "type":"ht",
+	       "type":"ed",
 		    "title":"PTP Workshop and Hackathon",
 	       "date":"Aug 12 2014 09:00 GMT+0100 (CET)",
 	       "end-date":"Aug 13 2014 17:00 GMT+0100 (CET)",
@@ -675,7 +675,7 @@
         }
     },
 	{
-        "type":"ht",
+        "type":"ed",
 	    "title":"Eclipse Hackathon Hamburg, the 2nd",
         "date":"Mar 28 2014 18:00 GMT+0100 (CET)",
         "end-date":"Mar 28 2014 22:00 GMT+0100 (CET)",

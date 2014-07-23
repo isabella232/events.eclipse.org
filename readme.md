@@ -85,10 +85,10 @@ We hope to find a more general solution in the future.We are not using the time 
 
 xx can be any of the following:
 
-* dc - Demo Camp
-* ht - hackathon
+* dc - Demo Camp & Stammtisch
+* wg - Working Group Events
 * ec - EclipseCon
-* ed - Eclipse Day
+* ed - Eclipse Day & Hackathons
 * et - Training Series
 * ee - Other interesting Events
 
