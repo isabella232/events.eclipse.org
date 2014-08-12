@@ -1,6 +1,86 @@
 
 {
 	"events":[ 
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech & IoT Calgary", 
+		    "date":"Sep 16 2014 18:30 GMT+0100 (CET)", 
+		    "end-date":"Sep 16 2014 21:30 GMT+0100 (CET)", 
+		    "locationName":"University of Calgary", 
+		    "registration":"https://www.eventbrite.ca/e/locationtech-iot-calgary-tickets-12165867437", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"Co-located with the OGC Technical Meeting in Calgary, this evening event features presentations and demos of advanced open source geospatial software.", 
+		    "address":{ 
+		        "street":"2500 University Dr NW", 
+		        "zip":"AB T2N 1N4", 
+		        "city":"Calgary", 
+		        "country": "Canada", 
+		        "geoLoc":{ 
+		            "lat": "51.07639", 
+		            "lon": "-114.13148" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"embedded world 2015", 
+		    "date":"Feb 24 2015 09:30 GMT+0100 (CET)", 
+		    "end-date":"Feb 26 2015 22:00 GMT+0100 (CET)", 
+		    "locationName":"NürnbergMesse", 
+		    "registration":"http://www.embedded-world.eu/home.html", 
+		    "infoLink":"http://www.embedded-world.eu/home.html", 
+		    "description":"We are the Internet of Things – that's the leitmotif of the embedded world Conference 2015 in Nuremberg.", 
+		    "address":{ 
+		        "street":"Messezentrum NCC Ost", 
+		        "zip":"90471", 
+		        "city":"Nürnberg", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "49.41602", 
+		            "lon": "11.12341" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"OOP 2015", 
+		    "date":"Jan 26 2015 09:30 GMT+0100 (CET)", 
+		    "end-date":"Jan 30 2015 22:00 GMT+0100 (CET)", 
+		    "locationName":"ICM - International Congress Center Munich", 
+		    "registration":"http://www.oop-konferenz.de/oop2015/startseite-englisch/conference.html", 
+		    "infoLink":"http://www.oop-konferenz.de/oop2015/startseite-englisch/conference.html", 
+		    "description":"This years Motto: Responsibility: Building Reliable Environments", 
+		    "address":{ 
+		        "street":"Am Messesee 6", 
+		        "zip":"81829", 
+		        "city":"München", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "48.13528", 
+		            "lon": "11.69384" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"devoxx", 
+		    "date":"Nov 10 2014 09:30 GMT+0100 (CET)", 
+		    "end-date":"Nov 14 2014 22:00 GMT+0100 (CET)", 
+		    "locationName":"Metropolis Antwerp", 
+		    "registration":"http://regbe.devoxx.com/public#DV14", 
+		    "infoLink":"http://www.devoxx.be/", 
+		    "description":"Devoxx is a conference by developers for developers at an affordable price so every developer can enjoy this unique experience.", 
+		    "address":{ 
+		        "street":"Groenendaallaan 394", 
+		        "zip":"2030", 
+		        "city":"Antwerp", 
+		        "country": "Belgium", 
+		        "geoLoc":{ 
+		            "lat": "51.24578", 
+		            "lon": "4.41621" 
+		        } 
+		    }
+		},
 	{
        "type":"ed",
 	    "title":"Eclipse Finance Day 2014",
