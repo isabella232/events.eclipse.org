@@ -2,9 +2,269 @@
 {
 	"events":[ 
 	{ 
+		    "type":"ee", 
+		    "title":"envision Geomatics 2014", 
+		    "date":"Nov 12 2014 09:30 GMT+0100 (CET)", 
+		    "end-date":"Nov 13 2014 22:00 GMT+0100 (CET)", 
+		    "locationName":"Palais Des Congres De Gatineau", 
+		    "registration":"http://2014.visiongeomatique.com/colloque-visiong%C3%A9omatique---inscription--12-13-novembre-2014.html", 
+		    "infoLink":"http://jazoon.com/", 
+		    "description":"Co-located with the Envision Geomatics conference in Gatineau, a suburb of Ottawa, this 3 day event provides a thorough overview of open source geospatial technologies.", 
+		    "address":{ 
+		        "street":" situé au 50, boul. Maisonneuve", 
+		        "zip":"J8X 4H4", 
+		        "city":"Gatineau", 
+		        "country": "Canada", 
+		        "geoLoc":{ 
+		            "lat": "45.47654", 
+		            "lon": "-75.70127" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech Washington DC", 
+		    "date":"Dec 09 2014 18:30 GMT+0100 (CET)", 
+		    "end-date":"Dec 09 2014 09:30 GMT+0100 (CET)", 
+		    "locationName":"", 
+		    "registration":"https://www.eventbrite.ca/e/locationtech-meetup-washington-dc-tickets-12168505327", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"An evening of good food, drinks, and short presentations highlighting the innovative new technology projects hosted at LocationTech.", 
+		    "address":{ 
+		        "street":"1400 Key Blvd Level A", 
+		        "zip":"22209", 
+		        "city":"Arlington", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "38.89221", 
+		            "lon": " -77.07084" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech Code Sprint 2014", 
+		    "date":"Nov 21 2014 10:00 GMT+0100 (CET)", 
+		    "end-date":"Nov 21 2014 17:00 GMT+0100 (CET)", 
+		    "locationName":"Azavea Inc", 
+		    "registration":"https://www.eventbrite.ca/e/locationtech-code-sprint-2014-tickets-12628794063", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"This event is a one day code sprint hosted by Azavea. This event provides an opportunity to work on LocationTech project code with experts.", 
+		    "address":{ 
+		        "street":"340 N 12th St # 402", 
+		        "zip":"19107", 
+		        "city":"Philadelphia", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "39.95897", 
+		            "lon": "-75.15858" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech 2014 Geo Open Source Conference", 
+		    "date":"Nov 20 2014 13:00 GMT+0100 (CET)", 
+		    "end-date":"Nov 20 2014 20:30 GMT+0100 (CET)", 
+		    "locationName":"Arch Street Meeting House", 
+		    "registration":"https://www.eventbrite.ca/e/locationtech-meetup-new-york-tickets-12168378949", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"Philadelphia's LocationTech event will be a conference-style speaker series featuring technical talks on the convergence of open source and geospatial. This will also be a GeoPhilly event hosted by Azavea. A social happy hour will follow.", 
+		    "address":{ 
+		        "street":"320 Arch St", 
+		        "zip":"19106", 
+		        "city":"Philadelphia", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "39.95229", 
+		            "lon": "-75.14623" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech Meetup New York", 
+		    "date":"Nov 19 2014 18:30 GMT+0100 (CET)", 
+		    "end-date":"Nov 19 2014 21:30 GMT+0100 (CET)", 
+		    "locationName":"", 
+		    "registration":"https://www.eventbrite.ca/e/locationtech-meetup-new-york-tickets-12168378949", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"", 
+		        "zip":"", 
+		        "city":"New York", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "40.75901", 
+		            "lon": "  -73.98447" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech Meetup Boston", 
+		    "date":"Nov 18 2014 09:00 GMT+0100 (CET)", 
+		    "end-date":"Nov 18 2014 17:00 GMT+0100 (CET)", 
+		    "locationName":"", 
+		    "registration":"https://www.eventbrite.ca/e/locationtech-meetup-boston-tickets-12168336823", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"The AvidGeo Conference, part of the LocationTech Tour again this year, is a great chance to hear about geospatial technology and get hands on workshop time with current tools. The morning of the conference will consist of 30 minute talks and the afternoon will consist of 60 minute workshop sessions that will expose attendees to a hands-on look at the technology.", 
+		    "address":{ 
+		        "street":"", 
+		        "zip":"", 
+		        "city":"Boston", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "42.35843", 
+		            "lon": "-71.05977" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech Meetup Toronto", 
+		    "date":"Nov 10 2014 18:30 GMT+0100 (CET)", 
+		    "end-date":"Nov 10 2014 21:30 GMT+0100 (CET)", 
+		    "locationName":"University of Toronto - St. George Campus", 
+		    "registration":"https://www.eventbrite.ca/e/locationtech-meetup-toronto-tickets-12168003827", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"Hosted by the University of Toronto, this event is a focus on high performance geoprocessing and big data.", 
+		    "address":{ 
+		        "street":"27 King's College Cir", 
+		        "zip":"ONM5S", 
+		        "city":"Toronto", 
+		        "country": "Canada", 
+		        "geoLoc":{ 
+		            "lat": "43.66151", 
+		            "lon": "-79.39649" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech Meetup Hamburg", 
+		    "date":"Oct 23 2014 18:30 GMT+0100 (CET)", 
+		    "end-date":"Oct 23 2014 21:30 GMT+0100 (CET)", 
+		    "locationName":"", 
+		    "registration":"https://www.eventbrite.ca/e/locationtech-meetup-hamburg-tickets-12166226511", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"This LocationTech Meetup is a chance to meet members, project developers, entrepreneurs, and other interesting people for an enjoyable evening of good food, drinks, and camraderie. The evening will feature presentations from advanced open source technology projects.", 
+		    "address":{ 
+		        "street":"", 
+		        "zip":"", 
+		        "city":"Hamburg", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "53.55108", 
+		            "lon": "9.99368" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech Meetup Madrid", 
+		    "date":"Oct 21 2014 19:00 GMT+0100 (CET)", 
+		    "end-date":"Oct 21 2014 22:00 GMT+0100 (CET)", 
+		    "locationName":"", 
+		    "registration":"https://www.eventbrite.ca/e/locationtech-meetup-madrid-tickets-12166132229", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"This LocationTech Meetup in Madrid is a chance to meet members, project developers, entrepreneurs, and other interesting people for an enjoyable evening of good food, drinks, and camaraderie.", 
+		    "address":{ 
+		        "street":"", 
+		        "zip":"", 
+		        "city":"Madrid", 
+		        "country": "Spain", 
+		        "geoLoc":{ 
+		            "lat": "48.42842", 
+		            "lon": "-3.70379" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech Meetup Victoria", 
+		    "date":"Oct 02 2014 18:30 GMT+0100 (CET)", 
+		    "end-date":"Oct 02 2014 21:30 GMT+0100 (CET)", 
+		    "locationName":"", 
+		    "registration":"http://www.eventbrite.ca/e/locationtech-meetup-victoria-tickets-12166031929", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"A social evening of fun, mapping and technology.", 
+		    "address":{ 
+		        "street":"", 
+		        "zip":"", 
+		        "city":"Victoria", 
+		        "country": "Canada", 
+		        "geoLoc":{ 
+		            "lat": "48.42842", 
+		            "lon": "-123.36564" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech Space and Things London", 
+		    "date":"Oct 01 2014 09:00 GMT+0100 (CET)", 
+		    "end-date":"Oct 01 2014 17:00 GMT+0100 (CET)", 
+		    "locationName":"", 
+		    "registration":"http://www.eventbrite.ca/e/space-and-things-tickets-12165969743", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"This event is a special collaboration between the LocationTech, Science, and Internet of Things (IoT) working groups. It will present advanced open source technologies being used to push the state of the art in these domains.", 
+		    "address":{ 
+		        "street":"", 
+		        "zip":"", 
+		        "city":"London", 
+		        "country": "UK", 
+		        "geoLoc":{ 
+		            "lat": "51.50735", 
+		            "lon": "-0.12776" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"wg", 
+		    "title":"LocationTech Meetup Portland", 
+		    "date":"Sep 10 2014 19:00 GMT+0100 (CET)", 
+		    "end-date":"Sep 16 2014 22:00 GMT+0100 (CET)", 
+		    "locationName":"Spirit of 77", 
+		    "registration":"https://www.eventbrite.ca/e/locationtech-meetup-portland-tickets-12165801239", 
+		    "infoLink":"http://tour.locationtech.org/2014", 
+		    "description":"Organized during FOSS4G week in Portland, this LocationTech Birds of a Feather Meetup is a chance to meet members, project developers, entrepreneurs, and other interesting people for an enjoyable evening of good food, drinks, and camaraderie.", 
+		    "address":{ 
+		        "street":"500 NE Martin Luther King Jr Blvd", 
+		        "zip":"97232", 
+		        "city":"Portland", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "45.52673", 
+		            "lon": "-122.66137" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"Jazoon", 
+		    "date":"Oct 21 2014 09:30 GMT+0100 (CET)", 
+		    "end-date":"Oct 22 2014 22:00 GMT+0100 (CET)", 
+		    "locationName":"StageOne Event and Convention Hall", 
+		    "registration":"http://jazoon.com/register/", 
+		    "infoLink":"http://jazoon.com/", 
+		    "description":"JAZOON is the international professional conference organised in Zurich, Switzerland about software technology and methods. It is aimed at software developers, software architects, IT decision-makers and consultants from across the globe. The eighth edition of the conference will be held in Zurich, Switzerland on 21 and 22 October 2014. Jazoon encourages contact between individuals across technological, geographical and cultural boundaries. ", 
+		    "address":{ 
+		        "street":"Elias-Canetti-Strasse 146", 
+		        "zip":"CH-8050", 
+		        "city":"Zürich-Oerlikon", 
+		        "country": "Switzerland", 
+		        "geoLoc":{ 
+		            "lat": "47.41177", 
+		            "lon": "8.54098" 
+		        } 
+		    }
+		},
+	{ 
 		    "type":"wg", 
 		    "title":"LocationTech & IoT Calgary", 
-		    "date":"Sep 16 2014 18:30 GMT+0100 (CET)", 
+		    "date":"Sep 16 2014 20:30 GMT+0100 (CET)", 
 		    "end-date":"Sep 16 2014 21:30 GMT+0100 (CET)", 
 		    "locationName":"University of Calgary", 
 		    "registration":"https://www.eventbrite.ca/e/locationtech-iot-calgary-tickets-12165867437", 
