@@ -3,12 +3,184 @@
 	"events":[ 
 	{ 
 		    "type":"ee", 
+		    "title":"OpenFOAM User Conference 2014", 
+		    "date":"Oct 07 2014 09:30 GMT+0100 (CET)", 
+		    "end-date":"Oct 09 2014 22:00 GMT+0100 (CET)", 
+		    "locationName":"Steigenberger Hotel am Kanzleramt", 
+		    "registration":"http://www.esi-group.com/company/events/2014/2nd-openfoam-user-conference-2014/registration", 
+		    "infoLink":"http://www.esi-group.com/company/events/2014/2nd-openfoam-user-conference-2014", 
+		    "description":"ESI-OpenCFD presents the 2nd official OpenFOAM User Conference organized by ESI-OpenCFD and opens up another opportunity  for all the OpenFOAM users worldwide to meet and interact with the OpenFOAM developers, support and training team from ESI-OpenCFD and find out more about new developments and interesting projects in OpenFOAM.", 
+		    "address":{ 
+		        "street":"Ella Trebe Staße 5", 
+		        "zip":"10557", 
+		        "city":"Berlin", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "52.52311", 
+		            "lon": "13.36825" 
+		        } 
+		    }
+		},
+	{
+       "type":"ed",
+	    "title":"Eclipse Hackathon Hamburg",
+       "date":"Oct 25 2014 18:30 GMT+0500 (EST)",
+       "locationName":"HAPAQ Lloyd",
+       "registration":"",
+       "infoLink":"",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Hamburg",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"53.55108",
+               "lon":"9.99368"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Hanover",
+       "date":"Dec 04 2014 18:30 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"",
+       "infoLink":"",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Hanover",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"52.37757",
+               "lon":"9.73338"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Hanover",
+       "date":"Dec 04 2014 18:30 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"",
+       "infoLink":"",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Hanover",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"52.37757",
+               "lon":"9.73338"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Lyon",
+       "date":"Nov 01 2014 18:30 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Lyon",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Lyon",
+       "description":"After the success on positive feedback of Eclipse day 2013 in Grenoble, we are pleased to group together a Eclipse Day event in Lyon to gather all Eclipse enthusiast in the area around technical presentations, discussions and code.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Lyon",
+           "country": "France",
+           "geoLoc":{
+               "lat":"45.76289",
+               "lon":"4.84506"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Raleigh",
+       "date":"Nov 01 2014 18:30 GMT+0500 (EST)",
+       "locationName":"NCSU Campus",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Raleigh",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Raleigh",
+       "description":"It's been a while since the triangle has had a DemoCamp! This one'll be on NCSU's campus, with details to be determined. It'll be run by the Developer Liberation Front.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Raleigh",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"35.78491",
+               "lon":"-78.68193"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Beijing",
+       "date":"Nov 07 2014 19:00 GMT+0500 (EST)",
+       "locationName":"Funshion Online Beijing office",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Beijing",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Beijing",
+       "description":"Eclipse DemoCamp in Beijing on 2014 November 7th is a free event organized by enthusiasts and supported by the Eclipse Foundation. This event will target on the IT developers. Welcome to share the experiences of Eclipse open source projects, give Eclipse demo, and discuss the technical issues with the participants. This event will also provide a good opportunity and platform for the Eclipse members and developers to communicate.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"",
+           "country": "",
+           "geoLoc":{
+               "lat":"39.90403",
+               "lon":"116.407526"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Ottawa",
+       "date":"Nov 25 2014 18:30 GMT+0500 (EST)",
+       "locationName":"Centrepointe Royal Oak",
+       "registration":"https://www.eventbrite.com/e/eclipse-democamp-ottawa-tickets-12290221383",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Ottawa",
+       "description":"Kick off a DemoCamp here in Ottawa! Ottawa has some really amazing folks in the Eclipse community, so lets hangout and show off some off the cool work being done!This is a very informal and chill out type of event:) Wear your coolest tech/geek/other swag!",
+       "address":{
+           "street":"117 Centrepointe Drive",
+           "zip":"",
+           "city":"Ottawa",
+           "country": "Canada",
+           "geoLoc":{
+               "lat":"45.34274",
+               "lon":"-75.76311"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Munich",
+       "date":"Dec 03 2014 18:30 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"",
+       "infoLink":"",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Munich",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"48.13513",
+               "lon":"11.58198"
+           }
+       }
+   },
+	{ 
+		    "type":"ee", 
 		    "title":"envision Geomatics 2014", 
 		    "date":"Nov 12 2014 09:30 GMT+0100 (CET)", 
 		    "end-date":"Nov 13 2014 22:00 GMT+0100 (CET)", 
 		    "locationName":"Palais Des Congres De Gatineau", 
 		    "registration":"http://2014.visiongeomatique.com/colloque-visiong%C3%A9omatique---inscription--12-13-novembre-2014.html", 
-		    "infoLink":"http://jazoon.com/", 
+		    "infoLink":"http://2014.visiongeomatique.com/index_en.html#top", 
 		    "description":"Co-located with the Envision Geomatics conference in Gatineau, a suburb of Ottawa, this 3 day event provides a thorough overview of open source geospatial technologies.", 
 		    "address":{ 
 		        "street":" situé au 50, boul. Maisonneuve", 
