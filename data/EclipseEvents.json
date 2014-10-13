@@ -1,6 +1,63 @@
 
 {
 	"events":[ 
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Kassel",
+       "date":"Dec 02 2014 17:00 GMT+0500 (EST)",
+       "locationName":"Circus Rambazotti",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_December_2014/Kassel",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_December_2014/Kassel",
+       "description":"",
+       "address":{
+           "street":"Ludwig Erhard St. 21",
+           "zip":"34131",
+           "city":"Kassel",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"51.30542",
+               "lon":"9.44223"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Frankfurt",
+       "date":"Dec 02 2014 17:00 GMT+0500 (EST)",
+       "locationName":"Yatta Office Frankfurt a.M.",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_December_2014/Frankfurt",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_December_2014/Frankfurt",
+       "description":"",
+       "address":{
+           "street":"Mainzer Landstr. 50",
+           "zip":"60325",
+           "city":"Frankfurt a.M.",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"50.1109392",
+               "lon":"8.6639151"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Hamburg",
+       "date":"Nov 25 2014 18:00 GMT+0500 (EST)",
+       "locationName":"Nordakademie Graduate School",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Hamburg",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Hamburg",
+       "description":"",
+       "address":{
+           "street":"Van-der-Smissen-Strasse 9",
+           "zip":" 22767",
+           "city":"Hamburg",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"53.54331",
+               "lon":"9.9373"
+           }
+       }
+   },
 	{ 
 		    "type":"ee", 
 		    "title":"OpenFOAM User Conference 2014", 
@@ -26,17 +83,17 @@
 	    "title":"Eclipse Hackathon Hamburg",
        "date":"Oct 25 2014 18:30 GMT+0500 (EST)",
        "locationName":"HAPAQ Lloyd",
-       "registration":"",
-       "infoLink":"",
+       "registration":"https://wiki.eclipse.org/Hackathon_Hamburg_October_2014",
+       "infoLink":"https://wiki.eclipse.org/Hackathon_Hamburg_October_2014",
        "description":"",
        "address":{
-           "street":"",
-           "zip":"",
+           "street":"Rosenstraße 17",
+           "zip":"20095",
            "city":"Hamburg",
            "country": "Germany",
            "geoLoc":{
-               "lat":"53.55108",
-               "lon":"9.99368"
+               "lat":"53.55310",
+               "lon":"10.00140"
            }
        }
    },
@@ -44,37 +101,18 @@
        "type":"ed",
 	    "title":"Eclipse DemoCamp Hanover",
        "date":"Dec 04 2014 18:30 GMT+0500 (EST)",
-       "locationName":"",
-       "registration":"",
-       "infoLink":"",
+       "locationName":"Zühlke Engineering GmbH",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_December_2014/Hannover",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_December_2014/Hannover",
        "description":"",
        "address":{
-           "street":"",
-           "zip":"",
+           "street":"Pelikanplatz 35",
+           "zip":"30177",
            "city":"Hanover",
            "country": "Germany",
            "geoLoc":{
-               "lat":"52.37757",
-               "lon":"9.73338"
-           }
-       }
-   },
-	{
-       "type":"ed",
-	    "title":"Eclipse DemoCamp Hanover",
-       "date":"Dec 04 2014 18:30 GMT+0500 (EST)",
-       "locationName":"",
-       "registration":"",
-       "infoLink":"",
-       "description":"",
-       "address":{
-           "street":"",
-           "zip":"",
-           "city":"Hanover",
-           "country": "Germany",
-           "geoLoc":{
-               "lat":"52.37757",
-               "lon":"9.73338"
+               "lat":"52.39846",
+               "lon":"9.77092"
            }
        }
    },
@@ -318,13 +356,13 @@
 		    "title":"LocationTech Meetup Hamburg", 
 		    "date":"Oct 23 2014 18:30 GMT+0100 (CET)", 
 		    "end-date":"Oct 23 2014 21:30 GMT+0100 (CET)", 
-		    "locationName":"", 
+		    "locationName":"Nordakademie Graduate School", 
 		    "registration":"https://www.eventbrite.ca/e/locationtech-meetup-hamburg-tickets-12166226511", 
 		    "infoLink":"http://tour.locationtech.org/2014", 
-		    "description":"This LocationTech Meetup is a chance to meet members, project developers, entrepreneurs, and other interesting people for an enjoyable evening of good food, drinks, and camraderie. The evening will feature presentations from advanced open source technology projects.", 
+		    "description":"Bei dieser Abendveranstaltung habt Ihr die Chance Mitglieder, Entwickler, Unternehmen und andere interessierte Leute zu treffen. Kernthema dabei sind Open Source Software basierte Lösungen, die mit räumliche Daten arbeiten, diese analysieren und präsentieren. Andrew Ross und Ralph Müller von der werden für Fragen rund um die Eclipse Foundation/LocationTech IWG zur Verfügung stehen.", 
 		    "address":{ 
-		        "street":"", 
-		        "zip":"", 
+		        "street":"Van der Smissen Strasse 9", 
+		        "zip":"22767", 
 		        "city":"Hamburg", 
 		        "country": "Germany", 
 		        "geoLoc":{ 
@@ -343,13 +381,13 @@
 		    "infoLink":"http://tour.locationtech.org/2014", 
 		    "description":"This LocationTech Meetup in Madrid is a chance to meet members, project developers, entrepreneurs, and other interesting people for an enjoyable evening of good food, drinks, and camaraderie.", 
 		    "address":{ 
-		        "street":"", 
-		        "zip":"", 
+		        "street":"22 Calle Alameda", 
+		        "zip":"28014", 
 		        "city":"Madrid", 
 		        "country": "Spain", 
 		        "geoLoc":{ 
-		            "lat": "48.42842", 
-		            "lon": "-3.70379" 
+		            "lat": "40.41080", 
+		            "lon": "-3.69388" 
 		        } 
 		    }
 		},
@@ -609,25 +647,6 @@
 	               "lat":"44.4025002",
 	               "lon":"8.9312897"
 	           }
-	       }
-	   },
-		{
-	       "type":"ed",
-		    "title":"Eclipse Day Beijing",
-	       "date":"Oct 30 2014 08:30 GMT+0500 (EST)",
-	       "locationName":"",
-	       "registration":"https://wiki.eclipse.org/Eclipse_Day_China_2014",
-	       "infoLink":"https://wiki.eclipse.org/Eclipse_Day_China_2014",
-	       "description":"Please see info link for more information",
-	       "address":{
-	           "street":"",
-	           "zip":"",
-	           "city":"Beijing",
-	           "country": "China",
-	            "geoLoc":{
-	                "lat":"39.90403",
-	                "lon":"116.407526"
-	            }
 	       }
 	   },
 		{
