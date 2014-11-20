@@ -3,8 +3,27 @@
 	"events":[ 
 	{
        "type":"ed",
+	    "title":"Eclipse DemoCamp Bonn",
+       "date":"Nov 24 2014 18:15 GMT+0500 (EST)",
+       "locationName":"Collegium Leoninum Bonn",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Bonn",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Bonn",
+       "description":"",
+       "address":{
+           "street":"Noeggerathstrasse 34",
+           "zip":"53111",
+           "city":"Bonn",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"50.73520",
+               "lon":"7.09220"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse DemoCamp Kassel",
-       "date":"Dec 02 2014 17:00 GMT+0500 (EST)",
+       "date":"Dec 09 2014 17:00 GMT+0500 (EST)",
        "locationName":"Circus Rambazotti",
        "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_December_2014/Kassel",
        "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_December_2014/Kassel",
@@ -119,7 +138,7 @@
 	{
        "type":"ed",
 	    "title":"Eclipse DemoCamp Lyon",
-       "date":"Nov 01 2014 18:30 GMT+0500 (EST)",
+       "date":"Dec 18 2014 18:30 GMT+0500 (EST)",
        "locationName":"",
        "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Lyon",
        "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Lyon",
@@ -175,39 +194,20 @@
    },
 	{
        "type":"ed",
-	    "title":"Eclipse DemoCamp Ottawa",
-       "date":"Nov 25 2014 18:30 GMT+0500 (EST)",
-       "locationName":"Centrepointe Royal Oak",
-       "registration":"https://www.eventbrite.com/e/eclipse-democamp-ottawa-tickets-12290221383",
-       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2014/Ottawa",
-       "description":"Kick off a DemoCamp here in Ottawa! Ottawa has some really amazing folks in the Eclipse community, so lets hangout and show off some off the cool work being done!This is a very informal and chill out type of event:) Wear your coolest tech/geek/other swag!",
-       "address":{
-           "street":"117 Centrepointe Drive",
-           "zip":"",
-           "city":"Ottawa",
-           "country": "Canada",
-           "geoLoc":{
-               "lat":"45.34274",
-               "lon":"-75.76311"
-           }
-       }
-   },
-	{
-       "type":"ed",
 	    "title":"Eclipse DemoCamp Munich",
        "date":"Dec 03 2014 18:30 GMT+0500 (EST)",
-       "locationName":"",
-       "registration":"",
-       "infoLink":"",
+       "locationName":"EclipseSource München GmbH",
+       "registration":"https://www.eventbrite.de/e/democamp-munich-december-2014-tickets-13262114341",
+       "infoLink":"https://www.eventbrite.de/e/democamp-munich-december-2014-tickets-13262114341",
        "description":"",
        "address":{
-           "street":"",
-           "zip":"",
+           "street":"Agnes-Pockels-Bogen 1",
+           "zip":"80992",
            "city":"Munich",
            "country": "Germany",
            "geoLoc":{
-               "lat":"48.13513",
-               "lon":"11.58198"
+               "lat":"48.17317",
+               "lon":"11.53278"
            }
        }
    },
