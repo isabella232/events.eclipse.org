@@ -2,6 +2,26 @@
 {
 	"events":[ 
 	{ 
+	    "type":"ee", 
+	    "title":"Foss4G North America 2015", 
+	    "date":"Mar 09 2015 09:00 GMT-0900", 
+	    "end-date":"Mar 12 2015 17:00 GMT-0900", 
+	    "locationName":"Hyatt Regency San Francisco Airport", 
+	    "registration":"https://2015.foss4g-na.org", 
+	    "infoLink":"https://2015.foss4g-na.org", 
+	    "description":"The annual FOSS4G North America (NA) conference is one of the largest global gatherings focused on open source geospatial software. FOSS4G NA brings together developers, users, decision-makers and observers from a broad spectrum of organizations and fields of operation.", 
+	    "address":{ 
+	        "street":"1333 Bayshore Highway", 
+	        "zip":"94010", 
+	        "city":"Burlingame", 
+	        "country": "USA", 
+	        "geoLoc":{ 
+	            "lat": "37.593852", 
+	            "lon": "-122.365379"
+	        } 
+	    } 
+	},
+	{ 
 	    "type":"ec", 
 	    "title":"EclipseCon Europe 2015", 
 	    "date":"Nov 03 2015 09:00 GMT-0900", 
