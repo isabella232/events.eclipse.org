@@ -1,6 +1,86 @@
 
 {
 	"events":[ 
+	{ 
+	    "type":"ec", 
+	    "title":"EclipseCon Europe 2015", 
+	    "date":"Nov 03 2015 09:00 GMT-0900", 
+	    "end-date":"Nov 05 2015 17:00 GMT-0900", 
+	    "locationName":"Forum Am Schlosspark Ludwigsburg", 
+	    "registration":"", 
+	    "infoLink":"", 
+	    "description":"EclipseCon Europe is designed to create opportunities for the Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse and its member companies. ", 
+	    "address":{ 
+	        "street":"Stuttgarter Straße 33", 
+	        "zip":"71638", 
+	        "city":"Ludwigsburg", 
+	        "country": "Germany", 
+	        "geoLoc":{ 
+	            "lat": "48.89228", 
+	            "lon": "9.1948577"
+	        } 
+	    } 
+	},
+	{ 
+	    "type":"ec", 
+	    "title":"EclipseCon France 2015", 
+	    "date":"Jun 18 2015 08:00 GMT-0900", 
+	    "end-date":"Jun 19 2015 17:00 GMT-0900", 
+	    "locationName":"Pierre- Baudis Congress Centre, Toulouse", 
+	    "registration":"", 
+	    "infoLink":"", 
+	    "description":"", 
+	    "address":{ 
+	        "street":"11 esplanade Compans Cafarelli", 
+	        "zip":"31685", 
+	        "city":"Toulouse", 
+	        "country": "France", 
+	        "geoLoc":{ 
+	            "lat": "43.604652", 
+	            "lon": "1.444209" 
+	        } 
+	    } 
+	},
+	{ 
+	    "type":"ec", 
+	    "title":"EclipseCon NA 2015", 
+	    "date":"Mar 09 2015 08:00 GMT-0900", 
+	    "end-date":"Mar 12 2015 17:00 GMT-0900", 
+	    "locationName":"Hyatt-Regency, San Francisco", 
+	    "registration":"https://www.eclipsecon.org/na2015/registration", 
+	    "infoLink":"https://www.eclipsecon.org/na2015", 
+	    "description":"EclipseCon North America, presented by the Eclipse Foundation, is designed to create opportunities for the Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse and its member companies. We are excited to be co-locating with FOSS4G North America this year.", 
+	    "address":{ 
+	        "street":"1333 Bayshore Highway", 
+	        "zip":"94010", 
+	        "city":"Burlingame", 
+	        "country": "USA", 
+	        "geoLoc":{ 
+	            "lat": "37.5943102", 
+	            "lon": "-122.364614" 
+	        } 
+	    } 
+	},
+	{ 
+		    "type":"ee", 
+		    "title":"CeBit- Developer World 2015", 
+		    "date":"Mar 16 2015 09:30 GMT+0100 (CET)", 
+		    "end-date":"Mar 20 2015 22:00 GMT+0100 (CET)", 
+		    "locationName":"Hanover Messe", 
+		    "registration":"http://developerworld.heise.de/", 
+		    "infoLink":"http://developerworld.heise.de/", 
+		    "description":"he Developer World at CeBIT 2015 is the new meeting point and marketplace for software developers. It combines a trade exhibition, networking areas and stages for issue-specific talks. Complemented by an eclectic range of activities such as hackathons and social evening events, the trade exhibition and the stages of heise Developer World will become the new centre of the industry.", 
+		    "address":{ 
+		        "street":"", 
+		        "zip":"30521", 
+		        "city":"Hannover", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "52.32786", 
+		            "lon": "9.80456" 
+		        } 
+		    }
+		},
 	{
        "type":"ed",
 	    "title":"Eclipse DemoCamp Bonn",
