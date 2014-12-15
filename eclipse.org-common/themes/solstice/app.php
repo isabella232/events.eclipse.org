@@ -206,6 +206,11 @@ function solstice_variables(&$variables) {
 		'caption' => 'Science'
 	);
 
+	$variables['menu']['more']['Working Groups'][] = array(
+		'url' => 'http://openmdm.org',
+		'caption' => 'OpenMDM'
+	);
+
 	$variables['menu']['mobile_more'] = "";
 	$variables['menu']['desktop_more'] = '';
 	foreach ($variables['menu']['more'] as $key => $value) {
