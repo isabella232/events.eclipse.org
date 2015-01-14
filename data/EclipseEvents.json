@@ -1,6 +1,25 @@
 
 {
 	"events":[ 
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Bangalore",
+       "date":"Jan 22 2015 15:00 GMT+0500 (EST)",
+       "locationName":"Manyata Embassy Business Park Nagawara Bangalore",
+       "registration":" http://goo.gl/forms/1PgtHuj3OQ",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Winter_2015/Bangalore",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":" 560 045",
+           "city":"Bangalore",
+           "country": "India",
+           "geoLoc":{
+               "lat":"13.04146",
+               "lon":"77.62096"
+           }
+       }
+   },
 	{ 
 	    "type":"ee", 
 	    "title":"Foss4G North America 2015", 
