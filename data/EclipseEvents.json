@@ -3,6 +3,25 @@
 	"events":[ 
 	{
        "type":"ed",
+	    "title":"Eclipse DemoCamp Nantes",
+       "date":"Feb 05 2015 18:00 GMT+0500 (EST)",
+       "locationName":"Hub Créatic, Nantes",
+       "registration":"https://docs.google.com/forms/d/1Q7t2QEAK5FCt6UbPaiZcRMO1V6HJhvXIm1d5G5vk2Jw/viewform",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Winter_2015/Nantes",
+       "description":"A new edition of the Eclipse DemoCamp will take place in Nantes on February 5th. This event will be the opportunity to meet several Eclipse committers, to discover the last highlights and to exchange with other users. The evening will start with the presentation of the Eclipse ecosystem by Gaël Blondelle, French representative of the Eclipse Foundation. Then, several speakers will present some of the major Eclipse topics: Cloud, IoT, Arduino web development and enterprise deployment.",
+       "address":{
+           "street":"6 Rue Rose Dieng-Kuntz ",
+           "zip":"44300",
+           "city":"NANTES",
+           "country": "France",
+           "geoLoc":{
+               "lat":"47.283880",
+               "lon":"-1.515926"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse DemoCamp Bangalore",
        "date":"Jan 22 2015 15:00 GMT+0500 (EST)",
        "locationName":"Manyata Embassy Business Park Nagawara Bangalore",
@@ -615,10 +634,10 @@
 		    "title":"embedded world 2015", 
 		    "date":"Feb 24 2015 09:30 GMT+0100 (CET)", 
 		    "end-date":"Feb 26 2015 22:00 GMT+0100 (CET)", 
-		    "locationName":"NürnbergMesse", 
+		    "locationName":"Nürnberg Messe", 
 		    "registration":"http://www.embedded-world.eu/home.html", 
 		    "infoLink":"http://www.embedded-world.eu/home.html", 
-		    "description":"We are the Internet of Things – that's the leitmotif of the embedded world Conference 2015 in Nuremberg.", 
+			    "description":"We are the Internet of Things – is the leitmotif of the embedded world Conference 2015 in Nuremberg. The Eclipse Foundation will have a presence there together with Amalthea4Public, Bitreactive AS, itemis AG, logi.cals GmbH, Obeo, PolarSys and Sierra Wireless.‚", 
 		    "address":{ 
 		        "street":"Messezentrum NCC Ost", 
 		        "zip":"90471", 
