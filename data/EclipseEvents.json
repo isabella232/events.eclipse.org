@@ -3,6 +3,63 @@
 	"events":[ 
 	{
        "type":"ed",
+	    "title":"Eclipse DemoCamp Zurich",
+       "date":"Jun 24 2015 18:00 GMT+0500 (EST)",
+       "locationName":"Swiss Federal Institute of Technology",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Zurich",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Zurich",
+       "description":"Engage in the Eclipse community this Summer at the Mars DemoCamp in Zurich. If you are interested in Eclipse Topics, this is the event to attend in Switzerland.",
+       "address":{
+           "street":"Rämistrasse 101",
+           "zip":"8092",
+           "city":"Zurich",
+           "country": "Switzerland",
+           "geoLoc":{
+               "lat":"47.376441",
+               "lon":"8.547428"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Munich",
+       "date":"Jun 23 2015 18:00 GMT+0500 (EST)",
+       "locationName":"Capgemini",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Munich",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Munich",
+       "description":"Engage in the Eclipse community this Summer at the Mars DemoCamp in Munich. If you are interested in Eclipse Topics, this is the event to attend in the larger Munich area.",
+       "address":{
+           "street":"Olof-Palme-Straße 14",
+           "zip":"81829",
+           "city":"München",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"13.04146",
+               "lon":"11.689991"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse IoT Day",
+       "date":"Mar 18 2015 08:30 GMT+0500 (EST)",
+       "locationName":"Dorint Hotel- Dresden",
+       "registration":"http://iotday.dd-eclipse.de/anmeldung/",
+       "infoLink":"http://iotday.dd-eclipse.de",
+       "description":"Die Eclipse User Group Dresden veranstaltet den ersten Eclipse IoT Day.",
+       "address":{
+           "street":"Grunaer Straße 14",
+           "zip":"01069",
+           "city":"Dresden",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"51.047210",
+               "lon":"13.750280"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse DemoCamp Nantes",
        "date":"Feb 05 2015 18:00 GMT+0500 (EST)",
        "locationName":"Hub Créatic, Nantes",
