@@ -16,7 +16,7 @@
            "country": "Switzerland",
            "geoLoc":{
                "lat":"47.376441",
-               "lon":"8.547428"
+               "lon":"8.547428ƒ"
            }
        }
    },
@@ -34,7 +34,7 @@
            "city":"München",
            "country": "Germany",
            "geoLoc":{
-               "lat":"13.04146",
+               "lat":"48.137755",
                "lon":"11.689991"
            }
        }
