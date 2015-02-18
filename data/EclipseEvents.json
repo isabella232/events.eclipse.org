@@ -3,6 +3,25 @@
 	"events":[ 
 	{
        "type":"ed",
+	    "title":"Eclipse DemoCamp Berlin",
+       "date":"Jun 16 2015 17:00 GMT+0500 (EST)",
+       "locationName":"Fraunhofer Fokus",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Zurich",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Zurich",
+       "description":"",
+       "address":{
+           "street":"Kaiserin-Augusta-Allee 31",
+           "zip":"10589",
+           "city":"Berlin",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"52.525909",
+               "lon":"13.314292"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse DemoCamp Zurich",
        "date":"Jun 24 2015 18:00 GMT+0500 (EST)",
        "locationName":"Swiss Federal Institute of Technology",
@@ -16,7 +35,7 @@
            "country": "Switzerland",
            "geoLoc":{
                "lat":"47.376441",
-               "lon":"8.547428ƒ"
+               "lon":"8.547428"
            }
        }
    },
