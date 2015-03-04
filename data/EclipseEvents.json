@@ -3,11 +3,30 @@
 	"events":[ 
 	{
        "type":"ed",
+	    "title":"Eclipse DemoCamp Bonn",
+       "date":"Jun 22 2015 18:15 GMT+0500 (EST)",
+       "locationName":"Collegium Leoninum Bonn",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_Mars_2015/Bonn",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_Mars_2015/Bonn",
+       "description":"",
+       "address":{
+           "street":"Noeggerathstrasse 34",
+           "zip":"53111",
+           "city":"Bonn",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"50.735196",
+               "lon":"7.092199"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse DemoCamp Berlin",
        "date":"Jun 16 2015 17:00 GMT+0500 (EST)",
        "locationName":"Fraunhofer Fokus",
-       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Zurich",
-       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Zurich",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Berlin",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Berlin",
        "description":"",
        "address":{
            "street":"Kaiserin-Augusta-Allee 31",
@@ -162,8 +181,8 @@
 	    "end-date":"Jun 25 2015 17:00 GMT-0900", 
 	    "locationName":"Pierre- Baudis Congress Centre, Toulouse", 
 	    "registration":"", 
-	    "infoLink":"", 
-	    "description":"", 
+	    "infoLink":"https://www.eclipsecon.org/france2015", 
+	    "description":"EclipseCon France is the Eclipse Foundation's event dedicated to Eclipse Working Groups (such as PolarSys, Internet of Things, and Science) and is designed to create opportunities for the French and entire European Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse technologies, the Eclipse Working Groups, and Eclipse member companies. Call for Papers is open now!", 
 	    "address":{ 
 	        "street":"11 esplanade Compans Cafarelli", 
 	        "zip":"31685", 
