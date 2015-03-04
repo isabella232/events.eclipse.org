@@ -3,6 +3,45 @@
 	"events":[ 
 	{
        "type":"ed",
+	    "title":"Eclipse IoT Day Grenoble 2015",
+       "date":"Mar 30 2015 09:00 GMT+0500 (EST)",
+       "end-date":"Mar 31 2015 17:00 GMT-0900",
+       "locationName":"Maison Jean Kuntzmann",
+       "registration":"https://www.eventbrite.fr/e/billets-eclipse-iot-day-grenoble-2015-15984961450",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_IoT_Day_Grenoble_2015",
+       "description":"After the success of the IoT Day 2014, we are back for a second edition! This year, we will have a two-day event, with a combination of talks and tutorials.",
+       "address":{
+           "street":"110, rue de la chimie, Domaine Universitaire",
+           "zip":"38400",
+           "city":"Saint Martin d'Hères",
+           "country": "France",
+           "geoLoc":{
+               "lat":"45.165133",
+               "lon":"5.767761"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse Day China 2015",
+       "date":"May 15 2015 08:30 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"https://wiki.eclipse.org/Eclipse_Day_China_2015",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_Day_China_2015",
+       "description":"China is indisputably the number one of Eclipse downloads in the world, but it is mainly used only as an IDE. The main purpose of this event is to promote the power of Eclipse as a software platform and applications to help enterprises understand Eclipse, improving the speed and quality of software development, shorten time to market and ultimately achieve the purpose of improving productivity.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Beijing",
+           "country": "China",
+           "geoLoc":{
+               "lat":"39.904211",
+               "lon":"116.407395"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse DemoCamp Bonn",
        "date":"Jun 22 2015 18:15 GMT+0500 (EST)",
        "locationName":"Collegium Leoninum Bonn",
