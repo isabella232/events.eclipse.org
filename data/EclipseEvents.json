@@ -3,6 +3,63 @@
 	"events":[ 
 	{
        "type":"ed",
+	    "title":"Eclipse DemoCamp Jakarta",
+       "date":"Aug 29 2015 18:15 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Jakarta",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Jakarta",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":"7010",
+           "city":"Jakarta",
+           "country": "Indonesia",
+           "geoLoc":{
+               "lat":"-6.208763",
+               "lon":"106.845599"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Trondheim",
+       "date":"Aug 27 2015 18:15 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Trondheim",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Trondheim",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":"7010",
+           "city":"Trondheim",
+           "country": "Norway",
+           "geoLoc":{
+               "lat":"63.430515",
+               "lon":"10.395053"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Stuttgart",
+       "date":"Jul 01 2015 18:15 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"http://www.eventbrite.com/e/eclipse-democamp-mars-2015-stuttgart-registration-16098943373",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Stuttgart",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":"70173",
+           "city":"Stuttgart",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"48.775846",
+               "lon":"9.182932"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse IoT Day Grenoble 2015",
        "date":"Mar 30 2015 09:00 GMT+0500 (EST)",
        "end-date":"Mar 31 2015 17:00 GMT-0900",
