@@ -1,6 +1,26 @@
 
 {
 	"events":[ 
+	{ 
+		    "type":"ee", 
+		    "title":"INSA Toulouse- Journée Innovation", 
+		    "date":"Apr 09 2015 09:00 GMT+0100 (CET)", 
+		    "end-date":"Apr 20 2015 20:00 GMT+0100 (CET)", 
+		    "locationName":"HINSA Toulouse", 
+		    "registration":"http://www.insa-toulouse.fr/fr/institution/innovation.html", 
+		    "infoLink":"http://www.insa-toulouse.fr/fr/institution/innovation.html", 
+		    "description":"Journée Innovation : Internet des Objets et Fablab", 
+		    "address":{ 
+		        "street":"135, Avenue de Rangueil", 
+		        "zip":"31077", 
+		        "city":"Toulouse", 
+		        "country": "France", 
+		        "geoLoc":{ 
+		            "lat": "43.570322", 
+		            "lon": "1.467920" 
+		        } 
+		    }
+		},
 	{
        "type":"ed",
 	    "title":"Eclipse DemoCamp Jakarta",
