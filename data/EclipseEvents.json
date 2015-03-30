@@ -3,10 +3,30 @@
 	"events":[ 
 	{ 
 		    "type":"ee", 
+		    "title":"XtextCON", 
+		    "date":"May 18 2015 09:00 GMT+0100 (CET)", 
+		    "end-date":"May 20 2015 20:00 GMT+0100 (CET)", 
+		    "locationName":"Atlantic Hotel", 
+		    "registration":"http://xtextcon.org", 
+		    "infoLink":"http://xtextcon.org", 
+		    "description":"XtextCON is the place for new users to learn Xtext quickly and for experienced language designers to understand advanced use cases. Get in touch with Xtext users and the developers behind it. Discuss bugzillas and feature requests and get your individual problems solved. The second edition of XtextCON 2015 again takes place in Kiel, located at the baltic sea in northern Germany.", 
+		    "address":{ 
+		        "street":"Raiffeisenstrasse 2", 
+		        "zip":"24103", 
+		        "city":"Kiel", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "54.316071", 
+		            "lon": "10.133359" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
 		    "title":"INSA Toulouse- Journée Innovation", 
 		    "date":"Apr 09 2015 09:00 GMT+0100 (CET)", 
 		    "end-date":"Apr 20 2015 20:00 GMT+0100 (CET)", 
-		    "locationName":"HINSA Toulouse", 
+		    "locationName":"INSA Toulouse", 
 		    "registration":"http://www.insa-toulouse.fr/fr/institution/innovation.html", 
 		    "infoLink":"http://www.insa-toulouse.fr/fr/institution/innovation.html", 
 		    "description":"Journée Innovation : Internet des Objets et Fablab", 
