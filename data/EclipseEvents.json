@@ -1,6 +1,122 @@
 
 {
 	"events":[ 
+	{
+       "type":"ed",
+	    "title":"Eclipse DCT Day Ottawa",
+       "date":"Sep 14 2015 09:00 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"https://wiki.eclipse.org/CDT/summitfall2015",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_CDT_Day_Ottawa_2015",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Ottawa",
+           "country": "Canada",
+           "geoLoc":{
+               "lat":"45.421530",
+               "lon":"-75.697193"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse Day India",
+       "date":"Aug 29 2015 17:00 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"https://wiki.eclipse.org/Eclipse_Day_India_2015",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_Day_India_2015",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Bangalore",
+           "country": "India",
+           "geoLoc":{
+               "lat":"12.971599",
+               "lon":"77.594563"
+           }
+       }
+   },
+		{
+       "type":"ed",
+	    "title":"IoT Breakfast Madrid",
+       "date":"May 07 2015 09:00 GMT+0500 (EST)",
+       "locationName":" ",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_Mars_2015/Madrid",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_Mars_2015/Madrid",
+       "description":"",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Madrid",
+           "country": "Spain",
+           "geoLoc":{
+               "lat":"40.416775",
+               "lon":"-3.703790"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse Stammtisch",
+       "date":"Apr 14 2015 17:00 GMT+0500 (EST)",
+       "locationName":" Bredex Offices",
+       "registration":"https://eclipsedemocamp-h.eventbrite.com",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_Stammtisch",
+       "description":"",
+       "address":{
+           "street":"Mauernstr. 33",
+           "zip":"38100",
+           "city":"Hanover",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"52.375892",
+               "lon":"9.732010"
+           }
+       }
+   },
+	{ 
+		    "type":"ee", 
+		    "title":"INCOSE Symposium", 
+		    "date":"Jul 13 2015 09:00 GMT+0100 (CET)", 
+		    "end-date":"Jul 16 2015 20:00 GMT+0100 (CET)", 
+		    "locationName":"Hyatt Regency Bellevue on Seattle´s Eastside", 
+		    "registration":"http://events.incose.org/registrationFees", 
+		    "infoLink":"http://events.incose.org", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"900 Bellevue Way NE", 
+		        "zip":"98004-4272", 
+		        "city":"Bellevue, WA", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "47.618280", 
+		            "lon": "-122.201031" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"Devoxx France", 
+		    "date":"Apr 08 2015 09:00 GMT+0100 (CET)", 
+		    "end-date":"Apr 10 2015 20:00 GMT+0100 (CET)", 
+		    "locationName":"Palais des Congrés", 
+		    "registration":"http://www.devoxx.fr", 
+		    "infoLink":"http://www.devoxx.fr", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"2 Place de la Porte Maillot", 
+		        "zip":"75017", 
+		        "city":"Paris", 
+		        "country": "France", 
+		        "geoLoc":{ 
+		            "lat": "48.878502", 
+		            "lon": "2.283198" 
+		        } 
+		    }
+		},
 	{ 
 		    "type":"ee", 
 		    "title":"XtextCON", 
