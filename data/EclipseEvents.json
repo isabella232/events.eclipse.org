@@ -3,6 +3,25 @@
 	"events":[ 
 	{
        "type":"ed",
+	    "title":"Eclipse Developer Day DemoCamp",
+       "date":"Apr 29 2015 13:45 GMT+0500 (EST)",
+       "locationName":"The CISCO Systems",
+       "registration":"http://www.eventbrite.com.au/e/eclipse-developer-day-workshop-tickets-16492546651",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_April_2015",
+       "description":"",
+       "address":{
+           "street":"201 Pacific Hwy",
+           "zip":"2065",
+           "city":"St Leonards, NSW",
+           "country": "Australia",
+           "geoLoc":{
+               "lat":"-33.823078",
+               "lon":"151.194537"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse DCT Day Ottawa",
        "date":"Sep 14 2015 09:00 GMT+0500 (EST)",
        "locationName":"",
