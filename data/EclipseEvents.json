@@ -2,6 +2,50 @@
 {
 	"events":[ 
 	{
+	    "type":"ee",
+	    "title":"Roadshow Sirius Montréal",
+	    "date":"May 05 2015 09:00 GMT+0100",
+	    "end-date":"May 05 2015 18:00 GMT+0100",
+	    "company":"Obeo",
+	    "locationName":"Notman House",
+	    "registration":"http://www.obeodesigner.com/roadshowmontreal2015",
+	    "infoLink":"http://www.obeodesigner.com/roadshowmontreal2015",
+	    "description":"A free event where you can come and find out about Sirius and in just a few hours create your very first graphical modeling tool",
+		"keywords":"sirius, modelling",
+	    "address":{ 
+	        "street":"51 Sherbrooke West",
+	        "zip":"H2X 1X2",
+	        "city":"Montreal, QC",
+	        "country": "Canada",
+	        "geoLoc":{
+	            "lat":"45.512050",
+	            "lon":"-73.569642"
+	        }
+	    }
+	},
+	{
+	    "type":"ee",
+	    "title":"Roadshow Sirius Munich",
+	    "date":"Apr 28 2015 09:00 GMT+0100",
+	    "end-date":"April 28 2015 18:00 GMT+0100",
+	    "company":"Obeo",
+	    "locationName":"FORTISS Gmbh",
+	    "registration":"http://www.obeodesigner.com/roadshowmunich2015",
+	    "infoLink":"http://www.obeodesigner.com/roadshowmunich2015",
+	    "description":"A free event where you can come and find out about Sirius and in just a few hours create your very first graphical modeling tool",
+		"keywords":"sirius, modelling",
+	    "address":{ 
+	        "street":"Guerickestraße 25",
+	        "zip":"80805",
+	        "city":"München",
+	        "country": "Germany",
+	        "geoLoc":{
+	            "lat":"48.174850",
+	            "lon":"11.595960"
+	        }
+	    }
+	},
+	{
        "type":"ed",
 	    "title":"Eclipse Developer Day DemoCamp",
        "date":"Apr 29 2015 13:45 GMT+0500 (EST)",
