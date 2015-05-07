@@ -1,6 +1,140 @@
 
 {
 	"events":[ 
+	{ 
+		    "type":"ee", 
+		    "title":"Innovative Software Development in Automotive", 
+		    "date":"Jun 15 2015 09:00 GMT+0100 (CET)", 
+		    "end-date":"Jun 16 2015 20:00 GMT+0100 (CET)", 
+		    "locationName":"Hotel Angelo Munich Westpark", 
+		    "registration":"http://www.euroforum.de/software-eng/registration", 
+		    "infoLink":"http://www.euroforum.de/software-eng", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"Albert-Rosshaupter-Strasse 45", 
+		        "zip":"81369", 
+		        "city":"Munich", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "48.116781", 
+		            "lon": "11.533921" 
+		        } 
+		    }
+	},
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Walldorf",
+       "date":"Jul 08 2015 17:00 GMT+0500 (EST)",
+       "locationName":"SAP SE Building 5 (ISZ), S3",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Walldorf",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Walldorf",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Mars release.",
+       "address":{
+           "street":"Dietmar Hopp Allee 20",
+           "zip":"69190",
+           "city":"Walldorf",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"49.291811",
+               "lon":"8.639631"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Vienna",
+       "date":"Jun 17 2015 18:00 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Bangalore",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Bangalore",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Mars release.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Bangalore",
+           "country": "India",
+           "geoLoc":{
+               "lat":"12.971599",
+               "lon":"77.594563"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Kassel",
+       "date":"Jun 15 2015 17:00 GMT+0500 (EST)",
+       "locationName":"Yatta Office Kassel ",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Kassel",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Kassel",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Mars release.",
+       "address":{
+           "street":"Universitätsplatz 12",
+           "zip":"34127",
+           "city":"Kassel",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":" 50.1109392",
+               "lon":"8.6639151"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Poznan",
+       "date":"Jun 11 2015 18:00 GMT+0500 (EST)",
+       "locationName":"Centrum Wykładowe Politechniki Poznańskiej, sala 8",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Poznan",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Poznan",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Mars release.",
+       "address":{
+           "street":"ul. Piotrowo 2",
+           "zip":"61-138",
+           "city":"Poznań",
+           "country": "Poland",
+           "geoLoc":{
+               "lat":"52.403485",
+               "lon":"16.950894"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Frankfurt",
+       "date":"Jun 10 2015 17:00 GMT+0500 (EST)",
+       "locationName":"Yatta Office Frankfurt a.M.",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Frankfurt",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Frankfurt",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Mars release.",
+       "address":{
+           "street":"Mainzer Landstr. 50",
+           "zip":"60325",
+           "city":"Frankfurt a.M.",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"50.1109392",
+               "lon":"8.6639151"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Hamburg",
+       "date":"Jun 09 2015 18:00 GMT+0500 (EST)",
+       "locationName":"Hapag-Lloyd AG",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Hamburg",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Hamburg",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Mars release.",
+       "address":{
+           "street":"Ballindamm 25",
+           "zip":"20095",
+           "city":"Hamburg",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"53.553430",
+               "lon":"9.997890"
+           }
+       }
+   },
 	{
 	    "type":"ee",
 	    "title":"Roadshow Sirius Montréal",
@@ -300,7 +434,7 @@
 	{
        "type":"ed",
 	    "title":"Eclipse Day China 2015",
-       "date":"May 15 2015 08:30 GMT+0500 (EST)",
+       "date":"Jun 15 2015 08:30 GMT+0500 (EST)",
        "locationName":"",
        "registration":"https://wiki.eclipse.org/Eclipse_Day_China_2015",
        "infoLink":"https://wiki.eclipse.org/Eclipse_Day_China_2015",
