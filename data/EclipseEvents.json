@@ -200,7 +200,7 @@
    },
 	{
        "type":"ed",
-	    "title":"Eclipse DCT Day Ottawa",
+	    "title":"Eclipse CDT Day Ottawa",
        "date":"Sep 14 2015 09:00 GMT+0500 (EST)",
        "locationName":"",
        "registration":"https://wiki.eclipse.org/CDT/summitfall2015",
@@ -453,7 +453,7 @@
 	{
        "type":"ed",
 	    "title":"Eclipse DemoCamp Bonn",
-       "date":"Jun 22 2015 18:15 GMT+0500 (EST)",
+       "date":"Jun 08 2015 18:15 GMT+0500 (EST)",
        "locationName":"Collegium Leoninum Bonn",
        "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_Mars_2015/Bonn",
        "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_Mars_2015/Bonn",
