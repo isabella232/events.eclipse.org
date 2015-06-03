@@ -1,6 +1,25 @@
 
 {
 	"events":[ 
+	{
+       "type":"ed",
+	    "title":"Eclipse DemoCamp Braunschweig",
+       "date":"Jun 04 2015 19:00 GMT+0500 (EST)",
+       "locationName":"Haus der Wissenschaft",
+       "registration":"http://www.eventbrite.com/e/eclipse-democamp-mars-tickets-16911749498",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Niedersachsen",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Mars release.",
+       "address":{
+           "street":"Pockelsstr. 11",
+           "zip":"38106",
+           "city":"Braunschweig",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"52.274762",
+               "lon":"10.529269"
+           }
+       }
+   },
 	{ 
 		    "type":"ee", 
 		    "title":"Innovative Software Development in Automotive", 
@@ -43,19 +62,19 @@
 	{
        "type":"ed",
 	    "title":"Eclipse DemoCamp Vienna",
-       "date":"Jun 17 2015 18:00 GMT+0500 (EST)",
-       "locationName":"",
-       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Bangalore",
-       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Bangalore",
+       "date":"Jun 19 2015 16:00 GMT+0500 (EST)",
+       "locationName":"Co- Working Space StockWerk",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Vienna",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Vienna",
        "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Mars release.",
        "address":{
-           "street":"",
-           "zip":"",
-           "city":"Bangalore",
-           "country": "India",
+           "street":"Pater-Schwartz-Gasse 11A",
+           "zip":"1150",
+           "city":"Vienna",
+           "country": "Austria",
            "geoLoc":{
-               "lat":"12.971599",
-               "lon":"77.594563"
+               "lat":"48.192007",
+               "lon":"16.335951"
            }
        }
    },
