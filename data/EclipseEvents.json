@@ -3,6 +3,25 @@
 	"events":[ 
 	{
        "type":"ed",
+	    "title":"Eclipse DemoCamp Shenzhen",
+       "date":"July 22 2015 19:00 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Shenzhen",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Shenzhen",
+       "description":"Eclipse DemoCamp in Shenzhen on 2015 July 22th is a free event organized by enthusiasts and supported by the Eclipse Foundation. This event will target on the software developers. Welcome to share the experiences of Eclipse open source projects, give Eclipse demo, and discuss the technical issues with the participants. This event will also provide a good opportunity and platform for the Eclipse members and developers to communicate.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Shenzhen",
+           "country": "China",
+           "geoLoc":{
+               "lat":" 22.5333333",
+               "lon":"114.13333339"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse DemoCamp Braunschweig",
        "date":"Jun 04 2015 19:00 GMT+0500 (EST)",
        "locationName":"Haus der Wissenschaft",
