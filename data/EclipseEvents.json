@@ -1,6 +1,26 @@
 
 {
 	"events":[ 
+	{ 
+		    "type":"ee", 
+		    "title":"M2M Summit", 
+		    "date":"Sep 08 2015 09:00 GMT+0100 (CET)", 
+		    "end-date":"Sep 09 2015 17:00 GMT+0100 (CET)", 
+		    "locationName":"Congress Center Düsseldorf (CCD)", 
+		    "registration":"http://www.m2m-summit.com/index.php?article_id=75&clang=1", 
+		    "infoLink":"http://www.m2m-summit.com/116-1-Home.html", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"Rotterdammerstasse 141", 
+		        "zip":"40474", 
+		        "city":"Düsseldorf", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "51.255512", 
+		            "lon": "6.741993" 
+		        } 
+		    }
+		},
 	{
        "type":"ed",
 	    "title":"Eclipse DemoCamp Shenzhen",
@@ -59,25 +79,6 @@
 		        } 
 		    }
 	},
-	{
-       "type":"ed",
-	    "title":"Eclipse DemoCamp Walldorf",
-       "date":"Jul 08 2015 17:00 GMT+0500 (EST)",
-       "locationName":"SAP SE Building 5 (ISZ), S3",
-       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Walldorf",
-       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Walldorf",
-       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Mars release.",
-       "address":{
-           "street":"Dietmar Hopp Allee 20",
-           "zip":"69190",
-           "city":"Walldorf",
-           "country": "Germany",
-           "geoLoc":{
-               "lat":"49.291811",
-               "lon":"8.639631"
-           }
-       }
-   },
 	{
        "type":"ed",
 	    "title":"Eclipse DemoCamp Vienna",
