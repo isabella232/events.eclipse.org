@@ -1,6 +1,25 @@
 
 {
 	"events":[ 
+	{
+       "type":"ed",
+	    "title":"Hamburg Hackathon",
+       "date":"Jul 24 2015 18:00 GMT+0500 (EST)",
+       "locationName":"Hapag-Lloyd",
+       "registration":"https://wiki.eclipse.org/Hackathon_Hamburg_2015_Q3",
+       "infoLink":"https://wiki.eclipse.org/Hackathon_Hamburg_2015_Q3",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Mars release.",
+       "address":{
+           "street":"Rosenstraße 17",
+           "zip":"20095",
+           "city":"Hamburg",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"53.553098",
+               "lon":"10.001398"
+           }
+       }
+   },
 	{ 
 		    "type":"ee", 
 		    "title":"M2M Summit", 
