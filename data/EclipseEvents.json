@@ -3,6 +3,64 @@
 	"events":[ 
 	{
        "type":"ed",
+	    "title":"Eclipse Day India",
+       "date":"Aug 29 2015 17:30 GMT+0500 (EST)",
+       "locationName":"Robert Bosch Engineering and Business Solutions",
+       "registration":"http://eclipsedayindia.mybluemix.net/Register",
+       "infoLink":"http://eclipsedayindia.mybluemix.net/",
+       "description":"Eclipse Day is an event designed to create opportunities for the local Eclipse community to explore, share and collaborate on the latest ideas and information about Eclipse and its members. The event will consist of one day of technical talks, demos and posters, intertwined with great networking opportunities.",
+       "address":{
+           "street":"123, Industrial Layout, Hosur Main Road",
+           "zip":"560095",
+           "city":"Bengaluru",
+           "country": "India",
+           "geoLoc":{
+               "lat":"12.937356",
+               "lon":"77.627011"
+           }
+       }
+   },
+	{ 
+		    "type":"ee", 
+		    "title":"Industry of Things World Europe", 
+		    "date":"Sep 21 2015 09:00 GMT+0100 (CET)", 
+		    "end-date":"Sep 22 2015 17:00 GMT+0100 (CET)", 
+		    "locationName":"bcc Berlin Congress Center", 
+		    "registration":"http://www.industryofthingsworld.com/en/book-now", 
+		    "infoLink":"http://www.industryofthingsworld.com/en/", 
+		    "description":"The Leading Event for Senior Executives in Europe Industry of Things World is a new international knowledge exchange platform bringing together all stakeholders who play an active role in the industrial Internet of Things scene.", 
+		    "address":{ 
+		        "street":"Alexanderstr 11", 
+		        "zip":"10178", 
+		        "city":"Berlin", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "52.520961", 
+		            "lon": "13.416511" 
+		        } 
+		    }
+		},
+	{
+       "type":"ed",
+	    "title":"Eclipse Night London",
+       "date":"Sep 16 2015 17:30 GMT+0500 (EST)",
+       "locationName":"Stackoverflow",
+       "registration":"https://www.eventbrite.com/e/eclipse-night-london-tickets-18130707434",
+       "infoLink":"https://www.eventbrite.com/e/eclipse-night-london-tickets-18130707434",
+       "description":"Join your fellow Eclipse enthusiasts at the first (annual?) Eclipse Night London!  There are only 80 seats so reserve now!During the evening, we will have a handful of seasoned speakers talking about exciting evolutions in Eclipse, including a talk by Mike Milinkovich, executive director of the Eclipse foundation.",
+       "address":{
+           "street":"1st Floor Bentima House, 168 - 172 Old Street",
+           "zip":"EC1V 9BP",
+           "city":"London",
+           "country": "United Kingdom",
+           "geoLoc":{
+               "lat":"51.525154",
+               "lon":"-0.090522"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Hamburg Hackathon",
        "date":"Jul 24 2015 18:00 GMT+0500 (EST)",
        "locationName":"Hapag-Lloyd",
