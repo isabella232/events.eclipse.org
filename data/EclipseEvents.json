@@ -2,6 +2,46 @@
 {
 	"events":[ 
 	{ 
+		    "type":"ee", 
+		    "title":"Devoxx Belgium", 
+		    "date":"Nov 09 2015 09:00 GMT+0100 (CET)", 
+		    "end-date":"Oct 13 2015 17:00 GMT+0100 (CET)", 
+		    "locationName":"Metropolis Antwerp", 
+		    "registration":"http://reg.devoxx.be/public#DV15", 
+		    "infoLink":"http://www.devoxx.be", 
+		    "description":"Devoxx is a conference by developers for developers at an affordable price this way every developer can enjoy this unique experience.", 
+		    "address":{ 
+		        "street":"Groenendaallaan 394", 
+		        "zip":"2030", 
+		        "city":"Antwerp", 
+		        "country": "Belgium", 
+		        "geoLoc":{ 
+		            "lat": "51.245781", 
+		            "lon": "4.416327" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"Models 2015 Ottawa", 
+		    "date":"Sep 30 2015 09:00 GMT+0100 (CET)", 
+		    "end-date":"Oct 03 2015 17:00 GMT+0100 (CET)", 
+		    "locationName":"Delta Ottawa City Centre", 
+		    "registration":"http://cruise.eecs.uottawa.ca/models2015/registration.html", 
+		    "infoLink":"http://cruise.eecs.uottawa.ca/models2015/index.html", 
+		    "description":"Models 2015 is the premier conference on systems and software modeling. It will be held in Ottawa, Canada from September 27 to October 2, 2015. The main conference will run from Wednesday Sept 30 to Friday Oct 2, with satellite events such as workshops and tutorials being held the previous three days.", 
+		    "address":{ 
+		        "street":"101 Lyon Street N ", 
+		        "zip":"K1R 5T9", 
+		        "city":"Ottawa", 
+		        "country": "Canada", 
+		        "geoLoc":{ 
+		            "lat": "45.418491", 
+		            "lon": "-75.704231" 
+		        } 
+		    }
+		},
+	{ 
 	    "type":"ec", 
 	    "title":"EclipseCon NA 2016", 
 	    "date":"Mar 07 2016 09:00 GMT-0900", 
@@ -47,7 +87,7 @@
 		    "end-date":"Sep 22 2015 17:00 GMT+0100 (CET)", 
 		    "locationName":"bcc Berlin Congress Center", 
 		    "registration":"http://www.industryofthingsworld.com/en/book-now", 
-		    "infoLink":"http://www.industryofthingsworld.com/en/", 
+		    "infoLink":"http://www.industryofthingsworld.com/en", 
 		    "description":"The Leading Event for Senior Executives in Europe Industry of Things World is a new international knowledge exchange platform bringing together all stakeholders who play an active role in the industrial Internet of Things scene.", 
 		    "address":{ 
 		        "street":"Alexanderstr 11", 
