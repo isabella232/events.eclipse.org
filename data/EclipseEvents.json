@@ -1,6 +1,26 @@
 
 {
-	"events":[ 
+	"events":[ 	
+	{
+       "type":"ed",
+	    "title":"Eclipse Stammtisch Munich",
+       "date":"Sep 15 2015 19:30 GMT+0500 (EST)",
+       "locationName":"Augustiner-Keller",
+       "registration":"https://www.eventbrite.de/e/eclipse-stammtisch-tickets-18571068566?ref=enivtefor001&invite=ODQwOTY3OC9yYWxwaC5tdWVsbGVyQGVjbGlwc2Uub3JnLzA%3D&utm_source=eb_email&utm_medium=email&utm_campaign=inviteformalv2&ref=enivtefor001&utm_term=attend",
+       "infoLink":"#",
+       "description":"hang out with us for a beer and chat about Eclipse and everything else",
+       "address":{
+           "street":"Arnulfstraße 52",
+           "zip":"80335",
+           "city":"Munich",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"48.143425",
+               "lon":"11.5520167"
+           }
+       }
+   },
+		
 	{ 
 		    "type":"ee", 
 		    "title":"Devoxx Belgium", 
@@ -17,7 +37,7 @@
 		        "country": "Belgium", 
 		        "geoLoc":{ 
 		            "lat": "51.245781", 
-		            "lon": "4.416327" 
+		            "lon": "11.572948" 
 		        } 
 		    }
 		},
