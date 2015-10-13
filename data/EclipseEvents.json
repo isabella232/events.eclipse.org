@@ -3,6 +3,45 @@
 	"events":[ 	
 	{
        "type":"ed",
+	    "title":"Eclipse Day Rhône Alpes",
+       "date":"Oct 16 2015 9:30 GMT+0500 (EST)",
+       "locationName":"Xerox Research Centre Europe",
+       "registration":"http://www.leclustr.org/agenda/eclipse-day-3",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Mars_2015/Grenoble",
+       "description":"After last year event in Lyon Eclipse Day Rhone Alpes 2014, we are moving back to Grenoble this year for our new Rhone-Alpes Eclipse Day Event, to gather all Eclipse enthusiast in the area around technical presentations, discussions and code.",
+       "address":{
+           "street":"6 chemin de Maupertuis",
+           "zip":"38240",
+           "city":"Meylan",
+           "country": "France",
+           "geoLoc":{
+               "lat":"45.2173989",
+               "lon":"5.7921349"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse Day Italy",
+       "date":"Oct 14 2015 9:30 GMT+0500 (EST)",
+       "locationName":"IBM Auditorium A, Rome",
+       "registration":"http://2015.eclipse-it.org",
+       "infoLink":"http://2015.eclipse-it.org",
+       "description":"",
+       "address":{
+           "street":"Via Sciangai 53",
+           "zip":"00144",
+           "city":"Roma",
+           "country": "Italy",
+           "geoLoc":{
+               "lat":"41.809914",
+               "lon":"12.427029"
+           }
+       }
+   },
+
+	{
+       "type":"ed",
 	    "title":"Eclipse Stammtisch Munich",
        "date":"Sep 15 2015 19:30 GMT+0500 (EST)",
        "locationName":"Augustiner-Keller",
