@@ -3,6 +3,83 @@
 	"events":[ 	
 	{
        "type":"ed",
+	    "title":"DemoCamp Munich",
+       "date":"Dec 07 2015 18:15 GMT+0500 (EST)",
+       "locationName":"",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Winter_2015",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Winter_2015",
+       "description":"The Eclipse community around the world gathers for DemoCamps and Hackathons to exchange new ideas, hack a night away and get to know whats new in Eclipse.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Munich",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"48.135125",
+               "lon":"11.581981"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"DemoCamp Hamburg",
+       "date":"Dec 03 2015 18:15 GMT+0500 (EST)",
+       "locationName":"NORDAKADEMIE Graduate School",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2015/Hamburg",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_November_2015/Hamburg",
+       "description":"The Eclipse community around the world gathers for DemoCamps and Hackathons to exchange new ideas, hack a night away and get to know whats new in Eclipse.",
+       "address":{
+           "street":"Van-der-Smissen-Strasse 9",
+           "zip":"22767",
+           "city":"Hamburg",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"53.54331",
+               "lon":"9.9373"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"DemoCamp Bonn",
+       "date":"Nov 16 2015 18:15 GMT+0500 (EST)",
+       "locationName":"Hapag-Lloyd",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Bonn",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Bonn",
+       "description":"The Eclipse community around the world gathers for DemoCamps and Hackathons to exchange new ideas, hack a night away and get to know whats new in Eclipse.",
+       "address":{
+           "street":"Noeggerathstrasse 34",
+           "zip":"53111",
+           "city":"Bonn",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"50.735196",
+               "lon":"7.092199"
+           }
+       }
+   },
+	{ 
+		    "type":"ee", 
+		    "title":"SiriusCon Paris", 
+		    "date":"Dec 03 2015 09:00 GMT+0100 (CET)", 
+		    "end-date":"Dec 03 2015 17:00 GMT+0100 (CET)", 
+		    "locationName":"Novotel Paris Centre Tour Eiffel ", 
+		    "registration":"http://www.siriuscon.org/register.php", 
+		    "infoLink":"http://www.siriuscon.org", 
+		    "description":"Launched in 2013, the Eclipse Sirius project has now gathered an active community. So, it is now the perfect time to meet up!SiriusCon is a one-day free conference dedicated to the Sirius technology. Join us and learn more about this project with advanced features presentations and user feedback. It will be also a great opportunity to exchange with the developer team behind Sirius and to share with other users.", 
+		    "address":{ 
+		        "street":"61 quai de Grenelle", 
+		        "zip":"75015", 
+		        "city":"Paris", 
+		        "country": "France", 
+		        "geoLoc":{ 
+		            "lat": "48.850028", 
+		            "lon": "2.283413" 
+		        } 
+		    }
+		},
+	{
+       "type":"ed",
 	    "title":"Eclipse Day Rhône Alpes",
        "date":"Oct 16 2015 9:30 GMT+0500 (EST)",
        "locationName":"Xerox Research Centre Europe",
