@@ -1,6 +1,82 @@
 
 {
-	"events":[ 	
+	"events":[
+	{
+       "type":"ed",
+	    "title":"Hamburg Hackathon",
+       "date":"Nov 13 2015 18:00 GMT+0500 (EST)",
+       "locationName":"Hapag-Lloyd AG",
+       "registration":"https://wiki.eclipse.org/Hackathon_Hamburg_2015_Q41",
+       "infoLink":"https://wiki.eclipse.org/Hackathon_Hamburg_2015_Q41",
+       "description":"In this event you can meet with other interested developers to improve Eclipse projects. We expect you to know how to develop in Java. No previous Eclipse development knowledge is required but of course it is helpful if you know already about Eclipse development.",
+       "address":{
+           "street":"Rosenstraße 17",
+           "zip":"20095",
+           "city":"Hamburg",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"53.553098",
+               "lon":"10.001398"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"DemoCamp Frankfurt",
+       "date":"Nov 30 2015 17:00 GMT+0500 (EST)",
+       "locationName":"Yatta Office Frankfurt a.M.",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Kassel",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Kassel",
+       "description":"The Eclipse community around the world gathers for DemoCamps and Hackathons to exchange new ideas, hack a night away and get to know whats new in Eclipse.",
+       "address":{
+           "street":"Mainzer Landstr. 50",
+           "zip":"60325",
+           "city":"Frankfurt a.M. ",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"50.1109392",
+               "lon":"8.6639151"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"DemoCamp Kassel",
+       "date":"Nov 25 2015 17:00 GMT+0500 (EST)",
+       "locationName":"Yatta Office Kassel",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Kassel",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Kassel",
+       "description":"The Eclipse community around the world gathers for DemoCamps and Hackathons to exchange new ideas, hack a night away and get to know whats new in Eclipse.",
+       "address":{
+           "street":"Universitätsplatz 12 ",
+           "zip":"34127",
+           "city":"Kassel",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"50.1109392",
+               "lon":"8.6639151"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"DemoCamp Bucharest",
+       "date":"Nov 25 2015 15:00 GMT+0500 (EST)",
+       "locationName":"Freescale Semiconductor Romania",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Bucharest",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Bucharest",
+       "description":"The Eclipse community around the world gathers for DemoCamps and Hackathons to exchange new ideas, hack a night away and get to know whats new in Eclipse.",
+       "address":{
+           "street":"45, Tudor Vladimirescu Street",
+           "zip":"050881",
+           "city":"Bucharest",
+           "country": "Romania",
+           "geoLoc":{
+               "lat":"44.421986",
+               "lon":"26.073703"
+           }
+       }
+   }, 	
 	{
        "type":"ed",
 	    "title":"DemoCamp Munich",
@@ -8,14 +84,14 @@
        "locationName":"",
        "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Winter_2015",
        "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Winter_2015",
-       "description":"The Eclipse community around the world gathers for DemoCamps and Hackathons to exchange new ideas, hack a night away and get to know whats new in Eclipse.",
+       "description":"The DemoCamp Munich is one the biggest DemoCamps worldwide and therefore an excellent opportunity to showcase all the cool, new and interesting technology being built by the Eclipse community. This event is open to Eclipse enthusiasts who want to show demos of what they are doing with Eclipse. It aims to create an opportunity for you to meet other Eclipse enthusiasts in Munich in an informal setting.",
        "address":{
-           "street":"",
-           "zip":"",
+           "street":"Agnes-Pockels-Bogen 1",
+           "zip":"80992",
            "city":"Munich",
            "country": "Germany",
            "geoLoc":{
-               "lat":"48.135125",
+               "lat":"48.173812",
                "lon":"11.581981"
            }
        }
@@ -183,9 +259,9 @@
 	    "date":"Mar 07 2016 09:00 GMT-0900", 
 	    "end-date":"Mar 10 2015 17:00 GMT-0900", 
 	    "locationName":"Hyatt Regency Reston", 
-	    "registration":"", 
-	    "infoLink":"", 
-	    "description":"", 
+	    "registration":"https://www.eclipsecon.org/na2016", 
+	    "infoLink":"https://www.eclipsecon.org/na2016", 
+	    "description":"EclipseCon North America, presented by the Eclipse Foundation, is designed to create opportunities for the Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse and its member companies.", 
 	    "address":{ 
 	        "street":"1800 Presidents Street", 
 	        "zip":"20190", 
