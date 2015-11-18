@@ -1,6 +1,46 @@
 
 {
 	"events":[
+	{ 
+		    "type":"ee", 
+		    "title":"Intelligence Community Developer Day", 
+		    "date":"Dec 02 2015 08:00 GMT+0100 (CET)", 
+		    "end-date":"Dec 02 2015 16:45 GMT+0100 (CET)", 
+		    "locationName":"Tysons Corner Marriott", 
+		    "registration":"http://events.carahsoft.com/event-detail/4349/rh", 
+		    "infoLink":"http://events.carahsoft.com/event-detail/4349/rh", 
+		    "description":"The Eclipse Foundation - the steward of the Eclipse IDE platform, and Red Hat, Inc. - the leading fully open source enterprise software company, have partnered together to host a Intelligence Community Developer Day this December.Back-to-back days (December 1st and 2nd, 2015) offer the same agenda in two convenient locations: Day One - Sheraton Columbia Town Center and Day Two - Tyson’s Corner Marriott.", 
+		    "address":{ 
+		        "street":"8028 Leesburg Pike", 
+		        "zip":"22182", 
+		        "city":"Tysons Corner", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "38.913765", 
+		            "lon": "-77.221173" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"Intelligence Community Developer Day", 
+		    "date":"Dec 01 2015 08:00 GMT+0100 (CET)", 
+		    "end-date":"Dec 01 2015 16:45 GMT+0100 (CET)", 
+		    "locationName":"Sheraton Columbia Town Center Hotel", 
+		    "registration":"http://events.carahsoft.com/event-detail/4349/rh", 
+		    "infoLink":"http://events.carahsoft.com/event-detail/4349/rh", 
+		    "description":"The Eclipse Foundation - the steward of the Eclipse IDE platform, and Red Hat, Inc. - the leading fully open source enterprise software company, have partnered together to host a Intelligence Community Developer Day this December.Back-to-back days (December 1st and 2nd, 2015) offer the same agenda in two convenient locations: Day One - Sheraton Columbia Town Center and Day Two - Tyson’s Corner Marriott.", 
+		    "address":{ 
+		        "street":"10207 Wincopin Circle", 
+		        "zip":"21044", 
+		        "city":"Columbia", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "39.216995", 
+		            "lon": "-76.854522" 
+		        } 
+		    }
+		},
 	{
        "type":"ed",
 	    "title":"Hamburg Hackathon",
