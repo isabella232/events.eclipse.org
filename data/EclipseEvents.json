@@ -65,8 +65,8 @@
 	    "title":"DemoCamp Frankfurt",
        "date":"Nov 30 2015 17:00 GMT+0500 (EST)",
        "locationName":"Yatta Office Frankfurt a.M.",
-       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Kassel",
-       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Kassel",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Frankfurt",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Frankfurt",
        "description":"The Eclipse community around the world gathers for DemoCamps and Hackathons to exchange new ideas, hack a night away and get to know whats new in Eclipse.",
        "address":{
            "street":"Mainzer Landstr. 50",
@@ -88,13 +88,13 @@
        "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Kassel",
        "description":"The Eclipse community around the world gathers for DemoCamps and Hackathons to exchange new ideas, hack a night away and get to know whats new in Eclipse.",
        "address":{
-           "street":"Universitätsplatz 12 ",
+           "street":"Universitätsplatz 12",
            "zip":"34127",
            "city":"Kassel",
            "country": "Germany",
            "geoLoc":{
-               "lat":"50.1109392",
-               "lon":"8.6639151"
+               "lat":"51.312711",
+               "lon":"9.479746"
            }
        }
    },
