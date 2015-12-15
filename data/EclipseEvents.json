@@ -2,6 +2,46 @@
 {
 	"events":[
 	{ 
+		    "type":"ee", 
+		    "title":"Eclipse community at Embedded World Conference 2016", 
+		    "date":"Feb 23 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Feb 25 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"Exhibition Centre Nuremberg", 
+		    "registration":"https://www.sigs-datacom.de/order/payment/reg_oop2016_en.php?_ga=1.133475598.1242615855.1444909703", 
+		    "infoLink":"https://wiki.eclipse.org/Embedded_world_2016", 
+		    "description":"Visit the Eclipse Foundation exhibit at embedded world 2016, Feb 23-25, 2016 in Nuremberg, Germany. Our co-exhibitors for 2016 will include member companies, research projects and working groups representing the diverse embedded community at Eclipse.", 
+		    "address":{ 
+		        "street":"", 
+		        "zip":"90471", 
+		        "city":"Nürnberg", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "49.416024", 
+		            "lon": "11.118636" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"Eclipse Special Day At OOP", 
+		    "date":"Feb 02 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Feb 02 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"ICM - International Congress Center Munich", 
+		    "registration":"https://www.sigs-datacom.de/order/payment/reg_oop2016_en.php?_ga=1.133475598.1242615855.1444909703", 
+		    "infoLink":"http://www.oop-konferenz.de/oop2016/startseite-englisch/conference.html", 
+		    "description":"There will be an Eclipse Special on the Forum stage Day right next to the Eclipse community exhibits.", 
+		    "address":{ 
+		        "street":"Am Messesee 6", 
+		        "zip":"81829", 
+		        "city":"München", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "48.135280", 
+		            "lon": "11.693840" 
+		        } 
+		    }
+		},
+	{ 
 	    "type":"ec", 
 	    "title":"EclipseCon France 2016", 
 	    "date":"Jun 07 2016 09:00 GMT-0900", 
