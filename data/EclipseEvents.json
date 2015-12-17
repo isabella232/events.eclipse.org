@@ -3,6 +3,26 @@
 	"events":[
 	{ 
 		    "type":"ee", 
+		    "title":"ERTSS- Embedded Real Time Software and Systems 2016", 
+		    "date":"Jan 27 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Jan 29 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"Centre des Congrés Pierre Baudis", 
+		    "registration":"http://www.erts2016.org/registration.html", 
+		    "infoLink":"http://www.erts2016.org", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"11 esplanade Complans Caffarelli", 
+		        "zip":"31680", 
+		        "city":"Toulouse", 
+		        "country": "France", 
+		        "geoLoc":{ 
+		            "lat": "43.6115544", 
+		            "lon": "1.434583" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
 		    "title":"Eclipse community at Embedded World Conference 2016", 
 		    "date":"Feb 23 2016 09:00 GMT+0100 (CET)", 
 		    "end-date":"Feb 25 2016 18:00 GMT+0100 (CET)", 
