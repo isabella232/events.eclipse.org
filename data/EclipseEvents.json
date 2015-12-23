@@ -3,6 +3,85 @@
 	"events":[
 	{ 
 		    "type":"ee", 
+		    "title":"Devoxx France", 
+		    "date":"Apr 20 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Apr 22 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"Palais des Congrès de Paris", 
+		    "registration":"http://www.devoxx.fr", 
+		    "infoLink":"http://www.devoxx.fr", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"2 Place de la Porte Maillot", 
+		        "zip":"75017", 
+		        "city":"Paris", 
+		        "country": "France", 
+		        "geoLoc":{ 
+		            "lat": "48.879485", 
+		            "lon": "2.283458" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"FOSS4G NA 2016", 
+		    "date":"May 02 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"May 05 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"Raleigh Convention Center", 
+		    "registration":"https://2016.foss4g-na.org", 
+		    "infoLink":"https://2016.foss4g-na.org", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"500 South Salisbury Street", 
+		        "zip":"27601", 
+		        "city":"Raleigh, NC", 
+		        "country": "USA", 
+		        "geoLoc":{ 
+		            "lat": "35.773646", 
+		            "lon": "-78.641350" 
+		        } 
+		    }
+		},
+	{ 
+	    "type":"ec", 
+	    "title":"EclipseCon Europe 2016", 
+	    "date":"Oct 25 2016 09:00 GMT-0900", 
+	    "end-date":"Oct 27 2016 17:00 GMT-0900", 
+	    "locationName":"Forum Am Schlosspark Ludwigsburg", 
+	    "registration":"", 
+	    "infoLink":"", 
+	    "description":"EclipseCon Europe is designed to create opportunities for the Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse and its member companies. ", 
+	    "address":{ 
+	        "street":"Stuttgarter Straße 33", 
+	        "zip":"71638", 
+	        "city":"Ludwigsburg", 
+	        "country": "Germany", 
+	        "geoLoc":{ 
+	            "lat": "48.89228", 
+	            "lon": "9.1948577"
+	        } 
+	    } 
+	},
+	{
+       "type":"ed",
+	    "title":"Hamburg Hackathon",
+       "date":"Jan 22 2016 18:00 GMT+0500 (EST)",
+       "locationName":"Hapag-Lloyd AG",
+       "registration":"https://wiki.eclipse.org/Hackathon_Hamburg_2016_Jan",
+       "infoLink":"https://wiki.eclipse.org/Hackathon_Hamburg_2016_Jan",
+       "description":"In this event you can meet with other interested developers to improve Eclipse projects. We expect you to know how to develop in Java. No previous Eclipse development knowledge is required but of course it is helpful if you know already about Eclipse development.",
+       "address":{
+           "street":"Rosenstraße 17",
+           "zip":"20095",
+           "city":"Hamburg",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"53.553098",
+               "lon":"10.001398"
+           }
+       }
+   },
+	{ 
+		    "type":"ee", 
 		    "title":"ERTSS- Embedded Real Time Software and Systems 2016", 
 		    "date":"Jan 27 2016 09:00 GMT+0100 (CET)", 
 		    "end-date":"Jan 29 2016 18:00 GMT+0100 (CET)", 
