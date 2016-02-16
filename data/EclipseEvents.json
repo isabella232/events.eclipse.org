@@ -1,6 +1,26 @@
 
 {
 	"events":[
+	{
+       "type":"ed",
+	    "title":"Eclipse Day India",
+       "date":"Aug 25 2016 9:00 GMT+0500 (EST)",
+       "end-date":"Aug 27 2016 18:00 GMT+0100 (CET)",
+       "locationName":"Chancery Pavilion Hotel",
+       "registration":"http://eclipsesummit.in/#register",
+       "infoLink":"http://eclipsesummit.in/",
+       "description":"Eclipse technology is ubiquitous in the enterprise. At the same time, Eclipse continues to spur innovation and provides a platform for research and leading-edge technology.",
+       "address":{
+           "street":"135, Residency Road",
+           "zip":"560025",
+           "city":"Bengalore",
+           "country": "India",
+           "geoLoc":{
+               "lat":"12.971559",
+               "lon":"77.606185"
+           }
+       }
+   },
 	{ 
 		    "type":"ee", 
 		    "title":"Devoxx France", 
