@@ -3,12 +3,52 @@
 	"events":[
 	{
        "type":"ed",
+	    "title":"Eclipse Day Grenoble",
+       "date":"Apr 28 2016 8:30 GMT+0500 (EST)",
+       "end-date":"Apr 29 2016 17:30 GMT+0100 (CET)",
+       "locationName":"Polytech Grenoble",
+       "registration":"https://wiki.eclipse.org/Eclipse_IoT_Day_Grenoble_2016",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_IoT_Day_Grenoble_2016",
+       "description":"After the success of the IoT Day 2014 and IoT Day 2015, we are back for a third edition! This year, we will have a two-day event, with a combination of talks and tutorials. ",
+       "address":{
+           "street":" 14, Place du Conseil National de la Résistance",
+           "zip":"38400",
+           "city":"St-Martin-d'Hères",
+           "country": "France",
+           "geoLoc":{
+               "lat":"45.165133",
+               "lon":"5.767761"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"Eclipse Day Eindhoven",
+       "date":"Apr 12 2016 8:30 GMT+0500 (EST)",
+       "end-date":"Apr 12 2016 17:30 GMT+0100 (CET)",
+       "locationName":"Altran Office, Eindhoven",
+       "registration":"http://eclipseday.nl",
+       "infoLink":"http://eclipseday.nl",
+       "description":"The Dutch Eclipse Day presents the unique opportunity to learn first-hand how Eclipse technologies are successful applied in complex, embedded systems.",
+       "address":{
+           "street":"Limburglaan 24",
+           "zip":"5652",
+           "city":"Eindhoven",
+           "country": "Netherlands",
+           "geoLoc":{
+               "lat":"51.433883",
+               "lon":"5.452346"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse Summit India",
        "date":"Aug 25 2016 9:00 GMT+0500 (EST)",
        "end-date":"Aug 27 2016 18:00 GMT+0100 (CET)",
        "locationName":"Chancery Pavilion Hotel",
        "registration":"http://eclipsesummit.in/#register",
-       "infoLink":"http://eclipsesummit.in/",
+       "infoLink":"http://eclipsesummit.in",
        "description":"Eclipse technology is ubiquitous in the enterprise. At the same time, Eclipse continues to spur innovation and provides a platform for research and leading-edge technology.",
        "address":{
            "street":"135, Residency Road",
