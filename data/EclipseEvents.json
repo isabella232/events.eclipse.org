@@ -3,6 +3,63 @@
 	"events":[
 	{
        "type":"ed",
+	    "title":"DemoCamp Zurich",
+       "date":"Jun 21 2016 18:00 GMT+0500 (EST)",
+       "locationName":"Swiss Federal Institute of Technology",
+       "registration":"hhttps://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016/Zurich",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016/Zurich",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+       "address":{
+           "street":"Rämistrasse 101",
+           "zip":"8092",
+           "city":"Zürich",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"47.376536",
+               "lon":"8.548093"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"DemoCamp Bonn",
+       "date":"Jun 13 2016 18:15 GMT+0500 (EST)",
+       "locationName":"Collegium Leoninum Bonn",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Bonn",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Bonn",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+       "address":{
+           "street":"Noeggerathstrasse 34",
+           "zip":"53111",
+           "city":"Bonn",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"50.735196",
+               "lon":"7.092199"
+           }
+       }
+   },
+	{
+       "type":"ed",
+	    "title":"DemoCamp Braunschweig",
+       "date":"May 31 2016 18:00 GMT+0500 (EST)",
+       "locationName":"Bredex Office Braunschweig",
+       "registration":"https://www.eventbrite.com/e/eclipse-democamp-neon-tickets-24312220506",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Braunschweig",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+       "address":{
+           "street":"Lindentwete 1",
+           "zip":"38100",
+           "city":"Braunschweig",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"52.264542",
+               "lon":"10.517914"
+           }
+       }
+   },
+	{
+       "type":"ed",
 	    "title":"Eclipse Day Grenoble",
        "date":"Apr 28 2016 8:30 GMT+0500 (EST)",
        "end-date":"Apr 29 2016 17:30 GMT+0100 (CET)",
