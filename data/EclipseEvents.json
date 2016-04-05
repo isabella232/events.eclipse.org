@@ -1,8 +1,7 @@
-
 {
 	"events":[
 	{
-       "type":"ed",
+       "type":"dc",
 	    "title":"DemoCamp Zurich",
        "date":"Jun 21 2016 18:00 GMT+0500 (EST)",
        "locationName":"Swiss Federal Institute of Technology",
@@ -21,7 +20,7 @@
        }
    },
 	{
-       "type":"ed",
+       "type":"dc",
 	    "title":"DemoCamp Bonn",
        "date":"Jun 13 2016 18:15 GMT+0500 (EST)",
        "locationName":"Collegium Leoninum Bonn",
@@ -40,7 +39,7 @@
        }
    },
 	{
-       "type":"ed",
+       "type":"dc",
 	    "title":"DemoCamp Braunschweig",
        "date":"May 31 2016 18:00 GMT+0500 (EST)",
        "locationName":"Bredex Office Braunschweig",

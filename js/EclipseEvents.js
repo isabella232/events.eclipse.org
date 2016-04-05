@@ -9,7 +9,8 @@
  *    Angelika Wittek
  *    Ralph Müller (rm)
  * 
- * 	24.01.2014 rm: changed sort routine, sort by rank of event first, then by date
+ * 	24.01.2014 rm: changed sort routine, sort by rank of event first, then by date https://foundation.eclipse.org/infrazilla/show_bug.cgi?id=1968
+ *  05.04.2016 rm: changed title, event information opens in new browser tab / window https://foundation.eclipse.org/infrazilla/show_bug.cgi?id=1968
  *
  */
 		
@@ -188,13 +189,13 @@
 		d += eclipseEvent.address.zip + " " + eclipseEvent.address.city + ", " + eclipseEvent.address.country;
 		d += "</p>";
 		d += "<p>";
-		d += "<a href=" + eclipseEvent.registration + ">" + "> register here"
+		d += "<a href=" + eclipseEvent.registration + " target=_blank> register here"
 				+ "</a>";
 		d += "&nbsp;&nbsp;&nbsp;&nbsp;"
-		d += "<a href=" + eclipseEvent.infoLink + ">" + "> more information"
+		d += "<a href=" + eclipseEvent.infoLink + " target=_blank> more information"
 				+ "</a>";
 		d += "&nbsp;&nbsp;&nbsp;&nbsp;"
-		d += "<a href=\"#\" onclick=\"showEventOnMap("+ eclipseEvent.address.geoLoc.lat +"," + eclipseEvent.address.geoLoc.lon+ ");\"> > show on map</a>";
+		d += "<a href=\"#\" onclick=\"showEventOnMap("+ eclipseEvent.address.geoLoc.lat +"," + eclipseEvent.address.geoLoc.lon+ ");\"> show on map</a>";
 		d += "</span>";
 		return d;
 	}

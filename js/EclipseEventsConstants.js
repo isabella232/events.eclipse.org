@@ -9,9 +9,9 @@
  *    Angelika Wittek
  * 	  Ralph Mueller
  */
-
+ 
 var browserTitle = "Eclipse Events";
-var pageTitle = "Upcoming Eclipse Events ...";
+var pageTitle = "Upcoming Events";
 var jsonDatafile = 'data/EclipseEvents.json';
 var eventTypeInfo = {
 	ec : {
