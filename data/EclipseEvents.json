@@ -2,10 +2,67 @@
 	"events":[
 	{
        "type":"dc",
+	    "title":"DemoCamp Trondheim",
+       "date":"Jun 29 2016 18:00 GMT+0500 (EST)",
+       "locationName":"Itema AS",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Trondheim",
+           "country": "Norway",
+           "geoLoc":{
+               "lat":"63.430515",
+               "lon":"10.395053"
+           }
+       }
+   },
+	{
+       "type":"dc",
+	    "title":"DemoCamp Walldorf",
+       "date":"Jun 29 2016 18:00 GMT+0500 (EST)",
+       "locationName":"SAP Walldorf",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Walldorf",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"49.294470",
+               "lon":"8.636736"
+           }
+       }
+   },
+	{
+       "type":"dc",
+	    "title":"DemoCamp Hamburg",
+       "date":"Jun 15 2016 18:00 GMT+0500 (EST)",
+       "locationName":"NORDAKADEMIE",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Hamburg",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Hamburg",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+       "address":{
+           "street":"Van-der-Smissen-Strasse 9",
+           "zip":"22767",
+           "city":"Hamburg",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"53.54331",
+               "lon":"9.9373"
+           }
+       }
+   },
+	{
+       "type":"dc",
 	    "title":"DemoCamp Zurich",
        "date":"Jun 21 2016 18:00 GMT+0500 (EST)",
        "locationName":"Swiss Federal Institute of Technology",
-       "registration":"hhttps://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016/Zurich",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016/Zurich",
        "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016/Zurich",
        "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
        "address":{
