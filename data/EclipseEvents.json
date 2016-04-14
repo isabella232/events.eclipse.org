@@ -2,6 +2,63 @@
 	"events":[
 	{
        "type":"dc",
+	    "title":"DemoCamp Shenzhen",
+       "date":"Jun 14 2016 18:00 GMT+0500 (EST)",
+       "locationName":"TBA",
+       "registration":"https://yoopay.cn/event/42316004",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016/Shenzhen",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Shenzhen",
+           "country": "China",
+           "geoLoc":{
+               "lat":"22.543096",
+               "lon":"114.057865"
+           }
+       }
+   },
+	{
+       "type":"dc",
+	    "title":"DemoCamp Dortmund",
+       "date":"Jun 14 2016 18:00 GMT+0500 (EST)",
+       "locationName":"TBA",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Dortmund",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Dortmund",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+       "address":{
+           "street":"",
+           "zip":"",
+           "city":"Dortmund",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"51.513587",
+               "lon":"7.465298"
+           }
+       }
+   },
+	{
+       "type":"dc",
+	    "title":"DemoCamp Berlin",
+       "date":"May 12 2016 13:00 GMT+0500 (EST)",
+       "locationName":"Fraunhofer-Forum Berlin",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_May_2016_Berlin",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_May_2016_Berlin",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+       "address":{
+           "street":"Anna-Louisa-Karsch-Straße 2",
+           "zip":"10178",
+           "city":"Berlin",
+           "country": "Germany",
+           "geoLoc":{
+               "lat":"52.520602",
+               "lon":"13.401846"
+           }
+       }
+   },
+	{
+       "type":"dc",
 	    "title":"DemoCamp Munich",
        "date":"Jun 20 2016 18:00 GMT+0500 (EST)",
        "locationName":"Capgemini",
