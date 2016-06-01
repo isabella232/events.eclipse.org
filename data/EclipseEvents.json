@@ -1,6 +1,28 @@
 {
 	"events":[
 	{
+	    "type":"et",
+	    "title":"Sirius roadshow in Munich",
+	    "date":"Jun 27 2016 09:00 GMT+0100",
+	    "end-date":"Jun 27 2016 18:00 GMT+0100",
+	    "company":"Obeo",
+	    "locationName":"Fortiss offices",
+	    "registration":"http://goo.gl/forms/wLBYeuumkBXqnjPa2",
+	    "infoLink":" http://blog.obeo.fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open",
+	    "description":"The Sirius Roadshow is a one-day free event to discover the potential of Sirius. It is open to both beginners and advanced users of Eclipse modeling tools. In the morning, it starts with Sirius presentation and user feedback. We are pleased to welcome speakers from renowned companies such as Lars Geyer-Blaumeiser from ETAS-Bosch. You will also discover Capella, a powerful model-based systems engineering tool developed by Thales with Sirius.  In the afternoon, supervised by our team, attendees will create their first graphical workbench on their favorite topic.",
+		"keywords":"EclipseSirius, Capella, SystemsEngineering, Graphical Modeling",
+	    "address":{ 
+	        "street":"Guerickestraße 25",
+	        "zip":"80805",
+	        "city":"Munich",
+	        "country": "Germany",
+	        "geoLoc":{
+	            "lat":"48.174918",
+	            "lon":"11.596160"
+	        }
+	    }
+	},
+	{
        "type":"dc",
 	    "title":"DemoCamp Shenzhen",
        "date":"Jun 30 2016 18:00 GMT+0500 (EST)",
