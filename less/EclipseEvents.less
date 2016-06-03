@@ -3,7 +3,7 @@
 @background: #F5F5F5;
 @title_background: #F7941E; 
 @link_color: #CC7105;
-@text_color: #787878;
+@text_color: #443685;
 
 .eecontent {
     }
@@ -15,12 +15,17 @@
         height: 500px;
         }
     
-    #regionButtons {
-        padding-bottom:5px; 
-        .regionButton {
-            margin-right:9px;
-         }
-     }
+}
+#regionButtons{
+  padding-bottom:5px;
+  .regionButton {
+    margin-right:9px;
+  }
+}
+
+.yearFilter {
+  margin-top:8px;
+  margin-bottom:-15px;
 }
 
 #eventsmail1, #eventsmail2 {
@@ -33,10 +38,12 @@
             background-color: @background;
             padding-bottom:10px;
         }
+        
         p {
-            margin-bottom:2px;
-            margin-top:2px;
+            margin-bottom:5px;
+            margin-top:5px;
         }
+        
         .eventTypeTitle {
             font-size: 18.2px;
             font-weight: 600;
@@ -45,17 +52,16 @@
             padding-bottom:10px;
             padding-top:10px;
         }
-        
-        .revealCollapse {
+
+       .revealCollapse {
             cursor: pointer;
             margin: 2px 0;
             padding-left:43px;
-            font-size: 16px;
-            font-weight: 500;
-            color: @text_color;
-            &:hover {
-                color: @link_color;
-            }
+           font-weight: bold;
+           color: @text_color;
+           &:hover {
+              color: @link_color;
+           }
         }
         .collapseText {
             font-weight: 400;
@@ -69,6 +75,20 @@
                 color:black;
             }
         }
+        
 }
-    
+
+.clusterIcon{
+	width:34px;
+	height:34px;
+	border-radius:17px;
+	font-size:17px;
+	font-weight: bold;
+	color:#fff;
+	line-height:34px;
+	text-align:center;
+	background:#000;
+	opacity: 0.8;
+}
+
 

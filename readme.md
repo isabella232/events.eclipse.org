@@ -57,7 +57,7 @@ Replace the second part of each pair with the appropriate information,
 
 Look up the geo data (longitude and latitude) based on the address. You can use for example this [geocoder](http://www.gpsvisualizer.com/geocode)
 
-The order of appearance in the listing is currently based on the position in the file. In the near future, we will add functionality to automatically sort events and ommit past events. <br>
+
 To help us, please use the "MMM DD, YYYY" format for the "date" fields. Example: "Nov 3, 2013" will work just fine! <br>
 We hope to find a more general solution in the future.We are not using the time for anything (yet), so feel free to add the time in any format that is appropriate.
 
@@ -93,4 +93,11 @@ xx can be any of the following:
 * ee - Other interesting Events
 
 Additional events can be added, please let us know if you miss a type
+
+## URL Parameter
+Therer are two:
+- eventtype
+- year
+For example: events.eclipse.org/?eventtype=ed&year=2015
+shows only the events of type ed (Training) in the year 2015
 

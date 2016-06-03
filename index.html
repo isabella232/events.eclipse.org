@@ -34,19 +34,21 @@
          <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
      <![endif]-->
 <script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
 <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-
-<!-- 
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
- -->
 
 <link rel="stylesheet" type="text/css" href="css/EclipseEvents.css" media="screen" />
 <script src="js/EclipseEvents.js"></script>
 <script src="js/EclipseEventsConstants.js"></script>
 
 <script>
+    // TODO 3 alternatives for calling the init function:
     window.onload = initialize;
+    // the following works NOT for IE <= 8 !!!!
+    //document.addEventListener("DOMContentLoaded", initialize, false);
+    //$(initialize);
 </script>
 
 
@@ -143,17 +145,34 @@
     <main role="main">
     <div class="container background-image-none" id="novaContent">
 <!-- Start of content area ------------------------------------------------------------------------------------------------------------------------------------- -->
-       
-      <div id="eecontent" class="eecontent">
-        <h1 id="pageTitle"></h1>
-        <div id="mapSection">
-            <div id="regionButtons"></div>
-            <div id="map"></div>
-        </div>
-        <div id="eventsmail1"></div>
-       <div id="descriptons"></div>
-       <div id="eventsmail2"></div>
-  </div>
+
+        <div id="eecontent" class="eecontent">
+            <h1 id="pageTitle"></h1>
+            <div id="mapSection">
+                <div id="regionButtons"  > </div>
+                <div id="map"></div>
+            </div>
+
+
+            <div class="yearFilter row" >
+                <div class="col-md-12">
+                    <div class="dropdown">
+                        <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">events by year
+                            <span class="caret"></span></button>
+                        <ul id="yearDropDown" class="dropdown-menu" role="menu" aria-labelledby="menu1">
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-12" id="eventsmail1"></div>
+             </div>
+
+            <div id="descriptons"></div>
+            <div id="eventsmail2"></div>
+
+  	    </div>
+  	
+  	
+  
 <!--  *************************** end: EclipseEvents Body ************************************* -->
 <!-- End of content area --------------------------------------------------------------------------------------------------------------------------------------- -->
     </div>
@@ -222,7 +241,7 @@
             <div id="copyright"  class="col-xs-offset-1 col-sm-14 col-md-24 col-md-offset-0">
                       <div>
                             <span class="hidden-print"><img src="/eclipse.org-common/themes/solstice/public/images/logo/eclipse-logo-bw-800x188.png" alt="Eclipse.org black and white logo" width="166" height="39" id="logo-eclipse-white"/></span>
-                            <p id="copyright-text">Copyright &copy; 2014 The Eclipse Foundation. All Rights Reserved.</p>
+                            <p id="copyright-text">Copyright &copy; 2016 The Eclipse Foundation. All Rights Reserved.</p>
                     </div>
           </div>
         <a href="#" class="scrollup">Back to the top</a>

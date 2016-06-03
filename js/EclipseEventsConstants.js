@@ -11,14 +11,17 @@
  */
  
 var browserTitle = "Eclipse Events";
-var pageTitle = "Upcoming Events";
+var pageTitle = "Upcoming Eclipse Events";
 var jsonDatafile = 'data/EclipseEvents.json';
+var eventtypeURLParaName="eventtype";
+var yearURLParaName = "year";
 var eventTypeInfo = {
 	ec : {
 		rank : 1,
 		name : "EclipseCons",
 		image : "images/marker-icon-red.png",
 		image_small : "images/small-marker-icon-red.png",
+		color: "#D93333",
 		icon_size:{
 	    x:"25",
 	    y:"41"
@@ -29,6 +32,7 @@ var eventTypeInfo = {
 		name : "Demo Camps & Stammtisch",
 		image : "images/marker-icon-green.png",
 		image_small : "images/small-marker-icon-green.png",
+		color: "#6AAA16",
 		icon_size:{
             x:"25",
             y:"41"
@@ -39,6 +43,7 @@ var eventTypeInfo = {
 		name : "Eclipse Days & Hackathons",
 		image : "images/marker-icon-yellow.png",
 		image_small : "images/small-marker-icon-yellow.png",
+		color: "#CEA70A",
 		icon_size:{
             x:"25",
             y:"41"
@@ -49,6 +54,7 @@ var eventTypeInfo = {
 		name : "Working Group Events",
 		image : "images/marker-icon-blue.png",
 		image_small : "images/small-marker-icon-blue.png",
+		color: "#2B82CB",
 		icon_size:{
             x:"25",
             y:"41"
@@ -59,6 +65,7 @@ var eventTypeInfo = {
 		name : "Training Series",
 		image : "images/marker-icon-cyan.png",
 		image_small : "images/small-marker-icon-cyan.png",
+		color: "#14C6AB",
 		icon_size:{
             x:"25",
             y:"41"
@@ -69,6 +76,7 @@ var eventTypeInfo = {
 		name : "Other interesting Events",
 		image : "images/marker-icon-purple.png",
 		image_small : "images/small-marker-icon-purple.png",
+		color: "#9B3CB5",
 		icon_size:{
             x:"25",
             y:"41"
@@ -78,6 +86,7 @@ var eventTypeInfo = {
 		name : "unknown",
 		image : "images/marker-icon-gray.png",
 		image_small : "images/small-marker-icon.png",
+		color: "grey",
 		icon_size:{
             x:"25",
             y:"41"
@@ -89,7 +98,7 @@ var regionInfos = {
 	world : {
 		name : "World",
 		lat : "20.71859",
-		lon : "20.44922",
+		lon : "40.44922",
 		zoom : "2"
 	},
 	ap : {
@@ -106,7 +115,7 @@ var regionInfos = {
 	},	
 	emea : {
 		name : "Europe",
-		lat : "51.3758916",
+		lat : "53.3758916",
 		lon : "9.7320104",
 		zoom : "4"
 	},
