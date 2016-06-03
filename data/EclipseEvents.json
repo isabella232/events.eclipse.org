@@ -318,8 +318,8 @@
 	    "date":"Oct 25 2016 09:00 GMT-0900", 
 	    "end-date":"Oct 27 2016 17:00 GMT-0900", 
 	    "locationName":"Forum Am Schlosspark Ludwigsburg", 
-	    "registration":"", 
-	    "infoLink":"", 
+	    "registration":"https://www.eclipsecon.org/europe2016/registration", 
+	    "infoLink":"https://www.eclipsecon.org/europe2016", 
 	    "description":"EclipseCon Europe is designed to create opportunities for the Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse and its member companies. ", 
 	    "address":{ 
 	        "street":"Stuttgarter Straße 33", 
