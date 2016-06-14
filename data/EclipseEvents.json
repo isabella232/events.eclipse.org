@@ -2,6 +2,28 @@
 	"events":[
 	{
 	    "type":"et",
+	    "title":"XText Training",
+	    "date":"Jun 22 2016 09:00 GMT+0100",
+	    "end-date":"Jun 24 2016 18:00 GMT+0100",
+	    "company":"TypeFox",
+	    "locationName":"Betahaus Hamburg",
+	    "registration":"http://typefox.io/event/xtext-training",
+	    "infoLink":"http://typefox.io/event/xtext-training",
+	    "description":"Visit the beautiful city of Hamburg (Germany) and become an expert in Xtext within three days.",
+		"keywords":"Eclipse, Eclipse XText",
+	    "address":{ 
+	        "street":"Eifflerstraße 43 ",
+	        "zip":"22769",
+	        "city":"Hamburg",
+	        "country": "Germany",
+	        "geoLoc":{
+	            "lat":"53.562561",
+	            "lon":"9.960111"
+	        }
+	    }
+	},
+	{
+	    "type":"et",
 	    "title":"Sirius roadshow in Munich",
 	    "date":"Jun 27 2016 09:00 GMT+0100",
 	    "end-date":"Jun 27 2016 18:00 GMT+0100",
