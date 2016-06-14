@@ -1,5 +1,24 @@
 {
 	"events":[
+	 {
+       "type":"dc",
+      "title":"DemoCamp Bangalore",
+       "date":"Jun 22 2016 15:00 UTC+05:30",
+       "locationName":" Infosys Campus",
+       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016/Bangalore",
+       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamps_Neon_2016/Bangalore",
+       "description":"DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+       "address":{
+           "street":"B12, Audio 1, Cauvery,Gate 2, Infosys Ltd, Opp IIIT",
+           "zip":"Electronic City Phase 1",
+           "city":"Bangalore",
+           "country": "India",
+           "geoLoc":{
+               "lat":"12.9716",
+               "lon":"77.5946"
+           }
+       }
+   },
 	{
 	    "type":"et",
 	    "title":"XText Training",
@@ -24,7 +43,7 @@
 	},
 	{
 	    "type":"et",
-	    "title":"Sirius roadshow in Munich",
+	    "title":"Sirius Roadshow in Munich",
 	    "date":"Jun 27 2016 09:00 GMT+0100",
 	    "end-date":"Jun 27 2016 18:00 GMT+0100",
 	    "company":"Obeo",
