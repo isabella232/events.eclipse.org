@@ -1,5 +1,38 @@
 {
 	"events":[
+	{
+		"type": "et",
+		"title": "Eclipse Rich Client Platform (RCP) Schulung",
+		"date": "Oct 10 2016 09:00 GMT+0100",
+		"end-date": "Oct 14 2016 18:00 GMT+0100",
+		"company": "Vogella GmbH",
+		"locationName": "SiH Seminarraum in Hamburg GmbH",
+		"registration": "",
+		"infoLink": "http://www.vogella.com/training/eclipse/eclipsercp.html",
+		"description": "<p>In dieser intensiven Schulung lernen Sie die professionelle Eclipse RCP Entwicklung auf Stand von Eclipse 4.6 kennen. Der Praxisteil liegt bei ca. 50 % und durch viele optionale Bestandteile eignet sich die Schulung sowohl für Eclipse RCP Neulinge wie auch für Entwickler mit Eclipse 3.X RCP Vorkenntnissen.  Verwendet wird das neuste Eclipse 4 Programmierinterface (API), wobei auch auf die Migration von Eclipse 3.X RCP Applikationen eingegangen wird. <p>Falls Sie eine Migration von Eclipse 3.X auf Eclipse 4 planen, bieten wir ebenfalls Eclipse 4 RCP Delta Schulungen an. In dieser Schulung lernen Sie die neuen Konzepte von Eclipse 4 und die Unterschiede zu Eclipse 3.X kennen.",
+		"keywords": "Eclipse, Eclipse RCP",
+		"address": {
+			"street": "Mexikoring 15",
+			"zip": "22297",
+			"city": "Hamburg",
+			"country": "Germany",
+			"geoLoc": {
+				"lat": "53.602400",
+				"lon": "10.023010"
+			}
+		},	
+		"keywords":"Eclipse, Eclipse RCP",
+	    "address":{ 
+	        "street":"Mexikoring 15",
+	        "zip":"22297",
+	        "city":"Hamburg",
+	        "country": "Germany",
+	        "geoLoc":{
+	            "lat":"53.602400",
+	            "lon":"10.023010"
+	        }
+	    }
+	},
 	 {
        "type":"dc",
       "title":"DemoCamp Bangalore",
