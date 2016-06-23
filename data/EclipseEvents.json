@@ -1,5 +1,81 @@
 {
 	"events":[
+		{
+	       "type":"dc",
+		    "title":"DemoCamp Kassel",
+	       "date":"October 6 2016 17:00 GMT-0100",
+	       "locationName":"Yatta Office Kassel",
+	       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Kassel",
+	       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_November_2015/Kassel",
+	       "description":"DemoCamps or Hackathons around the world celebrating the Eclipse Neon release.",
+	       "address":{
+	           "street":"Universitätsplatz 12",
+	           "zip":"34127",
+	           "city":"Kassel",
+	           "country": "Germany",
+	           "geoLoc":{
+	               "lat":"51.325936",
+	               "lon":"9.504606"
+	           }
+	       }
+	   },
+		{
+	       "type":"dc",
+		    "title":"DemoCamp Frankfurt",
+	       "date":"Sep 22 2016 17:00 GMT-0100",
+	       "locationName":"Yatta Office Frankfurt a.M.",
+	       "registration":"https://wiki.eclipse.org/Eclipse_DemoCamp_September_2016/Frankfurt",
+	       "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_September_2016/Frankfurt",
+	       "description":"DemoCamps or Hackathons around the world celebrating the Eclipse Neon release.",
+	       "address":{
+	           "street":"Mainzer Landstr. 50",
+	           "zip":"60325",
+	           "city":"Frankfurt a.M. ",
+	           "country": "Germany",
+	           "geoLoc":{
+	               "lat":"50.111111",
+	               "lon":"8.663878"
+	           }
+	       }
+	   },
+      	 {
+             "type":"dc",
+            "title":"DemoCamp Guatemala",
+             "date":"July 9 2016 19:00 GMT+0600",
+             "locationName":"Centro TICS Intecap",
+             "registration":"https://www.eventbrite.com/e/java-day-guatemala-2016-tickets-25676784955",
+             "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Guatemala",
+             "description":"DemoCamps or Hackathons around the world celebrating the Eclipse Neon release.",
+             "address":{
+                 "street":"Mateo Flores 7-51",
+                 "zip":"01005",
+                 "city":"Calle del Estadio",
+                 "country": "Guatemala",
+                 "geoLoc":{
+                     "lat":"15.7834710",
+                     "lon":"-90.2307590"
+                 }
+             }
+         },
+   	 {
+          "type":"dc",
+         "title":"DemoCamp Budapest",
+          "date":"July 6 2016 19:00 GMT+0200",
+          "locationName":"KÉK - Kortárs Építészeti Központ",
+          "registration":"http://www.meetup.com/de-DE/Eclipse-Enthusiasts-Budapest/events/231040401/?eventId=231040401",
+          "infoLink":"https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Budapest",
+          "description":"DemoCamps or Hackathons around the world celebrating the Eclipse Neon release.",
+          "address":{
+              "street":"1111 Bartók Béla út 10-12",
+              "zip":"",
+              "city":"Budapest",
+              "country": "Hungary",
+              "geoLoc":{
+                  "lat":"47.4822990",
+                  "lon":"19.0530110"
+              }
+          }
+      },
 	{
 		"type": "et",
 		"title": "Eclipse Rich Client Platform (RCP) Schulung",
