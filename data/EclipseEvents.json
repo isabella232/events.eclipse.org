@@ -2,21 +2,21 @@
 	"events":[
 	{ 
 		    "type":"ee", 
-		    "title":"Annual Automotive Software Systems Summit", 
-		    "date":"Nov 10 2016 09:00 GMT+0100 (CET)", 
-		    "end-date":"Nov 11 2016 18:00 GMT+0100 (CET)", 
-		    "locationName":"Berlin", 
-		    "registration":"http://curtiswyss.com", 
-		    "infoLink":"http://curtiswyss.com", 
+		    "title":"Automotive Software Development", 
+		    "date":"Sep 05 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Sep 06 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"Hotel Angelo Munich Westpark", 
+		    "registration":"http://www.euroforum.de/software-eng/registration", 
+		    "infoLink":"http://www.euroforum.de/software-eng", 
 		    "description":"", 
 		    "address":{ 
 		        "street":"", 
 		        "zip":"", 
-		        "city":"Berlin", 
+		        "city":"Munich", 
 		        "country": "Germany", 
 		        "geoLoc":{ 
-		            "lat": "52.520007", 
-		            "lon": "13.404954" 
+		            "lat": "48.135125", 
+		            "lon": "11.581981" 
 		        } 
 		    }
 		},
