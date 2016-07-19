@@ -1,5 +1,25 @@
 {
 	"events":[
+	{ 
+		    "type":"ee", 
+		    "title":"Annual Automotive Software Systems Summit", 
+		    "date":"Nov 10 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Nov 11 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"Berlin", 
+		    "registration":"http://curtiswyss.com", 
+		    "infoLink":"http://curtiswyss.com", 
+		    "description":"", 
+		    "address":{ 
+		        "street":"", 
+		        "zip":"", 
+		        "city":"Berlin", 
+		        "country": "Germany", 
+		        "geoLoc":{ 
+		            "lat": "52.520007", 
+		            "lon": "13.404954" 
+		        } 
+		    }
+		},
 		{
 	       "type":"dc",
 		    "title":"DemoCamp Kassel",
