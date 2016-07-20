@@ -2,6 +2,26 @@
 	"events":[
 	{ 
 		    "type":"ee", 
+		    "title":"Devoxx Belgium", 
+		    "date":"Nov 07 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Nov 11 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"Kinepolis Antwerp", 
+		    "registration":"http://reg.devoxx.be/public#DV16", 
+		    "infoLink":"https://devoxx.be", 
+		    "description":"Devoxx is a conference from developers for developers at an affordable price this way every developer can enjoy this unique experience", 
+		    "address":{ 
+		        "street":"Groenendaallaan 394", 
+		        "zip":"2030", 
+		        "city":"Antwerpen", 
+		        "country": "Belgium", 
+		        "geoLoc":{ 
+		            "lat": "51.245781", 
+		            "lon": "4.416213" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
 		    "title":"Automotive Software Development", 
 		    "date":"Sep 05 2016 09:00 GMT+0100 (CET)", 
 		    "end-date":"Sep 06 2016 18:00 GMT+0100 (CET)", 
