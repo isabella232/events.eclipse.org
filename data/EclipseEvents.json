@@ -2,6 +2,66 @@
 	"events":[
 	{ 
 		    "type":"ee", 
+		    "title":"Models 2016", 
+		    "date":"Oct 02 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Oct 07 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"Palais du Grand Large", 
+		    "registration":"http://models2016.irisa.fr", 
+		    "infoLink":"http://models2016.irisa.fr/", 
+		    "description":"MODELS is the premier conference series for model-based software and systems engineering which since 1998 has been covering all aspects of modeling, from languages and methods to tools and applications.", 
+		    "address":{ 
+		        "street":" 1, quai Duguay-Trouin", 
+		        "zip":"35407", 
+		        "city":"Saint Malo", 
+		        "country": "France", 
+		        "geoLoc":{ 
+		            "lat": "48.651330", 
+		            "lon": "-2.017967" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"Eclipse IoT Day + Thingmonk", 
+		    "date":"Sep 12 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Sep 14 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"Protein Studios Shoreditch", 
+		    "registration":"http://thingmonk.com/index.html#buy", 
+		    "infoLink":"http://thingmonk.com/index.html#about", 
+		    "description":"ThingMonk is the developer conference for people making IoT platforms.", 
+		    "address":{ 
+		        "street":"37 Batemans Row", 
+		        "zip":"EC2A 3HH", 
+		        "city":"London", 
+		        "country": "UK", 
+		        "geoLoc":{ 
+		            "lat": "51.524671", 
+		            "lon": "-0.078242" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"Devoxx US", 
+		    "date":"Mar 21 2017 09:00 GMT+0100 (CET)", 
+		    "end-date":"Mar 23 2017 18:00 GMT+0100 (CET)", 
+		    "locationName":"San Jose Convention Center", 
+		    "registration":"https://devoxx.us", 
+		    "infoLink":"https://devoxx.us", 
+		    "description":"Devoxx US is a conference by developers for developers, priced affordably so that all developers can enjoy this unique experience.", 
+		    "address":{ 
+		        "street":"150 West San Carlos Street", 
+		        "zip":"95113", 
+		        "city":"San Jose, CA", 
+		        "country": "US", 
+		        "geoLoc":{ 
+		            "lat": "37.329720", 
+		            "lon": "-121.889630" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
 		    "title":"Devoxx Belgium", 
 		    "date":"Nov 07 2016 09:00 GMT+0100 (CET)", 
 		    "end-date":"Nov 11 2016 18:00 GMT+0100 (CET)", 
