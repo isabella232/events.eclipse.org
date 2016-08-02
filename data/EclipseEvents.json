@@ -2,12 +2,52 @@
 	"events":[
 	{ 
 		    "type":"ee", 
+		    "title":"IoT Workshop - Get Started with the Open Internet of Things", 
+		    "date":"Sep 14 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Sep 14 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":"London", 
+		    "registration":"http://www.meetup.com/Women-Who-Code-London/events/232898019", 
+		    "infoLink":"http://www.meetup.com/Women-Who-Code-London/events/232898019", 
+		    "description":" This workshop is open to all levels, and will include introductions to the technologies involved such as MQTT, the defacto IoT standard for data exchange and LoRa, the long range low power technology designed for the Internet of Things.", 
+		    "address":{ 
+		        "street":"", 
+		        "zip":"", 
+		        "city":"London", 
+		        "country": "UK", 
+		        "geoLoc":{ 
+		            "lat": "51.507351", 
+		            "lon": "-0.127758" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
+		    "title":"SiruisCon 2016", 
+		    "date":"Nov 15 2016 09:00 GMT+0100 (CET)", 
+		    "end-date":"Nov 15 2016 18:00 GMT+0100 (CET)", 
+		    "locationName":" Hôtel Vaugirard Montparnasse, Paris", 
+		    "registration":"http://www.siriuscon.org", 
+		    "infoLink":"http://www.siriuscon.org", 
+		    "description":"This one-day free event, organized by Obeo with the help of the Eclipse Foundation, is the perfect time for the Sirius community to meet and to share with the developer team behind this innovative technology.", 
+		    "address":{ 
+		        "street":"257 Rue de Vaugirar", 
+		        "zip":"75015", 
+		        "city":"Paris", 
+		        "country": "France", 
+		        "geoLoc":{ 
+		            "lat": "48.839902", 
+		            "lon": "2.303101" 
+		        } 
+		    }
+		},
+	{ 
+		    "type":"ee", 
 		    "title":"Models 2016", 
 		    "date":"Oct 02 2016 09:00 GMT+0100 (CET)", 
 		    "end-date":"Oct 07 2016 18:00 GMT+0100 (CET)", 
 		    "locationName":"Palais du Grand Large", 
 		    "registration":"http://models2016.irisa.fr", 
-		    "infoLink":"http://models2016.irisa.fr/", 
+		    "infoLink":"http://models2016.irisa.fr", 
 		    "description":"MODELS is the premier conference series for model-based software and systems engineering which since 1998 has been covering all aspects of modeling, from languages and methods to tools and applications.", 
 		    "address":{ 
 		        "street":" 1, quai Duguay-Trouin", 
