@@ -1,6 +1,26 @@
 {
 	"events": [
 		{
+			"type": "ee",
+			"title": "JavaOne",
+			"date": "Sep 18 2016 09:00 GMT+0100 (CET)",
+			"end-date": "Sep 22 2016 18:00 GMT+0100 (CET)",
+			"locationName": "Hilton San Francisco Union Square",
+			"registration": "https://www.oracle.com/javaone/register/index.html",
+			"infoLink": "https://www.oracle.com/javaone/index.html",
+			"description": "Visit us at Booth #5017 to learn about all the latest Eclipse technologies!",
+			"address": {
+				"street": "333 O'Farrell Street",
+				"zip": "94102",
+				"city": "San Francisco",
+				"country": "USA",
+				"geoLoc": {
+					"lat": "37.785685",
+					"lon": "-122.410433"
+				}
+			}
+		},
+		{
 			"type": "ec",
 			"title": "EclipseConverge 2017",
 			"date": "March 20 2017 09:00 GMT-0900",
@@ -24,7 +44,7 @@
 			"type": "dc",
 			"title": "DemoCamp Graz",
 			"date": "November 7 2016 17:00 GMT-0100",
-			"locationName": "Yatta Office Kassel",
+			"locationName": "Salomon Automation GmbH (SSI Schaefer)",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Graz",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Graz",
 			"description": "DemoCamps or Hackathons around the world celebrating the Eclipse Neon release.",
