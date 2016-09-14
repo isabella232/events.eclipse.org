@@ -1,5 +1,71 @@
 {
 	"events": [
+	{
+				"type": "et",
+				"title": "Eclipse Sirius Training",
+				"date": "Nov 28 2016 09:00 GMT+0100",
+				"end-date": "Nov 28 2016 18:00 GMT+0100",
+				"company": "Obeo",
+				"locationName": "Nantes",
+				"registration": "https://www.obeo.fr/fr/contact",
+				"infoLink": "https://www.obeo.fr/en/services/training",
+				"description": "Learn how to create a simple modeling environment with Sirius and the methodological and technical bases for building a complete modeling workbench. \nThe course is designed by the creators of the Sirius Project and other Eclipse committers.\nMany hands-on exercises (50%) \nAudience: Architects, developers\nPrerequisites: Basic knowledge of Java development and experience using the Eclipse IDE. ",
+				"keywords": "Sirius, Graphical Modeling",
+				"address": {
+					"street": "7 Boulevard Ampère",
+					"zip": "44470",
+					"city": "Carquefou",
+					"country": "France",
+					"geoLoc": {
+						"lat": "47.305023",
+						"lon": "-1.506480"
+					}
+				}
+			},
+	{
+				"type": "et",
+				"title": "Eclipse Sirius Training",
+				"date": "Nov 7 2016 09:00 GMT+0100",
+				"end-date": "Nov 7 2016 18:00 GMT+0100",
+				"company": "Obeo",
+				"locationName": "Paris",
+				"registration": "https://www.obeo.fr/fr/contact",
+				"infoLink": "https://www.obeo.fr/en/services/training",
+				"description": "Learn how to create a simple modeling environment with Sirius and the methodological and technical bases for building a complete modeling workbench. \nThe course is designed by the creators of the Sirius Project and other Eclipse committers.\nMany hands-on exercises (50%) \nAudience: Architects, developers\nPrerequisites: Basic knowledge of Java development and experience using the Eclipse IDE. ",
+				"keywords": "Sirius, Graphical Modeling",
+				"address": {
+					"street": "2 Route de la Noue",
+					"zip": "91190",
+					"city": "Gif-sur-Yvette",
+					"country": "France",
+					"geoLoc": {
+						"lat": "48.701930",
+						"lon": "2.101714"
+					}
+				}
+			},
+	{
+				"type": "et",
+				"title": "Eclipse Sirius Training",
+				"date": "Oct 11 2016 09:00 GMT+0100",
+				"end-date": "Oct 14 2016 18:00 GMT+0100",
+				"company": "Obeo",
+				"locationName": "Toulouse",
+				"registration": "https://www.obeo.fr/fr/contact",
+				"infoLink": "https://www.obeo.fr/en/services/training",
+				"description": "Learn how to create a simple modeling environment with Sirius and the methodological and technical bases for building a complete modeling workbench. \nThe course is designed by the creators of the Sirius Project and other Eclipse committers.\nMany hands-on exercises (50%) \nAudience: Architects, developers\nPrerequisites: Basic knowledge of Java development and experience using the Eclipse IDE. ",
+				"keywords": "Sirius, Graphical Modeling",
+				"address": {
+					"street": "25 Boulevard Victor Hugo",
+					"zip": "31770",
+					"city": "Colomiers",
+					"country": "France",
+					"geoLoc": {
+						"lat": "43.614936",
+						"lon": "1.307507"
+					}
+				}
+			},
 		{
 			"type": "ee",
 			"title": "JavaOne",
