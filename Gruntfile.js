@@ -37,6 +37,18 @@ module.exports = function(grunt) {
                         src: ['bower_components/fontawesome/fonts/*'],
                         dest: 'assets/fonts/',
                         filter: 'isFile'
+                    }, {
+                        expand: true,
+                        cwd: 'bower_components/solstice-assets/images/template',
+                        src: ['**'],
+                        dest: 'assets/images/template',
+                        filter: 'isFile'
+                    }, {
+                        expand: true,
+                        cwd: 'bower_components/solstice-assets/images/components/back-to-top',
+                        src: ['**'],
+                        dest: 'assets/images/components/back-to-top',
+                        filter: 'isFile'
                     }
                 ]
             }
