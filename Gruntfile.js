@@ -21,6 +21,26 @@ module.exports = function(grunt) {
                 " *    Christopher Guindon\n" +
                 " */\n"
         },
+        copy: {
+            main: {
+                files: [
+                    // includes files within path
+                    {
+                        expand: true,
+                        flatten: true,
+                        src: ['bower_components/bootstrap/fonts/*'],
+                        dest: 'assets/fonts/',
+                        filter: 'isFile'
+                    }, {
+                        expand: true,
+                        flatten: true,
+                        src: ['bower_components/fontawesome/fonts/*'],
+                        dest: 'assets/fonts/',
+                        filter: 'isFile'
+                    }
+                ]
+            }
+        },
         less: {
             development: {
                 options: {
@@ -73,7 +93,7 @@ module.exports = function(grunt) {
             less: {
                 files: ['./src/less/*.less'],
                 // watched files
-                tasks: ['less'],
+                tasks: ['less', 'copy'],
                 // tasks to run
             },
         }
