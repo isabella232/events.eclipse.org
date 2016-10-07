@@ -25,6 +25,7 @@
   "devDependencies": {
     "leaflet": "Leaflet#0.7",
     "jquery": "1.10.2",
+    "solstice-assets": "https://github.com/EclipseFdn/solstice-assets.git",
     "leaflet.markercluster": "git://github.com/Leaflet/Leaflet.markercluster#232e93ccbe5b70241913f47a4d1a8ceec8c88c30"
   }
 }

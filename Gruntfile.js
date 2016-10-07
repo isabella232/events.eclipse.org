@@ -29,7 +29,7 @@ module.exports = function(grunt) {
                 },
                 files: {
                     // compiling styles.less into styles.css
-                    "./public/css/main.min.css": "./src/less/EclipseEvents.less"
+                    "./assets/css/main.min.css": "./src/less/EclipseEvents.less"
                 }
             }
         },
@@ -43,14 +43,14 @@ module.exports = function(grunt) {
                     './bower_components/leaflet/dist/leaflet.js',
                     './bower_components/leaflet.markercluster/dist/leaflet.markercluster.js'
                 ],
-                dest: './public/js/plugins.js',
+                dest: './assets/js/plugins.js',
             },
             js_src: {
                 src: [
                     './src/js/EclipseEvents.js',
                     './src/js/EclipseEventsConstants.js',
                 ],
-                dest: './public/js/EclipseEvents.js',
+                dest: './assets/js/EclipseEvents.js',
             }
         },
         uglify: {
@@ -60,7 +60,7 @@ module.exports = function(grunt) {
             },
             src: {
                 files: {
-                    './public/js/EclipseEvents.min.js': './public/js/EclipseEvents.js',
+                    './assets/js/EclipseEvents.min.js': './assets/js/EclipseEvents.js',
                 }
             },
         },
