@@ -1,5 +1,64 @@
 {
 	"events": [
+		{
+			"type": "dc",
+			"title": "DemoCamp Bonn",
+			"date": "Nov 14 2016 18:15 GMT+0500 (EST)",
+			"locationName": "Collegium Leoninum Bonn",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamp_November_2016/Bonn",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_November_2016/Bonn",
+			"description": "DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+			"address": {
+				"street": "Noeggerathstrasse 34",
+				"zip": "53111",
+				"city": "Bonn",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "50.735196",
+					"lon": "7.092199"
+				}
+			}
+		},
+{
+			"type": "ec",
+			"title": "EclipseCon France 2017",
+			"date": "Jun 21 2017 09:00 GMT-0900",
+			"end-date": "Jun 22 2017 17:00 GMT-0900",
+			"locationName": "Centre de Congres Pierre Baudis",
+			"registration": "https://www.eclipsecon.org/france2017",
+			"infoLink": "https://www.eclipsecon.org/france2017",
+			"description": "",
+			"address": {
+				"street": "11 esplanade Complans Caffarelli",
+				"zip": "31680",
+				"city": "Toulouse",
+				"country": "France",
+				"geoLoc": {
+					"lat": "43.611554",
+					"lon": "1.434583"
+				}
+			}
+		},
+{
+			"type": "ee",
+			"title": "OOP",
+			"date": "Jan 30 2017 09:00 GMT+0100 (CET)",
+			"end-date": "Feb 03 2017 18:00 GMT+0100 (CET)",
+			"locationName": "ICM - Internationales Congress Center München",
+			"registration": "https://www.sigs-datacom.de/order/payment/reg_oop2017_de.php?_ga=1.226444058.1866193807.1476792790",
+			"infoLink": "http://www.oop-konferenz.de/oop2017.html",
+			"description": "Visit us at our Booth to learn about all the latest Eclipse technologies!",
+			"address": {
+				"street": "Am Messesee",
+				"zip": "81829",
+				"city": "Munich",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "48.135280",
+					"lon": "11.693840"
+				}
+			}
+		},
 	{
 				"type": "et",
 				"title": "Eclipse Sirius Training",
