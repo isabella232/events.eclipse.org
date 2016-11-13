@@ -2,8 +2,46 @@
 	"events": [
 		{
 			"type": "dc",
+			"title": "DemoCamp Toronto",
+			"date": "Nov 24 2016 18:30 GMT+0500 (EST)",
+			"locationName": "RedHat Office Toronto",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_November_2016/Toronto",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_November_2016/Toronto",
+			"description": "DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+			"address": {
+				"street": "90 Eglinton Ave. East, Suite 502",
+				"zip": "",
+				"city": "Toronto",
+				"country": "Canada",
+				"geoLoc": {
+					"lat": "43.7074836",
+					"lon": "-79.3955853"
+				}
+			}
+		},
+		{
+			"type": "dc",
+			"title": "DemoCamp Graz",
+			"date": "Nov 17 2016 16:00 GMT+0100 (EST)",
+			"locationName": "Salomon Automation GmbH (SSI Schaefer)",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Graz",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Graz",
+			"description": "DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+			"address": {
+				"street": "Friesachstrasse 15 ",
+				"zip": "8114",
+				"city": "Frisach",
+				"country": "Austria",
+				"geoLoc": {
+					"lat": "47.1737340",
+					"lon": "15.3342850"
+				}
+			}
+		},
+		{
+			"type": "dc",
 			"title": "DemoCamp Bonn",
-			"date": "Nov 14 2016 18:15 GMT+0500 (EST)",
+			"date": "Nov 14 2016 18:15 GMT-0100 (EST)",
 			"locationName": "Collegium Leoninum Bonn",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamp_November_2016/Bonn",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_November_2016/Bonn",
@@ -19,11 +57,11 @@
 				}
 			}
 		},
-{
+		{
 			"type": "ec",
 			"title": "EclipseCon France 2017",
-			"date": "Jun 21 2017 09:00 GMT-0900",
-			"end-date": "Jun 22 2017 17:00 GMT-0900",
+			"date": "Jun 21 2017 09:00 GMT-0100",
+			"end-date": "Jun 22 2017 17:00 GMT-0100",
 			"locationName": "Centre de Congres Pierre Baudis",
 			"registration": "https://www.eclipsecon.org/france2017",
 			"infoLink": "https://www.eclipsecon.org/france2017",
@@ -39,7 +77,7 @@
 				}
 			}
 		},
-{
+		{
 			"type": "ee",
 			"title": "OOP",
 			"date": "Jan 30 2017 09:00 GMT+0100 (CET)",
@@ -59,72 +97,72 @@
 				}
 			}
 		},
-	{
-				"type": "et",
-				"title": "Eclipse Sirius Training",
-				"date": "Nov 28 2016 09:00 GMT+0100",
-				"end-date": "Nov 28 2016 18:00 GMT+0100",
-				"company": "Obeo",
-				"locationName": "Nantes",
-				"registration": "https://www.obeo.fr/fr/contact",
-				"infoLink": "https://www.obeo.fr/en/services/training",
-				"description": "Learn how to create a simple modeling environment with Sirius and the methodological and technical bases for building a complete modeling workbench. \nThe course is designed by the creators of the Sirius Project and other Eclipse committers.\nMany hands-on exercises (50%) \nAudience: Architects, developers\nPrerequisites: Basic knowledge of Java development and experience using the Eclipse IDE. ",
-				"keywords": "Sirius, Graphical Modeling",
-				"address": {
-					"street": "7 Boulevard Ampère",
-					"zip": "44470",
-					"city": "Carquefou",
-					"country": "France",
-					"geoLoc": {
-						"lat": "47.305023",
-						"lon": "-1.506480"
-					}
+		{
+			"type": "et",
+			"title": "Eclipse Sirius Training",
+			"date": "Nov 28 2016 09:00 GMT+0100",
+			"end-date": "Nov 28 2016 18:00 GMT+0100",
+			"company": "Obeo",
+			"locationName": "Nantes",
+			"registration": "https://www.obeo.fr/fr/contact",
+			"infoLink": "https://www.obeo.fr/en/services/training",
+			"description": "Learn how to create a simple modeling environment with Sirius and the methodological and technical bases for building a complete modeling workbench. \nThe course is designed by the creators of the Sirius Project and other Eclipse committers.\nMany hands-on exercises (50%) \nAudience: Architects, developers\nPrerequisites: Basic knowledge of Java development and experience using the Eclipse IDE. ",
+			"keywords": "Sirius, Graphical Modeling",
+			"address": {
+				"street": "7 Boulevard Ampère",
+				"zip": "44470",
+				"city": "Carquefou",
+				"country": "France",
+				"geoLoc": {
+					"lat": "47.305023",
+					"lon": "-1.506480"
 				}
-			},
-	{
-				"type": "et",
-				"title": "Eclipse Sirius Training",
-				"date": "Nov 7 2016 09:00 GMT+0100",
-				"end-date": "Nov 7 2016 18:00 GMT+0100",
-				"company": "Obeo",
-				"locationName": "Paris",
-				"registration": "https://www.obeo.fr/fr/contact",
-				"infoLink": "https://www.obeo.fr/en/services/training",
-				"description": "Learn how to create a simple modeling environment with Sirius and the methodological and technical bases for building a complete modeling workbench. \nThe course is designed by the creators of the Sirius Project and other Eclipse committers.\nMany hands-on exercises (50%) \nAudience: Architects, developers\nPrerequisites: Basic knowledge of Java development and experience using the Eclipse IDE. ",
-				"keywords": "Sirius, Graphical Modeling",
-				"address": {
-					"street": "2 Route de la Noue",
-					"zip": "91190",
-					"city": "Gif-sur-Yvette",
-					"country": "France",
-					"geoLoc": {
-						"lat": "48.701930",
-						"lon": "2.101714"
-					}
+			}
+		},
+		{
+			"type": "et",
+			"title": "Eclipse Sirius Training",
+			"date": "Nov 7 2016 09:00 GMT+0100",
+			"end-date": "Nov 7 2016 18:00 GMT+0100",
+			"company": "Obeo",
+			"locationName": "Paris",
+			"registration": "https://www.obeo.fr/fr/contact",
+			"infoLink": "https://www.obeo.fr/en/services/training",
+			"description": "Learn how to create a simple modeling environment with Sirius and the methodological and technical bases for building a complete modeling workbench. \nThe course is designed by the creators of the Sirius Project and other Eclipse committers.\nMany hands-on exercises (50%) \nAudience: Architects, developers\nPrerequisites: Basic knowledge of Java development and experience using the Eclipse IDE. ",
+			"keywords": "Sirius, Graphical Modeling",
+			"address": {
+				"street": "2 Route de la Noue",
+				"zip": "91190",
+				"city": "Gif-sur-Yvette",
+				"country": "France",
+				"geoLoc": {
+					"lat": "48.701930",
+					"lon": "2.101714"
 				}
-			},
-	{
-				"type": "et",
-				"title": "Eclipse Sirius Training",
-				"date": "Oct 11 2016 09:00 GMT+0100",
-				"end-date": "Oct 14 2016 18:00 GMT+0100",
-				"company": "Obeo",
-				"locationName": "Toulouse",
-				"registration": "https://www.obeo.fr/fr/contact",
-				"infoLink": "https://www.obeo.fr/en/services/training",
-				"description": "Learn how to create a simple modeling environment with Sirius and the methodological and technical bases for building a complete modeling workbench. \nThe course is designed by the creators of the Sirius Project and other Eclipse committers.\nMany hands-on exercises (50%) \nAudience: Architects, developers\nPrerequisites: Basic knowledge of Java development and experience using the Eclipse IDE. ",
-				"keywords": "Sirius, Graphical Modeling",
-				"address": {
-					"street": "25 Boulevard Victor Hugo",
-					"zip": "31770",
-					"city": "Colomiers",
-					"country": "France",
-					"geoLoc": {
-						"lat": "43.614936",
-						"lon": "1.307507"
-					}
+			}
+		},
+		{
+			"type": "et",
+			"title": "Eclipse Sirius Training",
+			"date": "Oct 11 2016 09:00 GMT+0100",
+			"end-date": "Oct 14 2016 18:00 GMT+0100",
+			"company": "Obeo",
+			"locationName": "Toulouse",
+			"registration": "https://www.obeo.fr/fr/contact",
+			"infoLink": "https://www.obeo.fr/en/services/training",
+			"description": "Learn how to create a simple modeling environment with Sirius and the methodological and technical bases for building a complete modeling workbench. \nThe course is designed by the creators of the Sirius Project and other Eclipse committers.\nMany hands-on exercises (50%) \nAudience: Architects, developers\nPrerequisites: Basic knowledge of Java development and experience using the Eclipse IDE. ",
+			"keywords": "Sirius, Graphical Modeling",
+			"address": {
+				"street": "25 Boulevard Victor Hugo",
+				"zip": "31770",
+				"city": "Colomiers",
+				"country": "France",
+				"geoLoc": {
+					"lat": "43.614936",
+					"lon": "1.307507"
 				}
-			},
+			}
+		},
 		{
 			"type": "ee",
 			"title": "JavaOne",
