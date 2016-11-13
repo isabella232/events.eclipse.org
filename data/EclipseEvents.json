@@ -2,6 +2,44 @@
 	"events": [
 		{
 			"type": "dc",
+			"title": "DemoCamp Munich",
+			"date": "Dec 5 2016 17:30 GMT-0100 (EST)",
+			"locationName": "EclipseSource Munich",
+			"registration": "https://www.eventbrite.de/e/eclipse-democamp-december-2016-tickets-28833687335",
+			"infoLink": "https://www.eventbrite.de/e/eclipse-democamp-december-2016-tickets-28833687335",
+			"description": "DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+			"address": {
+				"street": "Agnes-Pockels-Bogen 1 ",
+				"zip": "80992",
+				"city": "München",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "48.173812",
+					"lon": "11.532224"
+				}
+			}
+		},
+		{
+			"type": "dc",
+			"title": "DemoCamp Berlin",
+			"date": "Dec 5 2016 18:00 GMT-0100 (EST)",
+			"locationName": "ThoughtWorks Deutschland GmbH",
+			"registration": "https://www.eventbrite.de/e/eclipse-democamp-december-2016-tickets-28833687335",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_December_2016_Berlin",
+			"description": "DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+			"address": {
+				"street": "Mühlhauser Straße 6, Hofgebäude 1. OG",
+				"zip": "10405",
+				"city": "Berlin",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "52.53281",
+					"lon": "13.41964"
+				}
+			}
+		},
+		{
+			"type": "dc",
 			"title": "DemoCamp Darmstadt",
 			"date": "Nov 30 2016 17:00 GMT-0100 (EST)",
 			"locationName": "Dt. Telekom",
