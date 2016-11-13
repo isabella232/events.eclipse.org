@@ -2,8 +2,27 @@
 	"events": [
 		{
 			"type": "dc",
+			"title": "London Eclipse User Group",
+			"date": "Nov 24 2016 18:00 GMT-0000 (GMT)",
+			"locationName": "Geovation Hub",
+			"registration": "https://www.meetup.com/de-DE/London-Eclipse-User-Group/events/234751153/?eventId=234751153",
+			"infoLink": "https://www.meetup.com/de-DE/London-Eclipse-User-Group/events/234751153/?eventId=234751153",
+			"description": "Open Data, Open Tools: Transforming IoT, LocationTech and Science",
+			"address": {
+				"street": "1 Sekforde Street, Clerkenwell Green",
+				"zip": "80992",
+				"city": "EC1R 0BE",
+				"country": "Great Britain",
+				"geoLoc": {
+					"lat": "51.523645",
+					"lon": "-0.104717"
+				}
+			}
+		},
+		{
+			"type": "dc",
 			"title": "DemoCamp Munich",
-			"date": "Dec 5 2016 17:30 GMT-0100 (EST)",
+			"date": "Dec 5 2016 17:30 GMT-0100 (CET)",
 			"locationName": "EclipseSource Munich",
 			"registration": "https://www.eventbrite.de/e/eclipse-democamp-december-2016-tickets-28833687335",
 			"infoLink": "https://www.eventbrite.de/e/eclipse-democamp-december-2016-tickets-28833687335",
@@ -22,7 +41,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Berlin",
-			"date": "Dec 5 2016 18:00 GMT-0100 (EST)",
+			"date": "Dec 5 2016 18:00 GMT-0100 (CET)",
 			"locationName": "ThoughtWorks Deutschland GmbH",
 			"registration": "https://www.eventbrite.de/e/eclipse-democamp-december-2016-tickets-28833687335",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_December_2016_Berlin",
@@ -41,7 +60,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Darmstadt",
-			"date": "Nov 30 2016 17:00 GMT-0100 (EST)",
+			"date": "Nov 30 2016 17:00 GMT-0100 (CET)",
 			"locationName": "Dt. Telekom",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Darmstadt",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Darmstadt",
@@ -60,7 +79,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Hamburg",
-			"date": "Nov 28 2016 18:00 GMT-0100 (EST)",
+			"date": "Nov 28 2016 18:00 GMT-0100 (CET)",
 			"locationName": "Google Office",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamp_November_2016/Hamburg",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_November_2016/Hamburg",
@@ -98,7 +117,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Graz",
-			"date": "Nov 17 2016 16:00 GMT+0100 (EST)",
+			"date": "Nov 17 2016 16:00 GMT+0100 (CET)",
 			"locationName": "Salomon Automation GmbH (SSI Schaefer)",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Graz",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_Neon_2016/Graz",
@@ -117,7 +136,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Bonn",
-			"date": "Nov 14 2016 18:15 GMT-0100 (EST)",
+			"date": "Nov 14 2016 18:15 GMT-0100 (CET)",
 			"locationName": "Collegium Leoninum Bonn",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamp_November_2016/Bonn",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_November_2016/Bonn",
