@@ -1,6 +1,26 @@
 {
 	"events": [
 		{
+			"type": "ee",
+			"title": "Eclipse Summit India 2017",
+			"date": "Jul 27 2017 09:00 GMT+0100 (CET)",
+			"end-date": "Jul 29 2017 18:00 GMT+0100 (CET)",
+			"locationName": " Chancery Pavilion Hotel- Bangalore",
+			"registration": "http://eclipsesummit.in/#register",
+			"infoLink": "http://eclipsesummit.in",
+			"description": "Eclipse Summit India 2017 is the 2nd annual conference presented by the local Eclipse Community in collaboration with The Eclipse Foundation. It is designed by the community, for the community.",
+			"address": {
+				"street": "135, Residency Road, Shanthala Nagar, Ashok Nagar",
+				"zip": "560025",
+				"city": "Bengaluru",
+				"country": "India",
+				"geoLoc": {
+					"lat": "12.967915",
+					"lon": "77.600234"
+				}
+			}
+		},
+		{
 			"type": "dc",
 			"title": "London Eclipse User Group",
 			"date": "Nov 24 2016 18:00 GMT-0000 (GMT)",
