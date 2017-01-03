@@ -1,6 +1,26 @@
 {
 	"events": [
 		{
+			"type": "ed",
+			"title": "Eclipse IoT Day",
+			"date": "Mar 20, 2017 09:00 GMT+0800 (PT)",
+			"end-date": "Mar 20, 2017 17:00 GMT+0800 (PT)",
+			"locationName": " San Jose Convention Center",
+			"registration": "https://www.regonline.com/Register/Checkin.aspx?EventID=1845425&utm_content=buffer374a8&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer",
+			"infoLink": "https://eclipse.org",
+			"description": "The Eclipse IoT Day is all about open source and open standards for building IoT solutions. Attendees will learn about the software needed to build devices, gateways, and IoT cloud platforms.",
+			"address": {
+				"street": "150 W San Carlos Str.",
+				"zip": "CA 95113",
+				"city": "San Jose",
+				"country": "USA",
+				"geoLoc": {
+					"lat": "37.329720",
+					"lon": "-121.889630"
+				}
+			}
+		},
+		{
 			"type": "ee",
 			"title": "Eclipse Summit India 2017",
 			"date": "Jul 27 2017 09:00 GMT+0100 (CET)",
