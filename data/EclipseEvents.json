@@ -1,6 +1,46 @@
 {
 	"events": [
 		{
+			"type": "ec",
+			"title": "EclipseCon Europe 2017",
+			"date": "Oct 24 2017 09:00 GMT+0100",
+			"end-date": "Oct 26 2017 17:00 GMT+0100",
+			"locationName": "Forum Am Schlosspark Ludwigsburg",
+			"registration": "#",
+			"infoLink": "#",
+			"description": "EclipseCon Europe is designed to create opportunities for the Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse and its member companies. ",
+			"address": {
+				"street": "Stuttgarter Straße 33",
+				"zip": "71638",
+				"city": "Ludwigsburg",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "48.89228",
+					"lon": "9.1948577"
+				}
+			}
+		},
+		{
+			"type": "ed",
+			"title": "Eclipse Day Grenoble 2017",
+			"date": "Mar 9 2017 8:30 GMT+0100 (CET)",
+			"end-date": "Mar 10 2017 17:30 GMT+0100 (CET)",
+			"locationName": "IMAG Building, Domaine Universitaire, 38400 Saint Martin d'Hères",
+			"registration": "http://www.leclustr.org/inscription-a-eclipse-iot-days-des-9-et-10-mars-2017",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_IoT_Day_Grenoble_2017",
+			"description": "After the success of the IoT Day 2014 and IoT Day 2015, we are back for a third edition! This year, we will have a two-day event, with a combination of talks and tutorials. ",
+			"address": {
+				"street": " 700 avenue Centrale",
+				"zip": "38400",
+				"city": "St-Martin-d'Hères",
+				"country": "France",
+				"geoLoc": {
+					"lat": "45.19034",
+					"lon": "5.76707"
+				}
+			}
+		},
+		{
 			"type": "ed",
 			"title": "Eclipse IoT Day | San Jose 2017",
 			"date": "Mar 20, 2017 09:00 GMT+0800 (PT)",
