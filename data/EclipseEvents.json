@@ -1,6 +1,25 @@
 {
 	"events": [
 		{
+			"type": "ee",
+			"title": "Container World 2017",
+			"date": "Feb 21 2017 16:00 GMT-0000 (GMT)",
+			"locationName": "Santa Clara Convention Center",
+			"registration": "https://tmt.knect365.com/container-world/purchase/select-package",
+			"infoLink": "https://tmt.knect365.com/container-world/",
+			"description": "Container World is the first event to clarify the business impact of the container revolution within enterprise IT, while exploring the advantages and challenges brought by this transformative technology.",
+			"address": {
+				"street": " 5001 Great America Pkwy",
+				"zip": "95054",
+				"city": "Santa Clara",
+				"country": "USA",
+				"geoLoc": {
+					"lat": " 37.354107",
+					"lon": "-121.955238"
+				}
+			}
+		},
+		{
 			"type": "ec",
 			"title": "EclipseCon Europe 2017",
 			"date": "Oct 24 2017 09:00 GMT+0100",
