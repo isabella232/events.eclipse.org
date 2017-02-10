@@ -1,6 +1,26 @@
 {
 	"events": [
 		{
+			"type": "dc",
+			"title": "DemoCamp Toulouse",
+			"date": "Mar 2 2017 18:00 GMT-0100",
+			"end-date": "",
+			"locationName": "TBD",
+			"registration": "https://www.meetup.com/fr-FR/Toulouse-Java-User-Group/events/237526425/?eventId=237526425/",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Toulouse",
+			"description": "",
+			"address": {
+				"street": "",
+				"zip": "0",
+				"city": "",
+				"country": "",
+				"geoLoc": {
+					"lat": "43.611",
+					"lon": "1.43"
+				}
+			}
+		},
+		{
 			"type": "ee",
 			"title": "Container World 2017",
 			"date": "Feb 21 2017 16:00 GMT-0000 (GMT)",
