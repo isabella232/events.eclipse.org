@@ -5,18 +5,18 @@
 			"title": "DemoCamp Toulouse",
 			"date": "Mar 2 2017 18:00 GMT-0100",
 			"end-date": "",
-			"locationName": "TBD",
+			"locationName": "Epitech, 4e étage",
 			"registration": "https://www.meetup.com/fr-FR/Toulouse-Java-User-Group/events/237526425/?eventId=237526425/",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Toulouse",
 			"description": "",
 			"address": {
-				"street": "",
-				"zip": "0",
-				"city": "",
-				"country": "",
+				"street": "40 Boulevard de la Marquette",
+				"zip": "",
+				"city": "Toulouse",
+				"country": "31000",
 				"geoLoc": {
-					"lat": "43.611",
-					"lon": "1.43"
+					"lat": "43.6124390",
+					"lon": "1.4291080"
 				}
 			}
 		},
