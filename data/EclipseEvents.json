@@ -2,6 +2,26 @@
 	"events": [
 		{
 			"type": "dc",
+			"title": "DemoCamp Nantes",
+			"date": "Mar 28 2017 18:00 GMT-0100",
+			"end-date": "",
+			"locationName": "Sartup Palace",
+			"registration": "https://docs.google.com/forms/d/e/1FAIpQLScyg2H1TTc7dqMLx5KPvsshp0JICHpFMjL5uyMTenWonahNPg/viewform",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Nantes",
+			"description": "Celebrating the Eclipse Oxygen release! Let's get together and enjoy an interesting evening.",
+			"address": {
+				"street": "18 rue Scribe",
+				"zip": "44000",
+				"city": "Toulouse",
+				"country": "France",
+				"geoLoc": {
+					"lat": "47.2140864",
+					"lon": "-1.562091099999975"
+				}
+			}
+		},
+		{
+			"type": "dc",
 			"title": "DemoCamp Toulouse",
 			"date": "Mar 2 2017 18:00 GMT-0100",
 			"end-date": "",
@@ -11,9 +31,9 @@
 			"description": "",
 			"address": {
 				"street": "40 Boulevard de la Marquette",
-				"zip": "",
+				"zip": "31000",
 				"city": "Toulouse",
-				"country": "31000",
+				"country": "France",
 				"geoLoc": {
 					"lat": "43.6124390",
 					"lon": "1.4291080"
