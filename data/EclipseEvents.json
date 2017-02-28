@@ -1,6 +1,44 @@
 {
 	"events": [
 		{
+			"type": "ee",
+			"title": "Internet of Manufacturing",
+			"date": "Mar 07 2017 09:00 GMT+0600 (CST)",
+			"locationName": "Hyatt Magnificent Mile",
+			"registration": "https://internetofbusiness.com/events/internet-of-manufacturing-usa/register/",
+			"infoLink": "https://internetofbusiness.com/events/internet-of-manufacturing-usa/",
+			"description": "Learn more about how the IoT fits in the manufacturing industry.",
+			"address": {
+				"street": "633 N St Clair St",
+				"zip": "60611",
+				"city": "Chicago",
+				"country": "United States",
+				"geoLoc": {
+					"lat": "41.881832",
+					"lon": "-87.623177"
+				}
+			}
+		},
+		{
+			"type": "ee",
+			"title": "IoT World 2017",
+			"date": "May 16 2017 08:45 GMT+0900 (PDT)",
+			"locationName": "Santa Clara Convention Center",
+			"registration": "https://tmt.knect365.com/iot-world/purchase/select-package",
+			"infoLink": "https://tmt.knect365.com/iot-world/",
+			"description": "Internet of Things World returns to the Santa Clara Convention Center in the heart of Silicon Valley, for 3 days of learning, discovery, partying and networking. With over 11,000 attendees expected through the doors, 400+ global thought leading speakers and 250+ sponsors and exhibitors, Internet of Things World is THE largest IoT event in the marketplace, with the largest span of IoT vertical and horizontal themes being covered.",
+			"address": {
+				"street": "5001 Great America Pkwy",
+				"zip": "95054",
+				"city": "Santa Clara",
+				"country": "United States",
+				"geoLoc": {
+					"lat": "37.354107",
+					"lon": "-121.955238"
+				}
+			}
+		},
+		{
 			"type": "dc",
 			"title": "DemoCamp Nantes",
 			"date": "Mar 28 2017 18:00 GMT-0100",
