@@ -43,14 +43,14 @@
 			"title": "DemoCamp Nantes",
 			"date": "Mar 28 2017 18:00 GMT-0100",
 			"end-date": "",
-			"locationName": "Sartup Palace",
-			"registration": "https://docs.google.com/forms/d/e/1FAIpQLScyg2H1TTc7dqMLx5KPvsshp0JICHpFMjL5uyMTenWonahNPg/viewform",
+			"locationName": "Startup Palace",
+			"registration": " https://www.meetup.com/fr-FR/Communaute-Eclipse-Nantes/events/238024071/",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Nantes",
-			"description": "Celebrating the Eclipse Oxygen release! Let's get together and enjoy an interesting evening.",
+			"description": "The Eclipse community meets in Nantes.",
 			"address": {
 				"street": "18 rue Scribe",
 				"zip": "44000",
-				"city": "Toulouse",
+				"city": "Nantes",
 				"country": "France",
 				"geoLoc": {
 					"lat": "47.2140864",
