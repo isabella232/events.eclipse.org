@@ -1,6 +1,25 @@
 {
 	"events": [
 		{
+			"type": "ed",
+			"title": "Hamburg Hackathon",
+			"date": "Mar 10 2017 17:30 GMT+0500 (EST)",
+			"locationName": "Subshell GmbH (5th floor, left of elevator)",
+			"registration": "https://wiki.eclipse.org/Hackathon_Hamburg_2017_Mar",
+			"infoLink": "https://wiki.eclipse.org/Hackathon_Hamburg_2017_Mar",
+			"description": "In this event you can meet with other interested developers to improve Eclipse projects. We expect you to know how to develop in Java. No previous Eclipse development knowledge is required but of course it is helpful if you know already about Eclipse development.",
+			"address": {
+				"street": "Hongkongstraße 5",
+				"zip": "20457",
+				"city": "Hamburg",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "53.5426171",
+					"lon": "10.001686000000063"
+				}
+			}
+		},
+		{
 			"type": "ee",
 			"title": "Internet of Manufacturing",
 			"date": "Mar 07 2017 09:00 GMT+0600 (CST)",
