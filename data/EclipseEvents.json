@@ -1,6 +1,25 @@
 {
 	"events": [
 		{
+			"type": "dc",
+			"title": "DemoCamp Munich",
+			"date": "Jun 28 2017 18:00 GMT+0500 (EST)",
+			"locationName": "Capgemini",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Munich#Registration",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Munich",
+			"description": "Engage in the Eclipse community this Summer at the Oxygene DemoCamp in Munich. If you are interested in Eclipse Topics, this is the event to attend in the larger Munich area.During the break and after the talks enjoy the free beer, food and the opportunity to meet the available speakers and project leads.",
+			"address": {
+				"street": "Olof-Palme-Straße 14",
+				"zip": "81829",
+				"city": "Munich",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "48.1359395",
+					"lon": "11.689463"
+				}
+			}
+		},
+		{
 			"type": "ed",
 			"title": "Hamburg Hackathon",
 			"date": "Mar 10 2017 17:30 GMT+0500 (EST)",
