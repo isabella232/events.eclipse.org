@@ -1,6 +1,45 @@
 {
 	"events": [
 		{
+			"type": "ee",
+			"title": "Devoxx France",
+			"date": "Apr 5 2017 09:00 GMT+0100 (CET)",
+			"end-date": "Apr 7 2017 18:00 GMT+0100 (CET)",
+			"locationName": "Palais des Congrès de Paris",
+			"registration": "http://www.devoxx.fr",
+			"infoLink": "http://www.devoxx.fr",
+			"description": "",
+			"address": {
+				"street": "2 Place de la Porte Maillot",
+				"zip": "75017",
+				"city": "Paris",
+				"country": "France",
+				"geoLoc": {
+					"lat": "48.879485",
+					"lon": "2.283458"
+				}
+			}
+		},
+		{
+			"type": "ed",
+			"title": "Eclipse Toolmaker's Day",
+			"date": "April 26 2017 09:30 GMT+01:00 (CET)",
+			"locationName": "Ericsson Science Park",
+			"registration": "https://craft-conf.com/",
+			"infoLink": "https://craft-conf.com/workshops#eclipsetoolmakers-day-2017",
+			"description": "Eclipse/Toolmakers’ Day is an event created for the tool developer community as part of the annual Budapest Craft Conference",
+			"address": {
+				"street": "4-20 Irinyi József street",
+				"zip": "1117",
+				"city": "Budapest",
+				"country": "Hungary",
+				"geoLoc": {
+					"lat": "47.475607",
+					"lon": "19.057674"
+				}
+			}
+		},
+		{
 			"type": "dc",
 			"title": "DemoCamp Munich",
 			"date": "Jun 28 2017 18:00 GMT+0500 (EST)",
