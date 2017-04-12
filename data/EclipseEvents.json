@@ -42,7 +42,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Munich",
-			"date": "Jun 28 2017 18:00 GMT+0500 (EST)",
+			"date": "Jun 28 2017 18:00 GMT+01:00 (CET)",
 			"locationName": "Capgemini",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Munich#Registration",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Munich",
@@ -61,7 +61,7 @@
 		{
 			"type": "ed",
 			"title": "Hamburg Hackathon",
-			"date": "Mar 10 2017 17:30 GMT+0500 (EST)",
+			"date": "Mar 10 2017 17:30 GMT-01:00 (CET)",
 			"locationName": "Subshell GmbH (5th floor, left of elevator)",
 			"registration": "https://wiki.eclipse.org/Hackathon_Hamburg_2017_Mar",
 			"infoLink": "https://wiki.eclipse.org/Hackathon_Hamburg_2017_Mar",
