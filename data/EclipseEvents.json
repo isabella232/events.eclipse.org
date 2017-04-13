@@ -1,6 +1,103 @@
 {
 	"events": [
 		{
+			"type": "dc",
+			"title": "DemoCamp Shenzhen",
+			"date": "Jun 29 2017 18:00 GMT-0800 (CST)",
+			"locationName": "TBD",
+			"registration": "https://yoopay.cn/event/30691251",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Shenzhen",
+			"description": "DemoCamps or Hackathons around the world to celebrate the Eclipse Oxygen release.",
+			"address": {
+				"street": "",
+				"zip": "",
+				"city": "Shenzhen",
+				"country": "China",
+				"geoLoc": {
+					"lat": "22.543096",
+					"lon": "114.057865"
+				}
+			}
+		},
+		{
+			"type": "dc",
+			"title": "DemoCamp Braunschweig",
+			"date": "August 8 2017 18:00 GMT-0100 (CET)",
+			"locationName": "Bredex Office Braunschweig",
+			"registration": "",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017",
+			"description": "DemoCamps or Hackathons around the world to celebrate the Eclipse Oxygen release.",
+			"address": {
+				"street": "Lindentwete 1",
+				"zip": "38100",
+				"city": "Braunschweig",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "52.264542",
+					"lon": "10.517914"
+				}
+			}
+		},
+		{
+			"type": "dc",
+			"title": "DemoCamp Zurich",
+			"date": "May 29 2017 18:00 GMT-0100 (CET)",
+			"locationName": "Swiss Federal Institute of Technology",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Zurich",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Zurich",
+			"description": "Engage in the Eclipse and Java community this Summer at the Oxygen DemoCamp in Zurich. If you are interested in Eclipse, Eclipse and Open Source, this is the event to attend in Switzerland.",
+			"address": {
+				"street": "Rämistrasse 101",
+				"zip": "8092",
+				"city": "Zürich",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "47.376536",
+					"lon": "8.548093"
+				}
+			}
+		},
+		{
+			"type": "dc",
+			"title": "DemoCamp Paderborn",
+			"date": "Jun 27 2017 18:15 GMT-0100",
+			"end-date": "",
+			"locationName": "TBD",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Paderborn",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Paderborn",
+			"description": "Eclipse Oxygen Demo Camp in Paderborn. Great to have one in Paderborn as well!",
+			"address": {
+				"street": "",
+				"zip": "",
+				"city": "Paderborn",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "51.7189205",
+					"lon": "8.757509300000038"
+				}
+			}
+		},
+		{
+			"type": "dc",
+			"title": "DemoCamp Hamburg",
+			"date": "Jun 19 2017 18:00 GMT-0100",
+			"end-date": "",
+			"locationName": "Google Office",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Hamburg",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Hamburg",
+			"description": "Eclipse Oxygen Demo Camp at Google in Hamburg. Big Numbers!",
+			"address": {
+				"street": "ABC-Straße 19",
+				"zip": "20354",
+				"city": "Hamburg",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "53.55375999999999",
+					"lon": "9.986107599999968"
+				}
+			}
+		},
+		{
 			"type": "ee",
 			"title": "Devoxx France",
 			"date": "Apr 5 2017 09:00 GMT+0100 (CET)",
