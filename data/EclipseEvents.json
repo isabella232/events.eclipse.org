@@ -25,7 +25,7 @@
 			"date": "August 8 2017 18:00 GMT-0100 (CET)",
 			"locationName": "Bredex Office Braunschweig",
 			"registration": "",
-			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Braunschweig",
 			"description": "DemoCamps or Hackathons around the world to celebrate the Eclipse Oxygen release.",
 			"address": {
 				"street": "Lindentwete 1",
@@ -50,7 +50,7 @@
 				"street": "Rämistrasse 101",
 				"zip": "8092",
 				"city": "Zürich",
-				"country": "Germany",
+				"country": "Switzerland",
 				"geoLoc": {
 					"lat": "47.376536",
 					"lon": "8.548093"
@@ -62,18 +62,18 @@
 			"title": "DemoCamp Paderborn",
 			"date": "Jun 27 2017 18:15 GMT-0100",
 			"end-date": "",
-			"locationName": "TBD",
+			"locationName": "Biohaus Bauwerker",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Paderborn",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Paderborn",
 			"description": "Eclipse Oxygen Demo Camp in Paderborn. Great to have one in Paderborn as well!",
 			"address": {
-				"street": "",
+				"street": "Driburger Straße 24",
 				"zip": "",
 				"city": "Paderborn",
 				"country": "Germany",
 				"geoLoc": {
-					"lat": "51.7189205",
-					"lon": "8.757509300000038"
+					"lat": "51.7182500",
+					"lon": "8.7701240"
 				}
 			}
 		},
