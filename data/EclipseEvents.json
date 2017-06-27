@@ -2,6 +2,25 @@
 	"events": [
 		{
 			"type": "dc",
+			"title": "DemoCamp Bonn",
+			"date": "July 31, 2017 18:15 GMT-0100 (CET)",
+			"locationName": "itemis Office Bonn",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Bonn",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Bonn",
+			"description": "DemoCamps or Hackathons around the world to celebrate the Eclipse Oxygen release.",
+			"address": {
+				"street": "Poppelsdorfer Allee 114",
+				"zip": "53115",
+				"city": "Bonn",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "50.726696",
+					"lon": "7.093060"
+				}
+			}
+		},
+		{
+			"type": "dc",
 			"title": "DemoCamp Shenzhen",
 			"date": "Jun 29 2017 18:00 GMT-0800 (CST)",
 			"locationName": "TBD",
