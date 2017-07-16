@@ -3,7 +3,7 @@
 		{
 			"type": "ee",
 			"title": "Eclipse IoT Day @ EclipseCon Europe",
-			"date": "Oct 24 2017 09:00 GMT-0100 (CEST)",
+			"date": "Oct 24 2017 09:00 GMT+0100 (CET)",
 			"locationName": "Forum Am Schlosspark",
 			"registration": "https://www.eclipsecon.org/europe2017/iot",
 			"infoLink": "https://www.eclipsecon.org/europe2017/iot",
@@ -22,7 +22,7 @@
 		{
 			"type": "ee",
 			"title": "Eclipse IoT Day @ ThingMonk 2017",
-			"date": "Sep 11 2017 10:00 GMT+0100 (BST)",
+			"date": "Sep 11 2017 10:00 GMT+0000 (BST)",
 			"locationName": "Protein Studios, entry via Cream",
 			"registration": "https://www.eventbrite.co.uk/e/thingmonk-2017-tickets-31876851521",
 			"infoLink": "http://thingmonk.com/",
@@ -41,7 +41,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Bonn",
-			"date": "July 31, 2017 18:15 GMT-0100 (CET)",
+			"date": "July 31, 2017 18:15 GMT+0100 (CET)",
 			"locationName": "itemis Office Bonn",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Bonn",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Bonn",
@@ -60,7 +60,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Shenzhen",
-			"date": "Jun 29 2017 18:00 GMT-0800 (CST)",
+			"date": "Jun 29 2017 18:00 GMT+0800 (CST)",
 			"locationName": "TBD",
 			"registration": "https://yoopay.cn/event/30691251",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Shenzhen",
@@ -79,7 +79,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Braunschweig",
-			"date": "August 8 2017 18:00 GMT-0100 (CET)",
+			"date": "August 8 2017 18:00 GMT+0100 (CET)",
 			"locationName": "Bredex Office Braunschweig",
 			"registration": "",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Braunschweig",
@@ -98,7 +98,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Zurich",
-			"date": "May 29 2017 18:00 GMT-0100 (CET)",
+			"date": "May 29 2017 18:00 GMT+0100 (CET)",
 			"locationName": "Swiss Federal Institute of Technology",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Zurich",
 			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Zurich",
@@ -117,7 +117,7 @@
 		{
 			"type": "dc",
 			"title": "DemoCamp Paderborn",
-			"date": "Jun 27 2017 18:15 GMT-0100",
+			"date": "Jun 27 2017 18:15 GMT+0100",
 			"end-date": "",
 			"locationName": "Biohaus Bauwerker",
 			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017/Paderborn",
