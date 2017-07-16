@@ -1,6 +1,44 @@
 {
 	"events": [
 		{
+			"type": "ee",
+			"title": "Eclipse IoT Day @ EclipseCon Europe",
+			"date": "Oct 24 2017 09:00 GMT-0100 (CEST)",
+			"locationName": "Forum Am Schlosspark",
+			"registration": "https://www.eclipsecon.org/europe2017/iot",
+			"infoLink": "https://www.eclipsecon.org/europe2017/iot",
+			"description": "The Eclipse IoT Day, taking place October 24, 2017, is all about open source and open standards for building IoT solutions. Attendees will learn about the software needed to build devices, gateways, and IoT cloud platforms. The 1-day event is organized by the Eclipse IoT Working Group and will cover a wide range of IoT topics.",
+			"address": {
+				"street": "Stuttgarter Str. 33",
+				"zip": "71638",
+				"city": " Ludwigsburg",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "48.892332",
+					"lon": "9.192477"
+				}
+			}
+		},
+		{
+			"type": "ee",
+			"title": "Eclipse IoT Day @ ThingMonk 2017",
+			"date": "Sep 11 2017 10:00 GMT+0100 (BST)",
+			"locationName": "Protein Studios, entry via Cream",
+			"registration": "https://www.eventbrite.co.uk/e/thingmonk-2017-tickets-31876851521",
+			"infoLink": "http://thingmonk.com/",
+			"description": "The Eclipse IoT Day @ThingMonk, taking place Sept 11, is all about open source and open standards for building IoT solutions. Attendees will learn about the software needed to build devices, gateways, and IoT cloud platforms.",
+			"address": {
+				"street": "31 New Inn Yard",
+				"zip": "EC2A 3EY",
+				"city": " London",
+				"country": "UK",
+				"geoLoc": {
+					"lat": "51.524678",
+					"lon": "-0.078243"
+				}
+			}
+		},
+		{
 			"type": "dc",
 			"title": "DemoCamp Bonn",
 			"date": "July 31, 2017 18:15 GMT-0100 (CET)",
