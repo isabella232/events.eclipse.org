@@ -1,7 +1,26 @@
 {
 	"events": [
 		{
-			"type": "ee",
+			"type": "ed",
+			"title": "Eclipse Day Milano",
+			"date": "Sep 22 2017 09:00 GMT+0100 (CET)",
+			"locationName": "Department of Computer Science, University of Milan",
+			"registration": "https://eclipsedaymilano.com/event-registration",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_Day_Milano_2017",
+			"description": "EclipseDay Milano is a primary Eclipse event in Italy for developers and decision makers interested in the growth of the Eclipse ecosystem.",
+			"address": {
+				"street": "Via Comelico 39/41",
+				"zip": ", 20135",
+				"city": " Milano",
+				"country": "Italy",
+				"geoLoc": {
+					"lat": "45.454452",
+					"lon": "9.214965"
+				}
+			}
+		},
+		{
+			"type": "ed",
 			"title": "Eclipse IoT Day @ EclipseCon Europe",
 			"date": "Oct 24 2017 09:00 GMT+0100 (CET)",
 			"locationName": "Forum Am Schlosspark",
@@ -20,7 +39,7 @@
 			}
 		},
 		{
-			"type": "ee",
+			"type": "ed",
 			"title": "Eclipse IoT Day @ ThingMonk 2017",
 			"date": "Sep 11 2017 10:00 GMT+0000 (BST)",
 			"locationName": "Protein Studios, entry via Cream",
