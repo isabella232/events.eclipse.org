@@ -1,6 +1,26 @@
 {
 	"events": [
 		{
+			"type": "ee",
+			"title": "SiriusCon 2017",
+			"date": "Nov 09 2017 09:00 GMT+0100 (CET)",
+			"end-date": "Nov 09 2017 18:00 GMT+0100 (CET)",
+			"locationName": "Hôtel Vaugirard Montparnasse",
+			"registration": " http://www.siriuscon.org/",
+			"infoLink": " http://www.siriuscon.org/",
+			"description": "Eclipse Sirius is a powerful technology for graphical modeling. During this one-day free event, organized by Obeo with the help of the Eclipse Foundation, attendees benefit from the expertise of the developer team behind this innovative technology.",
+			"address": {
+				"street": "257 Rue de Vaugirard",
+				"zip": "75015",
+				"city": "Paris",
+				"country": "France",
+				"geoLoc": {
+					"lat": "48.839902",
+					"lon": "2.303101"
+				}
+			}
+		},
+		{
 			"type": "ed",
 			"title": "Eclipse Day Milano",
 			"date": "Sep 22 2017 09:00 GMT+0100 (CET)",
