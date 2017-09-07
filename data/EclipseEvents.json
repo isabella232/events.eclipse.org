@@ -2,6 +2,26 @@
 	"events": [
 		{
 			"type": "ee",
+			"title": "JCon 2017",
+			"date": "October 24 2017 GMT+0100 (CET)",
+			"end-date": "October 26 2017 18:00 GMT+0100 (CET)",
+			"locationName": "UFA-Palast",
+			"registration": " http://jcon.one/de/",
+			"infoLink": "http://jcon.one/de/",
+			"description": "Die große Java Community Konferenz",
+			"address": {
+				"street": "Worringer Str. 142",
+				"zip": "40201",
+				"city": "Düsseldorf",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "51.221463",
+					"lon": "6.794551"
+				}
+			}
+		},
+		{
+			"type": "ee",
 			"title": "SiriusCon 2017",
 			"date": "Nov 09 2017 09:00 GMT+0100 (CET)",
 			"end-date": "Nov 09 2017 18:00 GMT+0100 (CET)",
