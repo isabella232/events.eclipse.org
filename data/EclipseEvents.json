@@ -1,6 +1,83 @@
 {
 	"events": [
 		{
+			"type": "dc",
+			"title": "DemoCamp Bonn",
+			"date": "Nov 20, 2017 18:15 GMT+0100 (CET)",
+			"locationName": "itemis Office Bonn",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017_November/Bonn",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_Oxygen_2017_November/Bonn",
+			"description": "Eclipse Demo Camp Series Fall 2017. Enjoy!",
+			"address": {
+				"street": "Poppelsdorfer Allee 114",
+				"zip": "53115",
+				"city": "Bonn",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "50.726696",
+					"lon": "7.093060"
+				}
+			}
+		},
+		{
+			"type": "dc",
+			"title": "DemoCamp Munich",
+			"date": "Dec 4 2017 17:30 GMT-0100 (CET)",
+			"locationName": "EclipseSource Munich",
+			"registration": "https://www.eventbrite.de/e/eclipse-democamp-december-2017-tickets-38379630508",
+			"infoLink": "https://www.eventbrite.de/e/eclipse-democamp-december-2017-tickets-38379630508",
+			"description": "One of the best Eclipse demo camps in the world!",
+			"address": {
+				"street": "Agnes-Pockels-Bogen 1 ",
+				"zip": "80992",
+				"city": "München",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "48.173812",
+					"lon": "11.532224"
+				}
+			}
+		},
+		{
+			"type": "ec",
+			"title": "EclipseCon France 2018",
+			"date": "Jun 13 2018 09:00 GMT+0100",
+			"end-date": "Jun 14 2018 17:00 GMT+0100",
+			"locationName": "Centre de Congres Pierre Baudis",
+			"registration": "https://www.eclipsecon.org/france2017",
+			"infoLink": "https://www.eclipsecon.org/france2017",
+			"description": "",
+			"address": {
+				"street": "11 esplanade Complans Caffarelli",
+				"zip": "31680",
+				"city": "Toulouse",
+				"country": "France",
+				"geoLoc": {
+					"lat": "43.611554",
+					"lon": "1.434583"
+				}
+			}
+		},
+		{
+			"type": "ed",
+			"title": "Eclipse Day Lyon",
+			"date": "Nov 28 2017 09:30 GMT+0100 (CET)",
+			"locationName": "Burgundy School of Business",
+			"registration": "http://www.digital-league.org/evenement/eclipse-day-lyon",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_Day_Lyon_2017",
+			"description": "EclipseDay Lyon is a great Eclipse event in France for developers and decision makers interested in the growth of the Eclipse ecosystem.",
+			"address": {
+				"street": "4 rue Paul Montrochet",
+				"zip": ", 69002",
+				"city": " Lyon",
+				"country": "France",
+				"geoLoc": {
+					"lat": "45.740636",
+					"lon": "4.815076"
+				}
+			}
+		},
+		{
 			"type": "ee",
 			"title": "JCon 2017",
 			"date": "October 24 2017 GMT+0100 (CET)",
