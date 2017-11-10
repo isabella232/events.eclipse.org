@@ -2,6 +2,25 @@
 	"events": [
 		{
 			"type": "dc",
+			"title": "DemoCamp Hamburg",
+			"date": "Dec 11 2017 18:45 GMT+0100 (CET)",
+			"locationName": "NORDAKADEMIE",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamp_December_2017/Hamburg",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamp_December_2017/Hamburg",
+			"description": "DemoCamps or Hackathons around the world to celebrate the Eclipse Neon release.",
+			"address": {
+				"street": "Van-der-Smissen-Strasse 9",
+				"zip": "22767",
+				"city": "Hamburg",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "53.54331",
+					"lon": "9.9373"
+				}
+			}
+		},
+		{
+			"type": "dc",
 			"title": "DemoCamp Bonn",
 			"date": "Nov 20, 2017 18:15 GMT+0100 (CET)",
 			"locationName": "itemis Office Bonn",
