@@ -1,6 +1,25 @@
 {
 	"events": [
 		{
+					"type": "ee",
+					"title": "IoT World 2018",
+					"date": "May 14 2018 09:00 GMT+0900 (PDT)",
+					"locationName": "Santa Clara Convention Center",
+					"registration": "https://tmt.knect365.com/iot-world/purchase/select-package",
+					"infoLink": "https://tmt.knect365.com/iot-world/",
+					"description": "Internet of Things World returns to the Santa Clara Convention Center in the heart of Silicon Valley, for 3 days of learning, discovery, partying and networking. With over 11,000 attendees expected through the doors, 400+ global thought leading speakers and 250+ sponsors and exhibitors, Internet of Things World is THE largest IoT event in the marketplace, with the largest span of IoT vertical and horizontal themes being covered.",
+					"address": {
+						"street": "5001 Great America Pkwy",
+						"zip": "95054",
+						"city": "Santa Clara",
+						"country": "United States",
+						"geoLoc": {
+							"lat": "37.354107",
+							"lon": "-121.955238"
+		        }
+		    }
+		},
+		{
 			"type": "dc",
 			"title": "DemoCamp Hamburg",
 			"date": "Dec 11 2017 18:45 GMT+0100 (CET)",
@@ -63,8 +82,8 @@
 			"date": "Jun 13 2018 09:00 GMT+0100",
 			"end-date": "Jun 14 2018 17:00 GMT+0100",
 			"locationName": "Centre de Congres Pierre Baudis",
-			"registration": "https://www.eclipsecon.org/france2017",
-			"infoLink": "https://www.eclipsecon.org/france2017",
+			"registration": "https://www.eclipsecon.org/france2018",
+			"infoLink": "https://www.eclipsecon.org/france2018",
 			"description": "",
 			"address": {
 				"street": "11 esplanade Complans Caffarelli",
