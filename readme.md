@@ -7,7 +7,7 @@ inspired by work from Christoper Guindon, Eclipse Foundation
 
 Published under the EPL
 
-Requirements: Ralph Mueller, Eclipse Foundation
+Requirements: Ralph Mueller, Eclipse Foundation; Roxanne Joncas, Eclipse Foundation
 
 Prereqs:
 
@@ -29,7 +29,7 @@ Uses external libraries:
 
 make your changes and commit <br>
 
-    $ vi data/EclipseEvents.json // or use any other editor
+    $ vi data/EclipseEvents.json // vi or use any other editor
     $ git add .
     $ git commit -m "commit comments"
 
@@ -100,4 +100,9 @@ Therer are two:
 - year
 For example: events.eclipse.org/?eventtype=ed&year=2015
 shows only the events of type ed (Training) in the year 2015
+
+## How you can help
+
+* please report problems that you encounter, as well as improvement proposals via Eclipse Bugzilla
+* add your event information by sending an email to events@eclipse.org
 
