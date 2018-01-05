@@ -1,5 +1,25 @@
 {
 	"events": [
+	{
+		"type": "ee",
+		"title": "Devoxx France",
+		"date": "Apr 18 2018 09:00 GMT+0100 (CET)",
+		"end-date": "Apr 20 2018 18:00 GMT+0100 (CET)",
+		"locationName": "Palais des Congrès de Paris",
+		"registration": "http://www.devoxx.fr",
+		"infoLink": "http://www.devoxx.fr",
+		"description": "",
+		"address": {
+			"street": "2 Place de la Porte Maillot",
+			"zip": "75017",
+			"city": "Paris",
+			"country": "France",
+			"geoLoc": {
+				"lat": "48.879485",
+				"lon": "2.283458"
+			}
+		}
+	},
 		{
 					"type": "ee",
 					"title": "IoT World 2018",
