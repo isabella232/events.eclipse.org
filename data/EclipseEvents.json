@@ -1,5 +1,25 @@
 {
 	"events": [
+	    {
+	        "type":"wg",
+		    "title":"FOSS4G NA 2018",
+	        "date":"May 14 2018 09:00 GMT-6 (CST)",
+			"end-date": "May 16 2018 :18:00 GMT-6 (CST)",
+	        "locationName":"Hilton St Louis at the Ballpark",
+	        "registration":"https://2018.foss4g-na.org/registration",
+	        "infoLink":"https://2018.foss4g-na.org/",
+	        "description":"North America's premier open source geospatial event.",
+	        "address":{
+	            "street":"1 South Broadway",
+	            "zip":"63102",
+	            "city":"St Louis",
+	            "country": "USA",
+	            "geoLoc":{
+	                "lat":"38.6251834",
+	                "lon":"-90.1933008"
+	            }
+	        }
+	    },
 	{
 		"type": "ee",
 		"title": "Devoxx France",
