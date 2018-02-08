@@ -1,5 +1,24 @@
 {
 	"events": [
+		{
+			"type": "ed",
+			"title": "Capella Day Stuttgart 2018",
+			"date": "March 13 2018 08:45 GMT+0100 (CET)",
+			"locationName": "Burgundy School of Business",
+			"registration": "https://docs.google.com/forms/d/e/1FAIpQLScMLx-Pd6GZILbkspX-egM_h91bAH4mK85jPkiu-8HsPqdxGg/viewform?usp=sf_link",
+			"infoLink": "https://wiki.eclipse.org/Capella_Day_Stuttgart_2018",
+			"description": "EclipseDay Lyon is a great Eclipse event in France for developers and decision makers interested in the growth of the Eclipse ecosystem.",
+			"address": {
+				"street": "Thalesplatz 1",
+				"zip": ", 71254",
+				"city": " Ditzingen",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "48.816075",
+					"lon": "9.060151"
+				}
+			}
+		},
 	    {
 	        "type":"wg",
 		    "title":"FOSS4G NA 2018",
