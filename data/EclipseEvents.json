@@ -1,6 +1,26 @@
 {
 	"events": [
 		{
+					"type": "ee",
+					"title": "Bosch Connected World 2018",
+					"date": "Feb 21 2018 09:00 GMT+0100 (CET)",
+					"date": "Feb 22 2018 17:00 GMT+0100 (CET)",
+					"locationName": "STATION-Berlin",
+					"registration": "https://tmt.knect365.com/iot-world/purchase/select-package",
+					"infoLink": "https://tmt.knect365.com/iot-world/",
+					"description": "Bosch ConnectedWorld’s purpose is to provide the inspiration, education, and connections you need to thrive in IoT. This February, we will host more than 140 speakers on four stages presenting IoT trends and implementations in front of more than 3,500 conference and hackathon participants.",
+					"address": {
+						"street": "Luckenwalder Str. 4-6",
+						"zip": "10963",
+						"city": "Berlin",
+						"country": "Germany",
+						"geoLoc": {
+							"lat": "52.499945",
+							"lon": "13.375246"
+		        }
+		    }
+		},
+		{
 			"type": "ed",
 			"title": "Capella Day Stuttgart 2018",
 			"date": "March 13 2018 08:45 GMT+0100 (CET)",
