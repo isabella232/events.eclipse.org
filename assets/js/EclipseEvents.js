@@ -206,7 +206,7 @@ function createYearButtons(currentYear) {
         if (years.indexOf(year) == -1) {
             // ignore the "NaN" value (NaN != NaN -> true always!)
             if (year != year) {
-                alert("wrong dateformat for: " + allEclipseEvents[i].title);
+                console.log("wrong dateformat for: " + allEclipseEvents[i].title);
                 continue;
             }
             years.push(year);
