@@ -1,6 +1,26 @@
 {
 	"events": [
 		{
+		"type": "ec",
+		"title": "EclipseCon Europe 2018",
+		"date": "Oct 23 2018 09:00 GMT+0100",
+		"end-date": "Oct 25 2018 17:00 GMT+0100",
+		"locationName": "Forum Am Schlosspark Ludwigsburg",
+		"registration": "#",
+		"infoLink": "https://www.eclipsecon.org/europe2018",
+		"description": "EclipseCon Europe is designed to create opportunities for the Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse and its member companies. ",
+		"address": {
+			"street": "Stuttgarter Straße 33",
+			"zip": "71638",
+			"city": "Ludwigsburg",
+			"country": "Germany",
+			"geoLoc": {
+				"lat": "48.89228",
+				"lon": "9.1948577"
+			}
+		}
+	},
+		{
 			"type": "ed",
 			"title": "Eclipse IoT Day Santa Clara",
 			"date": "May 14 2018 09:00 GMT-0900 (PDT)",
