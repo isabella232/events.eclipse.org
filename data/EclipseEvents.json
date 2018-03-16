@@ -1,24 +1,23 @@
 {
 	"events": [
 		{
-					"type": "ee",
-					"title": "Bosch Connected World 2018",
-					"date": "Feb 21 2018 09:00 GMT+0100 (CET)",
-					"date": "Feb 22 2018 17:00 GMT+0100 (CET)",
-					"locationName": "STATION-Berlin",
-					"registration": "https://tmt.knect365.com/iot-world/purchase/select-package",
-					"infoLink": "https://tmt.knect365.com/iot-world/",
-					"description": "Bosch ConnectedWorld’s purpose is to provide the inspiration, education, and connections you need to thrive in IoT. This February, we will host more than 140 speakers on four stages presenting IoT trends and implementations in front of more than 3,500 conference and hackathon participants.",
-					"address": {
-						"street": "Luckenwalder Str. 4-6",
-						"zip": "10963",
-						"city": "Berlin",
-						"country": "Germany",
-						"geoLoc": {
-							"lat": "52.499945",
-							"lon": "13.375246"
-		        }
-		    }
+			"type": "ee",
+			"title": "Bosch Connected World 2018",
+			"date": "Feb 22 2018 17:00 GMT+0100 (CET)",
+			"locationName": "STATION-Berlin",
+			"registration": "https://tmt.knect365.com/iot-world/purchase/select-package",
+			"infoLink": "https://tmt.knect365.com/iot-world/",
+			"description": "Bosch ConnectedWorld’s purpose is to provide the inspiration, education, and connections you need to thrive in IoT. This February, we will host more than 140 speakers on four stages presenting IoT trends and implementations in front of more than 3,500 conference and hackathon participants.",
+			"address": {
+				"street": "Luckenwalder Str. 4-6",
+				"zip": "10963",
+				"city": "Berlin",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "52.499945",
+					"lon": "13.375246"
+				}
+			}
 		},
 		{
 			"type": "ed",
@@ -39,64 +38,65 @@
 				}
 			}
 		},
-	    {
-	        "type":"wg",
-		    "title":"FOSS4G NA 2018",
-	        "date":"May 14 2018 09:00 GMT-6 (CST)",
-			"end-date": "May 16 2018 :18:00 GMT-6 (CST)",
-	        "locationName":"Hilton St Louis at the Ballpark",
-	        "registration":"https://2018.foss4g-na.org/registration",
-	        "infoLink":"https://2018.foss4g-na.org/",
-	        "description":"North America's premier open source geospatial event.",
-	        "address":{
-	            "street":"1 South Broadway",
-	            "zip":"63102",
-	            "city":"St Louis",
-	            "country": "USA",
-	            "geoLoc":{
-	                "lat":"38.6251834",
-	                "lon":"-90.1933008"
-	            }
-	        }
-	    },
-	{
-		"type": "ee",
-		"title": "Devoxx France",
-		"date": "Apr 18 2018 09:00 GMT+0100 (CET)",
-		"end-date": "Apr 20 2018 18:00 GMT+0100 (CET)",
-		"locationName": "Palais des Congrès de Paris",
-		"registration": "http://www.devoxx.fr",
-		"infoLink": "http://www.devoxx.fr",
-		"description": "",
-		"address": {
-			"street": "2 Place de la Porte Maillot",
-			"zip": "75017",
-			"city": "Paris",
-			"country": "France",
-			"geoLoc": {
-				"lat": "48.879485",
-				"lon": "2.283458"
-			}
-		}
-	},
 		{
-					"type": "ee",
-					"title": "IoT World 2018",
-					"date": "May 14 2018 09:00 GMT+0900 (PDT)",
-					"locationName": "Santa Clara Convention Center",
-					"registration": "https://tmt.knect365.com/iot-world/purchase/select-package",
-					"infoLink": "https://tmt.knect365.com/iot-world/",
-					"description": "Internet of Things World returns to the Santa Clara Convention Center in the heart of Silicon Valley, for 3 days of learning, discovery, partying and networking. With over 11,000 attendees expected through the doors, 400+ global thought leading speakers and 250+ sponsors and exhibitors, Internet of Things World is THE largest IoT event in the marketplace, with the largest span of IoT vertical and horizontal themes being covered.",
-					"address": {
-						"street": "5001 Great America Pkwy",
-						"zip": "95054",
-						"city": "Santa Clara",
-						"country": "United States",
-						"geoLoc": {
-							"lat": "37.354107",
-							"lon": "-121.955238"
-		        }
-		    }
+			"type": "wg",
+			"title": "FOSS4G NA 2018",
+			"date": "May 14 2018 09:00 GMT-6 (CST)",
+			"end-date": "May 16 2018 :18:00 GMT-6 (CST)",
+			"locationName": "Hilton St Louis at the Ballpark",
+			"registration": "https://2018.foss4g-na.org/registration",
+			"infoLink": "https://2018.foss4g-na.org/",
+			"description": "North America's premier open source geospatial event.",
+			"address": {
+				"street": "1 South Broadway",
+				"zip": "63102",
+				"city": "St Louis",
+				"country": "USA",
+				"geoLoc": {
+					"lat": "38.6251834",
+					"lon": "-90.1933008"
+				}
+			}
+		},
+		{
+			"type": "ee",
+			"title": "Devoxx France",
+			"date": "Apr 18 2018 09:00 GMT+0100 (CET)",
+			"end-date": "Apr 20 2018 18:00 GMT+0100 (CET)",
+			"locationName": "Palais des Congrès de Paris",
+			"registration": "http://www.devoxx.fr",
+			"infoLink": "http://www.devoxx.fr",
+			"description": "",
+			"address": {
+				"street": "2 Place de la Porte Maillot",
+				"zip": "75017",
+				"city": "Paris",
+				"country": "France",
+				"geoLoc": {
+					"lat": "48.879485",
+					"lon": "2.283458"
+				}
+			}
+		},
+		{
+			"type": "ee",
+			"title": "IoT World 2018",
+			"date": "May 14 2018 09:00 GMT-0900 (PDT)",
+			"end-date": "May 17 2018 18:00 GMT-0900 (PDT)",
+			"locationName": "Santa Clara Convention Center",
+			"registration": "https://tmt.knect365.com/iot-world/purchase/select-package",
+			"infoLink": "https://tmt.knect365.com/iot-world/",
+			"description": "Internet of Things World returns to the Santa Clara Convention Center in the heart of Silicon Valley, for 3 days of learning, discovery, partying and networking. With over 11,000 attendees expected through the doors, 400+ global thought leading speakers and 250+ sponsors and exhibitors, Internet of Things World is THE largest IoT event in the marketplace, with the largest span of IoT vertical and horizontal themes being covered.",
+			"address": {
+				"street": "5001 Great America Pkwy",
+				"zip": "95054",
+				"city": "Santa Clara",
+				"country": "United States",
+				"geoLoc": {
+					"lat": "37.354107",
+					"lon": "-121.955238"
+				}
+			}
 		},
 		{
 			"type": "dc",
