@@ -1,6 +1,26 @@
 {
 	"events": [
 		{
+			"type": "ed",
+			"title": "Eclipse SUMO User Conference",
+			"date": "May 14 2018 09:00 GMT+100 (CET)",
+			"end-date": "May 16 2018 16:00 GMT+100 (CET)",
+			"locationName": "German Aerospace Center, Institute of Transportation Systems",
+			"registration": "http://www.dlr.de/ts/en/desktopdefault.aspx/tabid-3930/20125_read-50294/",
+			"infoLink": "http://www.dlr.de/ts/en/desktopdefault.aspx/tabid-3930/20125_read-50294/",
+			"description": "SUMO User Conference 2018 - Simulating Autonomous and Intermodal Transport Systems ",
+			"address": {
+				"street": "Rutherfordstr. 2",
+				"zip": "12489",
+				"city": "Berlin",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "52.4281218",
+					"lon": "13.529137499999933"
+				}
+			}
+		},
+		{
 		"type": "ec",
 		"title": "EclipseCon Europe 2018",
 		"date": "Oct 23 2018 09:00 GMT+0100",
