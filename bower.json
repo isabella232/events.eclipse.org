@@ -25,11 +25,7 @@
   "devDependencies": {
     "leaflet": "Leaflet#0.7",
     "jquery": "1.10.2",
-    "solstice-assets": "https://github.com/EclipseFdn/solstice-assets.git#5807d8913dec66dc4f684aee8f12865e2745e915",
-    "leaflet.markercluster": "git://github.com/Leaflet/Leaflet.markercluster#232e93ccbe5b70241913f47a4d1a8ceec8c88c30",
-    "bootstrap": "3.3.6",
-    "yamm3": "git://github.com/chrisguindon/yamm3#69ba4a32b3b7228421920d6300011745be374029",
-    "fontawesome": "4.4.0",
-    "bootstrapValidator": "~0.5.3"
+    "solstice-assets": "https://github.com/EclipseFdn/solstice-assets.git",
+    "leaflet.markercluster": "git://github.com/Leaflet/Leaflet.markercluster#232e93ccbe5b70241913f47a4d1a8ceec8c88c30"
   }
 }
