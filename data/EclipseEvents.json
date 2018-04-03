@@ -2,6 +2,25 @@
 	"events": [
 		{
 			"type": "ed",
+			"title": "Eclipse Day Eindhoven",
+			"date": "Apr 24 2018 8:30 GMT+0100 (EST)",
+			"locationName": "Altran Office, Eindhoven",
+			"registration": "http://bit.ly/RegistrationSiriusDayNL",
+			"infoLink": "https://wiki.eclipse.org/Sirius_Day_Eindhoven_2018",
+			"description": "A one-day conference on Eclipse Sirius!",
+			"address": {
+				"street": "Limburglaan 24",
+				"zip": "5652",
+				"city": "Eindhoven",
+				"country": "Netherlands",
+				"geoLoc": {
+					"lat": "51.433883",
+					"lon": "5.452346"
+				}
+			}
+		},
+		{
+			"type": "ed",
 			"title": "Eclipse SUMO User Conference",
 			"date": "May 14 2018 09:00 GMT+100 (CET)",
 			"end-date": "May 16 2018 16:00 GMT+100 (CET)",
