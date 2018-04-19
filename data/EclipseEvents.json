@@ -1,6 +1,26 @@
 {
 	"events": [
 		{
+			"type": "ee",
+			"title": "JAX 2018",
+			"date": "April 23 2018 09:00 GMT+0100 (CET)",
+			"end-date": "April 23 2018 16:00 GMT+100 (CET)",
+			"locationName": "Rheingoldhalle Mainz",
+			"registration": "https://iframe-wptickets.sandsmedia.com/sandsRedirect.php?where=https://jax.de/tickets-en/",
+			"infoLink": "https://jax.de/en/",
+			"description": "The conference for Java, architecture and software innovation",
+			"address": {
+				"street": "Rheinstraße 66",
+				"zip": "55116",
+				"city": "Berlin",
+				"country": "Mainz",
+				"geoLoc": {
+					"lat": "50.001900",
+					"lon": "8.275610"
+				}
+			}
+		},
+		{
 			"type": "ed",
 			"title": "Eclipse Day Eindhoven",
 			"date": "Apr 24 2018 8:30 GMT+0100 (EST)",
