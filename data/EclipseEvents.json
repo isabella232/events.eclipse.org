@@ -2,6 +2,26 @@
 	"events": [
 		{
 			"type": "ee",
+			"title": "KubeCon - CloudNativeCon",
+			"date": "May 2 2018 09:00 GMT+0100 (CET)",
+			"end-date": "May 4 2018 16:00 GMT+100 (CET)",
+			"locationName": "Bella Center Copenhagen",
+			"registration": "https://www.regonline.com/registration/checkin.aspx?MethodId=0&EventSessionId=3cc2f5a8e67e46d4865b95ba9c73ae00&EventId=2005767",
+			"infoLink": "https://events.linuxfoundation.org/kubecon-eu-2018/",
+			"description": "The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities in Copenhagen",
+			"address": {
+				"street": "Center Blvd. 5",
+				"zip": "55116",
+				"city": "Copenhagen",
+				"country": "Denmark",
+				"geoLoc": {
+					"lat": "55.639579",
+					"lon": "12.578142"
+				}
+			}
+		},
+		{
+			"type": "ee",
 			"title": "JAX 2018",
 			"date": "April 23 2018 09:00 GMT+0100 (CET)",
 			"end-date": "April 23 2018 16:00 GMT+100 (CET)",
@@ -12,8 +32,8 @@
 			"address": {
 				"street": "Rheinstraße 66",
 				"zip": "55116",
-				"city": "Berlin",
-				"country": "Mainz",
+				"city": "Mainz",
+				"country": "Germany",
 				"geoLoc": {
 					"lat": "50.001900",
 					"lon": "8.275610"
