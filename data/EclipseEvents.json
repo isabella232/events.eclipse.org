@@ -2,6 +2,26 @@
 	"events": [
 		{
 			"type": "ee",
+			"title": "Devoxx UK",
+			"date": "May 9 2018 09:00 GMT+0000 (GMT)",
+			"end-date": "May 11 2018 18:00 GMT+0000 (GMT)",
+			"locationName": "Business Design Centre",
+			"registration": "https://www.devoxx.co.uk",
+			"infoLink": "https://www.devoxx.co.uk",
+			"description": "Devoxx UK returns to London 9th – 11th May, 2018, and will welcome brilliant speakers and attendees for the very best developer content and awesome experiences",
+			"address": {
+				"street": "52 Upper Street",
+				"zip": "N1 0QH",
+				"city": "London",
+				"country": "United Kingdom",
+				"geoLoc": {
+					"lat": "51.5357184",
+					"lon": "-0.10589609999999539"
+				}
+			}
+		},
+		{
+			"type": "ee",
 			"title": "KubeCon - CloudNativeCon",
 			"date": "May 2 2018 09:00 GMT+0100 (CET)",
 			"end-date": "May 4 2018 16:00 GMT+100 (CET)",
