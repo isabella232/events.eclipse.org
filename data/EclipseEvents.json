@@ -1,6 +1,25 @@
 {
 	"events": [
 		{
+			"type": "dc",
+			"title": "DemoCamp Zurich",
+			"date": "May 25 2018 18:00 GMT+0100 (CET)",
+			"locationName": "Swiss Federal Institute of Technology, Lecture Room HG D7.1",
+			"registration": "https://www.eventbrite.com/e/eclipse-democamp-zurich-2018-tickets-45380152257",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_2018/Zurich",
+			"description": "Engage in the Eclipse and Java community this Summer at the Eclipse DemoCamp in Zurich. If you are interested in Eclipse, Eclipse and Open Source, this is the event to attend in Switzerland. And listen to opinions about Jakarta EE",
+			"address": {
+				"street": "Rämistrasse 101",
+				"zip": "8092",
+				"city": "Zürich",
+				"country": "Switzerland",
+				"geoLoc": {
+					"lat": "47.376536",
+					"lon": "8.548093"
+				}
+			}
+		},
+		{
 			"type": "ee",
 			"title": "Devoxx UK",
 			"date": "May 9 2018 09:00 GMT+0000 (GMT)",
