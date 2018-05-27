@@ -2,6 +2,25 @@
 	"events": [
 		{
 			"type": "dc",
+			"title": "Eclipse DemoCamp Eindhoven",
+			"date": "July 7 2018 19:00 GMT+0100 (EST)",
+			"locationName": "Altran Office, Eindhoven",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_2018/Eindhoven",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_2018/Eindhoven",
+			"description": "An evening with Eclipse! ",
+			"address": {
+				"street": "Limburglaan 24",
+				"zip": "5652",
+				"city": "Eindhoven",
+				"country": "Netherlands",
+				"geoLoc": {
+					"lat": "51.433883",
+					"lon": "5.452346"
+				}
+			}
+		},
+		{
+			"type": "dc",
 			"title": "DemoCamp Zurich",
 			"date": "May 25 2018 18:00 GMT+0100 (CET)",
 			"locationName": "Swiss Federal Institute of Technology, Lecture Room HG D7.1",
