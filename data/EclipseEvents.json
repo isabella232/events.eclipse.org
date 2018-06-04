@@ -2,6 +2,44 @@
 	"events": [
 		{
 			"type": "dc",
+			"title": "DemoCamp Bonn",
+			"date": "Jul 9, 2018 18:15 GMT+0100 (CET)",
+			"locationName": "itemis Office Bonn",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_2018/Bonn",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_2018/Bonn",
+			"description": "Eclipse Demo Camp Series celebrating the Photon release. Enjoy!",
+			"address": {
+				"street": "Poppelsdorfer Allee 114",
+				"zip": "53115",
+				"city": "Bonn",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "50.726696",
+					"lon": "7.093060"
+				}
+			}
+		},
+		{
+			"type": "dc",
+			"title": "DemoCamp Darmstadt",
+			"date": "Jun 20 2018 18:00 GMT-0100 (CET)",
+			"locationName": "Dt. Telekom",
+			"registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_2018/Darmstadt",
+			"infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_2018/Darmstadt",
+			"description": "DemoCamps or Hackathons around the world! Jakarta EE, Eclipse MicroProfile, Photon Release, Smart Home and more!",
+			"address": {
+				"street": "T-Online-Allee 1",
+				"zip": "64295",
+				"city": "Darmstadt",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "49.864756",
+					"lon": "8.625217"
+				}
+			}
+		},
+		{
+			"type": "dc",
 			"title": "Eclipse DemoCamp Eindhoven",
 			"date": "July 7 2018 19:00 GMT+0100 (EST)",
 			"locationName": "Altran Office, Eindhoven",
