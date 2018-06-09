@@ -1,6 +1,26 @@
 {
 	"events": [
 		{
+			"type": "ed",
+			"title": "Eclipse Volttron Days",
+			"date": "Aug 21, 2018 18:15 GMT-700 (PDT)",
+			"end-date": "Aug 22 2018 18:00 GMT-7000 (PDT)",
+			"locationName": "PNNL Discovery Hall",
+			"registration": "https://events.eclipse.org/volttrondays/",
+			"infoLink": "https://events.eclipse.org/volttrondays/",
+			"description": "Join us for the 5th Annual VOLTTRON Workshop, held this year at PNNL’s Discovery Hall in Richland, Washington",
+			"address": {
+				"street": "902 Battelle Boulevard",
+				"zip": "WA 99354",
+				"city": "Richland",
+				"country": "USA",
+				"geoLoc": {
+					"lat": "46.345195",
+					"lon": "-119.279230"
+				}
+			}
+		},
+		{
 			"type": "dc",
 			"title": "DemoCamp Bonn",
 			"date": "Jul 9, 2018 18:15 GMT+0100 (CET)",
