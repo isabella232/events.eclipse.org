@@ -22,6 +22,44 @@
 		},
 		{
 			"type": "dc",
+			"title": "Eclipse Insight: Building Modeling Tools",
+			"date": "Sep 3 2018 17:30 GMT-0100 (CET)",
+			"locationName": "EclipseSource Munich",
+			"registration": "https://www.eventbrite.de/e/eclipse-insight-building-modeling-tools-tickets-45894598981",
+			"infoLink": "https://www.eventbrite.de/e/eclipse-insight-building-modeling-tools-tickets-45894598981",
+			"description": "One of the best Eclipse demo camps in the world!",
+			"address": {
+				"street": "Agnes-Pockels-Bogen 1 ",
+				"zip": "80992",
+				"city": "München",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "48.173812",
+					"lon": "11.532224"
+				}
+			}
+		},
+		{
+			"type": "ed",
+			"title": "Jakarta EE Stammtisch",
+			"date": "Jul 3 2018 18:30 GMT+0100 (CET)",
+			"locationName": "Restaurant Amadeus",
+			"registration": "#",
+			"infoLink": "#",
+			"description": "hang out with us for a beer and chat about Eclipse and everything else",
+			"address": {
+				"street": "Charlottenpl. 17",
+				"zip": "70173",
+				"city": "Stuttgart",
+				"country": "Germany",
+				"geoLoc": {
+					"lat": "48.143425",
+					"lon": "11.5520167"
+				}
+			}
+		},
+		{
+			"type": "dc",
 			"title": "DemoCamp Bonn",
 			"date": "Jul 9, 2018 18:15 GMT+0100 (CET)",
 			"locationName": "itemis Office Bonn",
