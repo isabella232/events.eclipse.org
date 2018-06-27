@@ -48,13 +48,13 @@
 			"infoLink": "#",
 			"description": "hang out with us for a beer and chat about Eclipse and everything else",
 			"address": {
-				"street": "Charlottenpl. 17",
+				"street": "Charlottenplatz 17",
 				"zip": "70173",
 				"city": "Stuttgart",
 				"country": "Germany",
 				"geoLoc": {
-					"lat": "48.143425",
-					"lon": "11.5520167"
+					"lat": "48.77575",
+					"lon": "9.182768"
 				}
 			}
 		},
