@@ -1495,7 +1495,7 @@
 			"locationName": "SiH Seminarraum in Hamburg GmbH",
 			"registration": "",
 			"infoLink": "http://www.vogella.com/training/eclipse/eclipsercp.html",
-			"description": "<p>In dieser intensiven Schulung lernen Sie die professionelle Eclipse RCP Entwicklung auf Stand von Eclipse 4.6 kennen. Der Praxisteil liegt bei ca. 50 % und durch viele optionale Bestandteile eignet sich die Schulung sowohl für Eclipse RCP Neulinge wie auch für Entwickler mit Eclipse 3.X RCP Vorkenntnissen.	Verwendet wird das neuste Eclipse 4 Programmierinterface (API), wobei auch auf die Migration von Eclipse 3.X RCP Applikationen eingegangen wird. <p>Falls Sie eine Migration von Eclipse 3.X auf Eclipse 4 planen, bieten wir ebenfalls Eclipse 4 RCP Delta Schulungen an. In dieser Schulung lernen Sie die neuen Konzepte von Eclipse 4 und die Unterschiede zu Eclipse 3.X kennen.",
+			"description": "<p>In dieser intensiven Schulung lernen Sie die professionelle Eclipse RCP Entwicklung auf Stand von Eclipse 4.6 kennen. Der Praxisteil liegt bei ca. 50 % und durch viele optionale Bestandteile eignet sich die Schulung sowohl für Eclipse RCP Neulinge wie auch für Entwickler mit Eclipse 3.X RCP Vorkenntnissen. Verwendet wird das neuste Eclipse 4 Programmierinterface (API), wobei auch auf die Migration von Eclipse 3.X RCP Applikationen eingegangen wird. <p>Falls Sie eine Migration von Eclipse 3.X auf Eclipse 4 planen, bieten wir ebenfalls Eclipse 4 RCP Delta Schulungen an. In dieser Schulung lernen Sie die neuen Konzepte von Eclipse 4 und die Unterschiede zu Eclipse 3.X kennen.",
 			"keywords": "Eclipse, Eclipse RCP",
 			"address": {
 				"street": "Mexikoring 15",
@@ -1558,7 +1558,7 @@
 			"locationName": "Fortiss offices",
 			"registration": "http://goo.gl/forms/wLBYeuumkBXqnjPa2",
 			"infoLink": " http://blog.obeo.fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open",
-			"description": "The Sirius Roadshow is a one-day free event to discover the potential of Sirius. It is open to both beginners and advanced users of Eclipse modeling tools. In the morning, it starts with Sirius presentation and user feedback. We are pleased to welcome speakers from renowned companies such as Lars Geyer-Blaumeiser from ETAS-Bosch. You will also discover Capella, a powerful model-based systems engineering tool developed by Thales with Sirius.	In the afternoon, supervised by our team, attendees will create their first graphical workbench on their favorite topic.",
+			"description": "The Sirius Roadshow is a one-day free event to discover the potential of Sirius. It is open to both beginners and advanced users of Eclipse modeling tools. In the morning, it starts with Sirius presentation and user feedback. We are pleased to welcome speakers from renowned companies such as Lars Geyer-Blaumeiser from ETAS-Bosch. You will also discover Capella, a powerful model-based systems engineering tool developed by Thales with Sirius. In the afternoon, supervised by our team, attendees will create their first graphical workbench on their favorite topic.",
 			"keywords": "EclipseSirius, Capella, SystemsEngineering, Graphical Modeling",
 			"address": {
 				"street": "Guerickestraße 25",
@@ -2336,7 +2336,7 @@
 			"locationName": "Stackoverflow",
 			"registration": "https://www.eventbrite.com/e/eclipse-night-london-tickets-18130707434",
 			"infoLink": "https://www.eventbrite.com/e/eclipse-night-london-tickets-18130707434",
-			"description": "Join your fellow Eclipse enthusiasts at the first (annual?) Eclipse Night London!	There are only 80 seats so reserve now!During the evening, we will have a handful of seasoned speakers talking about exciting evolutions in Eclipse, including a talk by Mike Milinkovich, executive director of the Eclipse foundation.",
+			"description": "Join your fellow Eclipse enthusiasts at the first (annual?) Eclipse Night London! There are only 80 seats so reserve now!During the evening, we will have a handful of seasoned speakers talking about exciting evolutions in Eclipse, including a talk by Mike Milinkovich, executive director of the Eclipse foundation.",
 			"address": {
 				"street": "1st Floor Bentima House, 168 - 172 Old Street",
 				"zip": "EC1V 9BP",
@@ -3172,7 +3172,7 @@
 			"locationName": "Steigenberger Hotel am Kanzleramt",
 			"registration": "http://www.esi-group.com/company/events/2014/2nd-openfoam-user-conference-2014/registration",
 			"infoLink": "http://www.esi-group.com/company/events/2014/2nd-openfoam-user-conference-2014",
-			"description": "ESI-OpenCFD presents the 2nd official OpenFOAM User Conference organized by ESI-OpenCFD and opens up another opportunity	for all the OpenFOAM users worldwide to meet and interact with the OpenFOAM developers, support and training team from ESI-OpenCFD and find out more about new developments and interesting projects in OpenFOAM.",
+			"description": "ESI-OpenCFD presents the 2nd official OpenFOAM User Conference organized by ESI-OpenCFD and opens up another opportunity for all the OpenFOAM users worldwide to meet and interact with the OpenFOAM developers, support and training team from ESI-OpenCFD and find out more about new developments and interesting projects in OpenFOAM.",
 			"address": {
 				"street": "Ella Trebe Staße 5",
 				"zip": "10557",
@@ -3394,7 +3394,7 @@
 				"country": "USA",
 				"geoLoc": {
 					"lat": "40.75901",
-					"lon": "	-73.98447"
+					"lon": "-73.98447"
 				}
 			}
 		},
