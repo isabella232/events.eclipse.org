@@ -175,6 +175,46 @@
 			}
 		},
 		{
+      "type": "ee",
+      "title": "KubeCon + CloudNativeCon China 2018",
+      "date": "November 13 2018 09:00 GMT+0100 (CET)",
+      "end-date": "November 15 2018 16:00 GMT+100 (CET)",
+      "locationName": "Shanghai Convention & Exhibition Center of International Sourcing",
+      "registration": "https://www.bagevent.com/event/kubecon-cloudnativecon-china-2018",
+      "infoLink": "https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2018/",
+      "description": "KubeCon + CloudNativeCon gathers all CNCF projects under one roof. Join leading technologists from open source cloud-native communities to further the advancement of cloud-native computing.",
+      "address": {
+        "street": "No.2739 West Guangfu Road, Putuo District",
+        "zip": "",
+        "city": "Shanghai",
+        "country": "China",
+        "geoLoc": {
+          "lat": "31.219813",
+          "lon": "121.390905"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "2018 Ignition Community Conference",
+      "date": "Sept 17 2018 09:00 GMT+0100 (CET)",
+      "end-date": "Sept 19 2018 16:00 GMT+100 (CET)",
+      "locationName": "The Harris Center for the Arts",
+      "registration": "https://icc.inductiveautomation.com/register",
+      "infoLink": "https://icc.inductiveautomation.com/",
+      "description": "At the 2018 Ignition Community Conference, you’ll have the unique opportunity to meet industry thought leaders from around the world, see innovative real-world use cases of Ignition from multiple industries, and learn core fundamentals and advanced techniques from Ignition experts. Become a guiding force for innovation at ICC 2018.",
+      "address": {
+        "street": "10 College Parkway",
+        "zip": "95630",
+        "city": "Folsom",
+        "country": "United States",
+        "geoLoc": {
+          "lat": "38.661472",
+          "lon": "-121.125487"
+        }
+      }
+    },
+		{
 			"type": "ee",
 			"title": "JAX 2018",
 			"date": "April 23 2018 09:00 GMT+0100 (CET)",
@@ -214,6 +254,26 @@
 				}
 			}
 		},
+		{
+      "type": "ee",
+      "title": "W-JAX",
+      "date": "November 5 2018 09:00 GMT+0100 (CET)",
+      "end-date": "November 9 2018 16:00 GMT+100 (CET)",
+      "locationName": "The Westin Grand Munich",
+      "registration": "https://jax.de/tickets-en/?go=ok",
+      "infoLink": "https://jax.de/en/",
+      "description": "W-JAX is a conference for cutting-edge Java- and Web-Development, Software-Architecture and innovative Infrastructures. Renowned experts share their professional experiences in Sessions and Power Workshops. The event is especially focusing on JAVA Core- and Enterprise-Technologies, Spring-Ecosystem, JavaScript, Continuous Delivery and DevOps.",
+      "address": {
+        "street": "Arabellastrasse 6",
+        "zip": "81925",
+        "city": "Munich",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "48.152030",
+          "lon": "11.616721"
+        }
+      }
+    },
 		{
 			"type": "ed",
 			"title": "Eclipse Day Eindhoven",
@@ -293,6 +353,25 @@
 			}
 		},
 		{
+      "type": "ed",
+      "title": "Eclipse IoT Day Singapore 2018",
+      "date": "Sep 18, 2018 09:00 GMT-0900 (PDT)",
+      "locationName": "Sands Expo & Convention Centre",
+      "registration": "https://tmt.knect365.com/iot-world-asia/purchase/select-package",
+      "infoLink": "https://iot.eclipse.org/eclipse-iot-day-singapore-2018/",
+      "description": "The Eclipse IoT Day Singapore is all about open source and open standards for building IoT solutions. Attendees will learn about the software needed to build devices, gateways, and IoT cloud platforms. The one-day event is co-located with IoT World Asia 2018, Asia's biggest IoT event, happening Sept. 18-20.",
+      "address": {
+        "street": "1 Bayfront Ave",
+        "zip": "018971",
+        "city": "Singapore",
+        "country": "Asia",
+        "geoLoc": {
+          "lat": "1.283508",
+          "lon": "103.860722"
+        }
+      }
+    },
+		{
 			"type": "ee",
 			"title": "Bosch Connected World 2018",
 			"date": "Feb 22 2018 17:00 GMT+0100 (CET)",
@@ -371,6 +450,26 @@
 			}
 		},
 		{
+      "type": "ee",
+      "title": "Devoxx Belgium",
+      "date": "November 12 2018 09:00 GMT+0100 (CET)",
+      "end-date": "November 16 2018 18:00 GMT+0100 (CET)",
+      "locationName": "Kinepolis Antwerp",
+      "registration": "https://reg.devoxx.com/event/dv18",
+      "infoLink": "https://devoxx.be/",
+      "description": "Devoxx is a conference for developers, by developers. It is the largest Java community conference series on the planet. It holds events annually in Belgium, France, UK, Poland, Morocco and the United States.",
+      "address": {
+        "street": "Groenendaallaan 394",
+        "zip": "2030",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "geoLoc": {
+          "lat": "51.246008",
+          "lon": "4.416555"
+        }
+      }
+    },
+		{
 			"type": "ee",
 			"title": "IoT World 2018",
 			"date": "May 14 2018 09:00 GMT-0900 (PDT)",
@@ -390,6 +489,46 @@
 				}
 			}
 		},
+		{
+      "type": "ee",
+      "title": "IoT World Asia 2018",
+      "date": "Sept 18 2018 09:00 GMT-0900 (PDT)",
+      "end-date": "Sept 20 2018 18:00 GMT-0900 (PDT)",
+      "locationName": "Marina Bay Sands",
+      "registration": "https://tmt.knect365.com/iot-world-asia/purchase/select-package",
+      "infoLink": "https://tmt.knect365.com/iot-world-asia/",
+      "description": "IoT World Asia forms part of TechXLR8 Asia, a festival of technology and the place to keep pace with the technologies shaping your connected future.",
+      "address": {
+        "street": "10 Bayfront Ave",
+        "zip": "018956",
+        "city": "Singapore",
+        "country": "Asia",
+        "geoLoc": {
+          "lat": "1.282302",
+          "lon": "103.858531"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "DevOps World | Jenkins World 2018",
+      "date": "Sept 16 2018 09:00 GMT-0900 (PDT)",
+      "end-date": "Sept 19 2018 18:00 GMT-0900 (PDT)",
+      "locationName": "Marriott Marquis",
+      "registration": "http://www.cvent.com/events/devops-world-jenkins-world-2018-san-francisco/event-summary-80f6e214f6f24d908ea05dd2e8ff480d.aspx?RefID=Hero",
+      "infoLink": "https://www.cloudbees.com/devops-world/san-francisco",
+      "description": "This event brings together the DevOps community in two locations, providing opportunities to learn, explore, network and help shape the future of DevOps and Jenkins. DevOps World | Jenkins World is designed specifically for IT executives, DevOps practitioners, Jenkins users and partners.",
+      "address": {
+        "street": "780 Mission St",
+        "zip": "94103",
+        "city": "San Francisco",
+        "country": "United States",
+        "geoLoc": {
+          "lat": "37.785487",
+          "lon": "-122.404694"
+        }
+      }
+    },
 		{
 			"type": "dc",
 			"title": "DemoCamp Hamburg",
