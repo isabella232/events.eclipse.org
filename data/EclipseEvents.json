@@ -1,6 +1,26 @@
 {
   "events": [
     {
+      "type": "ee",
+      "title": "Future of Automotive Software",
+      "date": "Dec 10, 2018 09:00 GMT-0100 (CET)",
+      "end-date": "Dec 11 2018 18:00 GMT-0100 (CET)",
+      "locationName": "Holiday Inn Munich Westpark",
+      "registration": "http://www.euroforum.de/software-eng/registration/",
+      "infoLink": "http://www.euroforum.de/software-eng/",
+      "description": "Be part of this years excellent expert meeting concerning the future of automotive software.",
+      "address": {
+        "street": "Albert-Roßhaupter-Straße 45",
+        "zip": "81369",
+        "city": "München",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "48.116874",
+          "lon": "11.531491"
+        }
+      }
+    },
+    {
       "type": "ed",
       "title": "Eclipse Volttron Days",
       "date": "Aug 21, 2018 09:00 GMT-700 (PDT)",
