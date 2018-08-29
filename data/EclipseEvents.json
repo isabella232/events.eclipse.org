@@ -1,6 +1,25 @@
 {
   "events": [
     {
+      "type": "dc",
+      "title": "DemoCamp Regensburg",
+      "date": "Nov 19, 2018 17:30 GMT+0100 (CET)",
+      "locationName": "TechBase Regensburg",
+      "registration": "https://wiki.eclipse.org/Eclipse_DemoCamps_2018/Regensburg",
+      "infoLink": "https://wiki.eclipse.org/Eclipse_DemoCamps_2018/Regensburg",
+      "description": "Eclipse Demo Camp Series celebrating the Photon release. Enjoy!",
+      "address": {
+        "street": "Franz-Mayer-Str. 1",
+        "zip": "93053",
+        "city": "Regensburg",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "49.002397",
+          "lon": "12.100555"
+        }
+      }
+    },
+    {
       "type": "ee",
       "title": "Future of Automotive Software",
       "date": "Dec 10, 2018 09:00 GMT-0100 (CET)",
