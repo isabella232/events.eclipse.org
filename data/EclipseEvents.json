@@ -40,6 +40,26 @@
       }
     },
     {
+      "type": "ee",
+      "title": "SiriusCon 2018",
+      "date": "Dec 4, 2018 09:00 GMT-0100 (CET)",
+      "end-date": "Dec 5 2018 18:00 GMT-0100 (CET)",
+      "locationName": "",
+      "registration": "http://bit.ly/SiriusCon2018Registration",
+      "infoLink": "https://www.siriuscon.org/",
+      "description": "Sirius is a global solution used worldwide within today's seamless world! SiriusCon follows the wave and is going live!",
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": "",
+        "geoLoc": {
+          "lat": "53.3758916",
+          "lon": "9.7320104"
+        }
+      }
+    },
+    {
       "type": "ed",
       "title": "Eclipse Volttron Days",
       "date": "Aug 21, 2018 09:00 GMT-700 (PDT)",
@@ -388,6 +408,26 @@
         "geoLoc": {
           "lat": "37.354107",
           "lon": "-121.955238"
+        }
+      }
+    },
+    {
+      "type": "ed",
+      "title": "Eclipse IoT Day Grenoble 2019",
+      "date": "February 19 2019 09:00 GMT-0900 (PDT)",
+      "end-date": "February 22 2019 17:00 GMT+0100",
+      "locationName": "Bâtiment IMAG",
+      "registration": "https://tmt.knect365.com/iot-world/purchase/select-package",
+      "infoLink": "https://iot.eclipse.org/eclipse-iot-day-santa-clara-2018/",
+      "description": "The Eclipse IoT Day, taking place May 14, 2018, is all about open source and open standards for building IoT solutions. Attendees will learn about the software needed to build devices, gateways, and IoT cloud platforms.",
+      "address": {
+        "street": "700 Avenue Centrale",
+        "zip": "38401",
+        "city": "Saint-Martin-d'Hères",
+        "country": "France",
+        "geoLoc": {
+          "lat": "45.164520",
+          "lon": "5.768210"
         }
       }
     },
