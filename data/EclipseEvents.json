@@ -99,6 +99,25 @@
       }
     },
     {
+      "type": "dc",
+      "title": "Eclipse Insight: cross domain engineering",
+      "date": "Feb 6 2019 17:30 GMT-0100 (CET)",
+      "locationName": "fortiss GmbH",
+      "registration": "https://www.eventbrite.de/e/eclipse-insight-cross-domain-engineering-tickets-52938065178#tickets",
+      "infoLink": "https://www.eventbrite.de/e/eclipse-insight-cross-domain-engineering-tickets-52938065178",
+      "description": "Like at Eclipse DemoCamp, Eclipse Insight is a collaborative event featuring technical talks and demonstrations from the Eclipse community. The topic of the event is focused on a certain technology area of the eclipse ecosystem.",
+      "address": {
+        "street": "Guerickestraße 25",
+        "zip": "80805",
+        "city": "Munich",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "48.174870",
+          "lon": "11.596140"
+        }
+      }
+    },
+    {
       "type": "ed",
       "title": "Jakarta EE Stammtisch",
       "date": "Jul 3 2018 18:30 GMT+0100 (CET)",
