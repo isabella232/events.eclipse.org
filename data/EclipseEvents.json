@@ -392,6 +392,26 @@
       }
     },
     {
+      "type": "ed",
+      "title": "Eclipse SUMO User Conference",
+      "date": "May 13 2019 09:00 GMT+100 (CET)",
+      "end-date": "May 15 2019 16:00 GMT+100 (CET)",
+      "locationName": "German Aerospace Center, Institute of Transportation Systems",
+      "registration": "https://sumo2019.besl-eventservice.de/front/index.php",
+      "infoLink": "http://sumo.dlr.de/2019",
+      "description": "SUMO User Conference 2019 - Simulating Connected Urban Mobility",
+      "address": {
+        "street": "Rutherfordstr. 2",
+        "zip": "12489",
+        "city": "Berlin",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "52.4281218",
+          "lon": "13.529137499999933"
+        }
+      }
+    },
+    {
       "type": "ec",
       "title": "EclipseCon Europe 2018",
       "date": "Oct 23 2018 09:00 GMT+0100",
