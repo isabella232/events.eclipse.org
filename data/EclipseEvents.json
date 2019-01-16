@@ -60,6 +60,46 @@
       }
     },
     {
+      "type": "ee",
+      "title": "FedGeo Day 2019",
+      "date": "Jan 31, 2019 09:00 GMT-0100 (CET)",
+      "end-date": "Jan 31, 2019 18:00 GMT-0100 (CET)",
+      "locationName": "LIAISON CAPITOL HILL",
+      "registration": "https://fedgeo.us/",
+      "infoLink": "https://fedgeo.us/",
+      "description": "Open Source Geospatial in the Federal Government",
+      "address": {
+        "street": "415 New Jersey Ave. NW",
+        "zip": "20001",
+        "city": "Washington",
+        "country": "USA",
+        "geoLoc": {
+          "lat": "38.895490",
+          "lon": "-77.010880"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "FOSDEM 2019",
+      "date": "Feb 2, 2019 09:00 GMT-0100 (CET)",
+      "end-date": "Feb 3, 2019 18:00 GMT-0100 (CET)",
+      "locationName": "ULB Solbosch Campus",
+      "registration": "",
+      "infoLink": "https://fosdem.org/2019/",
+      "description": "FOSDEM is a free event for software developers to meet, share ideas and collaborate.",
+      "address": {
+        "street": "Avenue Franklin Roosevelt 50",
+        "zip": "1050",
+        "city": "Brussels",
+        "country": "Belgium",
+        "geoLoc": {
+          "lat": "50.810820",
+          "lon": "4.386250"
+        }
+      }
+    },
+    {
       "type": "ed",
       "title": "Eclipse Volttron Days",
       "date": "Aug 21, 2018 09:00 GMT-700 (PDT)",
