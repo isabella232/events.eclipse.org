@@ -492,6 +492,25 @@
     },
     {
       "type": "ed",
+      "title": "Eclipse IoT Day at IoT World",
+      "date": "May 13 2019 09:00 GMT-0900 (PDT)",
+      "locationName": "Santa Clara Convention Center",
+      "registration": "https://tmt.knect365.com/iot-world/purchase/select-package",
+      "infoLink": "https://iot.eclipse.org/eclipse-iot-day-santa-clara-2019/",
+      "description": "The Eclipse IoT Day, taking place May 13, 2019, is all about open source and open standards for building IoT solutions. Attendees will learn about the software needed to build devices, gateways, and IoT cloud platforms.",
+      "address": {
+        "street": "5001 Great America Pkwy",
+        "zip": "95054",
+        "city": "Santa Clara",
+        "country": "United States",
+        "geoLoc": {
+          "lat": "37.354107",
+          "lon": "-121.955238"
+        }
+      }
+    },
+    {
+      "type": "ed",
       "title": "Eclipse IoT Day Grenoble 2019",
       "date": "February 19 2019 09:00 GMT-0900 (PDT)",
       "end-date": "February 22 2019 17:00 GMT+0100",
