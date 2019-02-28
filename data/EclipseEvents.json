@@ -472,6 +472,26 @@
       }
     },
     {
+      "type": "ec",
+      "title": "EclipseCon Europe 2019",
+      "date": "Oct 21 2019 09:00 GMT+0100",
+      "end-date": "Oct 24 2019 17:00 GMT+0100",
+      "locationName": "Forum Am Schlosspark Ludwigsburg",
+      "registration": "#",
+      "infoLink": "https://www.eclipsecon.org/europe2019",
+      "description": "EclipseCon Europe is designed to create opportunities for the Eclipse community to learn, explore, share, and collaborate on the latest ideas and information about Eclipse and its member companies. ",
+      "address": {
+        "street": "Stuttgarter Straße 33",
+        "zip": "71638",
+        "city": "Ludwigsburg",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "48.89228",
+          "lon": "9.1948577"
+        }
+      }
+    },
+    {
       "type": "ed",
       "title": "Eclipse IoT Day Santa Clara",
       "date": "May 14 2018 09:00 GMT-0900 (PDT)",
@@ -583,6 +603,25 @@
         "geoLoc": {
           "lat": "48.816075",
           "lon": "9.060151"
+        }
+      }
+    },
+    {
+      "type": "ed",
+      "title": "Open seminar with the LIM-IT project",
+      "date": "Tuesday 21 May 2019 (09:15-12:00) GMT+0100 (CET)",
+      "locationName": "University of Skövde",
+      "registration": "https://www.his.se/en/Research/informatics/Software-Systems-Research-Group/Article20190521/",
+      "infoLink": "https://www.his.se/en/Research/informatics/Software-Systems-Research-Group/Article20190521/",
+      "description": "Welcome to an open seminar featuring a presentation by Ralph Mueller with the title \"Open Source is feeding the World\".",
+      "address": {
+        "street": "Högskolevägen 1",
+        "zip": "541 28",
+        "city": "Skövde",
+        "country": "Sweden",
+        "geoLoc": {
+          "lat": "58.393846",
+          "lon": "13.854093"
         }
       }
     },
