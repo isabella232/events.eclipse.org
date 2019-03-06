@@ -294,6 +294,26 @@
     },
     {
       "type": "ee",
+      "title": "KubeCon Europe 2019",
+      "date": "May 20 2019 09:00 GMT+0100 (CET)",
+      "end-date": "May 23 2019 16:00 GMT+100 (CET)",
+      "locationName": "Fira Gran Via, Hall 8",
+      "registration": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/register/",
+      "infoLink": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/",
+      "description": "The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities in Barcelona, Spain from May 20-23, 2019. Join Kubernetes, Prometheus, Envoy, CoreDNS, OpenTracing, Fluentd, gRPC, containerd, rkt, CNI, Jaeger, Notary, TUF, Vitess, NATS, Linkerd, Helm, Harbor and etcd as the community gathers for four days to further the education and advancement of cloud native computing.",
+      "address": {
+        "street": "Carrer de l’Alumini",
+        "zip": "08908",
+        "city": "Barcelona",
+        "country": "Spain",
+        "geoLoc": {
+          "lat": "41.779356",
+          "lon": "1.859281"
+        }
+      }
+    },
+    {
+      "type": "ee",
       "title": "KubeCon + CloudNativeCon China 2018",
       "date": "November 13 2018 09:00 GMT+0100 (CET)",
       "end-date": "November 15 2018 16:00 GMT+100 (CET)",
@@ -389,6 +409,26 @@
         "geoLoc": {
           "lat": "48.152030",
           "lon": "11.616721"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "JAX",
+      "date": "May 6 2019 09:00 GMT+0100 (CET)",
+      "end-date": "May 10 2019 16:00 GMT+100 (CET)",
+      "locationName": "Rheinstraße 66",
+      "registration": "https://jax.de/tickets-en/?go=ok",
+      "infoLink": "https://jax.de/en/",
+      "description": "JAX is the conference for modern Java and web development, for software architecture and innovative infrastructure. Well-known experts convey their experience - understandable, practical and success-oriented. Special focus is on Java core and enterprise technologies, microservices, the Spring ecosystem, JavaScript, continuous delivery and DevOps.",
+      "address": {
+        "street": "Rheinstraße 66",
+        "zip": "55116",
+        "city": "Mainz",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "50.002121",
+          "lon": "8.275909"
         }
       }
     },
@@ -576,6 +616,26 @@
       "registration": "https://tmt.knect365.com/iot-world/purchase/select-package",
       "infoLink": "https://tmt.knect365.com/iot-world/",
       "description": "Bosch ConnectedWorld’s purpose is to provide the inspiration, education, and connections you need to thrive in IoT. This February, we will host more than 140 speakers on four stages presenting IoT trends and implementations in front of more than 3,500 conference and hackathon participants.",
+      "address": {
+        "street": "Luckenwalder Str. 4-6",
+        "zip": "10963",
+        "city": "Berlin",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "52.499945",
+          "lon": "13.375246"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "Bosch Connected World 2019",
+      "date": "May 15 2019 17:00 GMT+0100 (CET)",
+      "end-date": "May 16 2019 :18:00 GMT-6 (CST)",
+      "locationName": "STATION-Berlin",
+      "registration": "https://bosch-connected-world.com/attend/",
+      "infoLink": "https://bosch-connected-world.com/",
+      "description": "Bosch ConnectedWorld (BCW) brings together the best minds to catalyze the creation of connected products and solutions invented for life. The conference, the exhibition, the hackathon, and the diverse networking and collaboration formats are equally attractive to executives, decision makers, digital transformers, innovators, developers, entrepreneurs, and IoT enthusiasts.",
       "address": {
         "street": "Luckenwalder Str. 4-6",
         "zip": "10963",
@@ -2376,6 +2436,26 @@
       }
     },
     {
+      "type": "ee",
+      "title": "Red Hat Summit",
+      "date": "May 07 2019 08:00 GMT+0100 (CET)",
+      "end-date": "May 09 2019 16:45 GMT+0100 (CET)",
+      "locationName": "Boston Convention and Exhibition Center",
+      "registration": "https://www.redhat.com/it/summit/2019/about/rates",
+      "infoLink": "https://www.redhat.com/it/summit/2019",
+      "description": "Red Hat Summit is for anyone preparing for the future of technology ― a future built on open source. Join us in Boston to learn, network, and experience open source.",
+      "address": {
+        "street": "415 Summer St",
+        "zip": "02210",
+        "city": "Boston",
+        "country": "USA",
+        "geoLoc": {
+          "lat": "42.346982",
+          "lon": "-71.043210"
+        }
+      }
+    },
+    {
       "type": "ed",
       "title": "Hamburg Hackathon",
       "date": "Nov 13 2015 18:00 GMT+0500 (EST)",
@@ -3994,6 +4074,26 @@
       }
     },
     {
+      "type": "ee",
+      "title": "Devoxx France",
+      "date": "Apr 17 2019 09:30 GMT+0100 (CET)",
+      "end-date": "Apr 19 2019 22:00 GMT+0100 (CET)",
+      "locationName": "Palais des Congrès",
+      "registration": "https://reg.devoxx.fr/",
+      "infoLink": "https://www.devoxx.fr/",
+      "description": "The conference for Passionate Developers",
+      "address": {
+        "street": "2 Place de la Porte Maillot",
+        "zip": "75017",
+        "city": "Paris",
+        "country": "France",
+        "geoLoc": {
+          "lat": "48.878604",
+          "lon": "2.283229"
+        }
+      }
+    },
+    {
       "type": "ed",
       "title": "Eclipse Finance Day 2014",
       "date": "Oct 31 2014 08:30 GMT+0500 (EST)",
@@ -4798,6 +4898,27 @@
       "registration": "http://www.javaland.eu/en/registration.html",
       "infoLink": "http://www.javaland.eu",
       "description": "The Java Community Conference. For more information refer to <a href=http://www.javaland.eu/>the website</a>",
+      "keywords": "Java, iJUG, developer conference",
+      "address": {
+        "street": "Berggeiststraße 31-41",
+        "zip": "50321",
+        "city": "Bruehl",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "50.79902",
+          "lon": "6.88425"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "JavaLand 2019",
+      "date": "Mar 19 2019 09:00 GMT+0100 (CET)",
+      "end-date": "Mar 21 2019 18:00 GMT+0100 (CET)",
+      "locationName": "Phantasialand",
+      "registration": "https://www.javaland.eu/en/tickets-hotels/",
+      "infoLink": "https://www.javaland.eu/en/home/",
+      "description": "JavaLand 2019 welcomes you at Phantasialand Brühl. The big reunion of the community in the amusement park flair once again offers the ideal environment for knowledge exchange and networking. Numerous lectures by top speakers, interactive community activities and lots of fun await you.",
       "keywords": "Java, iJUG, developer conference",
       "address": {
         "street": "Berggeiststraße 31-41",
