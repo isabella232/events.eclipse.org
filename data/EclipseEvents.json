@@ -41,6 +41,26 @@
     },
     {
       "type": "ee",
+      "title": "OSS 2019",
+      "date": "May 26, 2019 09:00 GMT-0100 (CET)",
+      "end-date": "May 27 2019 18:00 GMT-0100 (CET)",
+      "locationName": "Fairmont The Queen Elizabeth Hotel",
+      "registration": "https://www.oss2019.org/attending/registration",
+      "infoLink": "https://conf.researchr.org/home/oss2019",
+      "description": "The International Conference on Open Source Systems, OSS aims at providing an international forum where a diverse community of professionals from academia, industry, and the public sector, and diverse FLOSS initiatives can come together to share research findings and practical experiences.",
+      "address": {
+        "street": "900 Rene Levesque Blvd. W",
+        "zip": "H3B 4A5",
+        "city": "Montreal, Quebec",
+        "country": "Canada",
+        "geoLoc": {
+          "lat": "45.572744",
+          "lon": "-73.586295"
+        }
+      }
+    },
+    {
+      "type": "ee",
       "title": "SiriusCon 2018",
       "date": "Dec 4, 2018 09:00 GMT-0100 (CET)",
       "end-date": "Dec 5 2018 18:00 GMT-0100 (CET)",
