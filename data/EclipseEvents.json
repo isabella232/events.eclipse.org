@@ -3875,6 +3875,26 @@
     },
     {
       "type": "wg",
+      "title": "openGENESIS Working Group - First Meeting",
+      "date": "April 30 2019 09:00 GMT+0100 (CET)",
+      "end-date": "April 30 2019 17:00 GMT+0100 (CET)",
+      "locationName": "TÜV Süd Auto Service GmbH",
+      "registration": "https://www.eventbrite.com/e/opengenesis-meeting-tickets-3750552002",
+      "infoLink": "https://wiki.eclipse.org/OpenGENESIS_WG#First_meeting_of_the_openGENESIS_Working_Group.2C_T.C3.9CV_S.C3.BCd.2C_Munich",
+      "description": "This event will bring all interested parties together for information about the Eclipse Working Group idea. We will also discuss technical aspects that seem interesting for closer examination and start an open exchange.",
+      "address": {
+        "street": "Daimlerstr. 11",
+        "zip": "85748",
+        "city": "Garching b. Munich",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "48.365490",
+          "lon": "9.941630"
+        }
+      }
+    },
+    {
+      "type": "wg",
       "title": "LocationTech Meetup Toronto",
       "date": "Nov 10 2014 18:30 GMT+0100 (CET)",
       "end-date": "Nov 10 2014 21:30 GMT+0100 (CET)",
