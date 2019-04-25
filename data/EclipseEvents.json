@@ -572,6 +572,25 @@
     },
     {
       "type": "ed",
+      "title": "Eclipse IoT Day Paris Saclay 2019",
+      "date": "June 4 2019 09:00 GMT-0900 (PDT)",
+      "locationName": "Nano-INNOV - Amphitheater 33-34, Building 862",
+      "registration": "https://www.eventbrite.com/e/eclipse-iot-day-paris-saclay-2019-tickets-60845532626",
+      "infoLink": "https://wiki.eclipse.org/Eclipse_IoT_Day_Paris_Saclay_2019",
+      "description": "For the first time, the Eclipse IoT community will organize an event in Paris Saclay. For this one-day event, we are building a great program that includes topics like Smart cities, Edge computing, Industry 4.0, Robotics, as well as the core Eclipse IoT technologies.",
+      "address": {
+        "street": "8 Avenue de la Vauve",
+        "zip": "91120",
+        "city": "Palaiseau",
+        "country": "France",
+        "geoLoc": {
+          "lat": "48.712747",
+          "lon": "2.193175"
+        }
+      }
+    },
+    {
+      "type": "ed",
       "title": "Eclipse IoT Day at IoT World",
       "date": "May 13 2019 09:00 GMT-0900 (PDT)",
       "locationName": "Santa Clara Convention Center",
