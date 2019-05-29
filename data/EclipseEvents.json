@@ -1,6 +1,26 @@
 {
   "events": [
     {
+      "type": "ee",
+      "title": "Theia Developer Conference",
+      "date": "Jun 4, 2019 09:00 GMT+0100 (CET)",
+      "end-date": "Jun 5, 2019 16:00 GMT+0100 (CET)",
+      "locationName": "Ericsson AB",
+      "registration": "https://theiadevcon.org/#register",
+      "infoLink": "https://theiadevcon.org/",
+      "description": "This is the right place to get in touch with members from the community and discuss the platform architecture, internals and future of the Theia project. We welcome the participation of Theia extenders, contributors and developers.",
+      "address": {
+        "street": "Isafjordsgatan 14E",
+        "zip": "164 83",
+        "city": "Kista",
+        "country": "Sweden",
+        "geoLoc": {
+          "lat": "59.403505",
+          "lon": "17.950605"
+        }
+      }
+    },
+    {
       "type": "dc",
       "title": "DemoCamp Regensburg",
       "date": "Nov 19, 2018 17:30 GMT+0100 (CET)",
