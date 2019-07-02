@@ -32,6 +32,16 @@ make your changes and commit <br>
     $ vi data/EclipseEvents.json // vi or use any other editor
     $ git add .
     $ git commit -m "commit comments"
+    
+### Rebuild content locally for testing
+
+This project uses Grunt to compile and run build tasks on a watch task. In order to test scripts and the like locally you will need to do the following:
+
+- Run `npm install` in the project root to retrieve the required frameworks to run a local build.
+- Run `npm run-script bower install` in the project root to install JS and less dependencies.
+- Run `npm run-script grunt` to start Grunt watching the folder  
+- Make your local changes to the JS/less files to trigger grunt to build  
+- Open `index.html` from the root of the project. Some minor tweaks may need to be done to run this file locally without a web server (such as adding `https:` to the front of the main.min.js script source attribute at the bottom of the page). These changes should stay local and not be pushed up with your script changes.
 
 ### Push changes to Eclipse Foundation git/Gerrit
 You will be asked for a password, you can retrieve it with https://git.eclipse.org/r/#/settings/http-password. Please use your Bugzilla login credentials and copy the password. Replace (yourname) with your git / Gerrit user name.
@@ -46,7 +56,7 @@ Open https://git.eclipse.org/r/#/q/project:websites/events.eclipse.org,n,z in yo
 
 Review changes (this is a more complex task that needs to be discussed)
 
-## Copy and edit template for new event entries in the Jason File
+## Copy and edit template for new event entries in the JSON File
 
 file location: data/EclipseEvents.json
 
@@ -64,7 +74,7 @@ We hope to find a more general solution in the future.We are not using the time 
 
     {
         "type":"xx",
-	    "title":"title",
+        "title":"title",
         "date":"date",
         "time":"time",
         "locationName":"location",

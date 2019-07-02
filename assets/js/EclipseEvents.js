@@ -43,6 +43,9 @@ function processData(data) {
     // --- first, convert event's date field to real date, then sort events by date
     for (var i in allEclipseEvents) {
         allEclipseEvents[i].dateTime = new Date(allEclipseEvents[i].date);
+        if (allEclipseEvents[i]['end-date'] != undefined) {
+        	allEclipseEvents[i].endDateTime = new Date(allEclipseEvents[i]['end-date']);
+        }
     }
     allEclipseEvents.sort(compareEventsByRankAndDate);
 
@@ -51,7 +54,7 @@ function processData(data) {
     for (var regionId in regionInfos) {
         $("#regionButtons").append("<button id=" + regionId + " onClick=\"regionButtonClicked(this.id)\" class=\"btn btn-default regionButton\">" + regionInfos[regionId].name + "</button>");
     }
-
+ 
     // ----------- Mail missing Events-Text:
     $("#eventsmail1").append(
         "<p class=\"text-right\">Missing your event on this site? Please open a bug on <a href=\"https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Community&component=events.eclipse.org\">Eclipse Bugzilla</a>.<br> You may also send email to <a href=\"mailto:events@eclipse.org\">events@eclipse.org</a>, but Bugzilla is the better option.</p>");
@@ -132,6 +135,9 @@ function fillMap(year, futureEventsOnly) {
         }
 
         var texttitle = eclipseEvents[i].title + ", " + eclipseEvents[i].dateTime.toDateString();
+        if (eclipseEvents[i].endDateTime != undefined) {
+        	texttitle += " - " + eclipseEvents[i].endDateTime.toDateString();
+        }
         var description = createHtmlDescription(eclipseEvents[i]);
 
         // create marker for map:
