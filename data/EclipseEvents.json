@@ -1,6 +1,25 @@
 {
   "events": [
     {
+      "type": "wg",
+      "title": "JakartaOne Livestream",
+      "date": "Sep 10, 2019 09:00 GMT+0100 (CET)",
+      "locationName": "Virtual Conference",
+      "registration": "https://www.crowdcast.io/e/nztuljys",
+      "infoLink": "https://jakartaone.org",
+      "description": "JakartaOne Livestream is a one day virtual conference for developers and technical business leaders that brings insights into the current state and future of Jakarta EE and related technologies focused on developing cloud native Java applications.",
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": "",
+        "geoLoc": {
+          "lat": "45.336632",
+          "lon": "-75.798805"
+        }
+      }
+    },
+    {
       "type": "ee",
       "title": "Theia Developer Conference",
       "date": "Jun 4, 2019 09:00 GMT+0100 (CET)",
