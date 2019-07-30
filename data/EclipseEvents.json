@@ -1,6 +1,26 @@
 {
   "events": [
     {
+      "type": "ee",
+      "title": "International CTI Conference",
+      "date": "Nov 12, 2019",
+      "end-date": "Nov 13, 2019",
+      "locationName": "Mövenpick Hotel Stuttgart Airport",
+      "registration": "https://www.euroforum.de/software-eng/registration/",
+      "infoLink": "https://www.euroforum.de/software-eng/",
+      "description": "On 12 – 13 November 2019, decision-makers and developers from the industry will meet in Stuttgart to discuss the future of automotive software.",
+      "address": {
+        "street": "Flughafenstraße 50",
+        "zip": "70629",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "48.692250",
+          "lon": "9.192120"
+        }
+      }
+    },
+    {
       "type": "wg",
       "title": "JakartaOne Livestream",
       "date": "Sep 10, 2019 09:00 GMT+0100 (CET)",
