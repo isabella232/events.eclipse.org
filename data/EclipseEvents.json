@@ -2,6 +2,24 @@
   "events": [
     {
       "type": "ee",
+      "title": "Bitkom Forum Open Source",
+      "date": "Sep 17, 2019",
+      "locationName": "Arena am Steigerwald",
+      "description": "The Bitkom Forum Open Source 2019 deepens the topic of digital ecosystems and provides a platform for the exchange, stocktaking and concepts of a cooperative, efficient and transparent cooperation with open source.",
+      "infoLink": "https://www.bitkom.org/bfoss19",
+      "address": {
+        "street": "Mozartallee 3",
+        "zip": "99096",
+        "city": "Erfurt",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "50.960660",
+          "lon": "11.038460"
+        }
+      }
+    },
+    {
+      "type": "ee",
       "title": "International CTI Conference",
       "date": "Nov 12, 2019",
       "end-date": "Nov 13, 2019",
