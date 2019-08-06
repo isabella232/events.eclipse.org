@@ -2,6 +2,25 @@
   "events": [
     {
       "type": "ee",
+      "title": "ASAM International Conference 2019",
+      "date": "Dec 10, 2019",
+      "end-date": "Dec 11, 2019 ",
+      "locationName": "International Congress Center",
+      "description": "Autonomous Driving – Standardized Virtual Development as a Key to Future Mobility. Hosted in cooperation with the Saxon State Ministry for Economic Affairs, Labour and Transport.",
+      "infoLink": "https://www.asam.net/conferences-events/detail/asam-international-conference-2019/",
+      "address": {
+        "street": "Ostra-Ufer 2",
+        "zip": "01067",
+        "city": "Dresden",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "51.058681",
+          "lon": "13.730920"
+        }
+      }
+    },
+    {
+      "type": "ee",
       "title": "Bitkom Forum Open Source",
       "date": "Sep 17, 2019",
       "locationName": "Arena am Steigerwald",
