@@ -2,6 +2,105 @@
   "events": [
     {
       "type": "ee",
+      "title": "KubeCon & CloudNativeCon North America 2019",
+      "date": "Nov 18, 2019",
+      "end-date": "Nov 21, 2019 ",
+      "locationName": "San Diego Convention Center",
+      "description": "The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities. Join Kubernetes, Prometheus, Envoy, CoreDNS, containerd, Fluentd, OpenTracing, gRPC, rkt, CNI, Jaeger, Notary, TUF, Vitess, NATS, Linkerd, Helm, Rook, Harbor, etcd, Open Policy Agent, CRI-O, and TiKV as the community gathers for four days to further the education and advancement of cloud native computing.",
+      "infoLink": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/",
+      "registration": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/register/",
+      "address": {
+        "street": "111 W Harbor Drive",
+        "zip": "92101",
+        "city": "San Diego",
+        "country": "USA",
+        "geoLoc": {
+          "lat": "32.7063457",
+          "lon": "-117.1619119"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "Embedded Conference Scandinavia",
+      "date": "Nov 5, 2019",
+      "end-date": "Nov 6, 2019 ",
+      "locationName": "Kistamässan",
+      "description": "ECS was initiated in 2006 by the Swedish Electronics Trade Association, Svensk Elektronik, and now it cements its position as Europe's largest conference with an adjoining exhibition with nearly 2,000 visits in 2018.",
+      "infoLink": "http://www.embeddedconference.se/app/netattm/attendee/page/82448",
+      "address": {
+        "street": "Arne Beurlings Torg 5",
+        "zip": "164 40",
+        "city": "Kista",
+        "country": "Sweden",
+        "geoLoc": {
+          "lat": "59.4069476",
+          "lon": "17.9569471"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "Devoxx Belgium",
+      "date": "Nov 4, 2019",
+      "end-date": "Nov 8, 2019",
+      "locationName": "Kinepolis",
+      "description": "Devoxx Belgium is a 5-day conference where developers and architects come together and explore the latest technology advancements and fascinating ideas, with some of the most inspiring speakers in our sector.",
+      "infoLink": "https://devoxx.be/",
+      "registration": "https://reg.devoxx.be/event/dv19/",
+      "address": {
+        "street": "Groenendaallaan 394",
+        "zip": "2030",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "geoLoc": {
+          "lat": "51.2457755",
+          "lon": "4.4173203"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "Oracle Code One",
+      "date": "Sep 15, 2019",
+      "end-date": "Sep 19, 2019",
+      "locationName": "Moscone Center",
+      "description": "Oracle Code One is the ultimate developer event where we will cover the technologies and programming languages developers have come to love over the years. Expect talks on Go, Rust, Python, JavaScript, and R and SQL along with more of the latest Java technical content.",
+      "infoLink": "https://www.oracle.com/code-one/",
+      "register": "https://www.oracle.com/code-one/register.html",
+      "address": {
+        "street": "747 Howard Street",
+        "zip": "94103",
+        "city": "San Francisco",
+        "country": "USA",
+        "geoLoc": {
+          "lat": "37.7837814",
+          "lon": "-122.4013699"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "Models 2019",
+      "date": "Sep 15, 2019",
+      "end-date": "Sep 20, 2019",
+      "locationName": "Holiday Inn Munich – City Centre",
+      "description": "MODELS, the ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems, is the premier conference series for model-driven software and systems engineering, and is organized with support of ACM SIGSOFT and IEEE TCSE.",
+      "infoLink": "https://modelsconf19.org/",
+      "register": "https://modelsconf19.org/?page_id=54",
+      "address": {
+        "street": "Hochstrasse 3",
+        "zip": "81669",
+        "city": "München",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "48.1306615",
+          "lon": "11.5899825"
+        }
+      }
+    },
+    {
+      "type": "ee",
       "title": "ASAM International Conference 2019",
       "date": "Dec 10, 2019",
       "end-date": "Dec 11, 2019 ",
