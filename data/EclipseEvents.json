@@ -2,6 +2,25 @@
   "events": [
     {
       "type": "ee",
+      "title": "JVM Con - Hands-on cloud-native Java with MicroProfile",
+      "date": "Nov 27, 2019",
+      "locationName": "Pullman Cologne Hotel",
+      "description": "Ever wondered what makes a cloud-native application “cloud-native”? Ever wondered what the unique challenges are and how best to address them on fully-open Java technologies? In this workshop, you’ll learn what it means to be cloud-native and how that impacts application development. You’ll learn about Eclipse MicroProfile, an industry collaboration defining technologies for the development and management of cloud-native microservices. With a full set of MicroProfile workshop modules available to you, you’ll be able to start with the basics of REST services and progress to more advanced topics, or you can jump right in and develop secure, fault tolerant, configurable and monitorable microservices. Once you’ve developed your microservice, you can go ahead to package it in a Docker container and deploy it to a Kubernetes cluster. You can rest assured that your cloud-native microservices will perform well in the cloud.",
+      "infoLink": "https://www.jvm-con.de/programm/#/talk/full-day-workshop-hands-on-cloud-native-java-with-microprofile",
+      "registration": "https://www.eventbrite.de/e/jvm-con-die-konferenz-fur-java-entwickler-2019-tickets-54749748973?aff=escb&utm-source=cp&utm-term=listing&utm-campaign=social&utm-medium=discovery&utm-content=attendeeshare",
+      "address": {
+        "street": "Helenenstraße 14",
+        "zip": "50667",
+        "city": "Köln",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "50.939920",
+          "lon": "6.945800"
+        }
+      }
+    },
+    {
+      "type": "ee",
       "title": "KubeCon & CloudNativeCon North America 2019",
       "date": "Nov 18, 2019",
       "end-date": "Nov 21, 2019 ",
