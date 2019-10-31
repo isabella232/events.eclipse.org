@@ -2,6 +2,25 @@
   "events": [
     {
       "type": "ee",
+      "title": "Eclipse Tools Day Grenoble 2019",
+      "date": "Nov 19, 2019",
+      "locationName": "University Grenoble Alpes",
+      "description": "Engage in the local Eclipse-ecosystem Tools developer community this fall in Grenoble. We'll share knowledge about tools projects (editors, IDEs, Modeling...) that leverage Eclipse technologies like Eclipse Platform, EMF, LSP4J, Che... Additionally to the multiple high-quality technical presentations, the event is also and above everything an opportunity to meet local experts and project leads.",
+      "infoLink": "https://wiki.eclipse.org/Eclipse_Tools_Day_Grenoble_2019#Agenda",
+      "registration": "https://wiki.eclipse.org/Eclipse_Tools_Day_Grenoble_2019#.F0.9F.93.9B_Registration",
+      "address": {
+        "street": "621 Avenue Centrale",
+        "zip": "38400",
+        "city": "Saint-Martin-D'Hères",
+        "country": "France",
+        "geoLoc": {
+          "lat": "45.191640",
+          "lon": "5.766850"
+        }
+      }
+    },
+    {
+      "type": "ee",
       "title": "JVM Con - Hands-on cloud-native Java with MicroProfile",
       "date": "Nov 27, 2019",
       "locationName": "Pullman Cologne Hotel",
