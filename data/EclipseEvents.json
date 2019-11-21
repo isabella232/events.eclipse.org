@@ -353,6 +353,26 @@
       }
     },
     {
+      "type": "ee",
+      "title": "Edge Computing World",
+      "date": "Dec 9, 2019 09:00 GMT-0100 (CET)",
+      "end-date": "Dec 12, 2019 18:00 GMT-0100 (CET)",
+      "locationName": "Computer History Museum",
+      "registration": "https://www.edgecomputingworld.com/pricing-edge-options/",
+      "infoLink": "https://www.edgecomputing-world.com/",
+      "description": "Edge Computing World is a unique and diverse gathering of executives and stakeholders from the entire Edge ecosystem.",
+      "address": {
+        "street": "1401 N Shoreline Blvd",
+        "zip": "94043",
+        "city": "Mountain View",
+        "country": "United States",
+        "geoLoc": {
+          "lat": "37.414460",
+          "lon": "-122.077050"
+        }
+      }
+    },
+    {
       "type": "ed",
       "title": "Eclipse Volttron Days",
       "date": "Aug 21, 2018 09:00 GMT-700 (PDT)",
