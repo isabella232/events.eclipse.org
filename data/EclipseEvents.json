@@ -979,7 +979,7 @@
     },
     
     {
-      "type": "ed",
+      "type": "ee",
       "title": "FOSDEM",
       "date": "February 1 2020 (09:15-12:00) GMT+0100 (CET)",
       "end-date": "February 2 2020 :18:00 GMT+0100 (CET)",
@@ -999,7 +999,7 @@
       }
     },
     {
-      "type": "ed",
+      "type": "ee",
       "title": "OOP Munich",
       "date": "February 3 2020 (09:15-12:00) GMT+0100 (CET)",
       "end-date": "February 7 2020 :18:00 GMT+0100 (CET)",
@@ -1019,7 +1019,7 @@
       }
     },
     {
-      "type": "ed",
+      "type": "ee",
       "title": "Bosch ConnectedWorld",
       "date": "February 19 2020 (09:15-12:00) GMT+0100 (CET)",
       "end-date": "February 20 2020 :18:00 GMT+0100 (CET)",
@@ -1039,7 +1039,7 @@
       }
     },
     {
-      "type": "ed",
+      "type": "ee",
       "title": "Devnexus",
       "date": "February 19 2020 (09:15-12:00) GMT+0100 (CET)",
       "end-date": "February 21 2020 :18:00 GMT+0100 (CET)",
