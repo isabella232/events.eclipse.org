@@ -977,6 +977,88 @@
         }
       }
     },
+    
+    {
+      "type": "ed",
+      "title": "FOSDEM",
+      "date": "February 1 2020 (09:15-12:00) GMT+0100 (CET)",
+      "end-date": "February 2 2020 :18:00 GMT+0100 (CET)",
+      "locationName": "ULB Solbosch Campus",
+      "registration": "https://fosdem.org/2020/",
+      "infoLink": "https://fosdem.org/2020/",
+      "description": "Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels.",
+      "address": {
+        "street": "Av. F.D. Roosevelt 50",
+        "zip": "1050",
+        "city": "Brussels",
+        "country": "Belgium",
+        "geoLoc": {
+          "lat": "50.811359",
+          "lon": "4.381760"
+        }
+      }
+    },
+    {
+      "type": "ed",
+      "title": "OOP Munich",
+      "date": "February 3 2020 (09:15-12:00) GMT+0100 (CET)",
+      "end-date": "February 7 2020 :18:00 GMT+0100 (CET)",
+      "locationName": "International Congress Center Munich",
+      "registration": "https://www.sigs-datacom.de/order/payment/oop2020_en.php?_ga=2.47394720.624396651.1574374423-1714592911.1574111120",
+      "infoLink": "https://www.oop-konferenz.de/oop2020/english.html",
+      "description": "Conference for software architecture.",
+      "address": {
+        "street": "Am Messessee 6",
+        "zip": "81829",
+        "city": "Munich",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "48.136760",
+          "lon": "11.692540"
+        }
+      }
+    },
+    {
+      "type": "ed",
+      "title": "Bosch ConnectedWorld",
+      "date": "February 19 2020 (09:15-12:00) GMT+0100 (CET)",
+      "end-date": "February 20 2020 :18:00 GMT+0100 (CET)",
+      "locationName": "STATION-Berlin",
+      "registration": "https://www.bcw-registration.com/",
+      "infoLink": "https://bosch-connected-world.com/",
+      "description": "The leading conference on IoT and digital transformation, Bosch ConnectedWorld 2020 is the meeting point for experts creating connected products and solutions.",
+      "address": {
+        "street": "Luckenwalder Str. 4–6",
+        "zip": "10963",
+        "city": "Berlin",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "52.499760",
+          "lon": "13.376050"
+        }
+      }
+    },
+    {
+      "type": "ed",
+      "title": "Devnexus",
+      "date": "February 19 2020 (09:15-12:00) GMT+0100 (CET)",
+      "end-date": "February 21 2020 :18:00 GMT+0100 (CET)",
+      "locationName": "Georgia World Congress Center",
+      "registration": "https://reg.connectevents.io/ConnectEvents/devnexus2020/",
+      "infoLink": "https://devnexus.com/",
+      "description": "Devnexus is the largest Java platform conference in the USA and one of the leading technology events held annually around the globe.",
+      "address": {
+        "street": "285 Andrew Young International Blvd NW",
+        "zip": "30303",
+        "city": "Atlanta",
+        "country": "United States",
+        "geoLoc": {
+          "lat": "52.499760",
+          "lon": "13.376050"
+        }
+      }
+    },
+    
     {
       "type": "wg",
       "title": "FOSS4G NA 2018",
