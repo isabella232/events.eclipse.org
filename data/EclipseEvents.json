@@ -2,6 +2,25 @@
   "events": [
     {
       "type": "ee",
+      "title": "Cloud Native for Java Day @ KubeCon EU",
+      "date": "March 30, 2020",
+      "locationName": "Amsterdam RAI",
+      "description": "Cloud Native for Java (CN4J) day is a full-day of expert talks, demos, and thought-provoking sessions focused on enterprise applications implemented using open source vendor-neutral Jakarta EE (successor of Java EE) and Eclipse MicroProfile specifications on Kubernetes. The open source Jakarta EE and MicroProfile communities are backed by the world’s leading innovators in Java, including IBM, Oracle, Fujitsu, Payara, Red Hat, and Tomitribe. ",
+      "infoLink": "http://eclipse-5413615.hs-sites.com/cn4j-day",
+      "registration": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/",
+      "address": {
+        "street": "Europaplein 24",
+        "zip": "1078 GZ",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "geoLoc": {
+          "lat": "52.341484",
+          "lon": "4.888201"
+        }
+      }
+    },
+    {
+      "type": "ee",
       "title": "Eclipse Tools Day Grenoble 2019",
       "date": "Nov 19, 2019",
       "locationName": "University Grenoble Alpes",
