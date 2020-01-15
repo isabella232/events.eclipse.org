@@ -19,6 +19,113 @@
         }
       }
     },
+    
+    
+    {
+      "type": "ee",
+      "title": "Huawei Developer Conference",
+      "date": "February 11, 2020",
+      "end-date": "February 12, 2020",
+      "locationName": "Shenzhen Convention and Exhibition Center",
+      "description": "Huawei’s annual flagship event is for global developers in the field of information and communication (ICT). The conference aims to build a global platform for communication and practice, and open Huawei’s accumulated ICT technology and capabilities over the past 30 years.",
+      "infoLink": "https://www.huaweicloud.com/HDC.Cloud.html",
+      "registration": "https://hdc.huaweicloud.com/2020/app_wap/sign/views/selectticket.html",
+      "address": {
+        "street": "Fuhua Third Road, Futian District",
+        "zip": "",
+        "city": "Shenzhen",
+        "country": "China",
+        "geoLoc": {
+          "lat": "23.009650",
+          "lon": "120.246400"
+        }
+      }
+    },
+    
+    {
+      "type": "ee",
+      "title": "IoT Day Grenoble",
+      "date": "February 14, 2020",
+      "locationName": "Maison de la Création et de l'Innovation",
+      "description": "We are back for a seventh edition of the Eclipse IoT Day Grenoble. For this one-day event, we have a great program that includes topics around Artificial Intelligence, Edge Computing, Smart cities, education of IoT, connected cars, as well as the Eclipse IoT core technologies.",
+      "infoLink": "https://www.eventbrite.com/e/eclipse-iot-day-grenoble-2020-tickets-89502320851",
+      "registration": "https://eclipse-iot-day-grenoble-2020.eventbrite.com/",
+      "address": {
+        "street": "339 avenue Centrale",
+        "zip": "38400",
+        "city": "Saint-Martin d'Hères",
+        "country": "France",
+        "geoLoc": {
+          "lat": "45.189750",
+          "lon": "5.771630"
+        }
+      }
+    },
+    
+    {
+      "type": "ee",
+      "title": "MWC20",
+      "date": "February 24, 2020",
+      "end-date": "February 27, 2020",
+      "locationName": "Fira Gran Via",
+      "description": "MWC is the largest mobile event in the world, bringing together the latest innovations and leading-edge technology alongside today’s most influential visionaries.",
+      "infoLink": "https://www.mwcbarcelona.com/",
+      "registration": "https://www.mwcbarcelona.com/register/",
+      "address": {
+        "street": "Av. Joan Carles I, 64",
+        "zip": "08908",
+        "city": "Barcelona",
+        "country": "Spain",
+        "geoLoc": {
+          "lat": "41.347570",
+          "lon": "2.134320"
+        }
+      }
+    },
+    
+    {
+      "type": "ee",
+      "title": "JavaLand",
+      "date": "March 17, 2020",
+      "end-date": "March 19, 2020",
+      "locationName": "Phantasialand",
+      "description": "JavaLand 2020 is a reunion of the community with amusement park flair, and offers the perfect environment for knowledge exchange and networking. Countless lectures by top speakers, interactive community activities, and lots of fun will await you!",
+      "infoLink": "https://www.javaland.eu/en/home/",
+      "registration": "https://www.javaland.eu/en/tickets-hotels/prices/",
+      "address": {
+        "street": "Berggeiststraße 31-41",
+        "zip": "50321",
+        "city": "Brühl",
+        "country": "Germany",
+        "geoLoc": {
+          "lat": "50.801170",
+          "lon": "6.878220"
+        }
+      }
+    },
+    
+    {
+      "type": "ee",
+      "title": "Cloud Native for Java Day / KubeCon + CloudNativeCon Europe",
+      "date": "March 30, 2020",
+      "end-date": "April 2, 2020",
+      "locationName": "RAI Amsterdam",
+      "description": "The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities.",
+      "infoLink": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+      "registration": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/",
+      "address": {
+        "street": "Europaplein 24",
+        "zip": "1078",
+        "city": "Amsterdam",
+        "country": "The Netherlands",
+        "geoLoc": {
+          "lat": "52.341320",
+          "lon": "4.889980"
+        }
+      }
+    },
+    
+    
     {
       "type": "ee",
       "title": "Eclipse Tools Day Grenoble 2019",
