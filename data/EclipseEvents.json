@@ -19,29 +19,6 @@
         }
       }
     },
-    
-    
-    {
-      "type": "ee",
-      "title": "Huawei Developer Conference",
-      "date": "February 11, 2020",
-      "end-date": "February 12, 2020",
-      "locationName": "Shenzhen Convention and Exhibition Center",
-      "description": "Huawei’s annual flagship event is for global developers in the field of information and communication (ICT). The conference aims to build a global platform for communication and practice, and open Huawei’s accumulated ICT technology and capabilities over the past 30 years.",
-      "infoLink": "https://www.huaweicloud.com/HDC.Cloud.html",
-      "registration": "https://hdc.huaweicloud.com/2020/app_wap/sign/views/selectticket.html",
-      "address": {
-        "street": "Fuhua Third Road, Futian District",
-        "zip": "",
-        "city": "Shenzhen",
-        "country": "China",
-        "geoLoc": {
-          "lat": "23.009650",
-          "lon": "120.246400"
-        }
-      }
-    },
-    
     {
       "type": "ee",
       "title": "IoT Day Grenoble",
