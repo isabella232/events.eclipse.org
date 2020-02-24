@@ -41,27 +41,6 @@
     
     {
       "type": "ee",
-      "title": "MWC20",
-      "date": "February 24, 2020",
-      "end-date": "February 27, 2020",
-      "locationName": "Fira Gran Via",
-      "description": "MWC is the largest mobile event in the world, bringing together the latest innovations and leading-edge technology alongside today’s most influential visionaries.",
-      "infoLink": "https://www.mwcbarcelona.com/",
-      "registration": "https://www.mwcbarcelona.com/register/",
-      "address": {
-        "street": "Av. Joan Carles I, 64",
-        "zip": "08908",
-        "city": "Barcelona",
-        "country": "Spain",
-        "geoLoc": {
-          "lat": "41.347570",
-          "lon": "2.134320"
-        }
-      }
-    },
-    
-    {
-      "type": "ee",
       "title": "JavaLand",
       "date": "March 17, 2020",
       "end-date": "March 19, 2020",
