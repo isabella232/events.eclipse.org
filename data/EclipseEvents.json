@@ -2,6 +2,64 @@
   "events": [
     {
       "type": "ee",
+      "title": "Dev.next",
+      "date": "March 24, 2020",
+      "end-date": "March 27, 2020",
+      "locationName": "Broomfield, Colorado",
+      "description": "Come to dev.next to learn with the practitioners, experts, and creators of the technologies that you care about. Get hands-on experience from the workshops and further your knowledge about various technologies and concepts during the conference.",
+      "infoLink":"https://www.devdotnext.com",
+      "registration": "https://www.devdotnext.com/register",
+      "address": {
+        "street": "500 Interlocken Blvd",
+        "zip": "80021",
+        "city": "Broomfield",
+        "country": "United States",
+        "geoLoc": {
+          "lat": "39.927670",
+          "lon": "-105.119890"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "Devvox UK",
+      "date": "May 13, 2020",
+      "end-date": "May 15, 2020",
+      "locationName": "London, United Kingdom",
+      "description": "Devoxx UK is a 3-day conference where developers and architects come together and explore the latest technology advancements and fascinating ideas, with some of the most inspiring speakers in our sector.",
+      "registration": "https://www.devoxx.co.uk",
+      "address": {
+        "street": "Business Design Centre, 52 Upper Street",
+        "zip": "N1 0QH",
+        "city": "London",
+        "country": "United Kingdom",
+        "geoLoc": {
+          "lat": "51.535439",
+          "lon": "-0.104220"
+        }
+      }
+    },
+    {
+      "type": "ee",
+      "title": "Devvox France",
+      "date": "April 15, 2020",
+      "end-date": "April 17, 2020",
+      "locationName": "Porte Maillot, Paris",
+      "description": "",
+      "registration": "https://www.devoxx.fr",
+      "address": {
+        "street": "2 Place De La Porte Maillot",
+        "zip": "75017",
+        "city": "Paris",
+        "country": "France",
+        "geoLoc": {
+          "lat": "48.878590",
+          "lon": "2.282360"
+        }
+      }
+    },
+    {
+      "type": "ee",
       "title": "Cloud Native for Java Day @ KubeCon EU",
       "date": "March 30, 2020",
       "locationName": "Amsterdam RAI",
