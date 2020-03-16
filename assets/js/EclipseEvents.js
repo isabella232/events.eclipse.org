@@ -44,7 +44,7 @@ function processData(data) {
     for (var i in allEclipseEvents) {
         allEclipseEvents[i].dateTime = new Date(allEclipseEvents[i].date);
         if (allEclipseEvents[i]['end-date'] != undefined) {
-        	allEclipseEvents[i].endDateTime = new Date(allEclipseEvents[i]['end-date']);
+            allEclipseEvents[i].endDateTime = new Date(allEclipseEvents[i]['end-date']);
         }
     }
     allEclipseEvents.sort(compareEventsByRankAndDate);
@@ -136,20 +136,22 @@ function fillMap(year, futureEventsOnly) {
 
         var texttitle = eclipseEvents[i].title + ", " + eclipseEvents[i].dateTime.toDateString();
         if (eclipseEvents[i].endDateTime != undefined) {
-        	texttitle += " - " + eclipseEvents[i].endDateTime.toDateString();
+            texttitle += " - " + eclipseEvents[i].endDateTime.toDateString();
         }
         var description = createHtmlDescription(eclipseEvents[i]);
 
-        // create marker for map:
-        var marker = createMarker(eclipseEvents[i], texttitle, description);
-
-        // collect marker depending on eventtype
-        if (eventtype in markers4Layer == false) {
-            markers4Layer[eventtype] = [];
+        // If event is not a virtual event, add to map
+        if (eclipseEvents[i].type !== "ve") {
+	        // create marker for map:
+	        var marker = createMarker(eclipseEvents[i], texttitle, description);
+	
+	        // collect marker depending on eventtype
+	        if (eventtype in markers4Layer == false) {
+	            markers4Layer[eventtype] = [];
+	        }
+	
+	        markers4Layer[eventtype].push(marker);
         }
-
-        markers4Layer[eventtype].push(marker);
-
         fillDescriptionsArea(eventtype, texttitle, description, i);
     }
 
@@ -334,8 +336,11 @@ function createHtmlDescription(eclipseEvent) {
     }
     d += "Address:" + "<br>";
     d += eclipseEvent.locationName + "<br>";
-    d += eclipseEvent.address.street + ", ";
-    d += eclipseEvent.address.zip + " " + eclipseEvent.address.city + ", " + eclipseEvent.address.country;
+    // only add address information if event is not virtual
+    if (eclipseEvent.type !== "ve") {
+	    d += eclipseEvent.address.street + ", ";
+	    d += eclipseEvent.address.zip + " " + eclipseEvent.address.city + ", " + eclipseEvent.address.country;
+    }
     d += "</p>";
     d += "<p>";
 
@@ -350,8 +355,10 @@ function createHtmlDescription(eclipseEvent) {
         d += "<a href=" + eclipseEvent.registration + " target=_blank> register here" + "</a>";
         d += "&nbsp;&nbsp;&nbsp;&nbsp;"
     }
-
-    d += "<a href=\"#\" onclick=\"showEventOnMap(" + "'" + eclipseEvent.type + "'" + "," + eclipseEvent.address.geoLoc.lat + "," + eclipseEvent.address.geoLoc.lon + ");\"> show on map</a>";
+    // only add marker onclick if event is not virtual 
+    if (eclipseEvent.type !== "ve") {
+    	d += "<a href=\"#\" onclick=\"showEventOnMap(" + "'" + eclipseEvent.type + "'" + "," + eclipseEvent.address.geoLoc.lat + "," + eclipseEvent.address.geoLoc.lon + ");\"> show on map</a>";
+    }
 
     d += "</span>";
     return d;
@@ -504,6 +511,17 @@ var eventTypeInfo = {
     ee: {
         rank: 6,
         name: "Other interesting Events",
+        image: "images/marker-icon-purple.png",
+        image_small: "images/small-marker-icon-purple.png",
+        color: "#9B3CB5",
+        icon_size: {
+            x: "25",
+            y: "41"
+        }
+    },
+    ve: {
+        rank: 7,
+        name: "Virtual Events",
         image: "images/marker-icon-purple.png",
         image_small: "images/small-marker-icon-purple.png",
         color: "#9B3CB5",

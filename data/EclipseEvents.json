@@ -1,80 +1,34 @@
 {
   "events": [
     {
-      "type": "ee",
-      "title": "Dev.next",
-      "date": "March 24, 2020",
-      "end-date": "March 27, 2020",
-      "locationName": "Broomfield, Colorado",
-      "description": "Come to dev.next to learn with the practitioners, experts, and creators of the technologies that you care about. Get hands-on experience from the workshops and further your knowledge about various technologies and concepts during the conference.",
-      "infoLink":"https://www.devdotnext.com",
-      "registration": "https://www.devdotnext.com/register",
+      "type": "ve",
+      "title": "IBM Think",
+      "date": "May 5, 2020",
+      "end-date": "May 7, 2020",
+      "locationName": "Virtual Event",
+      "description": "Learn about the latest advancements in open technologies from hybrid multicloud to data and AI. Interact with the luminaries who are using this tech to transform our lives.",
+      "infoLink": "https://www.ibm.com/events/think/",
+      "registration": "https://reg.tools.ibm.com/flow/ibm/think20/reg/",
       "address": {
-        "street": "500 Interlocken Blvd",
-        "zip": "80021",
-        "city": "Broomfield",
-        "country": "United States",
-        "geoLoc": {
-          "lat": "39.927670",
-          "lon": "-105.119890"
-        }
+        "street": "339 avenue Centrale",
+        "zip": "38400",
+        "city": "Saint-Martin d'Hères",
+        "country": "France"
       }
     },
     {
-      "type": "ee",
-      "title": "Devvox UK",
-      "date": "May 13, 2020",
-      "end-date": "May 15, 2020",
-      "locationName": "London, United Kingdom",
-      "description": "Devoxx UK is a 3-day conference where developers and architects come together and explore the latest technology advancements and fascinating ideas, with some of the most inspiring speakers in our sector.",
-      "registration": "https://www.devoxx.co.uk",
+      "type": "ve",
+      "title": "Red Hat Summit",
+      "date": "April 28, 2020",
+      "end-date": "April 29, 2020",
+      "locationName": "Virtual Event",
+      "description": "The Red Hat Summit Virtual Experience will be a free, immersive multi-day event that delivers inspiring content — keynotes, breakout sessions, access to Red Hat experts, and more.",
+      "infoLink": "https://www.redhat.com/en/summit",
       "address": {
-        "street": "Business Design Centre, 52 Upper Street",
-        "zip": "N1 0QH",
-        "city": "London",
-        "country": "United Kingdom",
-        "geoLoc": {
-          "lat": "51.535439",
-          "lon": "-0.104220"
-        }
-      }
-    },
-    {
-      "type": "ee",
-      "title": "Devvox France",
-      "date": "April 15, 2020",
-      "end-date": "April 17, 2020",
-      "locationName": "Porte Maillot, Paris",
-      "description": "",
-      "registration": "https://www.devoxx.fr",
-      "address": {
-        "street": "2 Place De La Porte Maillot",
-        "zip": "75017",
-        "city": "Paris",
-        "country": "France",
-        "geoLoc": {
-          "lat": "48.878590",
-          "lon": "2.282360"
-        }
-      }
-    },
-    {
-      "type": "ee",
-      "title": "Cloud Native for Java Day @ KubeCon EU",
-      "date": "March 30, 2020",
-      "locationName": "Amsterdam RAI",
-      "description": "Cloud Native for Java (CN4J) day is a full-day of expert talks, demos, and thought-provoking sessions focused on enterprise applications implemented using open source vendor-neutral Jakarta EE (successor of Java EE) and Eclipse MicroProfile specifications on Kubernetes. The open source Jakarta EE and MicroProfile communities are backed by the world’s leading innovators in Java, including IBM, Oracle, Fujitsu, Payara, Red Hat, and Tomitribe. ",
-      "infoLink": "http://eclipse-5413615.hs-sites.com/cn4j-day",
-      "registration": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/",
-      "address": {
-        "street": "Europaplein 24",
-        "zip": "1078 GZ",
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "geoLoc": {
-          "lat": "52.341484",
-          "lon": "4.888201"
-        }
+        "street": "339 avenue Centrale",
+        "zip": "38400",
+        "city": "Saint-Martin d'Hères",
+        "country": "France"
       }
     },
     {
@@ -96,50 +50,6 @@
         }
       }
     },
-    
-    {
-      "type": "ee",
-      "title": "JavaLand",
-      "date": "March 17, 2020",
-      "end-date": "March 19, 2020",
-      "locationName": "Phantasialand",
-      "description": "JavaLand 2020 is a reunion of the community with amusement park flair, and offers the perfect environment for knowledge exchange and networking. Countless lectures by top speakers, interactive community activities, and lots of fun will await you!",
-      "infoLink": "https://www.javaland.eu/en/home/",
-      "registration": "https://www.javaland.eu/en/tickets-hotels/prices/",
-      "address": {
-        "street": "Berggeiststraße 31-41",
-        "zip": "50321",
-        "city": "Brühl",
-        "country": "Germany",
-        "geoLoc": {
-          "lat": "50.801170",
-          "lon": "6.878220"
-        }
-      }
-    },
-    
-    {
-      "type": "ee",
-      "title": "KubeCon + CloudNativeCon Europe",
-      "date": "March 30, 2020",
-      "end-date": "April 2, 2020",
-      "locationName": "RAI Amsterdam",
-      "description": "The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities.",
-      "infoLink": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
-      "registration": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/",
-      "address": {
-        "street": "Europaplein 24",
-        "zip": "1078",
-        "city": "Amsterdam",
-        "country": "The Netherlands",
-        "geoLoc": {
-          "lat": "52.341320",
-          "lon": "4.889980"
-        }
-      }
-    },
-    
-    
     {
       "type": "ee",
       "title": "Eclipse Tools Day Grenoble 2019",

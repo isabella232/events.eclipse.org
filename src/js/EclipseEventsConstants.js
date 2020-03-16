@@ -82,6 +82,17 @@ var eventTypeInfo = {
             y: "41"
         }
     },
+    ve: {
+        rank: 7,
+        name: "Virtual Events",
+        image: "images/marker-icon-purple.png",
+        image_small: "images/small-marker-icon-purple.png",
+        color: "#9B3CB5",
+        icon_size: {
+            x: "25",
+            y: "41"
+        }
+    },
     unknown: {
         name: "unknown",
         image: "images/marker-icon-gray.png",
