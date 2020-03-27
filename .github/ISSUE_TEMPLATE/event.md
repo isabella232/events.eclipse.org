@@ -13,7 +13,7 @@ Website URL:
 Location name:
 Street: 
 Zip/Postal code:
-city:
+City:
 Country: 
 Latitude:
 Longitude:
