@@ -1,0 +1,9 @@
+{{ define "footer-suffix" }}
+<script>
+  // TODO 3 alternatives for calling the init function:
+  window.onload = initialize;
+  // the following works NOT for IE <= 8 !!!!
+  //document.addEventListener("DOMContentLoaded", initialize, false);
+  //$(initialize);
+</script>
+{{ end }}

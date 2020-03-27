@@ -1,31 +1,29 @@
 {
-  "name": "events.eclipse.org",
-  "version": "0.0.1",
-  "description": "The site provides events for the Eclipse ecosystem.",
-  "main": "Gruntfile.js",
-  "author": "Angelika Wittek",
-  "contributors": [
-    "Christopher Guindon <chris.guindon@eclipse.org> (http://www.chrisguindon.com)",
-    "Ralph Mueller <ralph@eclipse.org>"
-  ],
-  "license": "EPL",
+  "name": "eclipsefdn-hugo-events",
+  "description": "Source code for events.eclipse.org",
+  "main": "webpack.min.js",
+  "author": "Christopher Guindon",
+  "license": "EPL-2.0",
+  "version": "0.0.0",
   "bugs": {
-    "url": "https://bugs.eclipse.org/bugs/buglist.cgi?component=Website&list_id=8318814&product=Community&resolution=---"
+    "url": "https://github.com/eclipsefdn/events.eclipse.org/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eclipsefdn/events.eclipse.org.git"
   },
   "scripts": {
-    "grunt": "node_modules/.bin/grunt",
-    "bower": "node_modules/.bin/bower",
-    "postinstall": "find node_modules/ -name '*.info' -type f -delete"
+    "dev": "NODE_ENV=development webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "NODE_ENV=development webpack --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "hot": "NODE_ENV=development webpack-dev-server --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "production": "NODE_ENV=production webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "install": "NODE_ENV=production npm run production",
+    "disallow_robots_txt": "echo \"User-agent: *\r\nDisallow: /\" > layouts/robots.txt",
+    "build_netlify": "NODE_ENV=production npm run disallow_robots_txt && npm run production"
   },
-  "readmeFilename": "readme.md",
-  "devDependencies": {
-    "bower": "^1.4.1",
-    "grunt": "^0.4.5",
-    "grunt-cli": "^0.1.13",
-    "grunt-contrib-concat": "~0.4.0",
-    "grunt-contrib-copy": "^0.5.0",
-    "grunt-contrib-less": "^1.0.1",
-    "grunt-contrib-uglify": "^0.9.1",
-    "grunt-contrib-watch": "^0.6.1"
+  "dependencies": {
+    "eclipsefdn-hugo-solstice-theme": "0.0.58",
+    "leaflet": "^0.7.7",
+    "leaflet.markercluster": "^0.5.0"
   }
 }

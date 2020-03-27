@@ -1,0 +1,98 @@
+/* @CHARSET "UTF-8"; */
+/*!
+ * Copyright (c) 2019 Eclipse Foundation, Inc.
+ * 
+ * This program and the accompanying materials are made available under the
+ * terms of the Eclipse Public License v. 2.0 which is available at
+ * http://www.eclipse.org/legal/epl-2.0.
+ * 
+ * Contributors:
+ *   Christopher Guindon <chris.guindon@eclipse-foundation.org>
+ * 
+ * SPDX-License-Identifier: EPL-2.0
+*/
+
+@import '~eclipsefdn-solstice-assets/less/quicksilver/styles.less';
+@import '_variables.less';
+@import (less) "~leaflet/dist/leaflet.css";
+@import (less) "~leaflet.markercluster/dist/MarkerCluster.Default.css";
+@import (less) "~leaflet.markercluster/dist/MarkerCluster.css";
+
+@background: #e8e8e8;
+@title_background: @brand-tertiary; 
+
+#mapSection {
+  #map {
+    border: 10px solid @background;
+    height: 500px;
+  }
+}
+
+#regionButtons{
+  padding-bottom:5px;
+  .regionButton {
+    margin-right:9px;
+  }
+}
+
+.yearFilter {
+  margin-top:8px;
+  margin-bottom:-15px;
+}
+
+#descriptons {
+  .eventType {
+    background-color: @background;
+    padding-bottom:10px;
+  }
+
+  p {
+    margin-bottom:5px;
+    margin-top:5px;
+  }
+
+  .eventTypeTitle {
+    font-size: 18.2px;
+    font-weight: 600;
+    background: @title_background;
+    padding-left:20px;
+    padding-bottom:10px;
+    padding-top:10px;
+    color: #fff;
+  }
+
+  .revealCollapse {
+    cursor: pointer;
+    margin: 2px 0;
+    padding-left:43px;
+    font-weight: bold;
+    color: @text-color;
+    &:hover {
+      color: @link-hover-color;
+    }
+  }
+
+  .collapseText {
+    font-weight: 400;
+    display:none;
+    padding:15px;
+    margin: 10px 10px 10px 43px;
+    background: #fff;
+    a:hover {
+      color:black;
+    }
+  }
+}
+
+.clusterIcon{
+  width:34px;
+  height:34px;
+  border-radius:17px;
+  font-size:17px;
+  font-weight: bold;
+  color:#fff;
+  line-height:34px;
+  text-align:center;
+  background:#000;
+  opacity: 0.8;
+}

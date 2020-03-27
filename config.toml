@@ -1,0 +1,55 @@
+baseurl = "https://events.eclipse.org/"
+DefaultContentLanguage = "en"
+title = "Eclipse Events"
+theme = "eclipsefdn-hugo-solstice-theme"
+metaDataFormat = "yaml"
+disableKinds = []
+themesDir = "node_modules/"
+enableRobotsTXT = true
+pluralizeListTitles = false
+
+[Params]
+  google_tag_manager = "GTM-5WLCZXC"
+  description = "The site provides date, time and place for the various events (conferences, demo camps, special days, hackathons and trainings) for the Eclipse ecosystem, displayed on a convenient map of the world."
+  seo_title_suffix = " | The Eclipse Foundation"
+  keywords = ["eclipse", "event", "democamp", "EclipseCon", "eclipse day", "hackathon", "EclipseCon Europe", "EclipseCon France", "Eclipse Training", "ECE", "ECF", "Eclipse Foundation", "conference"]
+# logo = ""
+  styles = "css/styles.css"
+# favicon = ""
+# share_img = ""
+  gcse = "011805775785170369411:p3ec0igo0qq"
+  js = "js/solstice.js"
+
+[taxonomies]
+
+[Author]
+  name = "Christopher Guindon"
+  website = "https://www.eclipse.org"
+  email = "webdev@eclipse-foundation.org"
+  facebook = "eclipse.org"
+  twitter = "EclipseFdn"
+  youtube = "EclipseFdn"
+  googleplus = "+Eclipse"
+  linkedin = "company/eclipse-foundation/"
+
+[permalinks]
+  news = "/:sections/:year/:month/:day/:slug/"
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+[[menu.main]]
+    name = "Members"
+    url = "https://www.eclipse.org/membership/"
+    weight = 1
+
+[[menu.main]]
+    name = "Working Groups"
+    url = "https://www.eclipse.org/org/workinggroups/"
+    weight = 2
+
+[[menu.main]]
+    name = "Projects"
+    url = "https://www.eclipse.org/projects/"
+    weight = 3
