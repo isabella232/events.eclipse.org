@@ -57,9 +57,9 @@ function processData(data) {
  
     // ----------- Mail missing Events-Text:
     $("#eventsmail1").append(
-        "<p class=\"text-right\">Missing your event on this site? Please open a bug on <a href=\"https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Community&component=events.eclipse.org\">Eclipse Bugzilla</a>.<br> You may also send email to <a href=\"mailto:events@eclipse.org\">events@eclipse.org</a>, but Bugzilla is the better option.</p>");
+        "<p class=\"text-right\">Missing your event on this site? Please open an issue on <a href=\"https://github.com/EclipseFdn/events.eclipse.org/issues/new?template=event.md\">GitHub</a>.<br> You may also send email to <a href=\"mailto:events@eclipse.org\">events@eclipse.org</a>, but GitHub is the better option.</p>");
     $("#eventsmail2").append(
-        "<p class=\"text-right\">Missing your event on this site? Please open a bug on <a href=\"https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Community&component=events.eclipse.org\">Eclipse Bugzilla</a>.<br> You may also send email to <a href=\"mailto:events@eclipse.org\">events@eclipse.org</a>, but Bugzilla is the better option.</p>");
+        "<p class=\"text-right\">Missing your event on this site? Please open an issue on <a href=\"https://github.com/EclipseFdn/events.eclipse.org/issues/new?template=event.md\">GitHub</a>.<br> You may also send email to <a href=\"mailto:events@eclipse.org\">events@eclipse.org</a>, but GitHub is the better option.</p>");
 
     // ----------- Create Buttons for filtering events by year:
     var currentYear = new Date().getFullYear();
