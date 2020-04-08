@@ -3,38 +3,38 @@
     {
       "type": "ve",
       "title": "IBM Think",
-      "date": "May 5, 2020",
-      "end-date": "May 7, 2020",
+      "date": "May 5, 2020 11:00 GMT-0400 (EDT)",
+      "end-date": "May 7, 2020 21:00 GMT-0400 (EDT)",
       "locationName": "Virtual Event",
       "description": "Learn about the latest advancements in open technologies from hybrid multicloud to data and AI. Interact with the luminaries who are using this tech to transform our lives.",
       "infoLink": "https://www.ibm.com/events/think/",
       "registration": "https://reg.tools.ibm.com/flow/ibm/think20/reg/",
       "address": {
-        "street": "339 avenue Centrale",
-        "zip": "38400",
-        "city": "Saint-Martin d'Hères",
-        "country": "France"
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
       }
     },
     {
       "type": "ve",
       "title": "Red Hat Summit",
-      "date": "April 28, 2020",
-      "end-date": "April 29, 2020",
+      "date": "April 28, 2020 09:00 GMT-0400 (EDT)",
+      "end-date": "April 29, 2020 22:00 GMT-0400 (EDT)",
       "locationName": "Virtual Event",
       "description": "The Red Hat Summit Virtual Experience will be a free, immersive multi-day event that delivers inspiring content — keynotes, breakout sessions, access to Red Hat experts, and more.",
       "infoLink": "https://www.redhat.com/en/summit",
       "address": {
-        "street": "339 avenue Centrale",
-        "zip": "38400",
-        "city": "Saint-Martin d'Hères",
-        "country": "France"
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
       }
     },
     {
       "type": "ee",
       "title": "IoT Day Grenoble",
-      "date": "February 14, 2020",
+      "date": "February 14, 2020 09:00 GMT+0100 (CET)",
       "locationName": "Maison de la Création et de l'Innovation",
       "description": "We are back for a seventh edition of the Eclipse IoT Day Grenoble. For this one-day event, we have a great program that includes topics around Artificial Intelligence, Edge Computing, Smart cities, education of IoT, connected cars, as well as the Eclipse IoT core technologies.",
       "infoLink": "https://www.eventbrite.com/e/eclipse-iot-day-grenoble-2020-tickets-89502320851",
@@ -53,7 +53,7 @@
     {
       "type": "ee",
       "title": "Eclipse Tools Day Grenoble 2019",
-      "date": "Nov 19, 2019",
+      "date": "Nov 19, 2019 09:00 GMT+0100 (CET)",
       "locationName": "University Grenoble Alpes",
       "description": "Engage in the local Eclipse-ecosystem Tools developer community this fall in Grenoble. We'll share knowledge about tools projects (editors, IDEs, Modeling...) that leverage Eclipse technologies like Eclipse Platform, EMF, LSP4J, Che... Additionally to the multiple high-quality technical presentations, the event is also and above everything an opportunity to meet local experts and project leads.",
       "infoLink": "https://wiki.eclipse.org/Eclipse_Tools_Day_Grenoble_2019#Agenda",
@@ -72,7 +72,7 @@
     {
       "type": "ee",
       "title": "JVM Con - Hands-on cloud-native Java with MicroProfile",
-      "date": "Nov 27, 2019",
+      "date": "Nov 27, 2019 09:00 GMT+0200 (CEST)",
       "locationName": "Pullman Cologne Hotel",
       "description": "Ever wondered what makes a cloud-native application “cloud-native”? Ever wondered what the unique challenges are and how best to address them on fully-open Java technologies? In this workshop, you’ll learn what it means to be cloud-native and how that impacts application development. You’ll learn about Eclipse MicroProfile, an industry collaboration defining technologies for the development and management of cloud-native microservices. With a full set of MicroProfile workshop modules available to you, you’ll be able to start with the basics of REST services and progress to more advanced topics, or you can jump right in and develop secure, fault tolerant, configurable and monitorable microservices. Once you’ve developed your microservice, you can go ahead to package it in a Docker container and deploy it to a Kubernetes cluster. You can rest assured that your cloud-native microservices will perform well in the cloud.",
       "infoLink": "https://www.jvm-con.de/programm/#/talk/full-day-workshop-hands-on-cloud-native-java-with-microprofile",
@@ -91,8 +91,8 @@
     {
       "type": "ee",
       "title": "KubeCon & CloudNativeCon North America 2019",
-      "date": "Nov 18, 2019",
-      "end-date": "Nov 21, 2019 ",
+      "date": "Nov 18, 2019 09:00 GMT-0400 (EDT)",
+      "end-date": "Nov 21, 2019 20:00 GMT-0400 (EDT)",
       "locationName": "San Diego Convention Center",
       "description": "The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities. Join Kubernetes, Prometheus, Envoy, CoreDNS, containerd, Fluentd, OpenTracing, gRPC, rkt, CNI, Jaeger, Notary, TUF, Vitess, NATS, Linkerd, Helm, Rook, Harbor, etcd, Open Policy Agent, CRI-O, and TiKV as the community gathers for four days to further the education and advancement of cloud native computing.",
       "infoLink": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/",
@@ -111,8 +111,8 @@
     {
       "type": "ee",
       "title": "Embedded Conference Scandinavia",
-      "date": "Nov 5, 2019",
-      "end-date": "Nov 6, 2019 ",
+      "date": "Nov 5, 2019 09:00 GMT+0200 (CEST)",
+      "end-date": "Nov 6, 2019 20:00 GMT+0200 (CEST)",
       "locationName": "Kistamässan",
       "description": "ECS was initiated in 2006 by the Swedish Electronics Trade Association, Svensk Elektronik, and now it cements its position as Europe's largest conference with an adjoining exhibition with nearly 2,000 visits in 2018.",
       "infoLink": "http://www.embeddedconference.se/app/netattm/attendee/page/82448",
@@ -130,8 +130,8 @@
     {
       "type": "ee",
       "title": "Devoxx Belgium",
-      "date": "Nov 4, 2019",
-      "end-date": "Nov 8, 2019",
+      "date": "Nov 4, 2019 08:00 GMT+0200 (CEST)",
+      "end-date": "Nov 8, 2019 20:00 GMT+0200 (CEST)",
       "locationName": "Kinepolis",
       "description": "Devoxx Belgium is a 5-day conference where developers and architects come together and explore the latest technology advancements and fascinating ideas, with some of the most inspiring speakers in our sector.",
       "infoLink": "https://devoxx.be/",
@@ -150,8 +150,8 @@
     {
       "type": "ee",
       "title": "Oracle Code One",
-      "date": "Sep 15, 2019",
-      "end-date": "Sep 19, 2019",
+      "date": "Sep 15, 2019 08:00 GMT-0800 (PST)",
+      "end-date": "Sep 19, 2019  20:00 GMT-0800 (PST)",
       "locationName": "Moscone Center",
       "description": "Oracle Code One is the ultimate developer event where we will cover the technologies and programming languages developers have come to love over the years. Expect talks on Go, Rust, Python, JavaScript, and R and SQL along with more of the latest Java technical content.",
       "infoLink": "https://www.oracle.com/code-one/",
@@ -170,8 +170,8 @@
     {
       "type": "ee",
       "title": "Models 2019",
-      "date": "Sep 15, 2019",
-      "end-date": "Sep 20, 2019",
+      "date": "Sep 15, 2019 08:00 GMT+0100 (CET)",
+      "end-date": "Sep 20, 2019 20:00 GMT+0100 (CET)",
       "locationName": "Holiday Inn Munich – City Centre",
       "description": "MODELS, the ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems, is the premier conference series for model-driven software and systems engineering, and is organized with support of ACM SIGSOFT and IEEE TCSE.",
       "infoLink": "https://modelsconf19.org/",
@@ -190,8 +190,8 @@
     {
       "type": "ee",
       "title": "ASAM International Conference 2019",
-      "date": "Dec 10, 2019",
-      "end-date": "Dec 11, 2019 ",
+      "date": "Dec 10, 2019 08:00 GMT+0100 (CET)",
+      "end-date": "Dec 11, 2019 20:00 GMT+0100 (CET)",
       "locationName": "International Congress Center",
       "description": "Autonomous Driving – Standardized Virtual Development as a Key to Future Mobility. Hosted in cooperation with the Saxon State Ministry for Economic Affairs, Labour and Transport.",
       "infoLink": "https://www.asam.net/conferences-events/detail/asam-international-conference-2019/",
@@ -209,7 +209,7 @@
     {
       "type": "ee",
       "title": "Bitkom Forum Open Source",
-      "date": "Sep 17, 2019",
+      "date": "Sep 17, 2019 08:00 GMT+0100 (CET)",
       "locationName": "Arena am Steigerwald",
       "description": "The Bitkom Forum Open Source 2019 deepens the topic of digital ecosystems and provides a platform for the exchange, stocktaking and concepts of a cooperative, efficient and transparent cooperation with open source.",
       "infoLink": "https://www.bitkom.org/bfoss19",
@@ -227,8 +227,8 @@
     {
       "type": "ee",
       "title": "International CTI Conference",
-      "date": "Nov 12, 2019",
-      "end-date": "Nov 13, 2019",
+      "date": "Nov 12, 2019 08:00 GMT+0100 (CET)",
+      "end-date": "Nov 13, 2019 20:00 GMT+0100 (CET)",
       "locationName": "Mövenpick Hotel Stuttgart Airport",
       "registration": "https://www.euroforum.de/software-eng/registration/",
       "infoLink": "https://www.euroforum.de/software-eng/",
@@ -425,8 +425,8 @@
     {
       "type": "ed",
       "title": "Eclipse Volttron Days",
-      "date": "Aug 21, 2018 09:00 GMT-700 (PDT)",
-      "end-date": "Aug 22 2018 18:00 GMT-700 (PDT)",
+      "date": "Aug 21, 2018 09:00 GMT-0700 (PDT)",
+      "end-date": "Aug 22 2018 18:00 GMT-0700 (PDT)",
       "locationName": "PNNL Discovery Hall",
       "registration": "https://events.eclipse.org/volttrondays/",
       "infoLink": "https://events.eclipse.org/volttrondays/",
