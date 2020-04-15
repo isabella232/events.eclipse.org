@@ -2,6 +2,22 @@
    "events":[
       {
          "type":"ve",
+         "title":"EclipseCon 2020",
+         "date":"Oct 20, 2020 08:00 EDT",
+         "end-date":"Oct 22, 2020 17:00 EDT",
+         "locationName":"Virtual Event",
+         "description":"Conference for the Eclipse Ecosystem",
+         "infoLink":"https://www.eclipsecon.org/2020",
+         "registration":"https://www.eclipsecon.org/2020",
+         "address":{
+            "street":"",
+            "zip":"",
+            "city":"",
+            "country":""
+         }
+      },
+      {
+         "type":"ve",
          "title":"IBM Think",
          "date":"May 5, 2020 11:00 EDT",
          "end-date":"May 7, 2020 21:00 EDT",
