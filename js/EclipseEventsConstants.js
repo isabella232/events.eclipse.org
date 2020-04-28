@@ -12,7 +12,7 @@
  */
 var browserTitle = "Eclipse Events";
 var pageTitle = "Upcoming Eclipse Events";
-var jsonDatafile = 'data/EclipseEvents.json';
+var jsonDatafile = 'https://newsroom.eclipse.org/api/events?pagesize=100';
 var eventtypeURLParaName = "eventtype";
 var yearURLParaName = "year";
 var eventTypeInfo = {
