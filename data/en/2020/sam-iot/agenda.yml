@@ -1,0 +1,38 @@
+complete: false
+types:
+    - name: Keynote 
+      id: keynote 
+      color: "#a0a"
+
+items:
+    - name: Welcome 1
+      presenter: Gaël Blondelle
+      type: keynote
+#     vod: "#1"
+      time: 10:00 - 10:30 (EDT)
+      abstract: <p>Abstract goes here...</p>
+    - name: Welcome 2
+      presenter: Gaël Blondelle
+      type: keynote
+#     vod: "#1"
+      time: 10:00 - 10:30 (EDT)
+      abstract: <p>Abstract goes here...</p>
+    - name: Welcome 3
+      presenter: Gaël Blondelle
+      type: keynote
+#     vod: "#1"
+      time: 10:00 - 10:30 (EDT)
+      abstract: <p>Abstract goes here...</p>
+    - name: Welcome 4
+      presenter: Gaël Blondelle
+      type: keynote
+#     vod: "#1"
+      time: 10:00 - 10:30 (EDT)
+      abstract: <p>Abstract goes here...</p>
+    - name: Welcome 5
+      presenter: Gaël Blondelle
+      type: keynote
+#      vod: "#1"
+      time: 10:00 - 10:30 (EDT)
+      abstract: <p>Abstract goes here...</p>
+

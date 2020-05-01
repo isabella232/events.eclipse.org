@@ -1,0 +1,21 @@
+links:
+  - url: sam-iot-cfp.pdf
+    text: Call For Papers
+    external: "false"
+end_date: 2020-06-12
+end_text: The Open Source AI Workshop event is now over! Thank you for your interest and attendance!
+custom_content: |
+  <div class="row margin-top-40">
+    <div class="col-sm-24">
+      <div class="row">
+        <div class="col-sm-6 col-sm-offset-5">
+          <h3 class="h4"><strong>Co-organized by:</strong></h3>
+          <p><img src="images/links_foundation_logo.png" alt="Links Foundation logo" width="150"></p>
+        </div>
+        <div class="col-sm-6 col-sm-offset-1">
+          <h3 class="h4"><strong>Supported by:</strong></h3>
+          <p><img src="images/brain_iot_logo.png" alt="Brain IoT logo" width="150"></p>
+        </div>
+      </div>
+    </div>
+  </div>
