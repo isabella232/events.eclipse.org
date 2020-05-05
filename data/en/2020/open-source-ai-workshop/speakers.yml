@@ -1,0 +1,17 @@
+items:
+  - name: "Gaël Blondelle"
+    title: "VP Ecosystem Development (Eclipse Foundation)"
+    img: gael_blondelle.jpg
+  - name: "Astor Nummeling"
+    title: "Policy Director (Open Forum Europe)"
+    img: astor_nummelin.jpg
+  - name: "Adam Gibson"
+    title: "CTO (Konduit)"
+    img: adam_gibson.jpg
+  - name: "Chen Lei"
+    title: "Director of Big Data Institute (Hong Kong University of Science and Technology)"
+    img: chen_lei.jpg
+  - name: "Luo Mai"
+    title: "Research Associate, Large Scale Data and Systems Group (Imperial College London)"
+    img: luo_mai.jpg
+    

@@ -1,0 +1,43 @@
+complete: false
+types:
+    - name: Keynote 
+      id: keynote 
+      color: "#f79623"
+    - name: Session
+      id: session
+      color: "#8d1d2d4"
+    - name: Panel
+      id: panel
+      color: "#818285"
+    - name: Break
+      id: break
+      color: "#fff"
+
+items:
+    - name: Towards an open source AI initiative at the Eclipse Foundation
+      presenter: Gaël Blondelle
+      type: keynote
+      time: 09:00 - 09:20 (CEST)
+    - name: Political challenges and opportunities in making open source AI mainstream
+      presenter: Astor Nummeling
+      type: session
+      time: 09:20 - 09:45 (CEST)
+    - name: Learn more about the European AI ecosystem
+      presenter: ""
+      type: session
+      time: 09:45 - 10:10 (CEST)
+    - name: Coffee break
+      type: break
+      time: 10:10 - 10:20 (CEST)
+    - name: "Eclipse Deeplearning4j: how to run AI workloads on Jakarta EE compliant servers"
+      presenter: Adam Gibson
+      type: session
+      time: 10:20 - 10:45 (CEST)
+    - name: Meet Mindspore, the new open source AI stack!
+      presenter: Chen Lei, Luo Mai
+      type: session
+      time: 10:45 - 11:10 (CEST)
+    - name: Panel on open innovation and collaboration in AI with open source
+      presenter: Moderated by Gaël Blondelle
+      type: panel
+      time: 11:10 - 11:30 (CEST)
