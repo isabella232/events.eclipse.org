@@ -32,6 +32,7 @@ mix.scripts([
     './node_modules/eclipsefdn-solstice-assets/js/eclipsefdn.videos.js',
     './node_modules/eclipsefdn-solstice-assets/js/solstice.cookies.js',
     './node_modules/eclipsefdn-solstice-assets/js/solstice.js',
+    './node_modules/eclipsefdn-solstice-assets/js/solstice.eventsmodal.js',
     './js/EclipseEvents.js',
     './js/EclipseEventsConstants.js',
 ], './static/js/solstice.js');
