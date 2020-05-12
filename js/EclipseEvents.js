@@ -265,6 +265,9 @@ function getDescrId(id) {
 
 // create a marker for the map:
 function createMarker(event, texttitle, description) {
+  if (!event.address.geoLoc.lat || event.address.geoLoc.lon) {
+    return false;
+  }
   var latLon = new L.LatLng(event.address.geoLoc.lat, event.address.geoLoc.lon);
   var marker = new L.marker(latLon, {
     title: texttitle,
