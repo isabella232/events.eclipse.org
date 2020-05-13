@@ -11,8 +11,8 @@ container: "container-fluid"
 summary: "Mark your calendars for Eclipse SAM IoT 2020, Sept 17-18. The Eclipse SAM IoT conference will bring together industry experts and researchers working on the next generation IoT, especially focussing on security and privacy, Artificial Intelligence, and modelling."
 ---
 
-{{< section-wrapper containerClass="container" rowClass="row" sectionId="registration" sectionClass="row featured-section-row featured-section-row-registration featured-section-row-white-bg padding-top-40 padding-bottom-40">}}
-{{< events/registration event="sam-iot" year="2020" banner="true" sectionClass="featured-section-row featured-section-row-registration featured-section-row-lighter-bg">}}
+{{< section-wrapper containerClass="container" rowClass="row" sectionId="registration" sectionClass="row featured-section-row featured-section-row-registration featured-section-row-lighter-bg padding-top-40 padding-bottom-40">}}
+{{< events/registration event="sam-iot" year="2020">}}
 
 Mark your calendars for Eclipse SAM IoT 2020, Sept 17-18.
 
