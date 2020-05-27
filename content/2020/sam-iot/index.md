@@ -54,15 +54,14 @@ Modelling for IoT
 
 {{</ grid/div >}}
 
-<div class="technical-topics-notes">
-<hr>
-<p style="font-size:12px;" class="margin-bottom-0"><strong>Note:</strong></p>
-<ul class="list-inline">
-<li><a href="https://thenounproject.com/search/?q=security&i=3349833">Security</a> icon by Fauzan Adiima, from <a href="http://thenounproject.com/">the Noun Project</a></li>
-<li><a href="https://thenounproject.com/search/?q=artificial%20intelligence&i=2858867">Artificial Intelligence</a> icon by priyanka, from <a href="http://thenounproject.com/">the Noun Project</a></li>
-<li><a href="https://thenounproject.com/search/?q=modelling&i=2710243">Tree</a> icon by Gacem Tachfin, from <a href="http://thenounproject.com/">the Noun Project</a></li>
-</ul>
-</div>
+{{< grid/div class="featured-section-container-notes" isMarkdown="true">}}
+
+---
+**Note:**
+* [Security](https://thenounproject.com/search/?q=security&i=3349833) icon by Fauzan Adiima, from [the Noun Project](http://thenounproject.com/)
+* [Artificial Intelligence](https://thenounproject.com/search/?q=artificial%20intelligence&i=2858867) icon by priyanka, from [the Noun Project](http://thenounproject.com/)
+* [Tree](https://thenounproject.com/search/?q=modelling&i=2710243) icon by Gacem Tachfin, from [the Noun Project](http://thenounproject.com/)
+{{</ grid/div >}}
 
 {{</ grid/section-container >}}
 

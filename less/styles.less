@@ -122,19 +122,33 @@
   }
 }
 
-.technical-topics-notes {
+
+.featured-section-container-notes {
+  font-size:12px;
+  p {
+    margin-bottom:5px;
+  }
+  ul {
+    .list-inline;
+  }
   p, li {
     font-size:12px;
-    color:#bdbdbd;
-  }
-  p{
-    margin-bottom:5px;
   }
   a {
     font-weight:bold;
-    color:#fff;
-    &:hover {
+  }
+}
+
+.featured-section-row-dark-bg {
+  .featured-section-container-notes{
+    p, li {
+     color:#bdbdbd;
+    }
+    a {
       color:#fff;
+      &:hover {
+        color:#fff;
+      }
     }
   }
 }
