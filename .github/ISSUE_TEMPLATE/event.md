@@ -1,4 +1,7 @@
 ---
 name: Event
-about: Request an Event website. Missing your event on this site? Please submit your event via https://newsroom.eclipse.org/node/add/events.
+about: Request an Event website.
 ---
+
+Eclipse Foundation Staff can request an Event website by creating this GitHub issue. 
+
