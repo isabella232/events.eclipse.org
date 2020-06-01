@@ -15,65 +15,15 @@ npm install
 hugo server
 ```
 
-## Copy and edit template for new event entries in the JSON File
+## Request an Event Website
 
-file location: static/data/EclipseEvents.json
+Missing your event on this site? Please submit your event to the [Eclipse Newsroom](https://newsroom.eclipse.org/node/add/events).
 
-Copy text below and insert into JSON file 
-If you insert the last entry in the file, ommit the trailing comma
+Eclipse Foundation Staff can request an Event website similar to [Open Source AI Workshop](https://events.eclipse.org/2020/open-source-ai-workshop/) by creating a [GitHub issue](https://github.com/EclipseFdn/events.eclipse.org/issues/new?template=event.md). 
 
-Replace the second part of each pair with the appropriate information, 
+The Eclipse Foundation Webdev team will start working on your request once the [Event Website Content Template](https://docs.google.com/document/d/1oVLBK8tzyuYC9OUisy1x-cc50PfGx0alnUHw9RYlZag) is completed and uploaded to your issue.
 
-Look up the geo data (longitude and latitude) based on the address. You can use for example this [geocoder](http://www.gpsvisualizer.com/geocode)
-
-To help us, please use the "MMM DD, YYYY" format for the "date" fields. Example: "Nov 3, 2013" will work just fine! <br>
-We hope to find a more general solution in the future.We are not using the time for anything (yet), so feel free to add the time in any format that is appropriate.
-
-
-    {
-        "type":"xx",
-        "title":"title",
-        "date":"date",
-        "time":"time",
-        "locationName":"location",
-        "registration":"reglink",
-        "infoLink":"infolink",
-        "description":"description",
-        "address":{
-            "street":"street",
-            "zip":"zip",
-            "city":"citiy",
-            "country": "country",
-            "geoLoc":{
-                "lat":"00",
-                "lon":"00"
-            }
-        }
-    },
-
-xx can be any of the following:
-
-* dc - Demo Camp & Stammtisch
-* wg - Working Group Events
-* ec - EclipseCon
-* ed - Eclipse Day & Hackathons
-* et - Training Series
-* ee - Other interesting Events
-* ve - Virtual Events
-
-Additional events can be added, please let us know if you miss a type
-
-## URL Parameter
-Therer are two:
-- eventtype
-- year
-For example: events.eclipse.org/?eventtype=ed&year=2015
-shows only the events of type ed (Training) in the year 2015
-
-## How you can help
-
-* please report problems that you encounter, as well as improvement proposals via Eclipse Bugzilla
-* add your event information by sending an email to events@eclipse.org
+Please plan for a minimum of two weeks for the website implementation. Additional information is available in the [Event Website Content Template](https://docs.google.com/document/d/1oVLBK8tzyuYC9OUisy1x-cc50PfGx0alnUHw9RYlZag) document.
 
 ## Contributing
 

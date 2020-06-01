@@ -1,30 +1,12 @@
 ---
 name: Event
-about: Submit your event!
+about: Request an Event website
 ---
 
-## Event Information
+Missing your event on this site? Please submit your event to the [Eclipse Newsroom](https://newsroom.eclipse.org/node/add/events).
 
-Event Name:
-Type of event: (See below for more information)
-Date:
-Registration URL:
-Website URL:
-Location name:
-Street: 
-Zip/Postal code:
-City:
-Country: 
-Latitude:
-Longitude:
+Eclipse Foundation Staff can request an Event website similar to [Open Source AI Workshop](https://events.eclipse.org/2020/open-source-ai-workshop/) by creating a [GitHub issue](https://github.com/EclipseFdn/events.eclipse.org/issues/new?template=event.md). 
 
-### Type of event
-It can be any of the following:
+The Eclipse Foundation Webdev team will start working on your request once the [Event Website Content Template](https://docs.google.com/document/d/1oVLBK8tzyuYC9OUisy1x-cc50PfGx0alnUHw9RYlZag) is completed and uploaded to your issue.
 
-* dc - Demo Camp & Stammtisch
-* wg - Working Group Events
-* ec - EclipseCon
-* ed - Eclipse Day & Hackathons
-* et - Training Series
-* ee - Other interesting Events
-* ve - Virtual Events
+Please plan for a minimum of two weeks for the website implementation. Additional information is available in the [Event Website Content Template](https://docs.google.com/document/d/1oVLBK8tzyuYC9OUisy1x-cc50PfGx0alnUHw9RYlZag) document.
