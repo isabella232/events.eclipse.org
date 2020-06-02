@@ -10,7 +10,6 @@ header_wrapper_class: "header-default-event"
 hide_breadcrumb: true
 container: "container-fluid"
 summary: "Conference on Security, Artificial Intelligence, and Modeling for the next generation Internet of Things."
-show_featured_footer: false
 links: [[href: "sam-iot-cfp.pdf", text: "Call For Papers"]]
 ---
 
