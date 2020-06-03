@@ -19,7 +19,7 @@ items:
       type: keynote
       time: 09:00 - 09:20 (CEST)
     - name: Political challenges and opportunities in making open source AI mainstream
-      presenter: Astor Nummeling
+      presenter: Astor Nummelin Carlberg
       type: session
       time: 09:20 - 09:45 (CEST)
     - name: Learn more about the European AI ecosystem
@@ -33,7 +33,7 @@ items:
       presenter: Adam Gibson
       type: session
       time: 10:20 - 10:45 (CEST)
-    - name: Meet Mindspore, the new open source AI stack!
+    - name: Meet MindSpore, the new open source AI framework!
       presenter: Chen Lei, Luo Mai
       type: session
       time: 10:45 - 11:10 (CEST)
