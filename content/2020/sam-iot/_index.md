@@ -11,6 +11,7 @@ hide_breadcrumb: true
 container: "container-fluid"
 summary: "Conference on Security, Artificial Intelligence, and Modeling for the next generation Internet of Things."
 links: [[href: "sam-iot-cfp.pdf", text: "Call For Papers"]]
+layout: single
 ---
 
 {{< grid/section-container id="registration" class="featured-section-row featured-section-row-lighter-bg">}}
@@ -79,7 +80,7 @@ Modelling for IoT
 {{< grid/section-container id="guidelines" class="featured-section-row featured-section-row-lighter-bg">}}
 
 <h2>Call for Papers & Submission Guidelines</h2>
-{{< bootstrap/button title="Call For Papers" href="sam-iot-cfp.pdf" pClass="text-center">}}Download{{</ bootstrap/button >}}
+{{< bootstrap/button title="Call For Papers" href="call-for-papers" pClass="text-center">}}Learn how to submit your paper{{</ bootstrap/button >}}
 
 {{</ grid/section-container >}}
 
@@ -88,9 +89,10 @@ Modelling for IoT
 
 The Technical Program Committee is an independent panel of expert volunteers and as such will do their best to judge papers objectively and on the principle of a level playing field for all. 
 
-
+* Alessio Angius, ISI Foundation
 * Luca Anselma, University of Turin
 * Paolo Azzoni, Eurotech
+* Peter Bednár, Technická univerzita v Košiciach
 * Ilaria Bosi, LINKS Foundation
 * Paolo Brizzi, Competence Center Industry Manufacturing 4.0
 * Benoit Combemale, University of Toulouse INRIA
@@ -98,15 +100,24 @@ The Technical Program Committee is an independent panel of expert volunteers and
 * João Pedro Correia dos Reis, Faculty of Engineering, University of Porto - FEUP
 * Maria Teresa Delgado, Eclipse Foundation
 * Frederic Desbiens, Eclipse Foundation
+* Charalampos Doukas, Amazon Web Services
+* Juliver Gil, Universidad de Antioquia
+* Laurent Gomez, SAP Security Research
+* Gil Gonçalves, Faculty of Engineering, University of Porto - FEUP
 * Marco Jahn, Eclipse Foundation
-* Prabhakaran Kasinathan, Siemens AG - Corporate Technology, Cybersecurity Technology
+* Prabhakaran Kasinathan, Siemens AG - Cybersecurity Technologies
 * Zakaria Laaroussi, Ericsson Finland
-* Cesar Martin, Information Catalyst for Enterprise - ICE
+* Cesar Marin, Information Catalyst for Enterprise - ICE
+* Yod Samuel Martín, Universidad Politécnica de Madrid
 * Claudio Pastrone, LINKS Foundation
+* Ivana Podnar Žarko, University of Zagreb, Faculty of Electrical Engineering and Computing
 * Mohammad Rifat Ahmmad Rashid, University of Liberal Arts Bangladesh – ULAB
 * Alejandra Ruiz Lopez, Tecnalia
+* Julian Schütte, Fraunhofer AISEC
+* Tomáš Sabol, Technická univerzita v Košiciach
 * Xu Tao, LINKS Foundation
 * Massimo Vecchio, Università degli Studi eCampus
+* Mark Vinkovits, Pasero
 
 
 {{</ grid/section-container >}}
@@ -154,12 +165,12 @@ Susan Iwai  (Eclipse Foundation)
 {{</ grid/div >}}
 {{</ grid/section-container >}}
 
-{{< grid/section-container id="location" class="featured-section-row featured-section-row-dark-bg text-center" isMarkdown="true">}}
+{{< grid/section-container id="location" class="featured-section-row featured-section-row-dark-bg text-center" isMarkdown="false">}}
 
-## Location and Registration
-
-Given the current Covid-19 situation, the organization committee of ECLIPSE SAM IoT 2020 will run the conference in fully online mode, with virtual session rooms and facilities for online presentation of talks, so that the attendees will have an experience very close to the real conference.
-Registration will open in the next weeks. Please watch this space for updates. If you’d like to be notified please send an email to research@eclipse.org
+<h2>Location and Registration</h2>
+<p>Given the current Covid-19 situation, the organization committee of ECLIPSE SAM IoT 2020 will run the conference in fully online mode, with virtual session rooms and facilities for online presentation of talks, so that the attendees will have an experience very close to the real conference.</p>
+<p>Registration will open in the next weeks. Please watch this space for updates. If you’d like to be notified please send an email to research@eclipse.org</p>
+{{< bootstrap/button href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220" >}}Register today{{</ bootstrap/button >}}
 
 {{</ grid/section-container >}}
 
