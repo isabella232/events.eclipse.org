@@ -19,8 +19,7 @@ aliases:
   {{< events/registration event="open-source-ai-workshop" year="2020" title="About the Event" >}} 
 
 
-The Open Source AI workshop brings together European open source and AI experts, as well as top AI open source projects. This is the first virtual event organized by the Eclipse Foundation about Open Source AI, with the goal of gathering a larger community around AI in the Eclipse ecosystem.
-
+The Open Source AI workshop brings together some of the brightest minds in the artificial intelligence (AI) industry and European open source experts to share best practices, explore key trends, and to discuss collaboration on AI happening today within the Eclipse ecosystem.
   {{</ events/registration >}}
 {{</ grid/section-container >}}
 
