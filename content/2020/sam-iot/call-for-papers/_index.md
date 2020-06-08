@@ -9,7 +9,6 @@ hide_page_title: true
 hide_breadcrumb: true
 header_wrapper_class: "header-default-event"
 container: "container-fluid"
-links: [[href: "https://edas.info/newPaper.php?c=27517", text: "Paper Registration"], [href: "https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220", text: "Register"]]
 ---
 {{< grid/section-container id="background" class="featured-section-row text-center" isMarkdown="true">}}
 **SAM IoT is the first virtual Eclipse Conference on Security, Artificial Intelligence, and Modeling for the next generation Internet of Things**
@@ -30,8 +29,8 @@ The Eclipse SAM IoT conference will bring together industry experts and research
 ## Important Dates
 
 | Paper submission deadline | Acceptance Notification | Camera-Ready Paper Submission | Conference Dates |
-|---|---|---|---|
-| Jul. 22, 2020 | Aug. 10, 2020 | Aug. 30, 2020 | Sep. 17-18, 2020 |
+| :-----------------------: | :---------------------: | :---------------------------: | :--------------: |
+| Jul. 22, 2020             | Aug. 10, 2020           | Aug. 30, 2020                 | Sep. 17-18, 2020 |
 
 {{</ grid/section-container >}}
 
@@ -129,7 +128,7 @@ Each lead author must visit the EDAS web site and create an account with a usern
 
 {{< grid/div class="margin-top-30" isMarkdown="false">}}
     {{< grid/div class="col-xs-24 col-sm-8 col-sm-offset-2 text-center" isMarkdown="false">}}
-        {{< bootstrap/button linkClass="btn-primary btn-wide" href="https://edas.info/newPaper.php?c=27517">}}Paper Registration{{</bootstrap/button>}}
+        {{< bootstrap/button linkClass="btn-primary btn-wide" href="https://edas.info/newPaper.php?c=27517">}}Paper Submission{{</bootstrap/button>}}
     {{</ grid/div >}}
     {{< grid/div class="col-xs-24 col-sm-8 col-sm-offset-4 text-center" isMarkdown="false">}}
         {{< bootstrap/button linkClass="btn-primary btn-wide" href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220">}}Register{{</bootstrap/button>}}

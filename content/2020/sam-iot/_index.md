@@ -10,7 +10,7 @@ header_wrapper_class: "header-default-event"
 hide_breadcrumb: true
 container: "container-fluid"
 summary: "Conference on Security, Artificial Intelligence, and Modeling for the next generation Internet of Things."
-links: [[href: "sam-iot-cfp.pdf", text: "Call For Papers"]]
+links: [[href: "call-for-papers", text: "Call For Papers"]]
 layout: single
 ---
 
@@ -66,21 +66,19 @@ Modelling for IoT
 {{</ grid/section-container >}}
 
 
-{{< grid/section-container id="dates" class="featured-section-row featured-section-row-light-bg" isMarkdown="true">}}
-
+{{< grid/section-container class="featured-section-row" isMarkdown="true">}}
 ## Important Dates
 
-* Paper submission deadline  - July 22, 2020
-* Acceptance Notification - August 10, 2020
-* Camera-Ready Paper Submission - August 30, 2020
-* Conference Dates - September 17-18, 2020
+| Paper submission deadline | Acceptance Notification | Camera-Ready Paper Submission | Conference Dates |
+| :-----------------------: | :---------------------: | :---------------------------: | :--------------: |
+| Jul. 22, 2020             | Aug. 10, 2020           | Aug. 30, 2020                 | Sep. 17-18, 2020 |
 
 {{</ grid/section-container >}}
 
 {{< grid/section-container id="guidelines" class="featured-section-row featured-section-row-lighter-bg">}}
 
 <h2>Call for Papers & Submission Guidelines</h2>
-{{< bootstrap/button title="Call For Papers" href="call-for-papers" pClass="text-center">}}Learn how to submit your paper{{</ bootstrap/button >}}
+{{< bootstrap/button title="Call For Papers" href="call-for-papers" pClass="text-center">}}Call for Papers{{</ bootstrap/button >}}
 
 {{</ grid/section-container >}}
 
@@ -89,34 +87,24 @@ Modelling for IoT
 
 The Technical Program Committee is an independent panel of expert volunteers and as such will do their best to judge papers objectively and on the principle of a level playing field for all. 
 
-* Alessio Angius, ISI Foundation
 * Luca Anselma, University of Turin
-* Paolo Azzoni, Eurotech
 * Peter Bednár, Technická univerzita v Košiciach
 * Ilaria Bosi, LINKS Foundation
 * Paolo Brizzi, Competence Center Industry Manufacturing 4.0
 * Benoit Combemale, University of Toulouse INRIA
 * Davide Conzon, LINKS Foundation
 * João Pedro Correia dos Reis, Faculty of Engineering, University of Porto - FEUP
-* Maria Teresa Delgado, Eclipse Foundation
 * Frederic Desbiens, Eclipse Foundation
-* Charalampos Doukas, Amazon Web Services
 * Juliver Gil, Universidad de Antioquia
-* Laurent Gomez, SAP Security Research
 * Gil Gonçalves, Faculty of Engineering, University of Porto - FEUP
 * Marco Jahn, Eclipse Foundation
 * Prabhakaran Kasinathan, Siemens AG - Cybersecurity Technologies
 * Zakaria Laaroussi, Ericsson Finland
 * Cesar Marin, Information Catalyst for Enterprise - ICE
-* Yod Samuel Martín, Universidad Politécnica de Madrid
 * Claudio Pastrone, LINKS Foundation
 * Ivana Podnar Žarko, University of Zagreb, Faculty of Electrical Engineering and Computing
-* Mohammad Rifat Ahmmad Rashid, University of Liberal Arts Bangladesh – ULAB
 * Alejandra Ruiz Lopez, Tecnalia
-* Julian Schütte, Fraunhofer AISEC
-* Tomáš Sabol, Technická univerzita v Košiciach
 * Xu Tao, LINKS Foundation
-* Massimo Vecchio, Università degli Studi eCampus
 * Mark Vinkovits, Pasero
 
 
@@ -177,6 +165,6 @@ Susan Iwai  (Eclipse Foundation)
 {{< grid/section-container id="contact" class="featured-section-row featured-section-row-light-bg text-center" isMarkdown="true">}}
 ## Contact us
 
-If you have questions about the conference or the Call for Papers, please contact research@eclipse.org.
+If you have questions about the conference or the Call for Papers, please contact <a href="mailto:research@eclipse.org">research@eclipse.org</a>.
 
 {{</ grid/section-container >}}
