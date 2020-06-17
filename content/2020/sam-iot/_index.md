@@ -70,8 +70,8 @@ Modelling for IoT
 ## Important Dates
 
 | Paper submission deadline | Acceptance Notification | Camera-Ready Paper Submission | Conference Dates |
-| :-----------------------: | :---------------------: | :---------------------------: | :--------------: |
-| Jul. 22, 2020             | Aug. 10, 2020           | Aug. 30, 2020                 | Sep. 17-18, 2020 |
+| :----------------------- | :--------------------- | :--------------------------- | :--------------- |
+| Jul. 22, 2020            | Aug. 10, 2020          | Aug. 30, 2020                | Sep. 17-18, 2020 |
 
 {{</ grid/section-container >}}
 
@@ -88,6 +88,8 @@ Modelling for IoT
 The Technical Program Committee is an independent panel of expert volunteers and as such will do their best to judge papers objectively and on the principle of a level playing field for all. 
 
 * Luca Anselma, University of Turin
+* Alessio Angius, ISI Foundation
+* Alessandra Bagnato, SOFTEAM
 * Peter Bednár, Technická univerzita v Košiciach
 * Ilaria Bosi, LINKS Foundation
 * Paolo Brizzi, Competence Center Industry Manufacturing 4.0
@@ -95,13 +97,19 @@ The Technical Program Committee is an independent panel of expert volunteers and
 * Davide Conzon, LINKS Foundation
 * João Pedro Correia dos Reis, Faculty of Engineering, University of Porto - FEUP
 * Frederic Desbiens, Eclipse Foundation
+* Charalampos Doukas, Amazon Web Services
 * Juliver Gil, Universidad de Antioquia
+* Laurent Gomez, SAP Security Research
 * Gil Gonçalves, Faculty of Engineering, University of Porto - FEUP
 * Marco Jahn, Eclipse Foundation
 * Prabhakaran Kasinathan, Siemens AG - Cybersecurity Technologies
+* Thomas Krousarlis, INLECOM Innovation
 * Zakaria Laaroussi, Ericsson Finland
+* Konstantinos Loupos, INLECOM Innovation
 * Cesar Marin, Information Catalyst for Enterprise - ICE
+* Yod Samuel Martín, Universidad Politécnica de Madrid
 * Claudio Pastrone, LINKS Foundation
+* Virginia Pilloni, Università di Cagliari
 * Ivana Podnar Žarko, University of Zagreb, Faculty of Electrical Engineering and Computing
 * Alejandra Ruiz Lopez, Tecnalia
 * Xu Tao, LINKS Foundation
