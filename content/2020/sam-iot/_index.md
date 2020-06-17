@@ -164,8 +164,8 @@ Susan Iwai  (Eclipse Foundation)
 {{< grid/section-container id="location" class="featured-section-row featured-section-row-dark-bg text-center" isMarkdown="false">}}
 
 <h2>Location and Registration</h2>
-<p>Given the current Covid-19 situation, the organization committee of ECLIPSE SAM IoT 2020 will run the conference in fully online mode, with virtual session rooms and facilities for online presentation of talks, so that the attendees will have an experience very close to the real conference.</p>
-<p>Registration will open in the next weeks. Please watch this space for updates. If you’d like to be notified please send an email to research@eclipse.org</p>
+<p>Given the current Covid-19 situation, the organization committee of ECLIPSE SAM IoT 2020 will run the conference in fully online mode, with virtual session rooms and facilities for online presentation of talks with opportunities for interacting with speakers and attendees.</p>
+<p>You can register as an attendee for the conference. Sign up today! </p>
 {{< bootstrap/button href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220" >}}Register today{{</ bootstrap/button >}}
 
 {{</ grid/section-container >}}
