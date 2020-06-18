@@ -10,7 +10,7 @@ header_wrapper_class: "header-default-event"
 hide_breadcrumb: true
 container: container-fluid
 summary: "The Open Source AI workshop brings together European open source and AI experts, as well as top AI open source projects. This is the first virtual event organized by the Eclipse Foundation about Open Source AI, with the goal of gathering a larger community around AI in the Eclipse ecosystem."
-links: [[href: "https://open-source-ai-workshop.eventbrite.com", text: "Register"], [href: "#speakers", text: "Speakers"], [href: "#agenda", text: "Agenda"]]
+links: [[href: "#speakers", text: "Speakers"], [href: "#agenda", text: "Agenda"]]
 aliases:
     - /2020/ai-eu-virtual-workshop/
 ---
