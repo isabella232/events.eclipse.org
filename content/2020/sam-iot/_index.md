@@ -88,7 +88,6 @@ Modelling for IoT
 The Technical Program Committee is an independent panel of expert volunteers and as such will do their best to judge papers objectively and on the principle of a level playing field for all. 
 
 * Luca Anselma, University of Turin
-* Alessio Angius, ISI Foundation
 * Alessandra Bagnato, SOFTEAM
 * Peter Bednár, Technická univerzita v Košiciach
 * Ilaria Bosi, LINKS Foundation
