@@ -88,6 +88,7 @@ Modelling for IoT
 The Technical Program Committee is an independent panel of expert volunteers and as such will do their best to judge papers objectively and on the principle of a level playing field for all. 
 
 * Luca Anselma, University of Turin
+* Paolo Azzoni, Eurotech
 * Alessandra Bagnato, SOFTEAM
 * Peter Bednár, Technická univerzita v Košiciach
 * Ilaria Bosi, LINKS Foundation
@@ -95,6 +96,7 @@ The Technical Program Committee is an independent panel of expert volunteers and
 * Benoit Combemale, University of Toulouse INRIA
 * Davide Conzon, LINKS Foundation
 * João Pedro Correia dos Reis, Faculty of Engineering, University of Porto - FEUP
+* Maria Teresa Delgado, Eclipse Foundation
 * Frederic Desbiens, Eclipse Foundation
 * Charalampos Doukas, Amazon Web Services
 * Juliver Gil, Universidad de Antioquia
@@ -108,8 +110,10 @@ The Technical Program Committee is an independent panel of expert volunteers and
 * Cesar Marin, Information Catalyst for Enterprise - ICE
 * Yod Samuel Martín, Universidad Politécnica de Madrid
 * Claudio Pastrone, LINKS Foundation
+* Nikolaos Petroulakis, Foundation for Research and Technology Institute of Computer Science
 * Virginia Pilloni, Università di Cagliari
 * Ivana Podnar Žarko, University of Zagreb, Faculty of Electrical Engineering and Computing
+* Mohammad Rifat Ahmmad Rashid, University of Liberal Arts Bangladesh – ULAB
 * Alejandra Ruiz Lopez, Tecnalia
 * Xu Tao, LINKS Foundation
 * Mark Vinkovits, Pasero
