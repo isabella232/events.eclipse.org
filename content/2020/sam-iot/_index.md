@@ -26,6 +26,21 @@ These innovations are setting the groundwork for the next generation IoT that wi
 {{</ events/registration >}}
 {{</ grid/section-container >}}
 
+{{< grid/section-container id="speakers" class="featured-section-row text-center featured-section-row-dark-bg eclipsefdn-user-display-circle" >}}
+  {{< events/user_display event="sam-iot" year="2020" title="Keynote Speaker" source="speakers" imageRoot="/2020/sam-iot/images/speakers/" />}}
+{{</ grid/section-container >}}
+
+
+{{< grid/section-container class="featured-section-row" isMarkdown="true">}}
+## Important Dates
+
+| Paper submission deadline | Acceptance Notification | Camera-Ready Paper Submission | Conference Dates |
+| :----------------------- | :--------------------- | :--------------------------- | :--------------- |
+| Jul. 22, 2020            | Aug. 10, 2020          | Aug. 30, 2020                | Sep. 17-18, 2020 |
+
+{{</ grid/section-container >}}
+
+
 {{< grid/section-container id="topics" class="featured-section-row featured-section-row-dark-bg text-center">}}
 
 <h2>Technical topics of interest</h2>
@@ -62,16 +77,6 @@ Modelling for IoT
 * [Artificial Intelligence](https://thenounproject.com/search/?q=artificial%20intelligence&i=2858867) icon by priyanka, from [the Noun Project](http://thenounproject.com/)
 * [Tree](https://thenounproject.com/search/?q=modelling&i=2710243) icon by Gacem Tachfin, from [the Noun Project](http://thenounproject.com/)
 {{</ grid/div >}}
-
-{{</ grid/section-container >}}
-
-
-{{< grid/section-container class="featured-section-row" isMarkdown="true">}}
-## Important Dates
-
-| Paper submission deadline | Acceptance Notification | Camera-Ready Paper Submission | Conference Dates |
-| :----------------------- | :--------------------- | :--------------------------- | :--------------- |
-| Jul. 22, 2020            | Aug. 10, 2020          | Aug. 30, 2020                | Sep. 17-18, 2020 |
 
 {{</ grid/section-container >}}
 
@@ -115,6 +120,7 @@ The Technical Program Committee is an independent panel of expert volunteers and
 * Ivana Podnar Žarko, University of Zagreb, Faculty of Electrical Engineering and Computing
 * Mohammad Rifat Ahmmad Rashid, University of Liberal Arts Bangladesh – ULAB
 * Alejandra Ruiz Lopez, Tecnalia
+* Julian Schütte, Fraunhofer AISEC
 * Xu Tao, LINKS Foundation
 * Mark Vinkovits, Pasero
 
