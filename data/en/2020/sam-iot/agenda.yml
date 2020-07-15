@@ -2,37 +2,61 @@ complete: false
 types:
     - name: Keynote 
       id: keynote 
-      color: "#a0a"
+      color: "#f79623"
+    - name: Session
+      id: session
+      color: "#8d1d2d4"
+    - name: Panel
+      id: panel
+      color: "#000000"
+#    - name: Break
+#      id: break
+#      color: "#00FF00"
+    - name: Day
+      id: day
+      color: "#FFFFFF"
 
 items:
-    - name: Welcome 1
-      presenter: Gaël Blondelle
+    - name: "========== Day 1 -- Thursday, September 17 =========="
+      type: day
+      time: CEST
+    - name: Introduction & Welcome
+      presenter: Enrico Ferrera, LINKS Foundation
+      type: panel
+      time: 13:00 - 13:10
+    - name: Cobbles and Potholes – On the Bumpy Road to Secure Software Supply Chains
+      presenter: Henrik Plate, SAP
       type: keynote
-#     vod: "#1"
-      time: 10:00 - 10:30 (EDT)
-      abstract: <p>Abstract goes here...</p>
-    - name: Welcome 2
-      presenter: Gaël Blondelle
-      type: keynote
-#     vod: "#1"
-      time: 10:00 - 10:30 (EDT)
-      abstract: <p>Abstract goes here...</p>
-    - name: Welcome 3
-      presenter: Gaël Blondelle
-      type: keynote
-#     vod: "#1"
-      time: 10:00 - 10:30 (EDT)
-      abstract: <p>Abstract goes here...</p>
-    - name: Welcome 4
-      presenter: Gaël Blondelle
-      type: keynote
-#     vod: "#1"
-      time: 10:00 - 10:30 (EDT)
-      abstract: <p>Abstract goes here...</p>
-    - name: Welcome 5
-      presenter: Gaël Blondelle
-      type: keynote
-#      vod: "#1"
-      time: 10:00 - 10:30 (EDT)
-      abstract: <p>Abstract goes here...</p>
+      time: 13:10 - 13:40
+      abstract: |
+             <p>Open source software is ubiquitous – all across the stack, in the cloud and on-premise, 
+             on all devices, in commercial and non-commercial offerings. This success, the dependency 
+             of the software industry on open source, combined with recent data breaches and attacks, 
+             puts security into the spotlight. This talk will provide an overview - for sure opinionated, 
+             hopefully controversial – about the state of affairs and current trends regarding the security 
+             of software supply chains, both from consumer and producer perspective.</p>
+    - name: Papers Presentations
+      presenter: Authors
+      type: session
+      time: 13:40 - 17:00
+      abstract: <p>9 papers</p>
+      
+    - name: "========== Day 2 -- Friday, September 18 =========="
+      type: day
+      time: CEST
+    - name: Opening and plenary
+      presenter: Philippe Krief, Eclipse Foundation
+      type: panel
+      time: 9:00 - 9:20
+      abstract: <p>To be completed.</p>
+    - name: Papers Presentations
+      presenter: Authors
+      type: session
+      time: 9:20 - 12:40
+      abstract: <p>9 papers</p>
+    - name: Closing and open channel 
+      presenter: Moderated by Enrico Ferrera & Philippe Krief
+      type: panel
+      time: 12:40 - 13:00
+      abstract: <p>Open discussions</p>
 
