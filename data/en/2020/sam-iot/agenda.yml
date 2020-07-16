@@ -44,11 +44,11 @@ items:
     - name: "========== Day 2 -- Friday, September 18 =========="
       type: day
       time: CEST
-    - name: Opening and plenary
-      presenter: Philippe Krief, Eclipse Foundation
-      type: panel
+    - name: Keynote
+      presenter: To be announced
+      type: keynote
       time: 9:00 - 9:20
-      abstract: <p>To be completed.</p>
+      abstract: <p>To be announced</p>
     - name: Papers Presentations
       presenter: Authors
       type: session

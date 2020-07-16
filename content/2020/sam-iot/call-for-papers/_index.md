@@ -21,7 +21,7 @@ The adoption of the Internet of Things (IoT) is drastically increasing in every 
 {{< grid/section-container id="call-for-papers" class="featured-section-row featured-section-row-dark-bg text-center" isMarkdown="true">}}
 ## Call for Papers  
 
-The Eclipse SAM IoT conference will bring together industry experts and researchers working on the next generation IoT, especially focussing on Security and Privacy, Artificial Intelligence, and Modelling.  You will be invited to present your results to participants from the research community, industry and standardisation bodies and to exchange ideas for future joint research activities. We welcome all submissions and do not require projects to be associated with the Eclipse Foundation or its projects. Final date for submissions is July 22, 2020. Selected papers will be published under the Creative Commons License 4.0 on [ceur-ws.org](http://ceur-ws.org).
+The Eclipse SAM IoT conference will bring together industry experts and researchers working on the next generation IoT, especially focussing on Security and Privacy, Artificial Intelligence, and Modelling.  You will be invited to present your results to participants from the research community, industry and standardisation bodies and to exchange ideas for future joint research activities. We welcome all submissions and do not require projects to be associated with the Eclipse Foundation or its projects. Final date for submissions has been extended to August 5, 2020. Selected papers will be published under the Creative Commons License 4.0 on [ceur-ws.org](http://ceur-ws.org).
 {{</ grid/section-container >}}
 
 
@@ -30,7 +30,7 @@ The Eclipse SAM IoT conference will bring together industry experts and research
 
 | Paper submission deadline | Acceptance Notification | Camera-Ready Paper Submission | Conference Dates |
 | :----------------------- | :--------------------- | :--------------------------- | :-------------- |
-| Jul. 22, 2020            | Aug. 10, 2020          | Aug. 30, 2020                | Sep. 17-18, 2020 |
+| Aug. 5, 2020            | Aug. 21, 2020          | Sep. 10, 2020                | Sep. 17-18, 2020 |
 
 {{</ grid/section-container >}}
 
@@ -103,7 +103,7 @@ Final submissions must not substantially overlap papers previously or simultaneo
 
 * Authors are invited to electronically submit full regular papers on their work. English is the working language of the Conference. Papers are limited to eight (8) pages.
 * Papers must be written in a two-column format. It is strongly recommended to use the IEEE A4 templates that is available on the IEEE site.  [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
-* The author must submit a draft version of the paper for review before the submission deadline (see Important Dates above). Drafts are submitted through the EDAS Submission System. 
+* The author must submit a draft version of the paper for review before the submission deadline (see Important Dates above). Submissions will be peer reviewed by at least 3 reviewers in a blind process by the Eclipse SAM IoT Technical Program Committee. Drafts are submitted through the EDAS Submission System. 
 * Papers should be submitted under a specific topic of interest and must contain only original work, not previously published or copyrighted. Authors are expected to submit only their own original works. 
 * Authors are expected to give a short presentation of their work at the SAM IoT conference. 
 * Accepted and presented papers will be published in conference proceedings under the Creative Commons License 4.0 on [ceur-ws.org](http://ceur-ws.org).

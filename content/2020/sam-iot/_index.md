@@ -36,7 +36,7 @@ These innovations are setting the groundwork for the next generation IoT that wi
 
 | Paper submission deadline | Acceptance Notification | Camera-Ready Paper Submission | Conference Dates |
 | :----------------------- | :--------------------- | :--------------------------- | :--------------- |
-| Jul. 22, 2020            | Aug. 10, 2020          | Aug. 30, 2020                | Sep. 17-18, 2020 |
+| Aug. 5, 2020            | Aug. 21, 2020          | Sep. 10, 2020                | Sep. 17-18, 2020 |
 
 {{</ grid/section-container >}}
 
@@ -87,6 +87,9 @@ Modelling for IoT
 {{< grid/section-container id="guidelines" class="featured-section-row featured-section-row-lighter-bg">}}
 
 <h2>Call for Papers & Submission Guidelines</h2>
+
+<h2>New submission deadline August 5</h2>
+
 {{< bootstrap/button title="Call For Papers" href="call-for-papers" pClass="text-center">}}Call for Papers{{</ bootstrap/button >}}
 
 {{</ grid/section-container >}}
