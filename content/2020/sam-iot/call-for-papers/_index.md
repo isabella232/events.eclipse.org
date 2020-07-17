@@ -129,7 +129,7 @@ Each lead author must visit the EDAS web site and create an account with a usern
 
 *All authors whose papers are accepted will be asked to sign the Eclipse SAM IoT speaker agreement. Its included here for information.*  
 
-Thank you for agreeing to speak at the SAM IoT 2020. When you click in the "Yes" box below, you are agreeing to the following terms.
+Thank you for agreeing to speak at the SAM IoT 2020. You agree to the following terms.
 
 * To enable the Eclipse Foundation to promote the virtual event, I agree to provide to the Eclipse Foundation my photo, bio, talk title, and talk abstract, and grant to the Eclipse Foundation the necessary permissions and rights to post these along with my full name and company on the conference website and to use in promotion of the event. 
  
