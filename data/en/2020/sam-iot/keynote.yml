@@ -9,8 +9,8 @@ items:
       of software supply chains, esp. the use of open source components with known 
       vulnerabilities and supply chain attacks. He is a co-author of Eclipse Steady [5], 
       which supports the detection, assessment and mitigation of vulnerable open source 
-      dependencies in Java and Python applications. <br/>
-      
+      dependencies in Java and Python applications. </p>
+
       <ul>
          <li><a href="https://www.sap.com/documents/2017/12/cc047065-e67c-0010-82c7-eda71af511fa.html">[1] SAP Security Research</a></li>
          <li><a href="https://www.linkedin.com/feed/hashtag/sapsecurityresearch/">[2] LinkedIn #sapsecurityresearch</a></li>
@@ -18,4 +18,3 @@ items:
          <li><a href="https://scholar.google.fr/citations?hl=en&user=FOEVZyYAAAAJ&view_op=list_works&sortby=pubdate">[4] Google Scholar "SAP Security Research"</a></li>
          <li><a href="https://projects.eclipse.org/projects/technology.steady">[5] Eclipse Steady</a></li>
       </ul>
-      </p>
