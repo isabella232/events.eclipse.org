@@ -18,3 +18,5 @@ items:
          <li><a href="https://scholar.google.fr/citations?hl=en&user=FOEVZyYAAAAJ&view_op=list_works&sortby=pubdate">[4] Google Scholar "SAP Security Research"</a></li>
          <li><a href="https://projects.eclipse.org/projects/technology.steady">[5] Eclipse Steady</a></li>
       </ul>
+      <p>Keynote: Cobbles and Potholes – On the Bumpy Road to Secure Software Supply Chains</p>
+      <p>Open source software is ubiquitous – all across the stack, in the cloud and on-premise, on all devices, in commercial and non-commercial offerings. This success, the dependency of the software industry on open source, combined with recent data breaches and attacks, puts security into the spotlight. This talk will provide an overview - for sure opinionated, hopefully controversial – about the state of affairs and current trends regarding the security of software supply chains, both from consumer and producer perspective.</p>
