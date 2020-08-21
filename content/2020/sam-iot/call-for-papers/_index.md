@@ -12,7 +12,7 @@ container: "container-fluid"
 ---
 {{< grid/section-container id="background" class="featured-section-row text-center" isMarkdown="true">}}
 **SAM IoT is the first virtual Eclipse Conference on Security, Artificial Intelligence, and Modeling for the next generation Internet of Things**
-## Background  
+## Call for Papers is now closed  
 
 The adoption of the Internet of Things (IoT) is drastically increasing in every application domain, contributing to the rapid digitalization of contemporary society. Current IoT scenarios are characterized by constantly increasing demands in terms of non-functional requirements, from low latency to high reliability, dependability, and dynamic resources allocation. This paradigm shift, also considered as the next evolutionary phase of IoT, is expected to create numerous opportunities for the technology market supporting applications in multiple areas, i.e. Smart Factories, Smart Cities, Critical Infrastructures, Cooperative Service Robotics, etc. To cope with these demanding requirements, a multitude of novel technologies - such as Edge Computing, Artificial Intelligence and Analytics, Digital Twin, as well as Security, Privacy and Trust schemes – are being investigated in order to be adopted in current IoT architectures standards, identifying efficient integration schemes with proper design patterns. Hence, designing and managing the next generation of IoT-based systems is set to become even more complex.
 {{</ grid/section-container >}}
@@ -120,7 +120,7 @@ Each lead author must visit the EDAS web site and create an account with a usern
 
 ### Paper Registration and Submission  
 
-1. Visit [https://edas.info/newPaper.php?c=27517](https://edas.info/newPaper.php?c=27517) and log in.
+1. Visit [https://edas.info/newPaper.php?c=](https://edas.info/newPaper.php?c=) and log in.
 2. You should then see the web form for registering your submission. Fill in the form to register your paper.
 3. Once the paper is registered you can submit it by uploading your pdf file.
 4. You can submit the paper right after your paper registration, simply following the EDAS instructions on the acknowledgment page. Alternatively, you can upload your paper later from your EDAS homepage.
@@ -152,7 +152,7 @@ Thank you for agreeing to speak at the SAM IoT 2020. You agree to the following 
 
 {{< grid/div class="margin-top-30" isMarkdown="false">}}
     {{< grid/div class="col-xs-24 col-sm-8 col-sm-offset-2 text-center" isMarkdown="false">}}
-        {{< bootstrap/button linkClass="btn-primary btn-wide" href="https://edas.info/newPaper.php?c=27517">}}Paper Submission{{</bootstrap/button>}}
+        {{< bootstrap/button linkClass="btn-primary btn-wide" href="">}}Paper Submission is Closed{{</bootstrap/button>}}
     {{</ grid/div >}}
     {{< grid/div class="col-xs-24 col-sm-8 col-sm-offset-4 text-center" isMarkdown="false">}}
         {{< bootstrap/button linkClass="btn-primary btn-wide" href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220">}}Register{{</bootstrap/button>}}
@@ -184,7 +184,7 @@ Conference Website: [https://events.eclipse.org/2020/sam-iot](https://events.ecl
 {{</ grid/div >}}
 
 {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
-  [![Linux Foundation](/2020/sam-iot/images/links_foundation_logo.png)](https://linksfoundation.com/)
+  [![LINKS Foundation](/2020/sam-iot/images/links_foundation_logo.png)](https://linksfoundation.com/)
 {{</ grid/div >}}
 
 {{</ grid/div >}}

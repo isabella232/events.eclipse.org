@@ -10,10 +10,10 @@ header_wrapper_class: "header-default-event"
 hide_breadcrumb: true
 container: "container-fluid"
 summary: "Conference on Security, Artificial Intelligence, and Modeling for the next generation Internet of Things."
-links: [[href: "call-for-papers", text: "Call For Papers"]]
+links: [[href: "https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220", text: "Register"]]
 layout: single
 ---
-
+[//]: # (Introduction Section)
 {{< grid/section-container id="registration" class="featured-section-row featured-section-row-lighter-bg">}}
 {{< events/registration event="sam-iot" year="2020">}}
 
@@ -26,28 +26,24 @@ These innovations are setting the groundwork for the next generation IoT that wi
 {{</ events/registration >}}
 {{</ grid/section-container >}}
 
+[//]: # (Keynote speakers)
 {{< grid/section-container id="keynote" class="featured-section-row text-center featured-section-row-dark-bg eclipsefdn-user-display-circle" >}}
   {{< events/user_display event="sam-iot" year="2020" title="Keynote" source="keynote" imageRoot="/2020/sam-iot/images/speakers/" subpage="keynote" displayLearnMore="false" />}}
 {{</ grid/section-container >}}
 
-
-{{< grid/section-container class="featured-section-row" isMarkdown="true">}}
-## Important Dates
-
-| Paper submission deadline | Acceptance Notification | Camera-Ready Paper Submission | Conference Dates |
-| :----------------------- | :--------------------- | :--------------------------- | :--------------- |
-| Aug. 5, 2020            | Aug. 21, 2020          | Sep. 10, 2020                | Sep. 17-18, 2020 |
-
+[//]: # (Location and Registration section)
+{{< grid/section-container class="featured-section-row text-center">}}
+	<h2>Location and Registration</h2>
+	<p>Given the current Covid-19 situation, the organization committee of ECLIPSE SAM IoT 2020 will run the conference in fully online mode, with virtual session rooms and facilities for online presentation of talks with opportunities for interacting with speakers and attendees.</p>
+	<p>You can register as an attendee for the conference. Sign up today!</p>
+	{{< bootstrap/button href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220" >}}Register today{{</ bootstrap/button >}}
 {{</ grid/section-container >}}
 
-{{< grid/section-container id="agenda" class="featured-section-row featured-section-row-light-bg" >}}
-  {{< events/agenda event="sam-iot" year="2020" >}}
-{{</ grid/section-container >}}
-
-
+[//]: # (Topics)
 {{< grid/section-container id="topics" class="featured-section-row featured-section-row-dark-bg text-center">}}
 
 <h2>Technical topics of interest</h2>
+You can find the details of these topics in the <a href="call-for-papers">Call for Papers</a>.
 
 {{< grid/div class="row" isMarkdown="false">}}
 
@@ -69,8 +65,6 @@ Artificial Intelligence for IoT
 Modelling for IoT
 {{</ grid/div >}}
 
-
-
 {{</ grid/div >}}
 
 {{< grid/div class="featured-section-container-notes" isMarkdown="true">}}
@@ -84,16 +78,29 @@ Modelling for IoT
 
 {{</ grid/section-container >}}
 
-{{< grid/section-container id="guidelines" class="featured-section-row featured-section-row-lighter-bg">}}
+[//]: # (Agenda)
+{{< grid/section-container id="agenda" class="featured-section-row featured-section-row-light-bg" >}}
+  {{< events/agenda event="sam-iot" year="2020" >}}
+{{</ grid/section-container >}}
 
-<h2>Call for Papers & Submission Guidelines</h2>
+[//]: # (Registration reminder)
+{{< grid/section-container class="featured-section-row featured-section-row-dark-bg  text-center">}}
+	{{< bootstrap/button href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220" >}}Register today{{</ bootstrap/button >}}
+{{</ grid/section-container >}}
 
-<h2>New submission deadline August 5</h2>
 
-{{< bootstrap/button title="Call For Papers" href="call-for-papers" pClass="text-center">}}Call for Papers{{</ bootstrap/button >}}
+[//]: # (Dates)
+{{< grid/section-container class="featured-section-row" isMarkdown="true">}}
+
+## Important Dates
+
+| Paper submission deadline | Acceptance Notification | Camera-Ready Paper Submission | Conference Dates |
+| :----------------------- | :--------------------- | :--------------------------- | :--------------- |
+| Aug. 5, 2020            | Aug. 21, 2020          | Sep. 10, 2020                | Sep. 17-18, 2020 |
 
 {{</ grid/section-container >}}
 
+[//]: # (TCP)
 {{< grid/section-container id="program-committee" class="featured-section-row featured-section-row-dark-bg" isMarkdown="true">}}
 ## Technical Program Committee 
 
@@ -130,27 +137,27 @@ The Technical Program Committee is an independent panel of expert volunteers and
 * Julian Schütte, Fraunhofer AISEC
 * Xu Tao, LINKS Foundation
 * Mark Vinkovits, Pasero
-
+* Rui Zhao, LINKS Foundation
 
 {{</ grid/section-container >}}
 
+[//]: # (Organizing Committee)
 {{< grid/section-container id="organizing-committee" class="featured-section-row featured-section-row-lighter-bg text-center" isMarkdown="true">}}
 
 ## Organizing Committee 
-
 
 The Eclipse Foundation is pleased to be cooperating on this event with the LINKS Foundation.  
 
 ### General Chairs
 
-Philippe Krief (Eclipse Foundation) \
-Enrico Ferrera (LINKS Foundation)
+Philippe Krief, Eclipse Foundation \
+Enrico Ferrera, LINKS Foundation
 
 ### Program Committee Chair
-Rosaria Rossini (LINKS Foundation) 
+Rosaria Rossini, LINKS Foundation 
 
 ### Publicity  
-Susan Iwai  (Eclipse Foundation) 
+Susan Iwai, Eclipse Foundation 
 {{</ grid/section-container >}}
 
 {{< grid/section-container id="organizing-orgs" class="featured-section-row featured-section-row-lighter-bg text-center">}}
@@ -161,7 +168,7 @@ Susan Iwai  (Eclipse Foundation)
   
   [![Eclipse Research](images/eclipse_logo.png)](http://eclipse.org/research)
 {{</ grid/div >}}
-
+ 
 {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
   #### **Supported by:**
   
@@ -171,24 +178,21 @@ Susan Iwai  (Eclipse Foundation)
 {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
   #### **Co-organized by:**
   
-  [![Linux Foundation](images/links_foundation_logo.png)](https://linksfoundation.com/)
+  [![LINKS Foundation](images/links_foundation_logo.png)](https://linksfoundation.com/)
 {{</ grid/div >}}
 
 {{</ grid/div >}}
 {{</ grid/section-container >}}
 
-{{< grid/section-container id="location" class="featured-section-row featured-section-row-dark-bg text-center" isMarkdown="false">}}
-
-<h2>Location and Registration</h2>
-<p>Given the current Covid-19 situation, the organization committee of ECLIPSE SAM IoT 2020 will run the conference in fully online mode, with virtual session rooms and facilities for online presentation of talks with opportunities for interacting with speakers and attendees.</p>
-<p>You can register as an attendee for the conference. Sign up today! </p>
-{{< bootstrap/button href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220" >}}Register today{{</ bootstrap/button >}}
-
+[//]: # (Registration reminder)
+{{< grid/section-container class="featured-section-row featured-section-row-dark-bg  text-center">}}
+	{{< bootstrap/button href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220" >}}Register{{</ bootstrap/button >}}
 {{</ grid/section-container >}}
 
-{{< grid/section-container id="contact" class="featured-section-row featured-section-row-light-bg text-center" isMarkdown="true">}}
-## Contact Us
+[//]: # (Contact) 
+{{< grid/section-container id="contact" class="featured-section-row featured-section-row-lighter-bg text-center" isMarkdown="true">}}
+## Contact Us 
 
-If you have questions about the conference or the Call for Papers, please contact <a href="mailto:research@eclipse.org">research@eclipse.org</a>.
+If you have questions about the conference or the [Call for Papers](call-for-papers), please contact [research@eclipse.org](mailto:research@eclipse.org).
 
 {{</ grid/section-container >}}
