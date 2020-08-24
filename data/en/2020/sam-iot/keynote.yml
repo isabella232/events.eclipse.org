@@ -18,5 +18,26 @@ items:
          <li><a href="https://scholar.google.fr/citations?hl=en&user=FOEVZyYAAAAJ&view_op=list_works&sortby=pubdate">[4] Google Scholar "SAP Security Research"</a></li>
          <li><a href="https://projects.eclipse.org/projects/technology.steady">[5] Eclipse Steady</a></li>
       </ul>
-      <p>Keynote: Cobbles and Potholes – On the Bumpy Road to Secure Software Supply Chains</p>
-      <p>Open source software is ubiquitous – all across the stack, in the cloud and on-premise, on all devices, in commercial and non-commercial offerings. This success, the dependency of the software industry on open source, combined with recent data breaches and attacks, puts security into the spotlight. This talk will provide an overview - for sure opinionated, hopefully controversial – about the state of affairs and current trends regarding the security of software supply chains, both from consumer and producer perspective.</p>
+      
+      <p><strong>Keynote</strong>: Cobbles and Potholes – On the Bumpy Road to Secure Software Supply Chains</p>
+      <p>Open source software is ubiquitous – all across the stack, in the cloud and on-premise, on all devices, 
+      in commercial and non-commercial offerings. This success, the dependency of the software industry on open source, 
+      combined with recent data breaches and attacks, puts security into the spotlight. This talk will provide an overview - 
+      for sure opinionated, hopefully controversial – about the state of affairs and current trends regarding the security 
+      of software supply chains, both from consumer and producer perspective.</p>
+
+  - name: "Paul-Emmanuel Brun"
+    title: "Innovation & R&T program leader at Airbus CyberSecurity"
+    img: PMBrun-small.jpg
+    bio: |
+      <p>Passionate about cybersecurity, IoT and identity management, Paul-Emmanuel Brun, is expert 
+      in IoT system security, and leading the innovation activities within AIRBUS CyberSecurity France. 
+      As a former security and identity management engineer, he was involved in several European initiatives 
+      and contributes to several projects for the French MoD, from secure architecture definition to integration 
+      of cybersecurity solution. After applying several patents linked to the cybersecurity of IT and IoT systems, 
+      he is now focus on innovation and IoT system security.</p>
+       
+      <p><strong>Keynote</strong>: Securing low power device communication in a water management use case – Feedback on the Brain-IoT project</p>
+      <p>In this keynote, we will present an overview of a secure IoT data transmission ecosystem. This overview will be completed with a concrete
+      example of a water management use case from the Brain-IoT project. In this use case, to ensure high trust in the device’s data, we integrated
+      an end-to-end security layer that is compatible with battery-less devices with high constraints in terms of energy, power computation and bandwidth.</p>
