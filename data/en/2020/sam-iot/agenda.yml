@@ -34,13 +34,22 @@ sets:
              puts security into the spotlight. This talk will provide an overview - for sure opinionated, 
              hopefully controversial – about the state of affairs and current trends regarding the security 
              of software supply chains, both from consumer and producer perspective.</p>
-             
+
     - name: 'Risk Assessment in IoT Case Study: Collaborative Robots System'
-      presenter: <a href="speakers/#salim-chehida-uga">Salim Chehida, Université Grenoble Alpes</a>
+      presenter: <a href="speakers/#salim-chehida">Salim Chehida</a>
       type: session
       time: 13:40 - 14:00
       abstract: |
-             <p>Security is one of the crucial challenges in the design and development of IoT applications. 
+             <p><strong>Authors:</strong>
+             <ul>
+             	<li>Salim Chehida, Université Grenoble Alpes</li>
+             	<li>Abdelhakim Baouya, Université Grenoble Alpes</li>
+             	<li>Miquel Cantero, Robotnik Automation S.L.L</li>
+             	<li>Paul-Emmanuel Brun, Airbus Defence & Space</li>
+             	<li>Guillemette Massot, Airbus Defence & Space</li>
+             </ul>
+             <strong>Abstract:</strong>
+             Security is one of the crucial challenges in the design and development of IoT applications. 
              This paper presents an approach that focuses on existing security standards to evaluate and 
              analyse the potential risks faced by IoT systems. It begins by identifying system assets and 
              their associated vulnerabilities and threats. A list of security objectives and technical 
