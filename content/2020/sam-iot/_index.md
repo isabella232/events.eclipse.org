@@ -28,7 +28,7 @@ These innovations are setting the groundwork for the next generation IoT that wi
 
 [//]: # (Keynote speakers)
 {{< grid/section-container id="keynote" class="featured-section-row text-center featured-section-row-dark-bg eclipsefdn-user-display-circle" >}}
-  {{< events/user_display event="sam-iot" year="2020" title="Keynotes" source="keynote" imageRoot="/2020/sam-iot/images/speakers/" subpage="keynote" displayLearnMore="false" />}}
+  {{< events/user_display event="sam-iot" year="2020" title="Keynotes" source="keynote" imageRoot="/2020/sam-iot/images/speakers/" subpage="speakers" displayLearnMore="false" />}}
 {{</ grid/section-container >}}
 
 [//]: # (Location and Registration section)
@@ -196,3 +196,4 @@ Susan Iwai, Eclipse Foundation
 If you have questions about the conference or the [Call for Papers](call-for-papers), please contact [research@eclipse.org](mailto:research@eclipse.org).
 
 {{</ grid/section-container >}}
+{{< bootstrap/modal id="eclipsefdn-modal-event-session" >}}

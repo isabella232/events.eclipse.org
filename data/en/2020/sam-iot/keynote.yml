@@ -1,5 +1,5 @@
 items:
-  - name: "Henrik Plate"
+  - name: "Henrik Plate, SAP"
     title: "Senior Researcher at SAP"
     img: henrik_plate.jpg
     bio: |
@@ -26,7 +26,7 @@ items:
       for sure opinionated, hopefully controversial – about the state of affairs and current trends regarding the security 
       of software supply chains, both from consumer and producer perspective.</p>
 
-  - name: "Paul-Emmanuel Brun"
+  - name: "Paul-Emmanuel Brun, AIRBUS"
     title: "Innovation & R&T program leader at Airbus CyberSecurity"
     img: PMBrun-small.jpg
     bio: |
@@ -41,3 +41,4 @@ items:
       <p>In this keynote, we will present an overview of a secure IoT data transmission ecosystem. This overview will be completed with a concrete
       example of a water management use case from the Brain-IoT project. In this use case, to ensure high trust in the device’s data, we integrated
       an end-to-end security layer that is compatible with battery-less devices with high constraints in terms of energy, power computation and bandwidth.</p>
+      
