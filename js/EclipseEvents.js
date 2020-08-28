@@ -57,9 +57,9 @@ function processData(data) {
 
   // ----------- Mail missing Events-Text:
   $("#eventsmail1").append(
-    "<p class=\"text-right\">Missing your event on this site? Please submit your event to the <a href=\"https://newsroom.eclipse.org/node/add/events\">Eclipse Newsroom</a>.<br> You may also send email to <a href=\"mailto:events@eclipse.org\">events@eclipse.org</a>, but the Eclipse Newsroom is the better option.</p>");
+    "<p class=\"text-right\">Missing your event on this site? Please submit your event to the <a href=\"https://newsroom.eclipse.org/node/add/events\">Eclipse Newsroom</a>.</p>");
   $("#eventsmail2").append(
-    "<p class=\"text-right\">Missing your event on this site? Please submit your event to the <a href=\"https://newsroom.eclipse.org/node/add/events\">Eclipse Newsroom</a>.<br> You may also send email to <a href=\"mailto:events@eclipse.org\">events@eclipse.org</a>, but the Eclipse Newsroom is the better option.</p>");
+    "<p class=\"text-right\">Missing your event on this site? Please submit your event to the <a href=\"https://newsroom.eclipse.org/node/add/events\">Eclipse Newsroom</a>.</p>");
 
   // ----------- Create Buttons for filtering events by year:
   var currentYear = new Date().getFullYear();
