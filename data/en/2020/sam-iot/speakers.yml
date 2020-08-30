@@ -44,7 +44,7 @@ items:
       
   - name: "Salim Chehida, UGA"
     title: "Risk Assessment in IoT Case Study: Collaborative Robots System"
-    img: Salim_Chehida.jpeg
+    img: Salim_Chehida.jpg
     bio: |
       <p>Dr. Salim Chehida is a PhD in computer science since 2017 from University of Oran 1 in Algeria. Since 2018, 
       he is a researcher at University of Grenoble Alpes in France. His research interests include Software Engineering, 
@@ -132,7 +132,7 @@ items:
              
   - name: "Xu Tao, LINKS Foundation"
     title: "Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems"
-    img: avatar-woman.png
+    img: avatar.png
     bio: |
       <p>To be completed</p>
        
@@ -152,7 +152,7 @@ items:
              
   - name: "Francesca Marcello, University of Cagliari"
     title: "Smart Building Energy and Comfort Management Based on Sensor Activity Recognition and Prediction"
-    img: avatar-woman.png
+    img: avatar.png
     bio: |
       <p>To be completed</p>
        
@@ -172,7 +172,7 @@ items:
              
   - name: "Catarina Baltazar, University of Porto"
     title: "Prescriptive System for Reconfigurable Manufacturing Systems Considering Variable Demand and Production Rates"
-    img: CatarinaBaltazar.jpeg
+    img: CatarinaBaltazar.jpg
     bio: |
       <p>Catarina Baltazar received her Master’s Degree in Electrical and Computers Engineering from Faculty of Engineering 
       of University of Porto in 2020. Her dissertation was carried out in collaboration with SYSTEC concerning production optimization 
@@ -188,7 +188,7 @@ items:
       
   - name: "Rui Zhao, LINKS Foundation"
     title: "A Cross-Platform Communication Mechanism for ROS-Based Cyber-Physical System"
-    img: avatar-man.png
+    img: avatar.png
     bio: |
       <p>To be completed</p>
        
