@@ -48,8 +48,7 @@ sets:
              	<li>Paul-Emmanuel Brun, Airbus Defence & Space</li>
              	<li>Guillemette Massot, Airbus Defence & Space</li>
              </ul>
-             <strong>Abstract:</strong>
-             Security is one of the crucial challenges in the design and development of IoT applications. 
+             <strong>Abstract:</strong> Security is one of the crucial challenges in the design and development of IoT applications. 
              This paper presents an approach that focuses on existing security standards to evaluate and 
              analyse the potential risks faced by IoT systems. It begins by identifying system assets and 
              their associated vulnerabilities and threats. A list of security objectives and technical 
@@ -61,7 +60,25 @@ sets:
       type: session
       time: 14:00 - 14:20
       abstract: |
-             <p>The CHARIOT H2020 (IoT) project (Cognitive Heterogeneous Architecture for Industrial IoT), 
+             <p><strong>Authors:</strong>
+             <ul>
+             	<li>Konstantinos Loupos, INLECOM Innovation</li>
+             	<li>Alexandros Papageorgiou, INLECOM Innovation</li>
+             	<li>Thomas Krousarlis, INLECOM Innovation</li>
+             	<li>Antonis Mygiakis, INLECOM Innovation</li>
+             	<li>Konstantinos Zavitsas, EBOS Technologies Ltd</li>
+             	<li>Vasos Hadjioannou, eBOS Technologies Ltd</li>
+             	<li>Sofiane Zemouri, IBM</li>
+             	<li>Magdalena Kacmajor, IBM Ireland</li>
+             	<li>Andrea Battaglia, Aspisec Srl</li>
+             	<li>Andrea Chiappetta, Aspisec Srl</li>
+             	<li>George Theofilis, CLMS Hellas</li>
+             	<li>Harris Avgoustidis, Telcoserv</li>
+             	<li>Vassilis Kalompatsos, Telcoserv</li>
+             	<li>Basile Starynkevitch, CEA</li>
+             	<li>Franck Vedrine, CEA</li>
+             </ul>
+             <strong>Abstract:</strong> The CHARIOT H2020 (IoT) project (Cognitive Heterogeneous Architecture for Industrial IoT), 
              integrates a state-of-the-art inclusive solution for the security, safety and privacy 
              assurance of data in industrial networks. The solution is based on an integrated approach 
              for IoT devices lifecycle management (based on blockchain and public key infrastructure 
@@ -76,11 +93,15 @@ sets:
       time: 14:20 - 14:30
       
     - name: 'Integration of Safety Means with Functions of Blockchain in Multi-Layered Architecture of IoT for Safer Data Transmission'
-      presenter: <a href="speakers/#raimundas-savukynas-vilniaus-universitetas">Raimundas Savukynas, Vilniaus Universitetas</a>
+      presenter: <a href="speakers/#raimundas-savukynas">Raimundas Savukynas</a>
       type: session
       time: 14:30 - 14:50
       abstract: |
-             <p>The launching and linking process of heterogeneous objects to the Internet of Things (IoT) is 
+      		<p><strong>Author:</strong>
+             <ul>
+             	<li>Raimundas Savukynas, Vilniaus Universitetas</li>
+             </ul>
+             <strong>Abstract:</strong> The launching and linking process of heterogeneous objects to the Internet of Things (IoT) is 
              related to some important problems of the identification, authentication for ensuring security 
              over the wireless connections. This research study is related to the implementation of safeguard 
              algorithms on the first stages of object identification and authentication before the permission 
@@ -99,7 +120,13 @@ sets:
       type: invited
       time: 14:50 - 15:10
       abstract: |
-             <p>Norms and standards define the ecosystem in which IoT solutions and developed and deployed. 
+             <p><strong>Author:</strong>
+             <ul>
+             	<li>Pasquale Annicchino, Archimede Solutions</li>
+             	<li>Simone Seminara, Istituto Italiano per la Privacy e la Valorizzazione dei Dati</li>
+             	<li>Francesco Capparelli, Istituto Italiano per la Privacy e la Valorizzazione dei Dati</li>
+             </ul>
+             <strong>Abstract:</strong> Norms and standards define the ecosystem in which IoT solutions and developed and deployed. 
              It is often difficult for people without a legal training or an understanding of standardization 
              dynamics the fully grasp the state of the art in this very relevant field. This contributions aims 
              at highlighting the most relevant tools available and explain their relevance.</p>
@@ -115,11 +142,17 @@ sets:
       time: 15:10 - 15:15
       
     - name: 'DINASORE: A Dynamic Intelligent Reconfiguration Tool for Cyber-Physical Production Systems'
-      presenter:  <a href="speakers/#eliseu-moura-pereira-university-of-portos">Eliseu Moura Pereira, University of Porto</a>
+      presenter:  <a href="speakers/#eliseu-moura-pereira">Eliseu Moura Pereira</a>
       type: session
       time: 15:15 - 15:35
       abstract: |
-             <p>The nowadays industrial digital revolution demands for software driven solutions where 
+             <p><strong>Author:</strong>
+             <ul>
+             	<li>Eliseu Moura Pereira, University of Porto</li>
+             	<li>João Pedro Correia dos Reis, University of Porto</li>
+             	<li>Gil Goncalves, University of Porto</li>
+             </ul>
+             <strong>Abstract:</strong> The nowadays industrial digital revolution demands for software driven solutions where 
              reconfiguration is one of the key enablers to achieve smart manufacturing by easy deployment and code 
              reuse. Despite existing several tools and platforms that allow for software reconfiguration at the digital 
              twin / edge level, it is most of the times difficult to make use of state of the art algorithms developed 
@@ -132,11 +165,18 @@ sets:
              demonstrate that the proposed framework 1) is flexible and reliable for different applications and 2) linear 
              increases the CPU and memory workload for a large amount of FBs.</p>
     - name: 'Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto'
-      presenter: <a href="speakers/#g%C3%A9za-kulsc%C3%A1r-incquery-labs">Géza Kulscár, IncQuery Labs</a>
+      presenter: <a href="speakers/#g%C3%A9za-kulsc%C3%A1r">Géza Kulscár</a>
       type: session
       time: 15:35 - 15:55
       abstract: |
-             <p>The design and development of interconnected industrial production facilities, which integrate aspects 
+             <p><strong>Author:</strong>
+             <ul>
+             	<li>Sven Erik Jeroschewski, Bosch IO</li>
+             	<li>Géza Kulscár, IncQuery Labs</li>
+             	<li>Kevin Olutu, Bosch IO</li>
+             	<li>Johannes Kristan, Bosch IO</li>
+             </ul>
+             <strong>Abstract:</strong> The design and development of interconnected industrial production facilities, which integrate aspects 
              of theInternet of Things (IoT) or, more specifically, the IndustrialIoT (IIoT) often deals with complex scenarios 
              involving dynamicSystem of Systems (SoS), resulting in large development anddeployment efforts. The Arrowhead 
              community aims at deliv-ering mechanisms and technologies to cope with such complexscenarios. In particular, the 
@@ -155,11 +195,24 @@ sets:
       time: 15:55 - 16:00
       
     - name: 'Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems'
-      presenter: <a href="speakers/#xu-tao-links-foundation">Xu Tao, LINKS Foundation</a>
+      presenter: <a href="speakers/#xu-tao">Xu Tao</a>
       type: session
       time: 16:00 - 16:20
       abstract: |
-             <p>Internet of Things (IoT) is a pervasive technology covering many applications areas (Smart Mobility, 
+             <p><strong>Author:</strong>
+             <ul>
+             	<li>Xu Tao, LINKS Foundation</li>
+             	<li>Davide Conzon, LINKS Foundation</li>
+				<li>Enrico Ferrera, LINKS Foundation</li>
+				<li>Shuai Li, LINKS Foundation</li>
+				<li>Juergen Goetz, Siemens</li>
+				<li>Laurent Maillet-Contoz, STMicroelectronics</li>
+				<li>Emmanuel Michel, STMicroelectronics</li>
+				<li>Mario Diaz Nava, STMicroelectronics</li>
+				<li>Abdelhakim Baouya, University of Grenoble-Alpes
+				<li>Salim Chehida, University of Grenoble-Alpes</li>
+             </ul>
+             <strong>Abstract:</strong> Internet of Things (IoT) is a pervasive technology covering many applications areas (Smart Mobility, 
              Smart Industry, Smart Healthcare, Smart Building, etc.). Its success and the technology evolution allow targeting 
              more complex and critical applications such as the management of critical infrastructures and cooperative service 
              robotics, which requires real time operation and a higher level of intelligence in the monitoring-control command 
@@ -193,11 +246,16 @@ sets:
              in terms of energy, power computation and bandwidth.</p>
              
     - name: "Smart Building Energy and Comfort Management Based on Sensor Activity Recognition and Prediction"
-      presenter: <a href="speakers/#francesca-marcello-university-of-cagliari">Francesca Marcello, University of Cagliari</a>
+      presenter: <a href="speakers/#francesca-marcello">Francesca Marcello</a>
       type: session
       time: 09:30 - 09:50
       abstract: |
-             <p>Thanks to Building Energy and Comfort Managements (BECM) systems, it is possible monitor and control 
+             <p><strong>Author:</strong>
+             <ul>
+             	<li>Francesca Marcello, University of Cagliari</li>
+             	<li>Virginia Pilloni, University of Cagliari</li>
+             </ul>
+             <strong>Abstract:</strong> Thanks to Building Energy and Comfort Managements (BECM) systems, it is possible monitor and control 
              buildings with the aim to ease appliance management and at the same time ensuring efficient use of them from the 
              energetic point of view. To develop such kind of systems, it is necessary to monitor users' habits, learning their 
              preferences and predicting their sequences of performed activities and appliance usage during the day. To this aim, 
@@ -211,11 +269,17 @@ sets:
              probability evaluation of preferred time of usage of the appliances allows to still obtain evident energy savings 
              even considering the errors on predicted activities.</p>
     - name: 'Prescriptive System for Reconfigurable Manufacturing Systems Considering Variable Demand and Production Rates'
-      presenter: <a href="speakers/#catarina-baltazar-university-of-porto">Catarina Baltazar, University of Porto</a>
+      presenter: <a href="speakers/#catarina-baltazar">Catarina Baltazar</a>
       type: session
       time: 09:50 - 10:10
       abstract: |
-             <p>The current market is dynamic and, consequently, industries need to be able to meet unpredictable market 
+             <p><strong>Author:</strong>
+             <ul>
+             	<li>Catarina Baltazar, University of Porto</li>
+             	<li>João Pedro Correia dos Reis, University of Porto</li>
+             	<li>Gil Goncalves, University of Porto</li>
+             </ul>
+             <strong>Abstract:</strong> The current market is dynamic and, consequently, industries need to be able to meet unpredictable market 
              changes in order to remain competitive. To address the change in paradigm, from mass production to mass customization, 
              manufacturing flexibility is key. Moreover, current digitalization of the industry opens opportunities regarding 
              real-time decision support systems allowing the companies to make strategic decisions, and gain competitive advantage 
@@ -228,11 +292,19 @@ sets:
              show that productivity in all testing scenarios improves, and in some instances, availability slightly increases showing 
              promising indicators. However, further research should be conducted to be able to generalize the obtained results.</p>
     - name: 'A Cross-Platform Communication Mechanism for ROS-Based Cyber-Physical System'
-      presenter: <a href="speakers/#rui-zhao-links-foundation">Rui Zhao, LINKS Foundation</a>
+      presenter: <a href="speakers/#rui-zhao">Rui Zhao</a>
       type: session
       time: 10:10 - 10:30
       abstract: |
-             <p>Recently, one of the main research topics in the context of application of Cyber-Physical System (CPS) in the Smart 
+             <p><strong>Author:</strong>
+             <ul>
+             	<li>Rui Zhao, LINKS Foundation</li>
+             	<li>Yenchia Yu, LINKS Foundation</li>
+             	<li>Xu Tao, LINKS Foundation</li>
+             	<li>Davide Conzon, LINKS Foundation</li>
+             	<li>Enrico Ferrera, LINKS Foundation</li>
+             </ul>
+             <strong>Abstract:</strong> Recently, one of the main research topics in the context of application of Cyber-Physical System (CPS) in the Smart 
              City and Industry 4.0 scenarios is the one related to the use of Robot Operating System (ROS)-based CPS. Specifically, one 
              of the main interest is to allow a ROS-based smart robot needs to communicate with other heterogeneous Internet of Things (IoT) 
              applications in an intelligent environment to efficiently react to the system requirements and environment changes. However, the 
@@ -253,11 +325,20 @@ sets:
       time: 10:30 - 10:40
       
     - name: 'REPLICA: A Solution for Next Generation IoT and Digital Twin Based Fault Diagnosis and Predictive Maintenance'
-      presenter: <a href="speakers/#rosaria-rossini-links-foundation">Rosaria Rossini, LINKS Foundation</a>
+      presenter: <a href="speakers/#rosaria-rossini">Rosaria Rossini</a>
       type: session
       time: 10:40 - 11:00
       abstract: |
-             <p>Nowadays competitiveness goes through several aspects: digitalization, productivity, environmental impact. Technology is 
+             <p><strong>Author:</strong>
+             <ul>
+             	<li>Rosaria Rossini, LINKS Foundation</li>
+             	<li>Davide Conzon, LINKS Foundation</li>
+             	<li>Gianluca Prato, LINKS Foundation</li>
+             	<li>Claudio Pastrone, LINKS Foundation</li>
+             	<li>João Pedro Correia dos Reis, University of Porto</li>
+             	<li>Gil Goncalves, University of Porto</li>
+             </ul>
+             <strong>Abstract:</strong> Nowadays competitiveness goes through several aspects: digitalization, productivity, environmental impact. Technology is 
              advancing fast and helping industries to obtain more and more detailed data. In fact, the possibility to monitoring and control 
              each part of the process is a strong base on which can be build a more intelligent and focused control. Technology advance brings 
              innovation and possibility to manage the production in terms of "near future" through AI prediction and decision-making support. 
@@ -267,11 +348,17 @@ sets:
              in fact, a faster and better solution may have already emerged. In this paper, a flexible, scalable and fast solution has been proposed 
              to cope such problem and help industries to advance and discover possible optimizations.</p>
     - name: 'Semantic Models for Network Intrusion Detection'
-      presenter: <a href="speakers/#peter-bedn%C3%A1r-technical-university-of-kosicen">Peter Bednár, Technical University of Kosice</a>
+      presenter: <a href="speakers/#peter-bedn%C3%A1r">Peter Bednár</a>
       type: session
       time: 11:00 - 11:20
       abstract: |
-             <p>The presented paper describes the design and validation of the hierarchical intrusion detection system (IDS), which combines 
+             <p><strong>Author:</strong>
+             <ul>
+             	<li>Peter Bednár, Technical University of Kosice</li>
+             	<li>Martin Sarnovsky, Technical University of Kosice</li>
+             	<li>Pavol Halas, Technical University of Kosice</li>
+             </ul>
+             <strong>Abstract:</strong> The presented paper describes the design and validation of the hierarchical intrusion detection system (IDS), which combines 
              machine learning approach with the knowledge-based methods. As the knowledge model, we have proposed the ontology of network attacks, 
              which allow to us decompose detection and classification of the existing types of attacks or formalize detection rules for the new types. 
              Designed IDS was evaluated on a widely used KDD 99 dataset and compared to similar approaches.</p>
@@ -280,7 +367,13 @@ sets:
       type: invited
       time: 11:20 - 11:40
       abstract: |
-             <p>This paper identifies the challenges and paths for the FabOS research project which aims to provide a reference architecture for 
+             <p><strong>Author:</strong>
+             <ul>
+             	<li>Martin Lukas, TRUMPF Werkzeugmaschinen GmbH & Ko. KG</li>
+             	<li>Daniel Stock, Fraunhofer Institute for Manufacturing Engineering and Automation IPA</li>
+             	<li>Akos Csiszar, University of Stuttgart</li>
+             </ul>
+             <strong>Abstract:</strong> This paper identifies the challenges and paths for the FabOS research project which aims to provide a reference architecture for 
              an open, distributed, secure and real-time capable operating system for production. The performed work encompasses the results of a 
              meta-analysis of existing relevant reference architectures, implementations, projects and standards which has been carried out and 
              mapped to the envisaged requirements of a FabOS reference architecture.</p>
