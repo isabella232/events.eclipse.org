@@ -18,13 +18,6 @@ items:
          <li><a href="https://scholar.google.fr/citations?hl=en&user=FOEVZyYAAAAJ&view_op=list_works&sortby=pubdate">[4] Google Scholar "SAP Security Research"</a></li>
          <li><a href="https://projects.eclipse.org/projects/technology.steady">[5] Eclipse Steady</a></li>
       </ul>
-      
-      <p><strong>Keynote</strong>: Cobbles and Potholes – On the Bumpy Road to Secure Software Supply Chains</p>
-      <p>Open source software is ubiquitous – all across the stack, in the cloud and on-premise, on all devices, 
-      in commercial and non-commercial offerings. This success, the dependency of the software industry on open source, 
-      combined with recent data breaches and attacks, puts security into the spotlight. This talk will provide an overview - 
-      for sure opinionated, hopefully controversial – about the state of affairs and current trends regarding the security 
-      of software supply chains, both from consumer and producer perspective.</p>
 
   - name: "Paul-Emmanuel Brun, AIRBUS"
     title: "Innovation & R&T program leader at Airbus CyberSecurity"
@@ -36,11 +29,6 @@ items:
       and contributes to several projects for the French MoD, from secure architecture definition to integration 
       of cybersecurity solution. After applying several patents linked to the cybersecurity of IT and IoT systems, 
       he is now focus on innovation and IoT system security.</p>
-       
-      <p><strong>Keynote</strong>: Securing low power device communication in a water management use case – Feedback on the Brain-IoT project</p>
-      <p>In this keynote, we will present an overview of a secure IoT data transmission ecosystem. This overview will be completed with a concrete
-      example of a water management use case from the Brain-IoT project. In this use case, to ensure high trust in the device’s data, we integrated
-      an end-to-end security layer that is compatible with battery-less devices with high constraints in terms of energy, power computation and bandwidth.</p>
       
   - name: "Salim Chehida, UGA"
     title: "Risk Assessment in IoT Case Study: Collaborative Robots System"
@@ -50,14 +38,6 @@ items:
       he is a researcher at University of Grenoble Alpes in France. His research interests include Software Engineering, 
       Verification and Validation of Software Systems, Semi-formal and Formal Specification Methods (UML, B, etc.), Model Driven 
       Engineering , Runtime Verification, Information Systems Security, IoT, CPS, etc.</p>
-       
-      <p><strong>Abstract</strong>: Security is one of the crucial challenges in the design and development of IoT applications. 
-             This paper presents an approach that focuses on existing security standards to evaluate and 
-             analyse the potential risks faced by IoT systems. It begins by identifying system assets and 
-             their associated vulnerabilities and threats. A list of security objectives and technical 
-             requirements are then defined to mitigate the risks and build a secure and safe system. 
-             We use our approach to assess risks in the robotic system for supporting the movement of loads 
-             in a warehouse.</p>
              
   - name: "Raimundas Savukynas, Vilniaus Universitetas"
     title: "Integration of Safety Means with Functions of Blockchain in Multi-Layered Architecture of IoT for Safer Data Transmission"
@@ -68,21 +48,6 @@ items:
       He is a junior lecturer on Software Engineering, Systems Theory, and Information Security at Vilnius Gediminas Technical University. 
       Research interests include advanced database systems, business process engineering, intelligent information systems, social computing 
       technologies, software systems engineering, and information security.</p>
-       
-      <p><strong>Abstract</strong>: The launching and linking process of heterogeneous objects to the Internet of Things (IoT) is 
-             related to some important problems of the identification, authentication for ensuring security 
-             over the wireless connections. This research study is related to the implementation of safeguard 
-             algorithms on the first stages of object identification and authentication before the permission 
-             stage for launching into the working area of the IoT. This research aims to evaluate some safety 
-             means related to the identification and authentication stages of objects by integrating them with 
-             the functionality of blockchain. The objectives of this research are related to the development of 
-             more safety working algorithms by representing the stages of checking the identity of the IoT objects. 
-             The results demonstrated integration possibilities of implementing the blockchain functionality for 
-             establishing and managing the operational rules for pre-connection stages of objects to the IoT. 
-             The paper shows new results of developing protection means for ensuring reliable communication in 
-             the transmission of outgoing confidential data and transmission data integrity from smart devices. 
-             As a result, components of necessary functional capabilities of the communication of IoT are developed 
-             by intending to ensure the safety and reliability of the wireless connection of smart objects.</p>
              
   - name: "Eliseu Moura Pereira, University of Portos"
     title: "DINASORE: A Dynamic Intelligent Reconfiguration Tool for Cyber-Physical Production Systems"
@@ -94,19 +59,6 @@ items:
       degree from FEUP in 2018 and is a Ph.D. candidate in Informatics Engineering since 2019. He is currently 
       involved in several projects related to Smart Manufacturing, applying concepts of interoperability, reconfiguration, 
       and analytics to Cyber-Physical Production Systems.</p>
-       
-      <p><strong>Abstract</strong>: The nowadays industrial digital revolution demands for software driven solutions where 
-             reconfiguration is one of the key enablers to achieve smart manufacturing by easy deployment and code 
-             reuse. Despite existing several tools and platforms that allow for software reconfiguration at the digital 
-             twin / edge level, it is most of the times difficult to make use of state of the art algorithms developed 
-             in the most popular programming languages due to software incompatibility. This paper presents a novel 
-             framework named Dynamic INtelligent Architecture for Software MOdular REconfiguration (DINASORE) that 
-             implements the industrial standard IEC 61499 based in Function Blocks (FB) in Python language for 
-             Cyber-Physical Production Systems' implementation. It adopts the 4DIAC-IDE as graphical user interface (GUI) 
-             to ease the design and deployment of FBs to quickly and on-demand reconfigure target equipment. The proposed 
-             framework provides data integration to third party platforms through the use of OPC-UA. The test scenarios 
-             demonstrate that the proposed framework 1) is flexible and reliable for different applications and 2) linear 
-             increases the CPU and memory workload for a large amount of FBs.</p>
              
   - name: "Géza Kulscár, IncQuery Labs"
     title: "Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto"
@@ -115,60 +67,18 @@ items:
       <p>Géza Kulcsár is a senior researcher at IncQuery Labs, a Budapest-based R&D specializing in systems engineering. 
       He holds a PhD in computer science from the Technical University of Darmstadt, Germany. His research interests range 
       from the semantics of model transformation to industrial practices in the conceptual modeling of large-scale systems.</p>
-       
-      <p><strong>Abstract</strong>: The design and development of interconnected industrial production facilities, which integrate aspects 
-             of theInternet of Things (IoT) or, more specifically, the IndustrialIoT (IIoT) often deals with complex scenarios 
-             involving dynamicSystem of Systems (SoS), resulting in large development anddeployment efforts. The Arrowhead 
-             community aims at deliv-ering mechanisms and technologies to cope with such complexscenarios. In particular, the 
-             concepts of local clouds providing aservice-oriented architecture (SOA) framework for IIoT. Here,a central 
-             challenge is the conceptual modeling of such use-cases. SysML is widely established as a standardized modeling 
-             language and framework for large-scale systems engineeringand, thus, for Arrowhead local cloud designs. However, 
-             SysMLand its Arrowhead profile lacks a canonical way to supportactual platform modeling and device involvement 
-             in heavilydistributed IIoT scenarios. The Eclipse Vorto project is ideal forfilling this gap: it provides a 
-             modeling language for IoT devicesand comes with a set of modeling tools and already existingreusable templates 
-             of device models. In this paper, we proposean approach to integrating Eclipse Vorto models into ArrowheadSysML 
-             models. We illustrate the concept with a realistic, yetcomprehensible industrial scenario and also present a 
-             prototypeto emphasize the benefits of our novel integration platform.</p>
              
   - name: "Xu Tao, LINKS Foundation"
     title: "Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems"
     img: avatar.png
     bio: |
       <p>To be completed</p>
-       
-      <p><strong>Abstract</strong>: Internet of Things (IoT) is a pervasive technology covering many applications areas (Smart Mobility, 
-             Smart Industry, Smart Healthcare, Smart Building, etc.). Its success and the technology evolution allow targeting 
-             more complex and critical applications such as the management of critical infrastructures and cooperative service 
-             robotics, which requires real time operation and a higher level of intelligence in the monitoring-control command 
-             for decision-making. Furthermore, these applications type need to be fully validated in advance considering that bugs 
-             discovered during real operation could cause significant damages. In order to avoid these drawbacks, IoT developers 
-             and system integrators need advanced tools and methodologies. This paper presents a methodology and a set of tools, 
-             defined and developed in the context of the BRAIN-IoT European Union (EU) project. The overall framework includes both 
-             Open semantic models to enforce interoperable operations and exchange of data and control features; and Model-based 
-             development tools to implement Digital Twin solutions to facilitate the prototyping and integration of interoperable 
-             and reliable IoT system solutions. After describing the solution developed, this paper also presents concrete use cases 
-             based on the two critical systems mentioned above, leveraging the application scenarios used to validate the concepts 
-             developed and results obtained by the BRAIN-IoT project.</p>
              
   - name: "Francesca Marcello, University of Cagliari"
     title: "Smart Building Energy and Comfort Management Based on Sensor Activity Recognition and Prediction"
     img: avatar.png
     bio: |
       <p>To be completed</p>
-       
-      <p><strong>Abstract</strong>: Thanks to Building Energy and Comfort Managements (BECM) systems, it is possible monitor and control 
-             buildings with the aim to ease appliance management and at the same time ensuring efficient use of them from the 
-             energetic point of view. To develop such kind of systems, it is necessary to monitor users' habits, learning their 
-             preferences and predicting their sequences of performed activities and appliance usage during the day. To this aim, 
-             in this paper a system capable of controlling home appliances according to user preferences and trying to reduce 
-             energy consumption is proposed. The main objective of the system is to learn users' daily behaviour and to be able 
-             to predict their future activities basing on statistical data about the activities they usually perform. The system 
-             can then execute a scheduling algorithm of the appliances based on the expected energy consumption and user 
-             annoyance related with shifting the appliance starting time from their preferred one. Experimental results 
-             demonstrate that thanks to the scheduling algorithm energy cost can be reduced of 50.43% and 49.2% depending on 
-             different tariffs, just by shifting the use of the appliance to time periods of non-peak hours. Scheduling based on 
-             probability evaluation of preferred time of usage of the appliances allows to still obtain evident energy savings 
-             even considering the errors on predicted activities.</p>
              
   - name: "Catarina Baltazar, University of Porto"
     title: "Prescriptive System for Reconfigurable Manufacturing Systems Considering Variable Demand and Production Rates"
@@ -177,52 +87,18 @@ items:
       <p>Catarina Baltazar received her Master’s Degree in Electrical and Computers Engineering from Faculty of Engineering 
       of University of Porto in 2020. Her dissertation was carried out in collaboration with SYSTEC concerning production optimization 
       in an Industry 4.0 context. Her current interests include decision support systems and prognostics and health management techniques.</p>
-       
-      <p><strong>Abstract</strong>: "The current market is dynamic and, consequently, industries need to be able to meet unpredictable 
-      market changes in order to remain competitive. The ongoing digitalization of industry opens opportunities regarding decision support 
-      systems allowing companies to make strategic decisions.
-      The presentation will focus on the description of a Prescriptive System with a highly parameterizable simulation environment 
-      catered to meet the needs of Reconfigurable Manufacturing Systems allied with an optimization module that takes into consideration 
-      productivity, market demand and equipment degradation. Its implementation showed some promising results as it improves productivity 
-      in all testing scenarios and, in some instances, slight increases in availability."</p>
       
   - name: "Rui Zhao, LINKS Foundation"
     title: "A Cross-Platform Communication Mechanism for ROS-Based Cyber-Physical System"
     img: avatar.png
     bio: |
       <p>To be completed</p>
-       
-      <p><strong>Abstract</strong>: Recently, one of the main research topics in the context of application of Cyber-Physical System (CPS) in the Smart 
-             City and Industry 4.0 scenarios is the one related to the use of Robot Operating System (ROS)-based CPS. Specifically, one 
-             of the main interest is to allow a ROS-based smart robot needs to communicate with other heterogeneous Internet of Things (IoT) 
-             applications in an intelligent environment to efficiently react to the system requirements and environment changes. However, the 
-             communication between the IoT systems will face many challenges and increase the cost and risks that lead to the requirement of 
-             a cross-platform communication for bridging the ROS-based CPS and other heterogeneous IoT applications. This paper introduces 
-             an OSGi-based adaptor, named the ROS Edge Node, for the interoperability between Robotics domain and other IoT domains, leveraging 
-             the highly modular BRAIN-IoT federation, which allows to decentralize, composite and dynamically federate the heterogeneous IoT 
-             platforms by leveraging OSGi. Together with the unfixed infrastructure of BRAIN-IoT solution, the event-driven asynchronous 
-             communication mechanism realizes cross-platform interaction with ROS-based CPS and solves the major challenges faced. The ROS 
-             Edge Node is packaged as a BRAIN-IoT Service with Requirement/Capability in metadata, similar to microservice, to be deployed 
-             in a distributed BRAIN-IoT Fabric cluster as a bridge between the underlying ROS-based robotics systems and other OSGi-based 
-             IoT systems in various IoT domains via an Asynchronous Eventing Substrate (BRAIN-IoT EventBus). This paper demonstrates the 
-             solution developed in an service robotics use case in a warehouse to show how the OSGi-based adaptor enables the fast adaptivity 
-             and interoperability between heterogeneous IoT domains in a federated environment.</p>
       
   - name: "Rosaria Rossini, LINKS Foundation"
     title: "REPLICA: A Solution for Next Generation IoT and Digital Twin Based Fault Diagnosis and Predictive Maintenance"
     img: avatar.png
     bio: |
       <p>To be completed</p>
-       
-      <p><strong>Abstract</strong>: Nowadays competitiveness goes through several aspects: digitalization, productivity, environmental impact. Technology is 
-             advancing fast and helping industries to obtain more and more detailed data. In fact, the possibility to monitoring and control 
-             each part of the process is a strong base on which can be build a more intelligent and focused control. Technology advance brings 
-             innovation and possibility to manage the production in terms of "near future" through AI prediction and decision-making support. 
-             Forecasting demands and productions, optimizing process by reducing costs and improving efficiency without corrupting the quality 
-             of the product is a big challenge at the plants level. Automation, Industrial Internet of Things (IIoT), robotics, cloud computing, 
-             AI and more... A problem arises for the industries in the time of researching, getting approval, purchasing and installing new technology, 
-             in fact, a faster and better solution may have already emerged. In this paper, a flexible, scalable and fast solution has been proposed 
-             to cope such problem and help industries to advance and discover possible optimizations.</p>
       
   - name: "Peter Bednár, Technical University of Kosicen"
     title: "Semantic Models for Network Intrusion Detection"
@@ -233,11 +109,6 @@ items:
       University of Kosice in 2010. His experiences are tightly connected with research in knowledge management, text and data mining, natural 
       language processing and distributed software architectures for Big Data processing. He has participated in several EU R&D projects, 
       e.g. H2020 Monsoon, Picaso, FP7 Urban Sensing, Adapt4EE, SPIKE, FP6 Access e-Gov, KP-Lab, FP5 Webocracy.</p>
-       
-      <p><strong>Abstract</strong>: The presented paper describes the design and validation of the hierarchical intrusion detection system (IDS), which combines 
-             machine learning approach with the knowledge-based methods. As the knowledge model, we have proposed the ontology of network attacks, 
-             which allow to us decompose detection and classification of the existing types of attacks or formalize detection rules for the new types. 
-             Designed IDS was evaluated on a widely used KDD 99 dataset and compared to similar approaches.</p>
                        
              
              
