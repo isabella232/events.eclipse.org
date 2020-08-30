@@ -121,7 +121,7 @@ sets:
       type: invited
       time: 14:50 - 15:10
       abstract: |
-             <p><strong>Author:</strong>
+             <p><strong>Authors:</strong>
              <ul>
                   <li>Pasquale Annicchino, Archimede Solutions</li>
                   <li>Simone Seminara, Istituto Italiano per la Privacy e la Valorizzazione dei Dati</li>
@@ -147,7 +147,7 @@ sets:
       type: session
       time: 15:15 - 15:35
       abstract: |
-             <p><strong>Author:</strong>
+             <p><strong>Authors:</strong>
              <ul>
                   <li>Eliseu Moura Pereira, University of Porto</li>
                   <li>João Pedro Correia dos Reis, University of Porto</li>
@@ -170,7 +170,7 @@ sets:
       type: session
       time: 15:35 - 15:55
       abstract: |
-             <p><strong>Author:</strong>
+             <p><strong>Authors:</strong>
              <ul>
                   <li>Sven Erik Jeroschewski, Bosch IO</li>
                   <li>Géza Kulscár, IncQuery Labs</li>
@@ -200,7 +200,7 @@ sets:
       type: session
       time: 16:00 - 16:20
       abstract: |
-             <p><strong>Author:</strong>
+             <p><strong>Authors:</strong>
              <ul>
                   <li>Xu Tao, LINKS Foundation</li>
                   <li>Davide Conzon, LINKS Foundation</li>
@@ -251,7 +251,7 @@ sets:
       type: session
       time: 09:30 - 09:50
       abstract: |
-             <p><strong>Author:</strong>
+             <p><strong>Authors:</strong>
              <ul>
                   <li>Francesca Marcello, University of Cagliari</li>
                   <li>Virginia Pilloni, University of Cagliari</li>
@@ -274,7 +274,7 @@ sets:
       type: session
       time: 09:50 - 10:10
       abstract: |
-             <p><strong>Author:</strong>
+             <p><strong>Authors:</strong>
              <ul>
                   <li>Catarina Baltazar, University of Porto</li>
                   <li>João Pedro Correia dos Reis, University of Porto</li>
@@ -297,7 +297,7 @@ sets:
       type: session
       time: 10:10 - 10:30
       abstract: |
-             <p><strong>Author:</strong>
+             <p><strong>Authors:</strong>
              <ul>
                   <li>Rui Zhao, LINKS Foundation</li>
                   <li>Yenchia Yu, LINKS Foundation</li>
@@ -330,7 +330,7 @@ sets:
       type: session
       time: 10:40 - 11:00
       abstract: |
-             <p><strong>Author:</strong>
+             <p><strong>Authors:</strong>
              <ul>
                   <li>Rosaria Rossini, LINKS Foundation</li>
                   <li>Davide Conzon, LINKS Foundation</li>
@@ -353,7 +353,7 @@ sets:
       type: session
       time: 11:00 - 11:20
       abstract: |
-             <p><strong>Author:</strong>
+             <p><strong>Authors:</strong>
              <ul>
                   <li>Peter Bednár, Technical University of Kosice</li>
                   <li>Martin Sarnovsky, Technical University of Kosice</li>
@@ -368,7 +368,7 @@ sets:
       type: invited
       time: 11:20 - 11:40
       abstract: |
-             <p><strong>Author:</strong>
+             <p><strong>Authors:</strong>
              <ul>
                   <li>Martin Lukas, TRUMPF Werkzeugmaschinen GmbH & Ko. KG</li>
                   <li>Daniel Stock, Fraunhofer Institute for Manufacturing Engineering and Automation IPA</li>
