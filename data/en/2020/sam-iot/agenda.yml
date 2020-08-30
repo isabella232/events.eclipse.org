@@ -98,7 +98,7 @@ sets:
       type: session
       time: 14:30 - 14:50
       abstract: |
-                <p><strong>Author:</strong>
+             <p><strong>Author:</strong>
              <ul>
                   <li>Raimundas Savukynas, Vilniaus Universitetas</li>
              </ul>
