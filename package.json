@@ -22,7 +22,7 @@
     "build_netlify": "NODE_ENV=production npm run disallow_robots_txt && npm run production"
   },
   "dependencies": {
-    "eclipsefdn-hugo-solstice-theme": "0.0.89",
+    "eclipsefdn-hugo-solstice-theme": "git://github.com:EclipseFdn/hugo-solstice-theme.git#c23041dd6417904feee0932aefeae6500667e5b9",
     "leaflet": "^0.7.7",
     "leaflet.markercluster": "^0.5.0"
   }
