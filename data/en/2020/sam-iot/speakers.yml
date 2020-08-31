@@ -1,25 +1,25 @@
 items:
-  - name: "Henrik Plate, SAP"
-    title: "Senior Researcher at SAP"
-    img: henrik_plate.jpg
+
+  - name: "Catarina Baltazar, University of Porto"
+    title: "Prescriptive System for Reconfigurable Manufacturing Systems Considering Variable Demand and Production Rates"
+    img: CatarinaBaltazar.jpg
     bio: |
-      <p>Henrik Plate is a senior researcher at SAP Security Research [1, 2, 3, 4].
-      He received his MSc in Computer Science and Business Administration in 1999 
-      from the University of Mannheim. His current research focusses on the security 
-      of software supply chains, esp. the use of open source components with known 
-      vulnerabilities and supply chain attacks. He is a co-author of Eclipse Steady [5], 
-      which supports the detection, assessment and mitigation of vulnerable open source 
-      dependencies in Java and Python applications. </p>
-
-      <ul>
-         <li><a href="https://www.sap.com/documents/2017/12/cc047065-e67c-0010-82c7-eda71af511fa.html">[1] SAP Security Research</a></li>
-         <li><a href="https://www.linkedin.com/feed/hashtag/sapsecurityresearch/">[2] LinkedIn #sapsecurityresearch</a></li>
-         <li><a href="https://twitter.com/hashtag/sapsecurityresearch?src=hash&f=live&vertical=default">[3] Twitter #sapsecurityresearch</a></li>
-         <li><a href="https://scholar.google.fr/citations?hl=en&user=FOEVZyYAAAAJ&view_op=list_works&sortby=pubdate">[4] Google Scholar "SAP Security Research"</a></li>
-         <li><a href="https://projects.eclipse.org/projects/technology.steady">[5] Eclipse Steady</a></li>
-      </ul>
-
-  - name: "Paul-Emmanuel Brun, AIRBUS"
+      <p>Catarina Baltazar received her Master’s Degree in Electrical and Computers Engineering from Faculty of Engineering 
+      of University of Porto in 2020. Her dissertation was carried out in collaboration with SYSTEC concerning production optimization 
+      in an Industry 4.0 context. Her current interests include decision support systems and prognostics and health management techniques.</p>
+      
+  - name: "Peter Bednár, Technical University of Kosicen"
+    title: "Semantic Models for Network Intrusion Detection"
+    img: PeterBednar.jpg
+    bio: |
+      <p>Peter Bednár, PhD, is a senior researcher at the Faculty of Electrical Engineering and Informatics, Technical University of Kosice, 
+      Slovakia. He was awarded a PhD in Artificial Intelligence at the Faculty of Electrical Engineering and Informatics of the Technical 
+      University of Kosice in 2010. His experiences are tightly connected with research in knowledge management, text and data mining, natural 
+      language processing and distributed software architectures for Big Data processing. He has participated in several EU R&D projects, 
+      e.g. H2020 Monsoon, Picaso, FP7 Urban Sensing, Adapt4EE, SPIKE, FP6 Access e-Gov, KP-Lab, FP5 Webocracy.</p>
+                       
+      
+  - name: "Paul-Emmanuel Brun, AIRBUS (Keynote)"
     title: "Innovation & R&T program leader at Airbus CyberSecurity"
     img: PMBrun-small.jpg
     bio: |
@@ -39,15 +39,23 @@ items:
       Verification and Validation of Software Systems, Semi-formal and Formal Specification Methods (UML, B, etc.), Model Driven 
       Engineering , Runtime Verification, Information Systems Security, IoT, CPS, etc.</p>
              
-  - name: "Raimundas Savukynas, Vilniaus Universitetas"
-    title: "Integration of Safety Means with Functions of Blockchain in Multi-Layered Architecture of IoT for Safer Data Transmission"
-    img: RaimundasSavukynas1.jpg
+  - name: "Géza Kulscár, IncQuery Labs"
+    title: "Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto"
+    img: GezaKulcsar.jpg
     bio: |
-      <p>Raimundas Savukynas is a Ph.D. student in the Group of Intelligent Technologies Research at the Institute of 
-      Data Science and Digital Technologies, Faculty of Mathematics and Informatics, which is part of Vilnius University. 
-      He is a junior lecturer on Software Engineering, Systems Theory, and Information Security at Vilnius Gediminas Technical University. 
-      Research interests include advanced database systems, business process engineering, intelligent information systems, social computing 
-      technologies, software systems engineering, and information security.</p>
+      <p>Géza Kulcsár is a senior researcher at IncQuery Labs, a Budapest-based R&D specializing in systems engineering. 
+      He holds a PhD in computer science from the Technical University of Darmstadt, Germany. His research interests range 
+      from the semantics of model transformation to industrial practices in the conceptual modeling of large-scale systems.</p>
+             
+  - name: "Francesca Marcello, University of Cagliari"
+    title: "Smart Building Energy and Comfort Management Based on Sensor Activity Recognition and Prediction"
+    img: FMarcello_ph.jpg
+    bio: |
+      <p>Francesca Marcello is currently a Ph.D. student in Electronic and Information Engineering at the Department of Electrical
+      and Electronic Engineering, University of Cagliari. She was awarded with the Master Degree in Telecommunication Engineering 
+      with full marks in 2019 at the University of Cagliari. <br/>
+      Her research interests are expecially related to Internet of Things, Smart Buildings and Human Behaviour Analysis. Her activity 
+      is mainly involved in human behaviour recognition and prediction inside buildings for energy and comfort management systems.</p>
              
   - name: "Eliseu Moura Pereira, University of Portos"
     title: "DINASORE: A Dynamic Intelligent Reconfiguration Tool for Cyber-Physical Production Systems"
@@ -59,57 +67,54 @@ items:
       degree from FEUP in 2018 and is a Ph.D. candidate in Informatics Engineering since 2019. He is currently 
       involved in several projects related to Smart Manufacturing, applying concepts of interoperability, reconfiguration, 
       and analytics to Cyber-Physical Production Systems.</p>
-             
-  - name: "Géza Kulscár, IncQuery Labs"
-    title: "Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto"
-    img: GezaKulcsar.jpg
-    bio: |
-      <p>Géza Kulcsár is a senior researcher at IncQuery Labs, a Budapest-based R&D specializing in systems engineering. 
-      He holds a PhD in computer science from the Technical University of Darmstadt, Germany. His research interests range 
-      from the semantics of model transformation to industrial practices in the conceptual modeling of large-scale systems.</p>
-             
-  - name: "Xu Tao, LINKS Foundation"
-    title: "Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems"
-    img: avatar.png
-    bio: |
-      <p>To be completed</p>
-             
-  - name: "Francesca Marcello, University of Cagliari"
-    title: "Smart Building Energy and Comfort Management Based on Sensor Activity Recognition and Prediction"
-    img: avatar.png
-    bio: |
-      <p>To be completed</p>
-             
-  - name: "Catarina Baltazar, University of Porto"
-    title: "Prescriptive System for Reconfigurable Manufacturing Systems Considering Variable Demand and Production Rates"
-    img: CatarinaBaltazar.jpg
-    bio: |
-      <p>Catarina Baltazar received her Master’s Degree in Electrical and Computers Engineering from Faculty of Engineering 
-      of University of Porto in 2020. Her dissertation was carried out in collaboration with SYSTEC concerning production optimization 
-      in an Industry 4.0 context. Her current interests include decision support systems and prognostics and health management techniques.</p>
       
-  - name: "Rui Zhao, LINKS Foundation"
-    title: "A Cross-Platform Communication Mechanism for ROS-Based Cyber-Physical System"
-    img: avatar.png
+  - name: "Henrik Plate, SAP (Keynote)"
+    title: "Senior Researcher at SAP"
+    img: henrik_plate.jpg
     bio: |
-      <p>To be completed</p>
+      <p>Henrik Plate is a senior researcher at SAP Security Research [1, 2, 3, 4].
+      He received his MSc in Computer Science and Business Administration in 1999 
+      from the University of Mannheim. His current research focusses on the security 
+      of software supply chains, esp. the use of open source components with known 
+      vulnerabilities and supply chain attacks. He is a co-author of Eclipse Steady [5], 
+      which supports the detection, assessment and mitigation of vulnerable open source 
+      dependencies in Java and Python applications. </p>
+
+      <ul>
+         <li><a href="https://www.sap.com/documents/2017/12/cc047065-e67c-0010-82c7-eda71af511fa.html">[1] SAP Security Research</a></li>
+         <li><a href="https://www.linkedin.com/feed/hashtag/sapsecurityresearch/">[2] LinkedIn #sapsecurityresearch</a></li>
+         <li><a href="https://twitter.com/hashtag/sapsecurityresearch?src=hash&f=live&vertical=default">[3] Twitter #sapsecurityresearch</a></li>
+         <li><a href="https://scholar.google.fr/citations?hl=en&user=FOEVZyYAAAAJ&view_op=list_works&sortby=pubdate">[4] Google Scholar "SAP Security Research"</a></li>
+         <li><a href="https://projects.eclipse.org/projects/technology.steady">[5] Eclipse Steady</a></li>
+      </ul>
       
   - name: "Rosaria Rossini, LINKS Foundation"
     title: "REPLICA: A Solution for Next Generation IoT and Digital Twin Based Fault Diagnosis and Predictive Maintenance"
     img: avatar.png
     bio: |
       <p>To be completed</p>
-      
-  - name: "Peter Bednár, Technical University of Kosicen"
-    title: "Semantic Models for Network Intrusion Detection"
-    img: PeterBednar.jpg
+             
+  - name: "Raimundas Savukynas, Vilniaus Universitetas"
+    title: "Integration of Safety Means with Functions of Blockchain in Multi-Layered Architecture of IoT for Safer Data Transmission"
+    img: RaimundasSavukynas1.jpg
     bio: |
-      <p>Peter Bednár, PhD, is a senior researcher at the Faculty of Electrical Engineering and Informatics, Technical University of Kosice, 
-      Slovakia. He was awarded a PhD in Artificial Intelligence at the Faculty of Electrical Engineering and Informatics of the Technical 
-      University of Kosice in 2010. His experiences are tightly connected with research in knowledge management, text and data mining, natural 
-      language processing and distributed software architectures for Big Data processing. He has participated in several EU R&D projects, 
-      e.g. H2020 Monsoon, Picaso, FP7 Urban Sensing, Adapt4EE, SPIKE, FP6 Access e-Gov, KP-Lab, FP5 Webocracy.</p>
-                       
+      <p>Raimundas Savukynas is a Ph.D. student in the Group of Intelligent Technologies Research at the Institute of 
+      Data Science and Digital Technologies, Faculty of Mathematics and Informatics, which is part of Vilnius University. 
+      He is a junior lecturer on Software Engineering, Systems Theory, and Information Security at Vilnius Gediminas Technical University. 
+      Research interests include advanced database systems, business process engineering, intelligent information systems, social computing 
+      technologies, software systems engineering, and information security.</p>
+             
+  - name: "Xu Tao, LINKS Foundation"
+    title: "Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems"
+    img: avatar.png
+    bio: |
+      <p>To be completed</p>
+      
+  - name: "Rui Zhao, LINKS Foundation"
+    title: "A Cross-Platform Communication Mechanism for ROS-Based Cyber-Physical System"
+    img: avatar.png
+    bio: |
+      <p>To be completed</p>
              
              
              
