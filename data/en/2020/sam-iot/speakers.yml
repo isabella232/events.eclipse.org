@@ -47,6 +47,27 @@ items:
       He holds a PhD in computer science from the Technical University of Darmstadt, Germany. His research interests range 
       from the semantics of model transformation to industrial practices in the conceptual modeling of large-scale systems.</p>
              
+  - name: "Konstantinos Loupos, INLECOM Innovation"
+    title: "Integrated Solution for Industrial IoT Data Security - the CHARIOT Solution"
+    img: Konstantinos_Loupos.jpg
+    bio: |
+      <p>Konstantinos Loupos (M), Head of R&D Program, holds an MBA (Hellenic Open University, GR), M.Sc. in Microelectronics 
+      Systems Design (University of Southampton, UK) with distinction and M.Eng. in Electronic and Electrical Engineering 
+      (University of Manchester, UK). He has extensive experience in embedded systems and sensors and microelectronics systems, 
+      security systems, IoT technologies and Cybersecurity. His research interests and activities range in Sensors and Systems 
+      for Structural Health Monitoring (tunnels, structures, bridges etc), Robotics for Civil Infrastructure Inspection, Security 
+      Systems (sensors and communications), Water Demand Management, Monitoring and Leakage Detection, Fiber-Optic Monitoring Systems, 
+      Wireless Sensor Networks and Communication Systems and Application Specific Embedded Systems. Konstantinos Loupos has actively 
+      and successfully participated in a series (more than 35, in the last 19 years) of EC co-funded projects (FP5, FP6, FP7, H2020, 
+      MED, GSRT and other) in the areas of SEC, IST, ICT, SME, NMP, COOP, MED, CBC-MED and TRANSPORT, with significant positions of 
+      responsibility (Project Coordinator, Technical Manager, Leader of Development teams etc). He has more than 65 publications in 
+      Conference proceedings, Journals and book chapters. He is serving as a formal evaluator (expert) of EC projects in various topics 
+      of FP7, H2020, EUKERA/EUROSTARS and MED programmes. Konstantinos Loupos is a certified PMP, Scrum, GDPR expert (Certified DPO), 
+      member of EUROPOL EC3 cyber security group and European Cybercrime Center, member of the Secure Platform for Accredited Cybercrime 
+      Experts (SPACE), member in the EUROPOL Data Protection Experts Netwrok (EDEN) and active member of the Alliance for Internet of 
+      Things Innovation (AIOTI). Currently Konstantinos Loupos is involved into several research projects such as: CHARIOT (coordination), 
+      ICONET (coordination), PROFILE (ethics expert and DPO) and PILOTING (partner).</p>
+             
   - name: "Francesca Marcello, University of Cagliari"
     title: "Smart Building Energy and Comfort Management Based on Sensor Activity Recognition and Prediction"
     img: FMarcello_ph.jpg
