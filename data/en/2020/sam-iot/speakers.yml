@@ -2,7 +2,7 @@ items:
     
   - name: "Catarina Baltazar, University of Porto"
     title: "Prescriptive System for Reconfigurable Manufacturing Systems Considering Variable Demand and Production Rates"
-    anchor: Catarina-Baltazar
+    anchor: catarina-baltazar
     img: CatarinaBaltazar.jpg
     bio: |
       <p>Catarina Baltazar received her Master’s Degree in Electrical and Computers Engineering from Faculty of Engineering 
@@ -11,7 +11,7 @@ items:
       
   - name: "Peter Bednár, Technical University of Kosicen"
     title: "Semantic Models for Network Intrusion Detection"
-    anchor: Peter-Bednar
+    anchor: peter-bednar
     img: PeterBednar.jpg
     bio: |
       <p>Peter Bednár, PhD, is a senior researcher at the Faculty of Electrical Engineering and Informatics, Technical University of Kosice, 
@@ -23,7 +23,7 @@ items:
       
   - name: "Paul-Emmanuel Brun, AIRBUS (Keynote)"
     title: "Innovation & R&T program leader at Airbus CyberSecurity"
-    anchor: Paul-Emmanuel-Brun
+    anchor: paul-emmanuel-brun
     img: PMBrun.jpg
     bio: |
       <p>Passionate about cybersecurity, IoT and identity management, Paul-Emmanuel Brun, is expert 
@@ -35,7 +35,7 @@ items:
       
   - name: "Salim Chehida, UGA"
     title: "Risk Assessment in IoT Case Study: Collaborative Robots System"
-    anchor: Salim-Chehida
+    anchor: salim-chehida
     img: Salim_Chehida.jpg
     bio: |
       <p>Dr. Salim Chehida is a PhD in computer science since 2017 from University of Oran 1 in Algeria. Since 2018, 
@@ -45,7 +45,7 @@ items:
              
   - name: "Géza Kulscár, IncQuery Labs"
     title: "Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto"
-    anchor: Geza-Kulscar
+    anchor: geza-kulscar
     img: GezaKulcsar.jpg
     bio: |
       <p>Géza Kulcsár is a senior researcher at IncQuery Labs, a Budapest-based R&D specializing in systems engineering. 
@@ -54,7 +54,7 @@ items:
              
   - name: "Konstantinos Loupos, INLECOM Innovation"
     title: "Integrated Solution for Industrial IoT Data Security - the CHARIOT Solution"
-    anchor: Konstantinos-Loupos
+    anchor: konstantinos-loupos
     img: Konstantinos_Loupos.jpg
     bio: |
       <p>Konstantinos Loupos (M), Head of R&D Program, holds an MBA (Hellenic Open University, GR), M.Sc. in Microelectronics 
@@ -76,7 +76,7 @@ items:
              
   - name: "Francesca Marcello, University of Cagliari"
     title: "Smart Building Energy and Comfort Management Based on Sensor Activity Recognition and Prediction"
-    anchor: Francesca-Marcello
+    anchor: francesca-marcello
     img: FMarcello_ph.jpg
     bio: |
       <p>Francesca Marcello is currently a Ph.D. student in Electronic and Information Engineering at the Department of Electrical
@@ -99,7 +99,7 @@ items:
       
   - name: "Henrik Plate, SAP (Keynote)"
     title: "Senior Researcher at SAP"
-    anchor: Henrik-Plate
+    anchor: henrik-plate
     img: henrik_plate.jpg
     bio: |
       <p>Henrik Plate is a senior researcher at SAP Security Research [1, 2, 3, 4].
@@ -120,14 +120,14 @@ items:
       
   - name: "Rosaria Rossini, LINKS Foundation"
     title: "REPLICA: A Solution for Next Generation IoT and Digital Twin Based Fault Diagnosis and Predictive Maintenance"
-    anchor: Rosaria-Rossini
+    anchor: rosaria-rossini
     img: avatar.png
     bio: |
       <p>To be completed</p>
              
   - name: "Raimundas Savukynas, Vilniaus Universitetas"
     title: "Integration of Safety Means with Functions of Blockchain in Multi-Layered Architecture of IoT for Safer Data Transmission"
-    anchor: Raimundas-Savukynas
+    anchor: raimundas-savukynas
     img: RaimundasSavukynas1.jpg
     bio: |
       <p>Raimundas Savukynas is a Ph.D. student in the Group of Intelligent Technologies Research at the Institute of 
@@ -138,7 +138,7 @@ items:
              
   - name: "Xu Tao, LINKS Foundation"
     title: "Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems"
-    anchor: Xu-Tao
+    anchor: xu-tao
     img: XuTao.jpg
     bio: |
       <p>Xu Tao received her Bachelor Degree in Computer Engineering from Politecnico di Torino as an exchange student in October 2015, 
@@ -154,7 +154,7 @@ items:
       
   - name: "Rui Zhao, LINKS Foundation"
     title: "A Cross-Platform Communication Mechanism for ROS-Based Cyber-Physical System"
-    anchor: Rui-Zhao
+    anchor: rui-zhao
     img: RuiZhao.jpg
     bio: |
       <p>Rui Zhao received the Bachelor’s degree in Computer Engineering in October 2015 and Master’s degree in Computer Engineering in April 2018
