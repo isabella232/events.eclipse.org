@@ -20,7 +20,7 @@ sets:
   - name: Day 1 -- Thursday, September 17
     items:
     - name: Introduction & Welcome
-      presenter: Enrico Ferrera, LINKS Foundation
+      presenter: Enrico Ferrera, LINKS
       type: breakout
       time: 13:00 - 13:10
     - name: 'Cobbles and Potholes – On the Bumpy Road to Secure Software Supply Chains'
@@ -133,7 +133,7 @@ sets:
              at highlighting the most relevant tools available and explain their relevance.</p>
       
     - name: Security breakout
-      presenter: Rosaria Rossini, LINKS Foundation (Moderator)
+      presenter: Rosaria Rossini, LINKS (Moderator)
       type: breakout
       time: 15:10 - 15:35
       abstract: <p>Open discussion on Security and IoT</p>
@@ -228,7 +228,7 @@ sets:
              developed and results obtained by the BRAIN-IoT project.</p>
       
     - name: Modelling breakout
-      presenter: Maria Teresa Delgado, Eclipse Foundation (Moderator)
+      presenter: Maria Teresa Delgado, Eclipse (Moderator)
       type: breakout
       time: 16:20 - 16:40
       abstract: <p>Open discussion on Modelling and IoT</p>
@@ -365,7 +365,7 @@ sets:
              Designed IDS was evaluated on a widely used KDD 99 dataset and compared to similar approaches.</p>
       
     - name: AI breakout
-      presenter: Marco Jahn, Eclipse Foundation (Moderator)
+      presenter: Marco Jahn, Eclipse (Moderator)
       type: breakout
       time: 11:20 - 11:40
       abstract: <p>Open discussion on AI and IoT</p>
