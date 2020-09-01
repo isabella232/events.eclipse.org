@@ -363,28 +363,13 @@ sets:
              machine learning approach with the knowledge-based methods. As the knowledge model, we have proposed the ontology of network attacks, 
              which allow to us decompose detection and classification of the existing types of attacks or formalize detection rules for the new types. 
              Designed IDS was evaluated on a widely used KDD 99 dataset and compared to similar approaches.</p>
-    - name: 'FabOS: Towards an Open, Distributed, Real-Time-Capable, and Secure Operating System for Production'
-      presenter: To be confirmed
-      type: invited
-      time: 11:20 - 11:40
-      abstract: |
-             <p><strong>Authors:</strong>
-             <ul>
-                  <li>Martin Lukas, TRUMPF Werkzeugmaschinen GmbH & Ko. KG</li>
-                  <li>Daniel Stock, Fraunhofer Institute for Manufacturing Engineering and Automation IPA</li>
-                  <li>Akos Csiszar, University of Stuttgart</li>
-             </ul>
-             <strong>Abstract:</strong> This paper identifies the challenges and paths for the FabOS research project which aims to provide a reference architecture for 
-             an open, distributed, secure and real-time capable operating system for production. The performed work encompasses the results of a 
-             meta-analysis of existing relevant reference architectures, implementations, projects and standards which has been carried out and 
-             mapped to the envisaged requirements of a FabOS reference architecture.</p>
       
     - name: AI breakout
       presenter: Marco Jahn, Eclipse Foundation (Moderator)
       type: breakout
-      time: 11:40 - 12:00
+      time: 11:20 - 11:40
       abstract: <p>Open discussion on AI and IoT</p>
-      
+
     - name: Closing session 
       presenter: Moderated by Enrico Ferrera & Philippe Krief
       type: breakout
