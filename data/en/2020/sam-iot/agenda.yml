@@ -24,7 +24,7 @@ sets:
       type: breakout
       time: 13:00 - 13:10
     - name: 'Cobbles and Potholes – On the Bumpy Road to Secure Software Supply Chains'
-      presenter: <a href="speakers/#henrik-plate-sap">Henrik Plate, SAP</a>
+      presenter: <a href="speakers/#Henrik-Plate">Henrik Plate, SAP</a>
       type: keynote
       time: 13:10 - 13:40
       abstract: |
@@ -36,7 +36,7 @@ sets:
              of software supply chains, both from consumer and producer perspective.</p>
 
     - name: 'Risk Assessment in IoT Case Study: Collaborative Robots System'
-      presenter: <a href="speakers/#salim-chehida-uga">Salim Chehida</a>
+      presenter: <a href="speakers/#Salim-Chehida">Salim Chehida</a>
       type: session
       time: 13:40 - 14:00
       abstract: |
@@ -57,7 +57,7 @@ sets:
              in a warehouse.</p>
      
     - name: 'Integrated Solution for Industrial IoT Data Security - the CHARIOT Solution'
-      presenter: <a href="speakers/#konstantinos-loupos-inlecom-innovation">Konstantinos Loupos</a>
+      presenter: <a href="speakers/#Konstantinos-Loupos">Konstantinos Loupos</a>
       type: session
       time: 14:00 - 14:20
       abstract: |
@@ -94,7 +94,7 @@ sets:
       time: 14:20 - 14:30
       
     - name: 'Integration of Safety Means with Functions of Blockchain in Multi-Layered Architecture of IoT for Safer Data Transmission'
-      presenter: <a href="speakers/#raimundas-savukynas-vilniaus-universitetas">Raimundas Savukynas</a>
+      presenter: <a href="speakers/#Raimundas-Savukynas">Raimundas Savukynas</a>
       type: session
       time: 14:30 - 14:50
       abstract: |
@@ -143,7 +143,7 @@ sets:
       time: 15:10 - 15:15
       
     - name: 'DINASORE: A Dynamic Intelligent Reconfiguration Tool for Cyber-Physical Production Systems'
-      presenter:  <a href="speakers/#eliseu-moura-pereira-university-of-portos">Eliseu Moura Pereira</a>
+      presenter:  <a href="speakers/#Eliseu-Moura-Pereira">Eliseu Moura Pereira</a>
       type: session
       time: 15:15 - 15:35
       abstract: |
@@ -166,7 +166,7 @@ sets:
              demonstrate that the proposed framework 1) is flexible and reliable for different applications and 2) linear 
              increases the CPU and memory workload for a large amount of FBs.</p>
     - name: 'Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto'
-      presenter: <a href="speakers/#g%C3%A9za-kulsc%C3%A1r-incquery-labs">Géza Kulscár</a>
+      presenter: <a href="speakers/#Geza-Kulscar">Géza Kulscár</a>
       type: session
       time: 15:35 - 15:55
       abstract: |
@@ -196,7 +196,7 @@ sets:
       time: 15:55 - 16:00
       
     - name: 'Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems'
-      presenter: <a href="speakers/#xu-tao-links-foundation">Xu Tao</a>
+      presenter: <a href="speakers/#Xu-Tao">Xu Tao</a>
       type: session
       time: 16:00 - 16:20
       abstract: |
@@ -236,7 +236,7 @@ sets:
   - name: Day 2 -- Friday, September 18
     items:
     - name: 'Securing low power device communication in critical infrastructure management'
-      presenter: <a href="speakers/#paul-emmanuel-brun-airbus">Paul-Emmanuel Brun, Airbus Cybersecurity</a>
+      presenter: <a href="speakers/#Paul-Emmanuel-Brun">Paul-Emmanuel Brun, Airbus Cybersecurity</a>
       type: keynote
       time: 09:00 - 09:30
       abstract: |
@@ -247,7 +247,7 @@ sets:
              in terms of energy, power computation and bandwidth.</p>
              
     - name: "Smart Building Energy and Comfort Management Based on Sensor Activity Recognition and Prediction"
-      presenter: <a href="speakers/#francesca-marcello-university-of-cagliari">Francesca Marcello</a>
+      presenter: <a href="speakers/#Francesca-Marcello">Francesca Marcello</a>
       type: session
       time: 09:30 - 09:50
       abstract: |
@@ -270,7 +270,7 @@ sets:
              probability evaluation of preferred time of usage of the appliances allows to still obtain evident energy savings 
              even considering the errors on predicted activities.</p>
     - name: 'Prescriptive System for Reconfigurable Manufacturing Systems Considering Variable Demand and Production Rates'
-      presenter: <a href="speakers/#catarina-baltazar-university-of-porto">Catarina Baltazar</a>
+      presenter: <a href="speakers/#Catarina-Baltazar">Catarina Baltazar</a>
       type: session
       time: 09:50 - 10:10
       abstract: |
@@ -293,7 +293,7 @@ sets:
              show that productivity in all testing scenarios improves, and in some instances, availability slightly increases showing 
              promising indicators. However, further research should be conducted to be able to generalize the obtained results.</p>
     - name: 'A Cross-Platform Communication Mechanism for ROS-Based Cyber-Physical System'
-      presenter: <a href="speakers/#rui-zhao-links-foundation">Rui Zhao</a>
+      presenter: <a href="speakers/#Rui-Zhao">Rui Zhao</a>
       type: session
       time: 10:10 - 10:30
       abstract: |
@@ -326,7 +326,7 @@ sets:
       time: 10:30 - 10:40
       
     - name: 'REPLICA: A Solution for Next Generation IoT and Digital Twin Based Fault Diagnosis and Predictive Maintenance'
-      presenter: <a href="speakers/#rosaria-rossini-links-foundation">Rosaria Rossini</a>
+      presenter: <a href="speakers/#Rosaria-Rossini">Rosaria Rossini</a>
       type: session
       time: 10:40 - 11:00
       abstract: |
@@ -349,7 +349,7 @@ sets:
              in fact, a faster and better solution may have already emerged. In this paper, a flexible, scalable and fast solution has been proposed 
              to cope such problem and help industries to advance and discover possible optimizations.</p>
     - name: 'Semantic Models for Network Intrusion Detection'
-      presenter: <a href="speakers/#peter-bedn%C3%A1r-technical-university-of-kosicen">Peter Bednár</a>
+      presenter: <a href="speakers/#Peter-Bednar">Peter Bednár</a>
       type: session
       time: 11:00 - 11:20
       abstract: |
