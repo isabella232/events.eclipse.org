@@ -139,9 +139,18 @@ items:
   - name: "Xu Tao, LINKS Foundation"
     title: "Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems"
     anchor: Xu-Tao
-    img: avatar.png
+    img: XuTao.jpg
     bio: |
-      <p>To be completed</p>
+      <p>Xu Tao received her Bachelor Degree in Computer Engineering from Politecnico di Torino as an exchange student in October 2015, 
+      then she continued her education path here and, in April 2018, she received the master’s degree in Computer Engineering at the 
+      Politecnico di Torino with a master thesis entitled “A Policy-Based Architecture for Container Migration in Software Defined infrastructures“, 
+      carried out at Saint Louis University in USA . From March to April 2017, she did an internship as a software developer at Seica (Turin, Italy), 
+      a global supplier of automatic test equipment and selective soldering systems. During this experience, she was evolved in the Software Group, 
+      where she contributed to develop a cloud bridge for Automation Smart Home System. Since May 2018 she joined LINKS as a researcher of the IoT 
+      and Pervasive Technologies Area, participate in the EU 2020 project BRAIN-IoT, focusing on heterogeneous IoT scenarios where instances of IoT 
+      architectures can be built dynamically combining and federating a distributed set of IoT services, IoT platforms and other enabling 
+      functionalities made available in marketplaces and accessible by means of open and standard IoT APIs and protocols. Her research interests 
+      are Cloud/Edge Computing, Intelligent Distributed Systems, Interoperability in IoT.</p>
       
   - name: "Rui Zhao, LINKS Foundation"
     title: "A Cross-Platform Communication Mechanism for ROS-Based Cyber-Physical System"
