@@ -155,9 +155,16 @@ items:
   - name: "Rui Zhao, LINKS Foundation"
     title: "A Cross-Platform Communication Mechanism for ROS-Based Cyber-Physical System"
     anchor: Rui-Zhao
-    img: avatar.png
+    img: RuiZhao.jpg
     bio: |
-      <p>To be completed</p>
+      <p>Rui Zhao received the Bachelor’s degree in Computer Engineering in October 2015 and Master’s degree in Computer Engineering in April 2018
+      at the Politecnico di Torino with a master thesis entitled “A framework for Virtual Network Functions(VNF) modeling and Service Graph verification
+      in SDN/Cloud context”.<br/>
+      Since May 2018 she joined LINKS Foundation as a researcher in the IoT & Pervasive Technologies Area, where she is involved in the CPSwarm EU project 
+      until April 2020 for the distributed orchestrated simulation and optimization environment of collaborative heterogeneous Cyber-physical systems (CPS) 
+      using Kubernetes technology. Since May 2020 she participates in the EU 2020 BRAIN-IoT project, focusing on enabling the interoperability between the 
+      Robotics domain and other heterogeneous IoT platforms in a dynamically distributed and federated environment.<br/>
+      Her research interests are focused on Distributed Intelligence, Machine Learning, Virtual Network, and Cloud Computing.</p>
              
              
              
