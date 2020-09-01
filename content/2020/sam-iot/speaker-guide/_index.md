@@ -61,7 +61,7 @@ All authors whose papers are accepted will be asked to sign the Eclipse SAM IoT 
 
 ### Presentation Template
 
-We've created a [cover page slide template](https://events.eclipse.org/2020/sam-iot/speaker-guide/cover-page-template.pptx) for each of the three tracks - Security, AI and Modelling. It is optional but we hope you will find it useful!   
+We've created a [cover page slide template](cover-page-template.pptx) for each of the three tracks - Security, AI and Modelling. It is optional but we hope you will find it useful!   
 
 ### Instructions for submitting camera-ready (due September 10, 2020)
 
