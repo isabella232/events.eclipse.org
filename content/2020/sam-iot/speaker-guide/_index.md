@@ -70,8 +70,8 @@ Please submit the final version of your paper by registering for camera-ready in
 Before uploading:
 * Please review carefully the reviewer suggestions and make any required improvements to your paper. 
 * Upload a signed copy of the Non-exclusive right for electronic publication for all published material (papers, images, etc.) using the CEUR-WS AUTHOR-AGREEMENT form. One of the two following Author agreement variants must be downloaded from CEUR-WS website, signed and uploaded via EDAS.
-** [AUTHOR-AGREEMENT (NTP)](http://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2020-03-02): Authors shall use this form if they included no copyrighted third party material in their paper text (or accompanying sources, datasets). This is the right variant in most cases.
-** [AUTHOR-AGREEMENT (TP)](http://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2020-03-02): Authors shall use this form if they did include copyrighted third party material in their paper or accompanying material. They must then also attach a copy of the permission by the third party to use this material in the signed author agreement!
+	* [AUTHOR-AGREEMENT (NTP)](http://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2020-03-02): Authors shall use this form if they included no copyrighted third party material in their paper text (or accompanying sources, datasets). This is the right variant in most cases.
+	* [AUTHOR-AGREEMENT (TP)](http://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2020-03-02): Authors shall use this form if they did include copyrighted third party material in their paper or accompanying material. They must then also attach a copy of the permission by the third party to use this material in the signed author agreement!
 
 Uploading:
 * You will need to upload, in addition to a .pdf, the original source files of the submitted manuscript (i.e. doc, docx, tex) via EDAS.  This helps us to optimize the quality of the formatting of the Conference Proceedings. 
