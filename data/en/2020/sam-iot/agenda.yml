@@ -19,14 +19,18 @@ types:
 sets:
   - name: Day 1 -- Thursday, September 17
     items:
+    - name: Channel open
+      type: break
+      time: 12:50 - 13:00
     - name: Introduction & Welcome
       presenter: Enrico Ferrera, LINKS
       type: breakout
-      time: 13:00 - 13:10
+      time: 13:00 - 13:15
+      
     - name: 'Cobbles and Potholes – On the Bumpy Road to Secure Software Supply Chains'
       presenter: <a href="speakers/#henrik-plate">Henrik Plate, SAP</a>
       type: keynote
-      time: 13:10 - 13:40
+      time: 13:15 - 13:45
       abstract: |
              <p>Open source software is ubiquitous – all across the stack, in the cloud and on-premise, 
              on all devices, in commercial and non-commercial offerings. This success, the dependency 
@@ -38,7 +42,7 @@ sets:
     - name: 'Risk Assessment in IoT Case Study: Collaborative Robots System'
       presenter: <a href="speakers/#salim-chehida">Salim Chehida</a>
       type: session
-      time: 13:40 - 14:00
+      time: 13:45 - 14:05
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -59,7 +63,7 @@ sets:
     - name: 'Integrated Solution for Industrial IoT Data Security - the CHARIOT Solution'
       presenter: <a href="speakers/#konstantinos-loupos">Konstantinos Loupos</a>
       type: session
-      time: 14:00 - 14:20
+      time: 14:05 - 14:25
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -91,12 +95,12 @@ sets:
       
     - name: Break
       type: break
-      time: 14:20 - 14:30
+      time: 14:25 - 14:35
       
     - name: 'Integration of Safety Means with Functions of Blockchain in Multi-Layered Architecture of IoT for Safer Data Transmission'
       presenter: <a href="speakers/#raimundas-savukynas">Raimundas Savukynas</a>
       type: session
-      time: 14:30 - 14:50
+      time: 14:35 - 14:55
       abstract: |
              <p><strong>Author:</strong>
              <ul>
@@ -120,7 +124,7 @@ sets:
     - name: 'Guidelines for Privacy and Security in IoT'
       presenter: <a href="speakers/#simone-seminara"">Simone Seminara</a>
       type: invited
-      time: 14:50 - 15:10
+      time: 14:55 - 15:15
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -133,20 +137,20 @@ sets:
              dynamics to fully grasp the state of the art in this very relevant field. This contribution aims 
              at highlighting the most relevant tools available and explain their relevance.</p>
       
+    - name: Pause
+      type: break
+      time: 15:15 - 15:20
+      
     - name: Security breakout
       presenter: Rosaria Rossini, LINKS (Moderator)
       type: breakout
-      time: 15:10 - 15:35
+      time: 15:20 - 15:20
       abstract: <p>Open discussion on Security and IoT</p>
-      
-    - name: Pause
-      type: break
-      time: 15:10 - 15:15
       
     - name: 'DINASORE: A Dynamic Intelligent Reconfiguration Tool for Cyber-Physical Production Systems'
       presenter:  <a href="speakers/#eliseu-moura-pereira">Eliseu Moura Pereira</a>
       type: session
-      time: 15:15 - 15:35
+      time: 15:20 - 15:40
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -169,7 +173,7 @@ sets:
     - name: 'Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto'
       presenter: <a href="speakers/#geza-kulscar">Géza Kulscár</a>
       type: session
-      time: 15:35 - 15:55
+      time: 15:40 - 16:00
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -194,12 +198,12 @@ sets:
       
     - name: Break
       type: break
-      time: 15:55 - 16:00
+      time: 16:00 - 16:10
       
     - name: 'Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems'
       presenter: <a href="speakers/#xu-tao">Xu Tao</a>
       type: session
-      time: 16:00 - 16:20
+      time: 16:10 - 16:30
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -231,15 +235,23 @@ sets:
     - name: Modelling breakout
       presenter: Maria Teresa Delgado, Eclipse (Moderator)
       type: breakout
-      time: 16:20 - 16:40
+      time: 16:30 - 16:50
       abstract: <p>Open discussion on Modelling and IoT</p>
       
   - name: Day 2 -- Friday, September 18
     items:
+    - name: Channel open
+      type: break
+      time: 08:50 - 09:00
+    - name: Welcome & Keynote introduction
+      presenter: Enrico Ferrera, LINKS
+      type: breakout
+      time: 09:00 - 09:10
+      
     - name: 'Securing low power device communication in critical infrastructure management'
       presenter: <a href="speakers/#paul-emmanuel-brun">Paul-Emmanuel Brun, Airbus Cybersecurity</a>
       type: keynote
-      time: 09:00 - 09:30
+      time: 09:10 - 09:40
       abstract: |
              <p>In this keynote, we will present an overview of a secure IoT data transmission ecosystem. 
              This overview will be completed with a concrete example of a water management use case from 
@@ -250,7 +262,7 @@ sets:
     - name: "Smart Building Energy and Comfort Management Based on Sensor Activity Recognition and Prediction"
       presenter: <a href="speakers/#francesca-marcello">Francesca Marcello</a>
       type: session
-      time: 09:30 - 09:50
+      time: 09:40 - 10:00
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -273,7 +285,7 @@ sets:
     - name: 'Prescriptive System for Reconfigurable Manufacturing Systems Considering Variable Demand and Production Rates'
       presenter: <a href="speakers/#catarina-baltazar">Catarina Baltazar</a>
       type: session
-      time: 09:50 - 10:10
+      time: 10:00 - 10:20
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -296,7 +308,7 @@ sets:
     - name: 'A Cross-Platform Communication Mechanism for ROS-Based Cyber-Physical System'
       presenter: <a href="speakers/#rui-zhao">Rui Zhao</a>
       type: session
-      time: 10:10 - 10:30
+      time: 10:20 - 10:40
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -324,12 +336,12 @@ sets:
       
     - name: Break
       type: break
-      time: 10:30 - 10:40
+      time: 10:40 - 10:50
       
     - name: 'REPLICA: A Solution for Next Generation IoT and Digital Twin Based Fault Diagnosis and Predictive Maintenance'
       presenter: <a href="speakers/#rosaria-rossini">Rosaria Rossini</a>
       type: session
-      time: 10:40 - 11:00
+      time: 10:50 - 11:10
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -352,7 +364,7 @@ sets:
     - name: 'Semantic Models for Network Intrusion Detection'
       presenter: <a href="speakers/#peter-bednar">Peter Bednár</a>
       type: session
-      time: 11:00 - 11:20
+      time: 11:10 - 11:30
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -368,13 +380,13 @@ sets:
     - name: AI breakout
       presenter: Marco Jahn, Eclipse (Moderator)
       type: breakout
-      time: 11:20 - 11:40
+      time: 11:30 - 11:50
       abstract: <p>Open discussion on AI and IoT</p>
 
     - name: Closing session 
       presenter: Moderated by Enrico Ferrera & Philippe Krief
       type: breakout
-      time: 11:40 - 12:00
-      abstract: <p>Open discussions</p>
+      time: 11:50 - 12:00
+      abstract: <p>Closing session</p>
           
 
