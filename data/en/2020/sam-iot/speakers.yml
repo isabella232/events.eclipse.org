@@ -140,6 +140,13 @@ items:
       Research interests include advanced database systems, business process engineering, intelligent information systems, social computing 
       technologies, software systems engineering, and information security.</p>
              
+  - name: "Simone Seminara, Istituto Italiano per la Privacy e la Valorizzazione dei Dati"
+    title: "Guidelines for Privacy and Security in IoT"
+    anchor: simone-seminara
+    img: avatar.png
+    bio: |
+      <p>To be completed</p>
+             
   - name: "Xu Tao, LINKS Foundation"
     title: "Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems"
     anchor: xu-tao
