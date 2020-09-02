@@ -65,7 +65,7 @@ We've created a [cover page slide template](cover-page-template.pptx) for each o
 
 ### Instructions for submitting camera-ready (due September 10, 2020)
 
-Please submit the final version of your paper by registering for camera-ready in the EDAS portal and uploading there. You will also need to upload a signed author agreement.
+Please submit the final version of your paper by registering for camera-ready in the EDAS portal and uploading there, using [this link](https://edas.info/listConferencesAuthor.php). You will also need to upload a signed author agreement.
 
 Before uploading:
 * Please review carefully the reviewer suggestions and make any required improvements to your paper. 
