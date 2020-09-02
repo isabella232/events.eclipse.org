@@ -143,9 +143,14 @@ items:
   - name: "Simone Seminara, Istituto Italiano per la Privacy e la Valorizzazione dei Dati"
     title: "Guidelines for Privacy and Security in IoT"
     anchor: simone-seminara
-    img: avatar.png
+    img: SimoneSeminara.jpg
     bio: |
-      <p>To be completed</p>
+      <p>Simone is Research Fellow at Istituto Italiano per la Privacy e la Valorizzazione dei Dati (IIP), Cybersecurity 
+      Specialist at ICT Cyber Consulting (ICTCC) and Chief Information Security Officer at both ICTCC and ICT Legal 
+      Consulting (ICTLC). He has always been passionate about science and technology and has a background in physics 
+      and computer systems administration. He is specialised in the design and management of cybersecurity and personal 
+      data protection and has obtained the qualifications as Auditor/Lead Auditor for ISO/IEC 27001:2013 and ISO 22301:2019. 
+      Simone speaks Italian, English and French.</p>
              
   - name: "Xu Tao, LINKS Foundation"
     title: "Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems"

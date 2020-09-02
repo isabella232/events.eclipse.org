@@ -116,6 +116,7 @@ sets:
              the transmission of outgoing confidential data and transmission data integrity from smart devices. 
              As a result, components of necessary functional capabilities of the communication of IoT are developed 
              by intending to ensure the safety and reliability of the wireless connection of smart objects.</p>
+             
     - name: 'Guidelines for Privacy and Security in IoT'
       presenter: <a href="speakers/#simone-seminara"">Simone Seminara</a>
       type: invited
@@ -127,9 +128,9 @@ sets:
                   <li>Simone Seminara, Istituto Italiano per la Privacy e la Valorizzazione dei Dati</li>
                   <li>Francesco Capparelli, Istituto Italiano per la Privacy e la Valorizzazione dei Dati</li>
              </ul>
-             <strong>Abstract:</strong> Norms and standards define the ecosystem in which IoT solutions and developed and deployed. 
+             <strong>Abstract:</strong> Norms and standards define the ecosystem in which IoT solutions are developed and deployed. 
              It is often difficult for people without a legal training or an understanding of standardization 
-             dynamics the fully grasp the state of the art in this very relevant field. This contributions aims 
+             dynamics to fully grasp the state of the art in this very relevant field. This contribution aims 
              at highlighting the most relevant tools available and explain their relevance.</p>
       
     - name: Security breakout
