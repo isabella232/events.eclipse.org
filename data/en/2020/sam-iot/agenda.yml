@@ -171,7 +171,7 @@ sets:
              demonstrate that the proposed framework 1) is flexible and reliable for different applications and 2) linear 
              increases the CPU and memory workload for a large amount of FBs.</p>
     - name: 'Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto'
-      presenter: <a href="speakers/#geza-kulscar">Géza Kulscár</a>
+      presenter: <a href="speakers/#geza-kulcsar">Géza Kulcsár</a>
       type: session
       time: 15:40 - 16:00
       abstract: |
