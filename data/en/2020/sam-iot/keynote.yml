@@ -1,5 +1,5 @@
 items:
-  - name: "Henrik Plate, SAP"
+  - name: "Henrik Plate"
     title: "Senior Researcher at SAP"
     img: henrik_plate.jpg
     bio: |
@@ -26,8 +26,8 @@ items:
       for sure opinionated, hopefully controversial – about the state of affairs and current trends regarding the security 
       of software supply chains, both from consumer and producer perspective.</p>
 
-  - name: "Paul-Emmanuel Brun, AIRBUS"
-    title: "Innovation & R&T program leader at Airbus CyberSecurity"
+  - name: "Paul-Emmanuel Brun"
+    title: "Innovation & R&T program leader at AIRBUS CyberSecurity"
     img: PMBrun.jpg
     bio: |
       <p>Passionate about cybersecurity, IoT and identity management, Paul-Emmanuel Brun, is expert 
