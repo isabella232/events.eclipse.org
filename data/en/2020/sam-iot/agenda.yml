@@ -23,7 +23,7 @@ sets:
       type: break
       time: 12:50 - 13:00
     - name: Introduction & Welcome
-      presenter: Enrico Ferrera, LINKS
+      presenter: Enrico Ferrera (LINKS) and Philippe Krief (Eclipse)
       type: breakout
       time: 13:00 - 13:15
       
@@ -244,7 +244,7 @@ sets:
       type: break
       time: 08:50 - 09:00
     - name: Welcome & Keynote introduction
-      presenter: Philippe Krief, Eclipse
+      presenter: Marco Jahn (Eclipse) and Ilaria Bosi (LINKS)
       type: breakout
       time: 09:00 - 09:10
       
@@ -378,7 +378,7 @@ sets:
              Designed IDS was evaluated on a widely used KDD 99 dataset and compared to similar approaches.</p>
       
     - name: AI breakout
-      presenter: Marco Jahn, Eclipse (Moderator)
+      presenter: Marco Jahn and (LINKS) (Moderators)
       type: breakout
       time: 11:30 - 11:50
       abstract: <p>Open discussion on AI and IoT</p>
