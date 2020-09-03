@@ -244,7 +244,7 @@ sets:
       type: break
       time: 08:50 - 09:00
     - name: Welcome & Keynote introduction
-      presenter: Enrico Ferrera, LINKS
+      presenter: Philippe Krief, Eclipse
       type: breakout
       time: 09:00 - 09:10
       
