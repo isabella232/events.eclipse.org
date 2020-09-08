@@ -60,10 +60,15 @@ sets:
              We use our approach to assess risks in the robotic system for supporting the movement of loads 
              in a warehouse.</p>
      
+      
+    - name: Break
+      type: break
+      time: 14:05 - 14:15
+      
     - name: 'Integrated Solution for Industrial IoT Data Security - the CHARIOT Solution'
       presenter: <a href="speakers/#konstantinos-loupos">Konstantinos Loupos</a>
       type: session
-      time: 14:05 - 14:25
+      time: 14:15 - 14:35
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -93,38 +98,11 @@ sets:
              devices and the CHARIOT platform. CHARIOT is funded by the H2020 programme under the IoT topic, 
              has a 3-year duration and concludes its activities by the end of 2020.</p>
       
-    - name: Break
-      type: break
-      time: 14:25 - 14:35
-      
-    - name: 'Integration of Safety Means with Functions of Blockchain in Multi-Layered Architecture of IoT for Safer Data Transmission'
-      presenter: <a href="speakers/#raimundas-savukynas">Raimundas Savukynas</a>
-      type: session
-      time: 14:35 - 14:55
-      abstract: |
-             <p><strong>Author:</strong>
-             <ul>
-                  <li>Raimundas Savukynas, Vilniaus Universitetas</li>
-             </ul>
-             <strong>Abstract:</strong> The launching and linking process of heterogeneous objects to the Internet of Things (IoT) is 
-             related to some important problems of the identification, authentication for ensuring security 
-             over the wireless connections. This research study is related to the implementation of safeguard 
-             algorithms on the first stages of object identification and authentication before the permission 
-             stage for launching into the working area of the IoT. This research aims to evaluate some safety 
-             means related to the identification and authentication stages of objects by integrating them with 
-             the functionality of blockchain. The objectives of this research are related to the development of 
-             more safety working algorithms by representing the stages of checking the identity of the IoT objects. 
-             The results demonstrated integration possibilities of implementing the blockchain functionality for 
-             establishing and managing the operational rules for pre-connection stages of objects to the IoT. 
-             The paper shows new results of developing protection means for ensuring reliable communication in 
-             the transmission of outgoing confidential data and transmission data integrity from smart devices. 
-             As a result, components of necessary functional capabilities of the communication of IoT are developed 
-             by intending to ensure the safety and reliability of the wireless connection of smart objects.</p>
              
     - name: 'Guidelines for Privacy and Security in IoT'
       presenter: <a href="speakers/#simone-seminara"">Simone Seminara</a>
       type: invited
-      time: 14:55 - 15:15
+      time: 14:35 - 14:55
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -137,20 +115,21 @@ sets:
              dynamics to fully grasp the state of the art in this very relevant field. This contribution aims 
              at highlighting the most relevant tools available and explain their relevance.</p>
       
-    - name: Pause
-      type: break
-      time: 15:15 - 15:20
       
     - name: Security breakout
       presenter: Rosaria Rossini, LINKS (Moderator)
       type: breakout
-      time: 15:20 - 15:40
+      time: 14:55 - 15:20
       abstract: <p>Open discussion on Security and IoT</p>
+      
+    - name: Pause
+      type: break
+      time: 14:55 - 15:00
       
     - name: 'DINASORE: A Dynamic Intelligent Reconfiguration Tool for Cyber-Physical Production Systems'
       presenter:  <a href="speakers/#eliseu-moura-pereira">Eliseu Moura Pereira</a>
       type: session
-      time: 15:20 - 15:40
+      time: 15:00 - 15:20
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -173,7 +152,7 @@ sets:
     - name: 'Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto'
       presenter: <a href="speakers/#geza-kulcsar">Géza Kulcsár</a>
       type: session
-      time: 15:40 - 16:00
+      time: 15:20 - 15:40
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -198,12 +177,12 @@ sets:
       
     - name: Break
       type: break
-      time: 16:00 - 16:10
+      time: 15:40 - 15:50
       
     - name: 'Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems'
       presenter: <a href="speakers/#xu-tao">Xu Tao</a>
       type: session
-      time: 16:10 - 16:30
+      time: 15:50 - 16:10
       abstract: |
              <p><strong>Authors:</strong>
              <ul>
@@ -235,7 +214,7 @@ sets:
     - name: Modelling breakout
       presenter: Maria Teresa Delgado, Eclipse (Moderator)
       type: breakout
-      time: 16:30 - 16:50
+      time: 16:10 - 16:30
       abstract: <p>Open discussion on Modelling and IoT</p>
       
   - name: Day 2 -- Friday, September 18
