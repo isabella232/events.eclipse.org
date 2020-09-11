@@ -1,0 +1,39 @@
+complete: false
+types:
+    - name: Keynote 
+      id: keynote 
+      color: "#f79623"
+    - name: Session
+      id: session
+      color: "#8d1d2d4"
+    - name: Panel
+      id: panel
+      color: "#818285"
+    - name: Break
+      id: break
+      color: "#fff"
+
+items:
+    - name: Welcome message. News about the open source AI initiative at the Eclipse Foundation
+      presenter: Gaël Blondelle
+      type: keynote
+      time: 09:00 - 09:15 (CEST)
+    - name: "Panel introduction: What does open source brings to AI in terms of privacy, ethics and explanability"
+      presenter: Gaël Blondelle
+      type: panel
+      time: 09:15 - 09:25 (CEST)
+    - name: Panel - Trustworthy AI and open source
+      presenter: Jasmin Grosinger, François Terrier, Christian Mueller, Jean-Claude Belfiore
+      type: session
+      time: 09:25 - 10:00 (CEST)
+    - name: Coffee break
+      type: break
+      time: 10:00 - 10:10 (CEST)
+    - name: "Introduction to PIxano: an open source tool to assist annotation of image data bases"
+      presenter: Camille Dupont
+      type: session
+      time: 10:10 - 10:35 (CEST)
+    - name: Use case mindspore
+      presenter: Jean-Claude Belfiore
+      type: session
+      time: 10:35 - 11:00 (CEST)
