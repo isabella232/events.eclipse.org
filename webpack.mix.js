@@ -21,8 +21,6 @@ mix.less('./less/styles.less', 'static/css/styles.css');
 
 mix.scripts([
     './node_modules/jquery/dist/jquery.min.js',
-    './node_modules/leaflet/dist/leaflet.js',
-    './node_modules/leaflet.markercluster/dist/leaflet.markercluster.js',
     './node_modules/bootstrap/dist/js/bootstrap.min.js',
     './node_modules/jquery-match-height/dist/jquery.matchHeight-min.js',
     './node_modules/feather-icons/dist/feather.min.js',
@@ -32,7 +30,7 @@ mix.scripts([
     './node_modules/eclipsefdn-solstice-assets/js/eclipsefdn.videos.js',
     './node_modules/eclipsefdn-solstice-assets/js/solstice.cookies.js',
     './node_modules/eclipsefdn-solstice-assets/js/solstice.js',
-    './node_modules/eclipsefdn-solstice-assets/js/solstice.eventsmodal.js',
-    './js/EclipseEvents.js',
-    './js/EclipseEventsConstants.js',
+    './node_modules/eclipsefdn-solstice-assets/js/solstice.eventsmodal.js'
 ], './static/js/solstice.js');
+
+mix.react('js/App.js', 'js');
