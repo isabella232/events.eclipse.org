@@ -5,15 +5,18 @@ items:
   - name: "Jasmin Grosinger"
     title: "Researcher (Örebro University, AI4EU)"
     img: jasmin-grosinger.jpg  
-  - name: "François Terrier"
-    title: "Director of Research (CEA LIST)"
-    img: francois-terrier.jpg
-  - name: "Christian Mueller"
-    title: "Head of Competence Center Autonomous Driving (DFKI)"
-    img: christian-mueller.jpg
-  - name: "Camille Dupont"
-    title: "Research Engineer (CEA LIST)"
-    img: camille-dupont.jpg
+  - name: "Nicholas Asher"
+    title: "Research Director (IRIT), Scientific Director (ANITI)"
+    img: nicholas-asher.jpg
   - name: "Jean-Claude Belfiore"
     title: "Head of Communications Science Department (Huawei)"
     img: jean-claude-belfiore.jpg
+  - name: "Christian Mueller"
+    title: "Head of Competence Center Autonomous Driving (DFKI)"
+    img: christian-mueller.jpg
+  - name: "François Terrier"
+    title: "Director of Research (CEA LIST)"
+    img: francois-terrier.jpg
+  - name: "Camille Dupont"
+    title: "Research Engineer (CEA LIST)"
+    img: camille-dupont.jpg
