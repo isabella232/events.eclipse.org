@@ -96,6 +96,15 @@ items:
       degree from FEUP in 2018 and is a Ph.D. candidate in Informatics Engineering since 2019. He is currently 
       involved in several projects related to Smart Manufacturing, applying concepts of interoperability, reconfiguration, 
       and analytics to Cyber-Physical Production Systems.</p>
+             
+  - name: "Kevin Olotu, Bosch.IO GmbH"
+    title: "Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto"
+    anchor: kevin-olotu
+    img: KevinOlotu.jpg
+    bio: |
+      <p>Kevin Olotu is a senior software engineer at Bosch.IO. As project lead of the Eclipse Vorto project,
+      his work focuses on semantic modelling approaches for IoT solutions and their integration into different
+      platforms and use cases. His further interests include software engineering, IoT and the Java ecosystem.</p>
       
   - name: "Henrik Plate, SAP (Keynote)"
     title: "Senior Researcher at SAP"

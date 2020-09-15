@@ -150,7 +150,7 @@ sets:
              demonstrate that the proposed framework 1) is flexible and reliable for different applications and 2) linear 
              increases the CPU and memory workload for a large amount of FBs.</p>
     - name: 'Bringing Clouds down to Earth: Modeling Arrowhead Deployments via Eclipse Vorto'
-      presenter: <a href="speakers/#geza-kulcsar">Géza Kulcsár</a>
+      presenter: <a href="speakers/#geza-kulcsar">Géza Kulcsár</a> and <a href="speakers/#kevin-olotu">Kevin Olotu</a>
       type: session
       time: 15:20 - 15:40
       abstract: |
@@ -158,7 +158,7 @@ sets:
              <ul>
                   <li>Sven Erik Jeroschewski, Bosch IO</li>
                   <li>Géza Kulscár, IncQuery Labs</li>
-                  <li>Kevin Olutu, Bosch IO</li>
+                  <li>Kevin Olotu, Bosch IO</li>
                   <li>Johannes Kristan, Bosch IO</li>
              </ul>
              <strong>Abstract:</strong> The design and development of interconnected industrial production facilities, which integrate aspects 
