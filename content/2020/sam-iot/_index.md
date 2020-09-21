@@ -10,12 +10,17 @@ header_wrapper_class: "header-default-event"
 hide_breadcrumb: true
 container: "container-fluid"
 summary: "Conference on Security, Artificial Intelligence, and Modeling for the next generation Internet of Things."
-links: [[href: "https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220", text: "Register"]]
 layout: single
 ---
 [//]: # (Introduction Section)
 {{< grid/section-container id="registration" class="featured-section-row featured-section-row-lighter-bg">}}
 {{< events/registration event="sam-iot" year="2020">}}
+
+### The SAM IoT conference is now over! Thank you for your interest and attendance!
+
+The conference proceedings and the video recordings of the talks will be available soon.
+
+---
 
 **SAM IoT is the first virtual Eclipse Conference on Security, Artificial Intelligence, and Modeling for the next generation Internet of Things**
 
@@ -35,8 +40,8 @@ These innovations are setting the groundwork for the next generation IoT that wi
 {{< grid/section-container class="featured-section-row text-center">}}
 	<h2>Location and Registration</h2>
 	<p>Given the current Covid-19 situation, the organization committee of ECLIPSE SAM IoT 2020 will run the conference in fully online mode, with virtual session rooms and facilities for online presentation of talks with opportunities for interacting with speakers and attendees.</p>
-	<p>You can register as an attendee for the conference. Sign up today!</p>
-	{{< bootstrap/button href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220" >}}Register today{{</ bootstrap/button >}}
+	<h3>The conference proceedings and the video recordings of the talks will be available soon.</h3>
+	
 {{</ grid/section-container >}}
 
 [//]: # (Topics)
@@ -81,23 +86,6 @@ Modelling for IoT
 [//]: # (Agenda)
 {{< grid/section-container id="agenda" class="featured-section-row featured-section-row-light-bg" >}}
   {{< events/agenda event="sam-iot" year="2020" >}}
-{{</ grid/section-container >}}
-
-[//]: # (Registration reminder)
-{{< grid/section-container class="featured-section-row featured-section-row-dark-bg  text-center">}}
-	{{< bootstrap/button href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220" >}}Register today{{</ bootstrap/button >}}
-{{</ grid/section-container >}}
-
-
-[//]: # (Dates)
-{{< grid/section-container class="featured-section-row" isMarkdown="true">}}
-
-## Important Dates
-
-| Paper submission deadline | Acceptance Notification | Camera-Ready Paper Submission | Conference Dates |
-| :----------------------- | :--------------------- | :--------------------------- | :--------------- |
-| Aug. 5, 2020            | Aug. 21, 2020          | Sep. 10, 2020                | Sep. 17-18, 2020 |
-
 {{</ grid/section-container >}}
 
 [//]: # (TCP)
@@ -187,7 +175,10 @@ Susan Iwai, Eclipse Foundation
 
 [//]: # (Registration reminder)
 {{< grid/section-container class="featured-section-row featured-section-row-dark-bg  text-center">}}
-	{{< bootstrap/button href="https://www.eventbrite.de/e/eclipse-sam-iot-2020-tickets-107823242220" >}}Register{{</ bootstrap/button >}}
+<h3>The SAM IoT conference is now over! Thank you for your interest and attendance!</h3>
+
+The conference proceedings and the video recordings of the talks will be available soon.
+
 {{</ grid/section-container >}}
 
 [//]: # (Contact) 
