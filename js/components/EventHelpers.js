@@ -216,3 +216,10 @@ export function generateTimes(startDate, endDate) {
   }
 }
 
+export function alphaOrder(array) {
+
+  if (array) {
+    return array.sort((a, b) => a?.name.localeCompare(b?.name))
+  }
+
+}

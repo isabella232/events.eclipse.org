@@ -36,7 +36,6 @@ const EventsDataFetcher = () => {
   }, [])
   
   if (error) {
-    // return <div>Error: {error.message}</div>
     return (
       <Alerts alertType={alertTypes.ERROR} message={error.message} />
     )

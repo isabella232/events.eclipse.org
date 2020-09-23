@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Checkbox from './Checkbox';
-import { EVENT_TYPES, WORKING_GROUPS, checkFilterHasEvents } from './EventHelpers';
+import { EVENT_TYPES, WORKING_GROUPS, checkFilterHasEvents, alphaOrder } from './EventHelpers';
 import PropTypes from 'prop-types';
 
 const CheckboxFilters = ({ checkedTypes, setCheckedTypes, checkedWorkingGroups, setCheckedWorkingGroups, events }) => {
@@ -64,7 +64,7 @@ const CheckboxFilters = ({ checkedTypes, setCheckedTypes, checkedWorkingGroups, 
           </button>
           { showWorkingGroups && 
             <ul className="event-filter-checkbox-list">
-                { checkFilterHasEvents(WORKING_GROUPS, "WORKINGGROUPS", events).map(item => (
+                { alphaOrder(checkFilterHasEvents(WORKING_GROUPS, "WORKINGGROUPS", events)).map(item => (
                   <li key={item.id}>
                     <label key={item.id}>
                       <Checkbox
@@ -97,7 +97,7 @@ const CheckboxFilters = ({ checkedTypes, setCheckedTypes, checkedWorkingGroups, 
           </button>
           { showTypes &&
             <ul className="event-filter-checkbox-list">
-                { checkFilterHasEvents(EVENT_TYPES, "EVENTTYPE", events).map(item => (
+                { alphaOrder(checkFilterHasEvents(EVENT_TYPES, "EVENTTYPE", events)).map(item => (
                   <li key={item.id}>
                     <label key={item.id}>
                       <Checkbox
@@ -106,6 +106,7 @@ const CheckboxFilters = ({ checkedTypes, setCheckedTypes, checkedWorkingGroups, 
                         onChange={handleChange}
                       />
                       {item.name}
+                      <div className={`margin-left-5 event-legend event-legend-${item.id}`}></div>
                     </label>
                   </li>
                 )) }

@@ -14,6 +14,7 @@
 
 @white-color:  #FFFFFF;
 @main-theme-color: #3E7B96;
+@default-event-card-background-color: #000000;
 
 /* Define the function to map the event type with the background images starts */
 @image-urls: 
@@ -37,6 +38,12 @@
  
   .type-@{event-type-class-name} {
     background-image: url("@{image-url}");
+    background-size: cover;
+  }
+
+  .event-legend-@{event-type-class-name} {
+    background-image: url("@{image-url}");
+    background-size: cover;
   }
 }
 /* Define the function to map the event type with the background images ends */
@@ -79,6 +86,7 @@
 
 .generate-backgroundImages(@image-urls; @event-type-class-names; @length);
 
+/* Add a default background black just in case if there is a new event type and we dont have bg-image for it */
 .event-card {
     min-height: 280px;
     text-align: center;
@@ -90,6 +98,7 @@
     display: flex;
     flex-direction: column;
     border: 1px solid #ededed;
+    background-color: @default-event-card-background-color;
 }
 
 .event-card-decoration-dash {
@@ -169,6 +178,13 @@
 
 .event-card-title-wrapper-display-IE {
     display: table-cell;
+}
+
+.event-legend {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
 }
 
 /** CustomSearch Style start **/
