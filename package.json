@@ -19,14 +19,29 @@
     "production": "NODE_ENV=production webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "install": "NODE_ENV=production npm run production",
     "disallow_robots_txt": "echo \"User-agent: *\r\nDisallow: /\" > layouts/robots.txt",
-    "build_netlify": "NODE_ENV=production npm run disallow_robots_txt && npm run production"
+    "build_netlify": "NODE_ENV=production npm run disallow_robots_txt && npm run production",
+    "test": "jest"
   },
   "dependencies": {
+    "prop-types": "^15.7.2",
     "eclipsefdn-hugo-solstice-theme": "0.0.91",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@babel/preset-react": "^7.10.4"
-  }
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.0.4",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2",
+    "react-app-polyfill": "^1.0.6",
+    "react-test-renderer": "^16.13.1"
+  },
+  "development": [
+    "ie 11",
+    "last 1 chrome version",
+    "last 1 firefox version",
+    "last 1 safari version"
+  ]
 }

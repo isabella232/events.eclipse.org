@@ -1,0 +1,223 @@
+/* @CHARSET "UTF-8"; */
+/*!
+ * Copyright (c) 2019 Eclipse Foundation, Inc.
+ * 
+ * This program and the accompanying materials are made available under the
+ * terms of the Eclipse Public License v. 2.0 which is available at
+ * http://www.eclipse.org/legal/epl-2.0.
+ * 
+ * Contributors:
+ *   Christopher Guindon <chris.guindon@eclipse-foundation.org>
+ * 
+ * SPDX-License-Identifier: EPL-2.0
+*/
+
+@white-color:  #FFFFFF;
+@main-theme-color: #3E7B96;
+
+/* Define the function to map the event type with the background images starts */
+@image-urls: 
+    "images/EclipseCon.png",
+    "images/otherInteresting.png",
+    "images/DemoCamps&Stammtisch.png",
+    "images/TrainingSeries.png",
+    "images/virtual.png",
+    "images/WorkingGroupEvents.png",
+    "images/defaultbg.jpg";
+
+@event-type-class-names: ec, ee, dc, et, ve, wg, unknown;
+
+@length: length(@event-type-class-names);
+
+.generate-backgroundImages(@image-urls; @event-type-class-names; @index) when (@index > 0) {
+    .generate-backgroundImages(@image-urls; @event-type-class-names; (@index - 1)); // decrement.
+ 
+  @event-type-class-name: extract(@event-type-class-names, @index);
+  @image-url: extract(@image-urls, @index);
+ 
+  .type-@{event-type-class-name} {
+    background-image: url("@{image-url}");
+  }
+}
+/* Define the function to map the event type with the background images ends */
+
+.all-margin-auto {
+    margin: auto;
+}
+
+/* Events styles */
+
+.events-jumbotron-class {
+    background-image: url('images/Jumbotron-bg.jpg');
+    min-height: 500px;
+
+    h1 {
+        font-size: 50px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    .jumbotron {
+        .container {
+            margin-top: 50px;
+        }
+
+        p {
+            font-size: 25px;
+            font-weight: 300;
+        }
+    }
+
+}
+
+.event-list-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.generate-backgroundImages(@image-urls; @event-type-class-names; @length);
+
+.event-card {
+    min-height: 280px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 20px;
+    color: @white-color;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ededed;
+}
+
+.event-card-decoration-dash {
+    height: 4px;
+    width: 60px;
+    background-color: @white-color;
+    margin: auto;
+}
+
+.event-card-title {
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow-y: hidden;
+    line-height: 1.5;
+    color: @white-color;
+}
+
+.event-details {
+    padding: 20px;
+    background-color: @white-color;
+    height: auto;
+}
+
+.event-filter-title {
+    background: @main-theme-color;
+    min-height: 30px;
+    width: 100%;
+    text-align: left;
+    line-height: 30px;
+    height: 47px;
+    color: @white-color;
+    border: none;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.event-filter-checkbox-list {
+    background-color: @white-color;
+    list-style-type: none;
+    padding: 15px 0 15px 7px;
+}
+
+#event-filter-checkbox-margin {
+    margin: 7px;
+}
+
+.event-filter-expandable-icon {
+    float: right;
+    line-height: inherit;
+}
+
+.event-card-button {
+    background: none;
+    border: 1px solid @white-color;
+    &:hover {
+        color: @white-color;
+        background: none;
+        border: 1px solid @white-color;
+    }
+    &:active {
+        background: none;
+        border: 1px solid @white-color;
+    }
+}
+
+.event-card-calendar-icon {
+    color: @main-theme-color;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
+.event-card-calendar-icon-ve {
+    color: @white-color !important;
+}
+
+.event-card-title-wrapper-display-IE {
+    display: table-cell;
+}
+
+/** CustomSearch Style start **/
+/* enable relative positioning */
+.inner-addon {
+    position: relative; 
+
+    /* style icon */
+    .fa-search {
+        position: absolute;
+        padding: 10px;
+        pointer-events: none;
+    }
+}
+
+/* align icon */
+.left-addon {
+    /* add padding  */
+    input  {
+        padding-left:  30px;
+    }
+    .fa-search {
+        left:  0px;
+    }
+}
+
+/* Right-addon is currenly not in used, just in case if needed in future, keep it here */
+.right-addon {
+    input { 
+        padding-right: 30px; 
+    }
+    .fa-search {
+        right: 0px;
+    }
+}
+/** CustomSearch Style ends **/
+
+@media screen and (max-width: 991px) {
+    .max-min-width {
+        min-width: 100%;
+    }
+}
+
+@media screen and (max-width: 766px) {
+    .events-jumbotron-class {
+        .jumbotron {
+            .container {
+                margin-top: 0;
+            }
+        }
+    }
+}
