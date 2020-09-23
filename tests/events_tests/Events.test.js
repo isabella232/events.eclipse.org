@@ -11,7 +11,7 @@ describe('Test render events list and filters', () => {
   const secondEvent = testEventData.find(el => el.id == "37689")
   const thirdEvent = testEventData.find(el => el.id == "37765")  
 
-  const type_I = 'Virtual Event'
+  const type_I = 'Virtual Events'
   const type_II = 'Working Group Events'
   const type_III = 'Other interesting Events'
 

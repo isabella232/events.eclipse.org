@@ -428,7 +428,7 @@ export const filteredWorkingGroups = [
 export const filteredEventTypes = [
   {
     id: "ve",
-    name: "Virtual Event"
+    name: "Virtual Events"
   },
   {
     id: "wg",

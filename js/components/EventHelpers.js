@@ -76,7 +76,7 @@ export const EVENT_TYPES = [
   },
   {
     id: "ve",
-    name: "Virtual Event"
+    name: "Virtual Events"
   },
   {
     id: "dc",
