@@ -9,6 +9,7 @@ import {
   getFilteredEvents,
   generateDates,
   generateTimes,
+  alphaOrder,
   WORKING_GROUPS,
   EVENT_TYPES
 } from '../../js/components/EventHelpers';
@@ -238,5 +239,43 @@ describe('Test generateDates and generateTimes function', () => {
 
   it('Test when empty date for generateTimes', () => {
     expect( generateTimes(startDate_III, endDate_II) ).toBeUndefined()
+  });
+});
+
+describe('Test alphaOrder function', () => {
+  const arr = [
+    {name: "Alicia"},
+    {name: "Olivia"},
+    {name: "Anne"},
+    {name: "Ben"}
+  ]
+
+  const result = [
+    {name: "Alicia"},
+    {name: "Anne"},
+    {name: "Ben"},
+    {name: "Olivia"}
+  ]
+
+  const arr_II = [
+    {name: "Jakarta EE"},
+    {name: "Tangle EE"},
+    {name: "Eclipse IDE"},
+    {name: "Eclipse Foundation"}
+  ]
+
+  const result_II = [
+    {name: "Eclipse Foundation"},
+    {name: "Eclipse IDE"},
+    {name: "Jakarta EE"},
+    {name: "Tangle EE"}
+  ]
+
+  it('Test alpha order should be correct', () => {
+    expect( alphaOrder(arr) ).toEqual(result)
+  });
+
+  it('Test alpha order should be correct again', () => {
+    expect( alphaOrder(arr_II) ).toEqual(result_II)
   });
 });
