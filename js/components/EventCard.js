@@ -9,7 +9,7 @@ const EventCard = ({ event }) => {
   return (
     <>
     <div className={`event-card type-${event.type}`}>
-      <div className="all-margin-auto event-card-title-wrapper-display-IE">
+      <div className="all-margin-auto event-card-title-wrapper event-card-title-wrapper-display-IE">
         <div className="event-card-decoration-dash"></div>
         <h3 className="event-card-title">{event.title}</h3>
         <p>

@@ -24,7 +24,7 @@ const Events = ({ events }) => {
 
         <div className="col-md-18 event-list-wrapper">
           {getFilteredEvents(events, searchValue, checkedWorkingGroups, checkedTypes).map((event) => (
-            <div className="col-md-10 max-min-width" key={event.id}>
+            <div className="col-md-12 max-min-width" key={event.id}>
               <EventCard event={event} />
             </div>
           ))}
