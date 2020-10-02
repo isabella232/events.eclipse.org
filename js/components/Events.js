@@ -3,6 +3,7 @@ import EventCard from './EventCard';
 import CustomSearch from './CustomSearch';
 import CheckboxFilters from './CheckboxFilters';
 import { getFilteredEvents } from './EventHelpers';
+import Legend from './Legend';
 import PropTypes from 'prop-types';
 
 const Events = ({ events }) => {
@@ -20,6 +21,7 @@ const Events = ({ events }) => {
           <CheckboxFilters checkedTypes={checkedTypes} setCheckedTypes={setCheckedTypes} events={events} />
           <CheckboxFilters checkedWorkingGroups={checkedWorkingGroups} setCheckedWorkingGroups={setCheckedWorkingGroups} events={events} />
           <a className="btn btn-primary" href="https://newsroom.eclipse.org/node/add/events">Submit Your Event</a>
+          <Legend />
         </div>
 
         <div className="col-md-18 event-list-wrapper">

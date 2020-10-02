@@ -106,7 +106,6 @@ const CheckboxFilters = ({ checkedTypes, setCheckedTypes, checkedWorkingGroups, 
                         onChange={handleChange}
                       />
                       {item.name}
-                      <div className={`margin-left-5 event-legend event-legend-${item.id}`}></div>
                     </label>
                   </li>
                 )) }

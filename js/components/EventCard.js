@@ -8,16 +8,16 @@ const EventCard = ({ event }) => {
 
   return (
     <>
-    <div className={`event-card type-${event.type}`}>
+    <div className={`event-card type-${event.attendance_type}`}>
       <div className="all-margin-auto event-card-title-wrapper event-card-title-wrapper-display-IE">
         <div className="event-card-decoration-dash"></div>
         <h3 className="event-card-title">{event.title}</h3>
         <p>
-          <i className={`fa fa-calendar-o fa-lg event-card-calendar-icon event-card-calendar-icon-${event.type}`} aria-hidden="true" />
+          <i className={`fa fa-calendar-o fa-lg event-card-calendar-icon event-card-calendar-icon-${event.attendance_type}`} aria-hidden="true" />
           { generateDates(new Date(event.date), new Date(event['end-date'])) }
         </p>
         <p>  
-          <i className={`fa fa-clock-o fa-lg event-card-calendar-icon event-card-calendar-icon-${event.type}`} aria-hidden="true"></i>
+          <i className={`fa fa-clock-o fa-lg event-card-calendar-icon event-card-calendar-icon-${event.attendance_type}`} aria-hidden="true"></i>
           { generateTimes(new Date(event.date), new Date(event['end-date'])) }
         </p>
       </div>

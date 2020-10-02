@@ -100,6 +100,21 @@ export const EVENT_TYPES = [
   },
 ]
 
+export const EVENT_ATTENDANCE_TYPE = [
+  {
+    id: "ef_event",
+    name: "Eclipse Foundation Events"
+  },
+  {
+    id: "ef_attending",
+    name: "Events we are attending"
+  },
+  {
+    id: "other",
+    name: "Other community events of interest"
+  }
+]
+
 export function checkEventWorkingGroups(events, filter) {
   for (let i=0; i<events.length; i++) {
     if (events[i].publish_to.includes(filter.id)) { // as long as find one event has the working group

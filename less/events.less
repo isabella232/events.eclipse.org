@@ -18,30 +18,26 @@
 
 /* Define the function to map the event type with the background images starts */
 @image-urls: 
-    "images/EclipseCon.png",
-    "images/otherInteresting.png",
-    "images/DemoCamps&Stammtisch.png",
-    "images/TrainingSeries.png",
-    "images/virtual.png",
-    "images/WorkingGroupEvents.png",
-    "images/defaultbg.jpg";
+    "images/ef_event.png",
+    "images/ef_attending.png",
+    "images/other.png";
 
-@event-type-class-names: ec, ee, dc, et, ve, wg, unknown;
+@event-attendance-type-class-names: ef_event, ef_attending, other;
 
-@length: length(@event-type-class-names);
+@length: length(@event-attendance-type-class-names);
 
-.generate-backgroundImages(@image-urls; @event-type-class-names; @index) when (@index > 0) {
-    .generate-backgroundImages(@image-urls; @event-type-class-names; (@index - 1)); // decrement.
+.generate-backgroundImages(@image-urls; @event-attendance-type-class-names; @index) when (@index > 0) {
+    .generate-backgroundImages(@image-urls; @event-attendance-type-class-names; (@index - 1)); // decrement.
  
-  @event-type-class-name: extract(@event-type-class-names, @index);
+  @event-attendance-type-class-name: extract(@event-attendance-type-class-names, @index);
   @image-url: extract(@image-urls, @index);
  
-  .type-@{event-type-class-name} {
+  .type-@{event-attendance-type-class-name} {
     background-image: url("@{image-url}");
     background-size: cover;
   }
 
-  .event-legend-@{event-type-class-name} {
+  .event-legend-@{event-attendance-type-class-name} {
     background-image: url("@{image-url}");
     background-size: cover;
   }
@@ -84,7 +80,7 @@
     flex-wrap: wrap;
 }
 
-.generate-backgroundImages(@image-urls; @event-type-class-names; @length);
+.generate-backgroundImages(@image-urls; @event-attendance-type-class-names; @length);
 
 /* Add a default background black just in case if there is a new event type and we dont have bg-image for it */
 .event-card {
@@ -177,7 +173,7 @@
     margin-left: 10px;
 }
 
-.event-card-calendar-icon-ve {
+.event-card-calendar-icon-ef_attending {
     color: @white-color !important;
 }
 
@@ -191,11 +187,28 @@
     }
 }
 
+.event-legend-ul {
+    list-style-type: none;
+    padding-left: 0; 
+}
+
+.event-legend-li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+/* Add a default background black just in case if there is a new event type and we dont have bg-image for it */
 .event-legend {
-    width: 15px;
-    height: 15px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
-    display: inline-block;
+    background-color: @default-event-card-background-color;
+}
+
+.event-legend-p {
+    margin-bottom: 0;
+    margin-left: 10px;
 }
 
 /** CustomSearch Style start **/
