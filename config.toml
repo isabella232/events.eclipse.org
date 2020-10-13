@@ -20,6 +20,7 @@ buildFuture = true # A new event website will always be in the future
 # share_img = ""
   gcse = "011805775785170369411:p3ec0igo0qq"
   js = "js/solstice.js?v1"
+  featured_content_publish_target = "eclipse_org"
 
 [taxonomies]
 
