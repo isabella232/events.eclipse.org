@@ -6,15 +6,6 @@ types:
     - name: Session
       id: session
       color: "#ED7D31"
-    - name: Invited
-      id: invited
-      color: "#FFFC00"
-    - name: Break
-      id: break
-      color: "#FFFFFF"
-    - name: Breakout
-      id: breakout
-      color: "#FF40FF" 
       
 sets:
   - name: Day 1 -- Thursday, September 17
@@ -95,7 +86,7 @@ sets:
              
     - name: 'Guidelines for Privacy and Security in IoT'
       presenter: <a href="speakers/#simone-seminara"">Simone Seminara</a>
-      type: invited
+      type: session
       time: 14:35 - 14:55
       abstract: |
              <p><strong>Authors:</strong>
@@ -294,6 +285,7 @@ sets:
              IoT systems in various IoT domains via an Asynchronous Eventing Substrate (BRAIN-IoT EventBus). This paper demonstrates the 
              solution developed in an service robotics use case in a warehouse to show how the OSGi-based adaptor enables the fast adaptivity 
              and interoperability between heterogeneous IoT domains in a federated environment.</p>
+      vod: https://youtu.be/xN8SEF-Pc0Q
       slides: presentations/A3-Presentation.pdf
       
     - name: 'REPLICA: A Solution for Next Generation IoT and Digital Twin Based Fault Diagnosis and Predictive Maintenance'

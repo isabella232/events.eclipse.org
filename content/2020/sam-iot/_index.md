@@ -18,7 +18,8 @@ layout: single
 
 ### The SAM IoT conference is now over! Thank you for your interest and attendance!
 
-The conference proceedings and the video recordings of the talks will be available soon.
+The conference proceedings of the talks will be available soon.
+In the meantime, you can enjoy the video recordings and slides of the talks. 
 
 ---
 
@@ -36,11 +37,11 @@ These innovations are setting the groundwork for the next generation IoT that wi
   {{< events/user_display event="sam-iot" year="2020" title="Keynotes" source="keynote" imageRoot="/2020/sam-iot/images/speakers/" subpage="speakers" displayLearnMore="false" />}}
 {{</ grid/section-container >}}
 
-[//]: # (Location and Registration section)
+[//]: # (Proceedings)
 {{< grid/section-container class="featured-section-row text-center">}}
-	<h2>Location and Registration</h2>
-	<p>Given the current Covid-19 situation, the organization committee of ECLIPSE SAM IoT 2020 will run the conference in fully online mode, with virtual session rooms and facilities for online presentation of talks with opportunities for interacting with speakers and attendees.</p>
-	<h3>The conference proceedings and the video recordings of the talks will be available soon.</h3>
+	<h2>Proceedings</h2>
+	<p>The conference proceedings of the talks will be available soon.</p>
+    <h3>In the meantime, you can enjoy the video recordings and slides of the talks. Check-out the Agenda section</h3>
 	
 {{</ grid/section-container >}}
 
