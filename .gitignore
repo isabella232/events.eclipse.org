@@ -3,6 +3,7 @@
 /static/fonts/vendor/
 /static/js/
 /static/css/
+/static/archives/
 /public/
 /layouts/robots.txt
 .idea/**

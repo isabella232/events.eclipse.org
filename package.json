@@ -17,13 +17,18 @@
     "watch": "NODE_ENV=development webpack --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "hot": "NODE_ENV=development webpack-dev-server --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
     "production": "NODE_ENV=production webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "install": "NODE_ENV=production npm run production",
+    "dev_archives": "NODE_ENV=development webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js -- --env.site=eclipsecon",
+    "watch_archives": "NODE_ENV=development webpack --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js -- --env.site=eclipsecon",
+    "hot_archives": "NODE_ENV=development webpack-dev-server --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js -- --env.site=eclipsecon",
+    "production_archives": "npm run production -- --env.site=eclipsecon",
+    "install": "NODE_ENV=production npm run production && npm run production_archives",
     "disallow_robots_txt": "echo \"User-agent: *\r\nDisallow: /\" > layouts/robots.txt",
-    "build_netlify": "NODE_ENV=production npm run disallow_robots_txt && npm run production",
+    "build_netlify": "NODE_ENV=production npm run disallow_robots_txt && npm run production && npm run production_archives",
     "test": "jest"
   },
   "dependencies": {
     "eclipsefdn-hugo-solstice-theme": "0.0.102",
+    "minimist": "^1.2.5",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"

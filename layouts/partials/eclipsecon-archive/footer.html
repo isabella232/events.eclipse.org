@@ -1,0 +1,136 @@
+<!-- 
+  Copyright (c) 2018 Eclipse Foundation, Inc.
+
+  This program and the accompanying materials are made available under the
+  terms of the Eclipse Public License v. 2.0 which is available at
+  http://www.eclipse.org/legal/epl-2.0.
+
+  Contributors:
+    Christopher Guindon <chris.guindon@eclipse-foundation.org>
+
+  SPDX-License-Identifier: EPL-2.0
+-->
+<p id="back-to-top">
+  <a class="visible-xs" href="#top">Back to the top</a>
+</p>
+<footer role="contentinfo" id="solstice-footer">
+  <div class="container">
+    <div class="row">
+      <section id="footer-eclipse-foundation"
+        class="col-xs-offset-1 col-xs-11 col-sm-7 col-md-4 col-md-offset-0 hidden-print">
+        <h2 class="section-title">Eclipse Foundation</h2>
+        <ul class="nav">
+          <li class="link_about first"><a
+            href="https://www.eclipse.org/org/">About Us</a></li>
+          <li class="link_contact"><a
+            href="https://www.eclipse.org/org/foundation/contact.php">Contact
+            Us</a>
+          </li>
+          <li class="link_donate"><a
+            href="https://www.eclipse.org/donate">Donate</a></li>
+          <li class="link_gouvernance"><a
+            href="https://www.eclipse.org/org/documents/">Governance</a></li>
+          <li class="link_logo"><a
+            href="https://www.eclipse.org/artwork/">Logo and Artwork</a></li>
+          <li class="link_board last"><a
+            href="https://www.eclipse.org/org/foundation/directors.php">Board
+            of Directors</a>
+          </li>
+        </ul>
+      </section>
+      <section id="footer-legal"
+        class="col-xs-offset-1 col-xs-11 col-sm-7 col-md-4 col-md-offset-0 hidden-print">
+        <h2 class="section-title">Legal</h2>
+        <ul class="nav">
+          <li class="link_privacy first"><a
+            href="https://www.eclipse.org/legal/privacy.php">Privacy
+            Policy</a>
+          </li>
+          <li class="link_terms"><a
+            href="https://www.eclipse.org/legal/termsofuse.php">Terms
+            of Use</a>
+          </li>
+          <li class="link_copyright"><a
+            href="https://www.eclipse.org/legal/copyright.php">Copyright
+            Agent</a>
+          </li>
+          <li class="link_epl"><a
+            href="https://www.eclipse.org/legal/epl-2.0/">Eclipse
+            Public License</a>
+          </li>
+          <li class="link_legal last"><a
+            href="https://www.eclipse.org/legal/">Legal Resources</a></li>
+        </ul>
+      </section>
+      <section id="footer-useful-links"
+        class="col-xs-offset-1 col-xs-11 col-sm-7 col-md-4 col-md-offset-0 hidden-print">
+        <h2 class="section-title">Useful Links</h2>
+        <ul class="nav">
+          <li class="link_bugs first"><a
+            href="https://bugs.eclipse.org/bugs/">Report a Bug</a></li>
+          <li class="link_help"><a href="https://help.eclipse.org/">Documentation</a></li>
+          <li class="link_contribute"><a
+            href="https://www.eclipse.org/contribute/">How to
+            Contribute</a>
+          </li>
+          <li class="link_mail"><a
+            href="https://www.eclipse.org/mail/">Mailing Lists</a></li>
+          <li class="link_forums"><a
+            href="https://www.eclipse.org/forums/">Forums</a></li>
+          <li class="link_marketplace last"><a
+            href="https://marketplace.eclipse.org/">Marketplace</a></li>
+        </ul>
+      </section>
+      <section id="footer-other"
+        class="col-xs-24 col-md-11 footer-other-working-groups col-md-offset-1 hidden-print">
+        <div
+          class="col-sm-10 col-xs-offset-1 col-md-11 col-md-offset-1 footer-working-group-col"
+          id="footer-working-group-left">
+          <p><img
+            class="logo-eclipse-default img-responsive float-left"
+            src="images/{{ if isset .Page.Params "footer_logo" }}{{.Page.Params.footer_logo}}{{else}}logo.png{{end}}" alt="Home">
+          {{ if isset .Page.Params "additional_logo" }}
+            <a class="osgi-link" href="https://www.osgi.org/2017-osgi-community-event" title="OSGi Community Events">
+              <img class="logo-eclipse-default img-responsive" src="{{ .Page.Params.additional_logo }}" alt="OSGi Community Event">
+            </a>
+          {{ end }}
+          </p>
+          <span>
+            <h2
+              class="section-title sr-only">Other</h2>
+            <ul class="list-inline social-media">
+              <li class="link_twitter first"><a
+                href="https://twitter.com/EclipseFdn"><i
+                class="fa fa-twitter-square"></i></a></li>
+              <li class="link_google"><a
+                href="https://plus.google.com/+Eclipse"><i
+                class="fa fa-google-plus-square"></i></a></li>
+              <li class="link_facebook"><a
+                href="https://www.facebook.com/eclipse.org"><i
+                class="fa fa-facebook-square"></i></a></li>
+              <li class="link_youtube"><a
+                href="https://www.youtube.com/user/EclipseFdn"><i
+                class="fa fa-youtube-square"></i></a></li>
+              <li class="link_linkedin last"><a
+                href="https://www.linkedin.com/company/eclipse-foundation"><i
+                class="fa fa-linkedin-square"></i></a></li>
+            </ul>
+          </span>
+        </div>
+        <div
+          class="col-sm-10 col-xs-offset-1 col-sm-offset-3 col-md-11 col-md-offset-1 footer-working-group-col">
+          <span><a href="https://www.eclipse.org/"
+            title="Eclipse Foundation"><img
+            class="logo-eclipse-default img-responsive"
+            src="images/eclipse-foundation-grey-orange.svg"
+            alt="Eclipse Foundation homepage"></a></span>
+          <p class="padding-top-15">
+            <a href="https://www.eclipsecon.org/">EclipseCon</a> is
+            brought to you by <a href="https://www.eclipse.org/">The
+            Eclipse Foundation</a> with the support of our sponsors.
+          </p>
+        </div>
+      </section>
+    </div>
+  </div>
+</footer>

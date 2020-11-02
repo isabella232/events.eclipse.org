@@ -13,25 +13,12 @@
 
 mix = require('laravel-mix');
 mix.options({uglify: {uglifyOptions: {compress: false, output: {comments: true}}}});
+const { env } = require('minimist')(process.argv.slice(2));
 
-mix.setPublicPath('static');
-mix.setResourceRoot('../');
-
-mix.less('./less/styles.less', 'static/css/styles.css');
-
-mix.scripts([
-    './node_modules/jquery/dist/jquery.min.js',
-    './node_modules/bootstrap/dist/js/bootstrap.min.js',
-    './node_modules/jquery-match-height/dist/jquery.matchHeight-min.js',
-    './node_modules/jquery-eclipsefdn-api/dist/jquery.eclipsefdn-api.min.js',
-    './node_modules/feather-icons/dist/feather.min.js',
-    './node_modules/cookieconsent/src/cookieconsent.js',
-    './node_modules/owl.carousel/dist/owl.carousel.min.js',
-    './node_modules/eclipsefdn-solstice-assets/js/solstice.cookieconsent.js',
-    './node_modules/eclipsefdn-solstice-assets/js/eclipsefdn.videos.js',
-    './node_modules/eclipsefdn-solstice-assets/js/solstice.cookies.js',
-    './node_modules/eclipsefdn-solstice-assets/js/solstice.js',
-    './node_modules/eclipsefdn-solstice-assets/js/solstice.eventsmodal.js'
-], './static/js/solstice.js');
-
-mix.react('js/App.js', 'js');
+// load site-specific config
+if (env && env.site) {
+  require(`${__dirname}/webpack.mix.${env.site}.js`);
+}
+else {
+  require(`${__dirname}/webpack.mix.default.js`);
+}
