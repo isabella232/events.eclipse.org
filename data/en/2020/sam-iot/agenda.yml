@@ -46,7 +46,7 @@ sets:
              We use our approach to assess risks in the robotic system for supporting the movement of loads 
              in a warehouse.</p>
       vod: https://youtu.be/SOJCH-alwjU
-      slides: presentations/S1-Presentation.pdf
+      slides: https://www.slideshare.net/BrainIoT/samiot-risk-assessment-in-iot-case-study-collaborative-robots-system
       
     - name: 'Integrated Solution for Industrial IoT Data Security - the CHARIOT Solution'
       presenter: <a href="speakers/#konstantinos-loupos">Konstantinos Loupos</a>
@@ -187,7 +187,7 @@ sets:
              based on the two critical systems mentioned above, leveraging the application scenarios used to validate the concepts 
              developed and results obtained by the BRAIN-IoT project.</p>
       vod: https://youtu.be/Ktnw69637Yc
-      slides: presentations/M3-Presentation.pdf
+      slides: https://www.slideshare.net/BrainIoT/samiot-model-based-methodology-and-framework-for-design-and-management-of-nextgen-iot-systems
       
   - name: Day 2 -- Friday, September 18
     items:
@@ -203,7 +203,7 @@ sets:
              an end-to-end security layer that is compatible with battery-less devices with high constraints 
              in terms of energy, power computation and bandwidth.</p>
       vod: https://youtu.be/Vdhl1RufRvY
-      slides: presentations/K2-Presentation.pdf
+      slides: https://www.slideshare.net/BrainIoT/samiot-securing-low-power-device-communication-in-critical-infrastructure-management
              
     - name: "Smart Building Energy and Comfort Management Based on Sensor Activity Recognition and Prediction"
       presenter: <a href="speakers/#francesca-marcello">Francesca Marcello</a>
@@ -286,7 +286,7 @@ sets:
              solution developed in an service robotics use case in a warehouse to show how the OSGi-based adaptor enables the fast adaptivity 
              and interoperability between heterogeneous IoT domains in a federated environment.</p>
       vod: https://youtu.be/xN8SEF-Pc0Q
-      slides: presentations/A3-Presentation.pdf
+      slides: https://www.slideshare.net/BrainIoT/samiot-a-crossplatform-communication-mechanism-for-rosbased-cyberphysical-system
       
     - name: 'REPLICA: A Solution for Next Generation IoT and Digital Twin Based Fault Diagnosis and Predictive Maintenance'
       presenter: <a href="speakers/#rosaria-rossini">Rosaria Rossini</a>
