@@ -18,8 +18,9 @@ layout: single
 
 ### The SAM IoT conference is now over! Thank you for your interest and attendance!
 
-The conference proceedings of the talks will be available soon.
-In the meantime, you can enjoy the video recordings and slides of the talks. 
+#### The conference proceedings are available [here](SAM-IoT2020_proceedings.pdf).
+
+#### You can also enjoy the video recordings and slides of the talks. Check the Agenda section.
 
 ---
 
@@ -40,8 +41,8 @@ These innovations are setting the groundwork for the next generation IoT that wi
 [//]: # (Proceedings)
 {{< grid/section-container class="featured-section-row text-center">}}
 	<h2>Proceedings</h2>
-	<p>The conference proceedings of the talks will be available soon.</p>
-    <h3>In the meantime, you can enjoy the video recordings and slides of the talks. Check-out the Agenda section</h3>
+	<h4>The conference proceedings are available <a href="SAM-IoT2020_proceedings.pdf">here</a>.</h4>
+    <h4>You can also enjoy the video recordings and slides of the talks. Check-out the Agenda section</h4>
 	
 {{</ grid/section-container >}}
 
@@ -179,7 +180,9 @@ Susan Iwai, Eclipse Foundation
 {{< grid/section-container class="featured-section-row featured-section-row-dark-bg  text-center">}}
 <h3>The SAM IoT conference is now over! Thank you for your interest and attendance!</h3>
 
-The conference proceedings and the video recordings of the talks will be available soon.
+
+<h4>The conference proceedings are available <a href="SAM-IoT2020_proceedings.pdf">here</a>.</h4>
+<h4>You can also enjoy the video recordings and slides of the talks. Check the Agenda section.</h4>
 
 {{</ grid/section-container >}}
 
