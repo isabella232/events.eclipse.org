@@ -14,7 +14,7 @@
 <html lang="{{ .Lang }}">
 <head>
   {{ block "head" . }}{{ partial "head.html" . }}{{ end }}
-  <link href="/archives/css/eclipsecon-2006.css" rel="stylesheet" type="text/css"/>
+  <link href="/archives/css/{{ .Params.eclipsecon_archive_css }}" rel="stylesheet" type="text/css"/>
   {{ block "head-suffix" . }}{{ partial "head_suffix.html" . }}{{ end }}
 </head>
 <body>
