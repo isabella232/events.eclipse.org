@@ -17,6 +17,7 @@ mix.setResourceRoot('../');
 mix.less('./less/2004/eclipsecon/styles.less', 'static/archives/css/eclipsecon-2004.css');
 mix.less('./less/2005/eclipsecon/styles.less', 'static/archives/css/eclipsecon-2005.css');
 mix.less('./less/2006/eclipsecon/styles.less',  'static/archives/css/eclipsecon-2006.css');
+mix.less('./less/2007/eclipsecon/styles.less',  'static/archives/css/eclipsecon-2007.css');
 mix.less('./less/2015/france/styles.less', 'static/archives/css/eclipsecon-france-2015.css');
 
 /*
