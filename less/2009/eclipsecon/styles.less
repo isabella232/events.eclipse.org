@@ -1,0 +1,569 @@
+/* Styles for EclipseCon 2009 ---------------------------------- */
+
+
+/* =============================================================
+ *      Generic Eclipse Foundation conference styles
+ * ============================================================= */
+
+img { border:0px }
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  font: 12px/14px Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+#middlecontent h1 {
+  font: 20px/24px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  color: #333333;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 0;
+  border-bottom: 2px solid gray;
+  width: 100%;
+}
+#middlecontent h2 {
+  border-bottom: 1px dotted gray;
+  font: 14px/16px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  font-weight: bold;
+  margin: 12px 0px 4px 0px;
+}
+#middlecontent h3 {
+  font: 11px/13px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  font-weight: bold;
+  margin: 0px 0px 0px 0px;
+}
+a:link {color: #336699; text-decoration:none; font-weight: bold;}
+a:visited {color: #336699; text-decoration:none; font-weight: bold;}
+a:hover {color: #330066; text-decoration:underline; font-weight: bold; }
+a:active {color: #336699; text-decoration:none; font-weight: bold;}
+.sup { 
+  vertical-align: super;
+    font-size: 7pt
+}
+.error{
+  border: thin solid red;
+  padding: 4px;
+}
+
+
+
+/* Layout -------------------------------------------------- */
+#container {
+  width: 100%;
+  margin: 0;
+  background: #fff;
+  text-align: left;
+}
+
+#header, #nav{
+  clear: both;
+}
+
+/* Header -------------------------------------------------- */
+#header {
+  position: relative;
+  width: 100%px;
+  height: 95px;
+  color: #8a0917;
+  padding: 0px;
+  margin: 0px;
+  background-image:  url("images/eclipsecon08_header-bg.jpg");
+}
+
+
+
+#logo a {
+  display: block;
+  width: 325px;
+  height: 95px;
+  text-indent: -9999px;
+  background-image: url("images/eclipsecon09_logo.jpg");
+  background-repeat:no-repeat;
+  border: 0;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#locationdates  {
+  display: block;
+  width: 240px;
+  height: 95px;
+  text-indent: -9999px;
+  background: url("images/eclipsecon09_dates.jpg");
+  background-repeat:no-repeat;
+  border: 0;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+
+
+/* Top Navigation -------------------------------------------------- */
+#nav ul {
+  list-style: none;
+  width: 100%; 
+  height: 25px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 70px;
+  right: 0px;
+
+  }
+
+#nav li {
+  margin: 0; 
+  padding: 0;
+  float:right;
+  _display:inline;
+  list-style-type: none;
+}
+
+
+#nav li a:hover,
+#nav li.current a {
+  color: #330066;
+}
+
+
+
+
+
+
+/* -------------------------------------------------------------
+* Left menu styles
+*/
+ 
+#menuleft {
+    width: 150px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    background:  url("images/left_nav_bg.jpg") no-repeat;
+    text-align: center;
+}
+
+.navcontainer ul {
+  margin: 0;
+  padding: 0;
+  padding-left: 3px;
+  list-style-type: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.program_navcontainer ul {
+  margin: 0;
+  padding: 0;
+  padding-left: 3px;
+  list-style-type: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+.navcontainer li { 
+  padding: 0 0 0px 0; 
+  width: 144px;}
+  
+.program_navcontainer li { 
+  padding: 0 0 0px 0; 
+  width: 144px;
+  } 
+
+.navcontainer a:link, .navlist a:visited {
+  color: #3D3B53;
+  text-decoration: none;
+}
+
+
+
+.program_navcontainer a:link, #program_navlist a:visited, #program_navlist a:hover, #program_navlist a:active {
+  color: #3D3B53;
+  text-decoration: none;
+}
+
+
+#active a:link, #active a:visited, #active a:hover {
+  border: 1px solid #999;
+  background-color: #A2C4DF;
+  color: #3D3B53;
+}   
+
+
+
+
+/* -------------------------------------------------------------
+ * Middle content layout and styles
+ */
+
+
+
+#middlecontent {
+  font: 12px/16px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #333333;
+  text-align: left;
+  float: left;  
+  margin-left: 20px;
+  padding-right: 20px;
+  width: 560px; 
+  margin-top: 5px;
+}
+
+
+
+
+
+/* -------------------------------------------------------------
+ * List of presentations styles
+ */
+#middlecontent .list_title h1 {
+  border-bottom: 1px dotted gray;
+  font: 14px/18px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  font-weight: bold;
+  margin: 0em 0px .2em 0px;
+  color: #333333;
+  font-weight: bold;
+}
+#middlecontent .list_title h2 {
+  border-bottom: none;
+  font-weight: normal;
+  margin: 2px 0px 2px 0px;
+  font: 12px/14px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+}
+#middlecontent .list_title h3 {
+  border-bottom: none;
+  margin: 2px 0px 2px 0px;
+  font-weight: normal;
+  font: 12px/14px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+}
+.list_title h1 a:link {font-weight: bold;}
+.list_title h1 a:visited {font-weight: bold;}
+.list_title h1 a:hover {font-weight: bold;}
+.list_title h1 a:active {font-weight: bold;}
+.list_title a:link {color: #336699; text-decoration:none; font-weight: normal;}
+.list_title a:visited {color: #336699; text-decoration:none; font-weight: normal;}
+.list_title a:hover {color: #3366CC; text-decoration:underline; font-weight: normal; }
+.list_title a:active {color: #336699; text-decoration:none; font-weight: normal;}
+
+
+
+
+/* -------------------------------------------------------------
+ * Presentation detail styles
+ */
+#middlecontent .item_title h1 {
+  border-bottom: 1px dotted gray;
+  font: 18px/24px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  font-weight: bold;
+  margin: 12px 0px 4px 0px;
+  color: #333333;
+  font-weight: bold;
+}
+#middlecontent .item_title h2 {
+  color: #333333;
+  border-bottom: none;
+  font-weight: normal;
+  margin: 0px 0px 0px 0px;
+  font: 12px/14px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+}
+#middlecontent .item_title h3 {
+  border-bottom: none;
+  margin: 0px 0px 0px 0px;
+  font-weight: normal;
+  font: 11px/13px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+}
+.item_title a:link {color: #336699; text-decoration:none; font-weight: normal;}
+.item_title a:visited {color: #336699; text-decoration:none; font-weight: normal;}
+.item_title a:hover {color: #3366CC; text-decoration:underline; font-weight: normal; }
+.item_title a:active {color: #336699; text-decoration:none; font-weight: normal;}
+.abstract {
+  margin-top: 8px;
+}
+#bio {
+  font: 12px/16px Georgia, Palitino, Times, serif;
+  color: #777777;
+  font-style: italic;
+  letter-spacing: 0.3px;
+}
+.subauth {
+  float: right;
+  padding: 4px 4px 4px 4px;
+  margin: 6px 2px 8px 16px;
+}
+.subauth p {
+  text-align: center;
+  font-size: 80%;
+  margin: 0px 0px 4px 0px;
+}
+.subauth img {
+  padding: 1px 1px 1px 1px;
+  border: solid thin;
+}
+
+
+
+/* -------------------------------------------------------------
+ * Day/type chooser styles for schedule, detail, and list pages
+ */
+.bar  {
+  background-color: #cccccc;
+  width: 100%;
+  margin: 0px;
+  align: right;
+  text-align: center;
+  overflow: hidden; 
+  font: 10px/12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #333333;
+}
+.bar a {
+  display: block;
+  background-color: #fff;
+  border: 1px solid #999;
+    text-decoration: none;
+} 
+.bar a:hover {
+  display: block;
+    text-decoration: none;
+  border: 1px solid #999;
+  background-color: #D9E6F0;
+  color: #3D3B53;
+}
+#rightspace, #rightspace li{
+  display: block;
+  background-color: #efefef;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+  border: 1px solid #999;
+} 
+#active a:link, #active a:visited, #active a:hover {
+  border: 1px solid #999;
+  background-color: #A2C4DF;
+  color: #3D3B53;
+}  
+
+
+
+/* -------------------------------------------------------------
+ * Tablized schedule styles
+ */
+#middlecontenttable {
+  font: 12px/16px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #333333;
+  text-align: left;
+    position:absolute;
+  left:178px;
+  top:100px;
+  background-color: #fff;
+}
+#middlecontenttable h1 {
+  font: 18px/24px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  color: #333333;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 0;
+  border-bottom: 2px solid gray;
+  width: 100%;
+}
+#schedule {
+  font: normal 11px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #4f6b72;
+  background: #E6EAE9;
+  padding: 0;
+  margin-top: 10px;
+  border: 1px solid #C1DAD7;
+}
+#schedule a {
+  color: #336699;
+}
+#schedule th {
+  font: bold 11px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #4f6b72;
+  letter-spacing: 1px;
+  border-right: 1px solid #C1DAD7;
+  border-bottom: 1px solid #C1DAD7;
+  border-top: 1px solid #C1DAD7;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 3px 5px 3px 5px;
+  width: 100px;
+}
+#schedule th.room {
+  background: #fff;
+}
+#schedule th.roomalt {
+  background: #F5FAFA;
+}
+#schedule td.orange, #schedule td.orange a {
+  background-color: #F2DBB9;
+  color: #163F69;
+}
+#schedule td.purple, #schedule td.purple a {
+  background-color: #E3C8E7;
+  color: #163F69;
+}
+#schedule td.blue, #schedule td.blue a {
+  background-color: #B6F2DF;
+  color: #163F69;
+}
+#schedule td.red, #schedule td.red a {
+  background-color: #F1BFB8;
+  color: #163F69;
+}
+#schedule td.green, #schedule td.green a {
+  background-color: #C8F1B9;
+  color: #163F69;
+}
+#schedule td.gray, #schedule td.gray a {
+  background-color: #DDDDDD;
+  color: #163F69;
+}
+#schedule td.yellow, #schedule td.yellow a {
+  background-color: #FFFFCC;
+  color: #163F69;
+}
+#schedule td.purple, #schedule td.purple a {
+  background-color: #E3C8E7;
+  color: #163F69;
+}
+#schedule td.darkblue, #schedule td.darkblue a {
+  background-color: #A7D2FE;
+  color: #163F69;
+}
+#schedule td.lightorange, #schedule td.lightorange a {
+  background-color: #FEC28D;
+  color: #163F69;
+}
+#schedule td.pink, #schedule td.pink a {
+  background-color: #FFCCFF;
+  color: #163F69;
+}
+#schedule td.redwine, #schedule td.redwine a {
+  background-color: #DBB7B7;
+  color: #163F69;
+}
+#schedule td.brown, #schedule td.brown a {
+  background-color: #E0CCBA;
+  color: #163F69;
+}
+#schedule td.darkgreen, #schedule td.darkgreen a {
+  background-color: #AAD09F;
+  color: #163F69;
+}
+#schedule td.yellowgreen, #schedule td.yellowgreen a {
+  background-color: #CCFF66;
+  color: #163F69;
+}
+#schedule td.redred, #schedule td.redred a {
+  background-color: #FF6666;
+  color: #163F69;
+}
+
+#schedule td {
+  border-right: 1px solid #C1DAD7;
+  border-bottom: 1px solid #C1DAD7;
+  background: #fff;
+  padding:  3px 5px 3px 5px;
+  color: #6D929B;
+}
+#schedule td.alt {
+  background: #F5FAFA;
+  color: #B4AA9D;
+}
+
+
+
+
+
+
+
+
+/* -------------------------------------------------------------
+ * Right sponsor container styles
+ */
+#sponsorcontainer {
+  border-left: 1px solid #999;
+  border-right: 1px solid #999;
+  border-bottom: 1px solid #999;
+  padding: 0;
+  color: #333333;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px/14px;
+  text-align: center;
+  width: 160px;
+  background-color: #fff;
+  overflow: hidden; 
+  margin-top: 20px;
+  margin-left: 15px;
+  text-align: center;
+}
+
+#sponsorcontainer h1 {
+  display: block;
+  margin: 0px;
+  padding: 2px 2px 2px 2px;
+  color: #333333;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  text-align: center;
+  width: 100%;
+  background-color: #DFDEDB;
+}
+
+
+
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+  clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+img.hotels{
+  float: right;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+
+/**  STYLE OF THE SCHEDULE CELLS ACCORDING TO THE TYPE OF SUBMISSION**/
+
+#schedule td.shorttalk {
+  font: 10px/12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+#schedule td.long-onehour {
+
+}
+#schedule td.longtalk {
+
+}
+
+
+#schedule td.long-goldsponsor,
+#schedule td.tutorial-2hourssponsored,
+#schedule td.tutorial-1hoursponsored,
+
+
+
+
+#schedule td.tutorialbreakfast,
+#schedule td.breakfast,
+
+
+.social-media {
+  text-align:left;
+}
+.social-media li {
+  font-size:30px;
+}
+
+footer#solstice-footer {
+  margin-top:20px;
+  border-top: 1px solid #ccc;
+}
