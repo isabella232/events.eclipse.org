@@ -18,7 +18,7 @@ layout: single
 
 ### The SAM IoT conference is now over! Thank you for your interest and attendance!
 
-#### The conference proceedings are available [here](SAM-IoT2020_proceedings.pdf).
+#### The conference proceedings are available on [the CEUR portal](http://ceur-ws.org/Vol-2739).
 
 #### You can also enjoy the video recordings and slides of the talks. Check the Agenda section.
 
@@ -41,7 +41,7 @@ These innovations are setting the groundwork for the next generation IoT that wi
 [//]: # (Proceedings)
 {{< grid/section-container class="featured-section-row text-center">}}
 	<h2>Proceedings</h2>
-	<h4>The conference proceedings are available <a href="SAM-IoT2020_proceedings.pdf">here</a>.</h4>
+	<h4>The conference proceedings are available on <a href="http://ceur-ws.org/Vol-2739">the CEUR portal</a>.</h4>
     <h4>You can also enjoy the video recordings and slides of the talks. Check-out the Agenda section</h4>
 	
 {{</ grid/section-container >}}
@@ -181,7 +181,7 @@ Susan Iwai, Eclipse Foundation
 <h3>The SAM IoT conference is now over! Thank you for your interest and attendance!</h3>
 
 
-<h4>The conference proceedings are available <a href="SAM-IoT2020_proceedings.pdf">here</a>.</h4>
+<h4>The conference proceedings are available on <a href="http://ceur-ws.org/Vol-2739">the CEUR portal</a>.</h4>
 <h4>You can also enjoy the video recordings and slides of the talks. Check the Agenda section.</h4>
 
 {{</ grid/section-container >}}
@@ -189,7 +189,7 @@ Susan Iwai, Eclipse Foundation
 [//]: # (Contact) 
 {{< grid/section-container id="contact" class="featured-section-row featured-section-row-lighter-bg text-center" isMarkdown="true">}}
 ## Contact Us 
-
+ 
 If you have questions about the conference or the [Call for Papers](call-for-papers), please contact [research@eclipse.org](mailto:research@eclipse.org).
 
 {{</ grid/section-container >}}
