@@ -14,7 +14,11 @@
 <html lang="{{ .Lang }}">
 <head>
   {{ block "head" . }}{{ partial "head.html" . }}{{ end }}
-  <link href="/archives/css/{{ .Params.eclipsecon_archive_css }}" rel="stylesheet" type="text/css"/>
+  {{ if .Params.eclipsecon_archive_css }}
+    <link href="/archives/css/{{ .Params.eclipsecon_archive_css }}" rel="stylesheet" type="text/css"/>
+  {{ else }}
+    <link href="styles.css" rel="stylesheet" type="text/css"/>
+  {{ end }}
   {{ block "head-suffix" . }}{{ partial "head_suffix.html" . }}{{ end }}
 </head>
 <body>

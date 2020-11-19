@@ -14,11 +14,10 @@
 mix.setPublicPath('static/archives');
 mix.setResourceRoot('../');
 
-mix.less('./less/2004/eclipsecon/styles.less', 'static/archives/css/eclipsecon-2004.css');
 mix.less('./less/2005/eclipsecon/styles.less', 'static/archives/css/eclipsecon-2005.css');
 mix.less('./less/2006/eclipsecon/styles.less',  'static/archives/css/eclipsecon-2006.css');
 mix.less('./less/2007/eclipsecon/styles.less',  'static/archives/css/eclipsecon-2007.css');
-mix.less('./less/2008/eclipsecon/styles.less',  'static/archives/css/eclipsecon-2008.css');
+//mix.less('./less/2008/eclipsecon/styles.less',  'static/archives/css/eclipsecon-2008.css');
 mix.less('./less/2009/eclipsecon/styles.less',  'static/archives/css/eclipsecon-2009.css');
 mix.less('./less/2011/eclipsecon/styles.less',  'static/archives/css/eclipsecon-2011.css');
 mix.less('./less/2011/europe/styles.less',  'static/archives/css/europe-2011.css');
