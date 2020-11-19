@@ -1,0 +1,535 @@
+/*styles for eclipsecon 2006*/
+
+/*general*/
+
+img {border:0px}
+
+body {
+  margin: 0px 0px 0px 0px;
+  background-color: #ffffff;
+  font: 10px/12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+/*added superscript style to fix current problems in IE on PC*/
+.sup { 
+  vertical-align: super;
+  font-size: 7pt
+}
+
+.leftmenu {
+  width: 160px; 
+  float: left; 
+  padding-left:8px;
+  padding-top: 10px;
+  background-color: #fff;
+}
+
+#navcontainer ul
+{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+#navcontainer li { padding: 0 0 2px 0; 
+width: 150;}
+
+#navcontainer a
+{
+display: block;
+padding: 2px 15px 2px 15px;
+border: 1px solid #999;
+background-color: #fff;
+}
+
+
+#navcontainer a:link, #navlist a:visited
+{
+color: #3D3B53;
+text-decoration: none;
+}
+
+#navcontainer a:hover
+{
+border: 1px solid #999;
+background-color: #D9E6F0;
+color: #3D3B53;
+}
+
+#program_navcontainer ul
+{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+#program_navcontainer li { padding: 0 0 2px 0; 
+width: 150;}
+
+#program_navcontainer a
+{
+display: block;
+padding: 2px 15px 2px 15px;
+border: 1px solid #999;
+background-color: #DCDBEB; /*replacing darker   E4D9F0 */
+}
+
+
+#program_navcontainer a:link, #program_navlist a:visited
+{
+color: #3D3B53;
+text-decoration: none;
+}
+
+#program_navcontainer a:hover
+{
+border: 1px solid #999;
+background-color: #D9E6F0;
+color: #3D3B53;
+}
+
+#program_active a:link, #program_active a:visited, #program_active a:hover
+{
+border: 1px solid #999;
+background-color: #A2C4DF; /* was BCA1DD */
+color: #3D3B53;
+}   
+  
+#active a:link, #active a:visited, #active a:hover
+{
+border: 1px solid #999;
+background-color: #A2C4DF;
+color: #3D3B53;
+}   
+
+#sponsorcontainer
+{
+	
+border-left: 1px solid #999;
+border-right: 1px solid #999;
+border-bottom: 1px solid #999;
+padding: 0;
+color: #333333;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px/14px;
+text-align: center;
+width: 160px;
+background-color: #fff;
+overflow: hidden; 
+}
+
+#sponsorcontainer h1
+{
+display: block;
+margin: 0px;
+padding: 2px 2px 2px 2px;
+color: #333333;
+border-top: 1px solid #999;
+border-bottom: 1px solid #999;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px;
+text-align: center;
+width: 100%;
+background-color: #DFDEDB;
+}
+
+.artwork
+{
+border: 1px solid #999;
+  border-color: #999;
+  border-width:1px;
+padding: 0px;
+}
+
+
+.headline
+{
+ font: 18px/22px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+color: #333333;
+font-weight: bold;
+text-align: left;
+margin-left: 0;
+border-bottom: 2px solid gray;
+width: 100%;
+}
+
+.abstract {
+  margin-top: 8px;
+}
+   
+.bodycopy {
+  font: 12px/16px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #333333;
+  text-align: left;
+  float: left;  
+  margin-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 430px; 
+  background-color: #fff;
+}
+
+.bodycopy .list_title h1 {
+  border-bottom: 1px dotted gray;
+  font: 14px/18px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  font-weight: bold;
+  margin: 0em 0px .2em 0px;
+  color: #333333;
+  font-weight: bold;
+}
+.bodycopy .list_title h2 {
+  border-bottom: none;
+  font-weight: normal;
+  margin: 2px 0px 2px 0px;
+  font: 12px/14px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+}
+.bodycopy .list_title h3 {
+  border-bottom: none;
+  margin: 2px 0px 2px 0px;
+  font-weight: normal;
+  font: 12px/14px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+}
+.list_title h1 a:link {font-weight: bold;}
+.list_title h1 a:visited {font-weight: bold;}
+.list_title h1 a:hover {font-weight: bold;}
+.list_title h1 a:active {font-weight: bold;}
+
+.list_title a:link {color: #336699; text-decoration:none; font-weight: normal;}
+.list_title a:visited {color: #336699; text-decoration:none; font-weight: normal;}
+.list_title a:hover {color: #3366CC; text-decoration:underline; font-weight: normal; }
+.list_title a:active {color: #336699; text-decoration:none; font-weight: normal;}
+
+a:link {color: #336699; text-decoration:none; font-weight: bold;}
+a:visited {color: #336699; text-decoration:none; font-weight: bold;}
+a:hover {color: #3366CC; text-decoration:underline; font-weight: bold; }
+a:active {color: #336699; text-decoration:none; font-weight: bold;}
+
+.bodycopy .item_title h1 {
+  border-bottom: 1px dotted gray;
+  font: 18px/24px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  font-weight: bold;
+  margin: 12px 0px 4px 0px;
+  color: #333333;
+  font-weight: bold;
+}
+.bodycopy .item_title h2 {
+  border-bottom: none;
+  font-weight: normal;
+  margin: 0px 0px 0px 0px;
+  font: 12px/14px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+}
+.bodycopy .item_title h3 {
+  border-bottom: none;
+  margin: 0px 0px 0px 0px;
+  font-weight: normal;
+  font: 11px/13px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+}
+.item_title a:link {color: #336699; text-decoration:none; font-weight: normal;}
+.item_title a:visited {color: #336699; text-decoration:none; font-weight: normal;}
+.item_title a:hover {color: #3366CC; text-decoration:underline; font-weight: normal; }
+.item_title a:active {color: #336699; text-decoration:none; font-weight: normal;}
+
+
+
+
+.bodycopy h1 {
+  font: 18px/24px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  color: #333333;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 0;
+  border-bottom: 2px solid gray;
+  width: 100%;
+}
+.bodycopy h2 {
+  border-bottom: 1px dotted gray;
+  font: 13px/16px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  font-weight: bold;
+  margin: 12px 0px 4px 0px;
+}
+.bodycopy h3 {
+  font: 11px/13px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  font-weight: bold;
+  margin: 0px 0px 0px 0px;
+}
+
+.authorlist img icon {
+  float: left;
+  border: 0;
+  padding: 1px 1px 1px 1px;
+}
+
+#bio{
+  font: 12px/16px Georgia, Palitino, Times, serif;
+  color: #777777;
+  font-style: italic;
+  letter-spacing: 0.3px;
+}
+   
+.cellheading
+{
+font: 12px/14px Verdana, Geneva, Arial, Helvetica, sans-serif;
+color: #333333;
+font-weight: bold;
+text-align: center;
+}
+
+.cellcopy
+{
+font: 12px/14px Verdana, Geneva, Arial, Helvetica, sans-serif;
+color: #333333;
+font-weight: normal;
+text-align: center;
+}
+
+.subauth {
+  float: right;
+  padding: 4px 4px 4px 4px;
+  margin: 6px 2px 8px 16px;
+}
+.subauth p {
+  text-align: center;
+  font-size: 80%;
+  margin: 0px 0px 4px 0px;
+}
+.subauth img {
+  padding: 1px 1px 1px 1px;
+  border: solid thin;
+}
+
+
+/* the menu 2 is used for the program sub-do pages*/
+#menu2 ul {
+    margin: 0;
+  padding: 0;
+  list-style-type: none;
+  font-weight: bold;  
+}
+#menu2 li {
+     display: block; 
+     text-align: center;
+     float: left;  
+     font:  10px/12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+ }
+
+#activecat, #activecat li{
+  display: block;
+  background-color: #A2C4DF;
+  text-align: center;
+  text-decoration: none;
+  font: 10px/12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #3D3B53;
+}   
+   
+#menu2 a {
+  display: block;
+  padding: 2px 5px 2px 5px;
+  border: 1px solid #999;
+  background-color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+  
+#menu2 a:hover {
+  display: block;
+  border: 1px solid #999;
+  background-color: #D9E6F0;
+  color: #3D3B53;
+}
+
+
+/* the bar style is used for the top day menu*/
+
+.bar  {
+  background-color: #cccccc;
+  width: 100%;
+  margin: 0px;
+
+  align: right;
+  text-align: center;
+  overflow: hidden; 
+  font: 10px/12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #333333;
+} 
+ 
+.bar a {
+  display: block;
+  background-color: #fff;
+  border: 1px solid #999;
+    text-decoration: none;
+}
+  
+.bar a:hover {
+  display: block;
+    text-decoration: none;
+  border: 1px solid #999;
+  background-color: #D9E6F0;
+  color: #3D3B53;
+}
+
+ 
+#rightspace, #rightspace li{
+  display: block;
+  background-color: #efefef;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+  border: 1px solid #999;
+} 
+#active a:link, #active a:visited, #active a:hover
+{
+border: 1px solid #999;
+background-color: #A2C4DF;
+color: #3D3B53;
+}  
+
+/*for eclipsecon horizontal layout of schedule*/
+
+
+.schedulecontainer {
+  color: #333333;
+  text-align: left;
+  position:absolute;
+  left:180px;
+  top:171px;
+  margin-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;  
+  background-color: #fff;
+
+}
+
+
+#schedule {
+  font: normal 11px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #4f6b72;
+  background: #E6EAE9;
+  padding: 0;
+  margin-top: 10px;
+  border: 1px solid #C1DAD7;
+
+}
+
+#schedule a {
+  color: #336699;
+}
+
+
+
+#schedule th {
+  font: bold 11px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #4f6b72;
+letter-spacing: 1px;
+  border-right: 1px solid #C1DAD7;
+  border-bottom: 1px solid #C1DAD7;
+  border-top: 1px solid #C1DAD7;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 3px 5px 3px 5px;
+  width: 100px;
+}
+
+#schedule th.room {
+  background: #fff;
+
+}
+
+#schedule th.roomalt {
+  background: #F5FAFA;
+
+}
+
+#schedule td.orange, #schedule td.orange a {
+  background-color: #F2DBB9;
+  color: #163F69;
+}
+
+
+#schedule td.purple, #schedule td.purple a {
+  background-color: #E3C8E7;
+  color: #163F69;
+}
+
+#schedule td.blue, #schedule td.blue a {
+  background-color: #B6F2DF;
+  color: #163F69;
+}
+
+
+#schedule td.red, #schedule td.red a {
+  background-color: #F1BFB8;
+  color: #163F69;
+}
+
+#schedule td.green, #schedule td.green a {
+  background-color: #C8F1B9;
+  color: #163F69;
+}
+
+#schedule td.orange, #schedule td.orange a {
+  background-color: #F2DBB9;
+  color: #163F69;
+}
+
+
+#schedule td.purple, #schedule td.purple a {
+  background-color: #E3C8E7;
+  color: #163F69;
+}
+
+#schedule td#shorttalk {
+  font: 10px/12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+
+
+#schedule td {
+  border-right: 1px solid #C1DAD7;
+  border-bottom: 1px solid #C1DAD7;
+  background: #fff;
+  padding:  3px 5px 3px 5px;
+  color: #6D929B;
+}
+
+
+#schedule td.alt {
+  background: #F5FAFA;
+  color: #B4AA9D;
+}
+
+
+.bodycopytable {
+  font: 12px/16px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: #333333;
+  text-align: left;
+    position:absolute;
+  left:178px;
+  top:85px;
+  background-color: #fff;
+}
+.bodycopytable h1 {
+  font: 18px/24px Verdana, Geneva, Arial, Helvetica, sans-serif;  
+  color: #333333;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 0;
+  border-bottom: 2px solid gray;
+  width: 100%;
+}
+
+.social-media li {
+  font-size:30px;
+}
+
+.social-media {
+  text-align:left;
+  clear:both;
+}
