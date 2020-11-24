@@ -1,8 +1,9 @@
 ---
 title: "Eclipse Volttron"
-redirect_url: "https://pnnl.cvent.com/events/volttron-users-meeting/event-summary-e0c04080a09448a696c1c50833cc08c4.aspx"
+date: 2018-08-21T08:00:00-04:00
+redirect_url: "https://volttron.org/events/eclipse-volttron-days"
 aliases:
     - /volttrondays/
 ---
 
-Eclipse Volttron was moved. Please follow [this link](https://pnnl.cvent.com/events/volttron-users-meeting/event-summary-e0c04080a09448a696c1c50833cc08c4.aspx).
+Eclipse Volttron was moved. Please follow [this link](https://volttron.org/events/eclipse-volttron-days).

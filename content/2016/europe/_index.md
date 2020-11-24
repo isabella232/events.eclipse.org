@@ -5,6 +5,7 @@ description: "Conference for the Eclipse Ecosystem | October 25 - 27, 2016 | LUD
 summary: "EclipseCon Europe 2016 was a great success - more technical sessions, more open source projects, more BOFs, more parties, and just plain more."
 page_favicon: "2016/europe/favicon.ico"
 additional_logo: "images/osgi-logo.png"
+additional_logo_year: 2016
 type: "eclipsecon"
 layout: "section"
 ---
