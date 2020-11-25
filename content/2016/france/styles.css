@@ -9966,7 +9966,7 @@ html {
   }
   
   .footer-other-working-groups .img-responsive {
-    max-width: 175px
+    max-width: 100%;
   }
   
   .footer-other-working-groups .footer-working-group-col {
