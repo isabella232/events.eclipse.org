@@ -43,6 +43,19 @@ These innovations are setting the groundwork for the next generation IoT that wi
 	<h2>Proceedings</h2>
 	<h4>The conference proceedings are available on <a href="http://ceur-ws.org/Vol-2739">the CEUR portal</a>.</h4>
     <h4>You can also enjoy the video recordings and slides of the talks. Check-out the Agenda section</h4>
+    <hr/>
+    <h3>Indexed by:</h3>
+{{< grid/div class="row" isMarkdown="false">}}
+
+{{< grid/div class="col-md-12 padding-bottom-20" isMarkdown="true">}}
+  [![Scopus](images/scopus_logo.png)](https://www.scopus.com/)
+{{</ grid/div >}}
+ 
+{{< grid/div class="col-md-12 padding-bottom-20" isMarkdown="true">}}
+  [![Google Scholar](images/GScholar_logo.png)](https://scholar.google.com/)
+{{</ grid/div >}}
+
+{{</ grid/div >}}
 	
 {{</ grid/section-container >}}
 
