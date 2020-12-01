@@ -38,6 +38,8 @@ sets:
                   <li>Paul-Emmanuel Brun, Airbus Defence & Space</li>
                   <li>Guillemette Massot, Airbus Defence & Space</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_1.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> Security is one of the crucial challenges in the design and development of IoT applications. 
              This paper presents an approach that focuses on existing security standards to evaluate and 
              analyse the potential risks faced by IoT systems. It begins by identifying system assets and 
@@ -71,6 +73,8 @@ sets:
                   <li>Basile Starynkevitch, CEA</li>
                   <li>Franck Vedrine, CEA</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_2.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> The CHARIOT H2020 (IoT) project (Cognitive Heterogeneous Architecture for Industrial IoT), 
              integrates a state-of-the-art inclusive solution for the security, safety and privacy 
              assurance of data in industrial networks. The solution is based on an integrated approach 
@@ -95,6 +99,8 @@ sets:
                   <li>Simone Seminara, Istituto Italiano per la Privacy e la Valorizzazione dei Dati</li>
                   <li>Francesco Capparelli, Istituto Italiano per la Privacy e la Valorizzazione dei Dati</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_3.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> Norms and standards define the ecosystem in which IoT solutions are developed and deployed. 
              It is often difficult for people without a legal training or an understanding of standardization 
              dynamics to fully grasp the state of the art in this very relevant field. This contribution aims 
@@ -112,6 +118,8 @@ sets:
                   <li>João Pedro Correia dos Reis, University of Porto</li>
                   <li>Gil Goncalves, University of Porto</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_9.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> The nowadays industrial digital revolution demands for software driven solutions where 
              reconfiguration is one of the key enablers to achieve smart manufacturing by easy deployment and code 
              reuse. Despite existing several tools and platforms that allow for software reconfiguration at the digital 
@@ -139,6 +147,8 @@ sets:
                   <li>Kevin Olotu, Bosch IO</li>
                   <li>Johannes Kristan, Bosch IO</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_10.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> The design and development of interconnected industrial production facilities, which integrate aspects 
              of theInternet of Things (IoT) or, more specifically, the IndustrialIoT (IIoT) often deals with complex scenarios 
              involving dynamicSystem of Systems (SoS), resulting in large development anddeployment efforts. The Arrowhead 
@@ -173,6 +183,8 @@ sets:
                   <li>Abdelhakim Baouya, University of Grenoble-Alpes
                   <li>Salim Chehida, University of Grenoble-Alpes</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_11.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> Internet of Things (IoT) is a pervasive technology covering many applications areas (Smart Mobility, 
              Smart Industry, Smart Healthcare, Smart Building, etc.). Its success and the technology evolution allow targeting 
              more complex and critical applications such as the management of critical infrastructures and cooperative service 
@@ -215,6 +227,8 @@ sets:
                   <li>Francesca Marcello, University of Cagliari</li>
                   <li>Virginia Pilloni, University of Cagliari</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_5.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> Thanks to Building Energy and Comfort Managements (BECM) systems, it is possible monitor and control 
              buildings with the aim to ease appliance management and at the same time ensuring efficient use of them from the 
              energetic point of view. To develop such kind of systems, it is necessary to monitor users' habits, learning their 
@@ -242,6 +256,8 @@ sets:
                   <li>João Pedro Correia dos Reis, University of Porto</li>
                   <li>Gil Goncalves, University of Porto</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_6.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> The current market is dynamic and, consequently, industries need to be able to meet unpredictable market 
              changes in order to remain competitive. To address the change in paradigm, from mass production to mass customization, 
              manufacturing flexibility is key. Moreover, current digitalization of the industry opens opportunities regarding 
@@ -270,6 +286,8 @@ sets:
                   <li>Davide Conzon, LINKS Foundation</li>
                   <li>Enrico Ferrera, LINKS Foundation</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_7.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> Recently, one of the main research topics in the context of application of Cyber-Physical System (CPS) in the Smart 
              City and Industry 4.0 scenarios is the one related to the use of Robot Operating System (ROS)-based CPS. Specifically, one 
              of the main interest is to allow a ROS-based smart robot needs to communicate with other heterogeneous Internet of Things (IoT) 
@@ -302,6 +320,8 @@ sets:
                   <li>João Pedro Correia dos Reis, University of Porto</li>
                   <li>Gil Goncalves, University of Porto</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_8.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> Nowadays competitiveness goes through several aspects: digitalization, productivity, environmental impact. Technology is 
              advancing fast and helping industries to obtain more and more detailed data. In fact, the possibility to monitoring and control 
              each part of the process is a strong base on which can be build a more intelligent and focused control. Technology advance brings 
@@ -325,6 +345,8 @@ sets:
                   <li>Martin Sarnovsky, Technical University of Kosice</li>
                   <li>Pavol Halas, Technical University of Kosice</li>
              </ul>
+             <strong>Paper:</strong> <a target="_blank" href="http://ceur-ws.org/Vol-2739/paper_4.pdf">CEUR link</a>
+             
              <strong>Abstract:</strong> The presented paper describes the design and validation of the hierarchical intrusion detection system (IDS), which combines 
              machine learning approach with the knowledge-based methods. As the knowledge model, we have proposed the ontology of network attacks, 
              which allow to us decompose detection and classification of the existing types of attacks or formalize detection rules for the new types. 
