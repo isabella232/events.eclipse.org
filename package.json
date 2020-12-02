@@ -23,7 +23,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "eclipsefdn-hugo-solstice-theme": "0.0.106",
+    "eclipsefdn-hugo-solstice-theme": "0.0.107",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
